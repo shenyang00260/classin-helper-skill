@@ -83,7 +83,7 @@ section: "ClassIn"
 点击 创建并进入班级
 
 
-![](https://cofile.eeo.cn/res-store%2F5c9bffa04ced4bcc86cceb6db05e26823984f29441b1d620281e0ad6d51ee4c2_92656?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1773936000;1774540800&q-key-time=1773936000;1774540800&q-header-list=host&q-url-param-list=&q-signature=8b3669d5f66eef9e0d705cfe095cd7bf6d251ce6)
+![](https://cofile.eeo.cn/res-store%2F5c9bffa04ced4bcc86cceb6db05e26823984f29441b1d620281e0ad6d51ee4c2_92656?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1776009600;1776614400&q-key-time=1776009600;1776614400&q-header-list=host&q-url-param-list=&q-signature=103e601a32b91e7e25ff913853b711ad5011894e)
 
 
 #### 手机
@@ -92,7 +92,7 @@ section: "ClassIn"
 设置：班级所属学校、班级头像、班级名称。点击 创建并进入班级
 
 
-![](https://cofile.eeo.cn/res-store%2F5c6e72f5a41d880e709a7bb48d13c66e64618dccc95c06a797059526f167fad2_248584?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1773936000;1774540800&q-key-time=1773936000;1774540800&q-header-list=host&q-url-param-list=&q-signature=bb628e03fd2c8dad29576041f2aa81b1cb5e6748)
+![](https://cofile.eeo.cn/res-store%2F5c6e72f5a41d880e709a7bb48d13c66e64618dccc95c06a797059526f167fad2_248584?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1776009600;1776614400&q-key-time=1776009600;1776614400&q-header-list=host&q-url-param-list=&q-signature=1c64946ae732026e4b56059e0461f05576508611)
 
 
 # 二、解散班级
@@ -122,7 +122,7 @@ section: "ClassIn"
 在 班级设置 中点击 班级结课
 
 
-![](https://cofile.eeo.cn/res-store%2F515a5a52cddecaa87d6ab3cb415e54226de86c51a128d1312b1e0ffef4372edd_763119?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1773936000;1774540800&q-key-time=1773936000;1774540800&q-header-list=host&q-url-param-list=&q-signature=b0f669fe3735084753c5a5cadb5500933b84c4cc)
+![](https://cofile.eeo.cn/res-store%2F515a5a52cddecaa87d6ab3cb415e54226de86c51a128d1312b1e0ffef4372edd_763119?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1776009600;1776614400&q-key-time=1776009600;1776614400&q-header-list=host&q-url-param-list=&q-signature=580c10e7db308aa3c44960d511613f8f24ae1188)
 
 
 查找班级并进入
@@ -134,7 +134,7 @@ section: "ClassIn"
 点击 结课
 
 
-![](https://cofile.eeo.cn/res-store%2F1eef59245237c2a37b2e351c8626915b5e705dd3bfc4911ce07e055a484c2646_260410?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1773936000;1774540800&q-key-time=1773936000;1774540800&q-header-list=host&q-url-param-list=&q-signature=dd6ba031f55f72f75af9b8c77bb1e2756bf4f566)
+![](https://cofile.eeo.cn/res-store%2F1eef59245237c2a37b2e351c8626915b5e705dd3bfc4911ce07e055a484c2646_260410?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1776009600;1776614400&q-key-time=1776009600;1776614400&q-header-list=host&q-url-param-list=&q-signature=8cc32d3d8046df297de052b3bca7dfa3959c8817)
 
 
 # 三、退出班级
@@ -158,10 +158,10 @@ section: "ClassIn"
 点击 离开班级
 
 
-![](https://cofile.eeo.cn/res-store%2Fbe3254bb2709fdb5af2ba8bd5ac61af564258eb351babbb8aaad99d168d3bdb9_336809?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1773936000;1774540800&q-key-time=1773936000;1774540800&q-header-list=host&q-url-param-list=&q-signature=5bc5a24af625dfcb260d69d5cf46762b69808799)
+![](https://cofile.eeo.cn/res-store%2Fbe3254bb2709fdb5af2ba8bd5ac61af564258eb351babbb8aaad99d168d3bdb9_336809?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1776009600;1776614400&q-key-time=1776009600;1776614400&q-header-list=host&q-url-param-list=&q-signature=cab5b5ddc30987e35c15ba9b0c9e50c425a20794)
 
 
 点击 退出班级
 
 
-![](https://cofile.eeo.cn/res-store%2F109e21572340f35c7f83d2c970c871916f1b3c43b93cfb81fd92ab36afb2b1c4_1231450?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1773936000;1774540800&q-key-time=1773936000;1774540800&q-header-list=host&q-url-param-list=&q-signature=0a7e8e66b9e6f66505dcfc3503ae566709d6bf25)
+![](https://cofile.eeo.cn/res-store%2F109e21572340f35c7f83d2c970c871916f1b3c43b93cfb81fd92ab36afb2b1c4_1231450?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1776009600;1776614400&q-key-time=1776009600;1776614400&q-header-list=host&q-url-param-list=&q-signature=03c7c4f74c6733e53bf3bdf006b9295e6d6998a0)

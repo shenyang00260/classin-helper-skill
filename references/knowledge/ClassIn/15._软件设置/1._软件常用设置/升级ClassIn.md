@@ -41,7 +41,7 @@ section: "ClassIn"
 升级 或 检查更新
 
 
-![](https://cofile.eeo.cn/res-store%2F0ce7e312d3db1fb60637c29cdca33386d49d3b124ed5ee862b93540cfb6a1d73_138876?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1773936000;1774540800&q-key-time=1773936000;1774540800&q-header-list=host&q-url-param-list=&q-signature=902988f87f82235f489c50361b4431dae04c1cb7)
+![](https://cofile.eeo.cn/res-store%2F0ce7e312d3db1fb60637c29cdca33386d49d3b124ed5ee862b93540cfb6a1d73_138876?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1776009600;1776614400&q-key-time=1776009600;1776614400&q-header-list=host&q-url-param-list=&q-signature=a857856a12fdb9dab6de1e1d3c1fb45e6301b2a3)
 
 
 #### 手机
@@ -59,7 +59,7 @@ section: "ClassIn"
 如果软件有新版本，可点击 升级 将软件升到当前最新版
 
 
-![](https://cofile.eeo.cn/res-store%2F05ce73818732988b39476e9f3b9db23c7150413bb7ce0ab8a16d3fbea9b1a8e2_265578?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1773936000;1774540800&q-key-time=1773936000;1774540800&q-header-list=host&q-url-param-list=&q-signature=65795cd94586b73f6d21815c2e00062497edcd8e)
+![](https://cofile.eeo.cn/res-store%2F05ce73818732988b39476e9f3b9db23c7150413bb7ce0ab8a16d3fbea9b1a8e2_265578?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1776009600;1776614400&q-key-time=1776009600;1776614400&q-header-list=host&q-url-param-list=&q-signature=6d213434a8142cc49b34e7b9386bad89bcd8a890)
 
 
 #### 平板
@@ -68,4 +68,4 @@ section: "ClassIn"
 点击左下角 头像
 
 
-![](https://cofile.eeo.cn/res-store%2F96181d1563cd703f446d7137aaf94636b94204886c533a6d52776b6d0747cd03_341178?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1773936000;1774540800&q-key-time=1773936000;1774540800&q-header-list=host&q-url-param-list=&q-signature=6f6913d6b5b722224e46e5b1d5efbee96b89fc77)
+![](https://cofile.eeo.cn/res-store%2F96181d1563cd703f446d7137aaf94636b94204886c533a6d52776b6d0747cd03_341178?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1776009600;1776614400&q-key-time=1776009600;1776614400&q-header-list=host&q-url-param-list=&q-signature=39f5dabe275f53b29f764d6f51c56c48a9ace840)
