@@ -1,0 +1,8 @@
+{
+  "name": "classin-helper",
+  "version": "1.0.0",
+  "description": "ClassIn 专用助手 skill 的依赖",
+  "dependencies": {
+    "playwright": "^1.59.1"
+  }
+}
