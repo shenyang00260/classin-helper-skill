@@ -11,7 +11,7 @@ section: "ClassIn"
 # 一、授权前后工具对比学生授权
 
 
-![](https://cofile.eeo.cn/res-store%2F7ea7238f4789306d5db78fb39f763887fb46e0f97c31ba945a4c1a756490003d_310627?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1776009600;1776614400&q-key-time=1776009600;1776614400&q-header-list=host&q-url-param-list=&q-signature=06da62dc1f3e7739a6b9bf3fe302cbb642116145)
+![](https://cofile.eeo.cn/res-store%2F3b868ae72c46da0224ae5d3c5531381bbec46bb2212ed4a217c76ea22478a20e_775117?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1776009600;1776614400&q-key-time=1776009600;1776614400&q-header-list=host&q-url-param-list=&q-signature=a814b4e210e02fd2ff479fa0777003b5fcd5c542)
 
 
 # 二、学生授权
