@@ -9,7 +9,7 @@
 - 📚 **完整知识库**：涵盖 ClassIn 帮助中心 368 篇官方文档，包含教师端、学生端、管理后台的全部功能
 - 🖼️ **图文并茂**：每个操作步骤都附带截图，一看就懂
 - 🔍 **自然语言问答**：直接用中文提问，无需记忆菜单路径
-- 🔄 **自动爬图**：图片 URL 失效时自动用 Playwright 从帮助中心重新爬取最新截图
+- 🔄 **自动周刷新**：GitHub Actions 每周一自动爬取最新图片 URL 并 push 到仓库，知识库始终保持最新
 - 🛠️ **故障引导**：遇到无法自助解决的问题，自动提示联系官方客服渠道
 
 ---
@@ -82,13 +82,57 @@ ClassIn 教室提供丰富的教学工具，包括白板、PPT、视频、答题
 
 ## 🚀 安装方法
 
-### 方法一：从 .skill 文件安装（推荐）
+> **推荐使用方法二（git clone）**，可以自动保持知识库同步最新图片 URL。
+
+### 方法一：从 GitHub 克隆安装（推荐）
+
+```bash
+# 1. 克隆仓库到 OpenClaw skills 目录
+git clone https://github.com/shenyang00260/classin-helper-skill.git ~/.openclaw/skills/classin-helper
+
+# 2. 运行安装脚本（自动 git pull + 安装 Playwright）
+cd ~/.openclaw/skills/classin-helper
+node scripts/setup.js
+```
+
+安装完成后重启 OpenClaw，skill 会自动加载。
+
+#### 🔄 保持知识库最新
+
+本仓库通过 **GitHub Actions 每周一自动刷新**知识库中的图片 URL（ClassIn 帮助中心图片每周更换签名）。
+
+有两种方式让本地保持同步：
+
+**方式 A：每次使用前手动 pull（推荐）**
+```bash
+cd ~/.openclaw/skills/classin-helper
+git pull
+```
+
+**方式 B：运行 setup.js 自动 pull（一键更新）**
+```bash
+cd ~/.openclaw/skills/classin-helper
+node scripts/setup.js
+# setup.js 会自动执行 git pull，再确认依赖完整
+```
+
+> ⚠️ 如果不定期 `git pull`，知识库中的图片 URL 可能在 1 周后过期导致图片无法显示。
+
+---
+
+### 方法二：从 .skill 文件安装
 
 1. 前往 [Releases](https://github.com/shenyang00260/classin-helper-skill/releases) 页面下载最新的 `classin-helper.skill` 文件
-2. 在 OpenClaw 中安装：
-   ```
-   openclaw skill install /path/to/classin-helper.skill
-   ```
+2. 在 OpenClaw 中安装该文件
+3. 安装后**强烈建议**切换为 git clone 方式以获得自动更新能力
+
+---
+
+### 方法三：手动安装（离线环境）
+
+1. 下载本仓库 zip：点击页面右上角 **Code → Download ZIP**
+2. 解压到 `~/.openclaw/skills/classin-helper/`
+3. 运行 `node scripts/setup.js` 安装依赖   ```
 3. 安装 Playwright（首次使用需要）：
    ```
    cd ~/.openclaw/skills/classin-helper
@@ -122,15 +166,10 @@ node scripts/setup.js
 
 ## 🔧 Playwright 说明
 
-本 skill 使用 [Playwright](https://playwright.dev/) 在知识库图片 URL 过期时自动爬取最新截图。
+本 skill 使用 [Playwright](https://playwright.dev/) 在需要时爬取最新截图（当本地图片 URL 失效时）。
 
 - **首次安装后必须运行一次** `node scripts/setup.js`
 - 脚本会自动安装 `playwright` 包和 Chromium 浏览器（约 100MB）
-- 如果网络不好，可以手动执行：
-  ```bash
-  npm install
-  npx playwright install chromium
-  ```
 - **没有安装 Playwright 时**：助手仍可正常回答，但图片部分会退化为文字描述 + 帮助中心链接
 
 ---
@@ -167,7 +206,7 @@ npx playwright install chromium
 ```
 
 **Q: 知识库内容不是最新的怎么办？**
-A: 本知识库基于 2026 年 4 月版本。如 ClassIn 更新了新功能，可提 Issue 或 PR 更新知识库文档。
+A: 运行 `git pull` 或 `node scripts/setup.js` 拉取最新版本。GitHub Actions 每周一自动刷新图片 URL，pull 后即可恢复正常显示。
 
 **Q: 支持哪些 OpenClaw 渠道？**
 A: 支持所有 OpenClaw 渠道，包括 QQ、微信、Telegram、Discord、Web Chat 等。
