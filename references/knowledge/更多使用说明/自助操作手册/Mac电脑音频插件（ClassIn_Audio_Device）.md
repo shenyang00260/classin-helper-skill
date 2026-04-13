@@ -41,13 +41,13 @@ Windows电脑不需要安装ClassIn Audio Device音频插件
 第一步：当教师使用屏幕共享工具时，会收到一个要求输入用户名和密码的窗口。在这个窗口中，教师只需要输入电脑的用户名和密码，就可以自动完成ClassIn Audio Dveice音频插件的安装。（请不要取消安装，否则会导致共享屏幕时无法共享声音）。
 
 
-![](https://cofile.eeo.cn/res-store%2Fb51829cd92a688630beeb5c187e3866500cb57ede5b8ce3441c293faa0e45791_86372?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1773936000;1774540800&q-key-time=1773936000;1774540800&q-header-list=host&q-url-param-list=&q-signature=cc136a1a764a419e59bce1a8616263ca2435b73b)
+![](https://cofile.eeo.cn/res-store%2Fb51829cd92a688630beeb5c187e3866500cb57ede5b8ce3441c293faa0e45791_86372?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1776009600;1776614400&q-key-time=1776009600;1776614400&q-header-list=host&q-url-param-list=&q-signature=58e617e16c970635ed970a115647e3cc01502a66)
 
 
 第二步：要判断ClassIn Audio Dveice音频插件是否安装成功，教师可以在电脑的右上角点击音频图标，查看是否有ClassIn Audio Dveice选项。如果有，说明安装成功。此时，用户可以在电脑的声音选项中选择ClassIn Audio Dveice设备。
 
 
-![](https://cofile.eeo.cn/res-store%2F112550e6d421ecb81eae9f710c8344fdf741294ef8f2e6667d2a17eb105852c6_127029?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1773936000;1774540800&q-key-time=1773936000;1774540800&q-header-list=host&q-url-param-list=&q-signature=3a4dd90a6966eb5f499d7018fbb49419e812b1ea)
+![](https://cofile.eeo.cn/res-store%2F112550e6d421ecb81eae9f710c8344fdf741294ef8f2e6667d2a17eb105852c6_127029?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1776009600;1776614400&q-key-time=1776009600;1776614400&q-header-list=host&q-url-param-list=&q-signature=1161f5a328c65a6d83811d15ad37ceb6fa0d0b32)
 
 
 ### 录制本地声音前，安装ClassIn Audio Device的流程
@@ -56,22 +56,22 @@ Windows电脑不需要安装ClassIn Audio Device音频插件
 第一步：老师进入软件设置中的“录课模式”里勾选“系统声音”。
 
 
-![](https://cofile.eeo.cn/res-store%2F7fdc4fa2f23ede22b5437fdbbc90d1075f254bcb2f5a26ad0a933ae2ee274ec1_160255?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1773936000;1774540800&q-key-time=1773936000;1774540800&q-header-list=host&q-url-param-list=&q-signature=b74e92c9d5c13085df022eabdbd84b2766355462)
+![](https://cofile.eeo.cn/res-store%2F7fdc4fa2f23ede22b5437fdbbc90d1075f254bcb2f5a26ad0a933ae2ee274ec1_160255?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1776009600;1776614400&q-key-time=1776009600;1776614400&q-header-list=host&q-url-param-list=&q-signature=8c7ad358c8badba0c8da6223f91ed9701616e8d9)
 
 
 第二步：进入教室开始录课时，老师会收到音频插件安装提示，在提示中点击确定。
 
 
-![](https://cofile.eeo.cn/res-store%2Fcb6d70c4bc2452dbbed27962002ff31f5620652b11084d7aab1e85f46b87bf44_67597?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1773936000;1774540800&q-key-time=1773936000;1774540800&q-header-list=host&q-url-param-list=&q-signature=5eeb3cb1c76dcb271fd708fefd35116df658c18a)
+![](https://cofile.eeo.cn/res-store%2Fcb6d70c4bc2452dbbed27962002ff31f5620652b11084d7aab1e85f46b87bf44_67597?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1776009600;1776614400&q-key-time=1776009600;1776614400&q-header-list=host&q-url-param-list=&q-signature=0a1773a73366400955e13eb7729d567b591574c7)
 
 
 第三步：ClassIn会给教师弹出一个输入用户名和密码的对话框，教师输入自己电脑的用户名和密码，就可以自动完成ClassIn Audio Device音频插件的安装。（请不要取消安装，否则会导致录课时无法将电脑本地声音收录进回放视频中）。
 
 
-![](https://cofile.eeo.cn/res-store%2F48eb22e68549ab47a6bd4c693ce68797c11e5752b1a2566f7010528c237987af_35611?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1773936000;1774540800&q-key-time=1773936000;1774540800&q-header-list=host&q-url-param-list=&q-signature=486abcf5ab5567f98657ecb851fdcabc7a16946e)
+![](https://cofile.eeo.cn/res-store%2F48eb22e68549ab47a6bd4c693ce68797c11e5752b1a2566f7010528c237987af_35611?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1776009600;1776614400&q-key-time=1776009600;1776614400&q-header-list=host&q-url-param-list=&q-signature=29d901e29002a7d605ca56608b7b18b4a72678e5)
 
 
 第四步：要判断ClassIn Audio Dveice音频插件是否安装成功，教师可以在电脑的右上角点击音频图标，查看是否有ClassIn Audio Dveice选项。如果有，说明安装成功。
 
 
-![](https://cofile.eeo.cn/res-store%2F1d2af32132c2e7bcb6f4dae183e22a5a8d4eb562751dc8739b2a6596be25fd9e_377673?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1773936000;1774540800&q-key-time=1773936000;1774540800&q-header-list=host&q-url-param-list=&q-signature=e322c261f4cdfcc73ba3ffb69f6210c5f7af3ff5)
+![](https://cofile.eeo.cn/res-store%2F1d2af32132c2e7bcb6f4dae183e22a5a8d4eb562751dc8739b2a6596be25fd9e_377673?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1776009600;1776614400&q-key-time=1776009600;1776614400&q-header-list=host&q-url-param-list=&q-signature=8f3a5d88103581675e0a28e951f4cf857395bb02)

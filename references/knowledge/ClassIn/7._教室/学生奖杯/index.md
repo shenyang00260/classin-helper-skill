@@ -50,7 +50,7 @@ section: "ClassIn"
 在摄像头下方按键中，点击 奖杯
 
 
-![](https://cofile.eeo.cn/res-store%2Fa88afabbc01043e4a566f76d1afffa098779ed4a57a9dc6583406e17e81e2469_106925?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1773936000;1774540800&q-key-time=1773936000;1774540800&q-header-list=host&q-url-param-list=&q-signature=a886285ffd0e78c015763882f7703555164c644a)
+![](https://cofile.eeo.cn/res-store%2Fa88afabbc01043e4a566f76d1afffa098779ed4a57a9dc6583406e17e81e2469_106925?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1776009600;1776614400&q-key-time=1776009600;1776614400&q-header-list=host&q-url-param-list=&q-signature=4efa7e03c5e52c96bf22da78860745db0933b063)
 
 
 # 二、台上全体学生奖杯
@@ -68,7 +68,7 @@ section: "ClassIn"
 在下方弹出的按钮中，点击 全体奖杯 按钮
 
 
-![](https://cofile.eeo.cn/res-store%2Fdfe1fa9f608ec33a8ca45126aaff85a972df630bc93dd12b65c3d596c6decbe5_101334?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1773936000;1774540800&q-key-time=1773936000;1774540800&q-header-list=host&q-url-param-list=&q-signature=550ac5efe46ce2c3f04a4ab62ffbc86fbe8ea35d)
+![](https://cofile.eeo.cn/res-store%2Fdfe1fa9f608ec33a8ca45126aaff85a972df630bc93dd12b65c3d596c6decbe5_101334?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1776009600;1776614400&q-key-time=1776009600;1776614400&q-header-list=host&q-url-param-list=&q-signature=2cb7943512de6b34eeef4da112603ac323f69339)
 
 
 # 三、花名册中给学生发奖杯
@@ -98,7 +98,7 @@ section: "ClassIn"
 点击右侧 奖杯
 
 
-![](https://cofile.eeo.cn/res-store%2F855edbcd82c238d1513a43a0395e6116205f4a5d17b4db7e3f8eacaf6faa122d_149948?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1773936000;1774540800&q-key-time=1773936000;1774540800&q-header-list=host&q-url-param-list=&q-signature=bc04b8ff87cad669784f99484bebcc79faeeedc5)
+![](https://cofile.eeo.cn/res-store%2F855edbcd82c238d1513a43a0395e6116205f4a5d17b4db7e3f8eacaf6faa122d_149948?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1776009600;1776614400&q-key-time=1776009600;1776614400&q-header-list=host&q-url-param-list=&q-signature=3bdd51339e97af038e9cd7a516ab2a978b4a2edc)
 
 
 #### iPad
@@ -107,13 +107,13 @@ section: "ClassIn"
 点击教室右下角 花名册
 
 
-![](https://cofile.eeo.cn/res-store%2Feab104451ec6647bbde9258bd50f38455154e1864615676f5da8c64b6eea15ac_239503?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1773936000;1774540800&q-key-time=1773936000;1774540800&q-header-list=host&q-url-param-list=&q-signature=20b9f6edaa9ffc2b1c61565624be261492b9a247)
+![](https://cofile.eeo.cn/res-store%2Feab104451ec6647bbde9258bd50f38455154e1864615676f5da8c64b6eea15ac_239503?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1776009600;1776614400&q-key-time=1776009600;1776614400&q-header-list=host&q-url-param-list=&q-signature=9b3e3772bf13592c828550b1e0edcefbfc70bdba)
 
 
 #### 手机/安卓平板
 
 
-![](https://cofile.eeo.cn/res-store%2Fbbe2f7f8c7c63a78670899059db837251e0c35f0279f6a99690321353f7c27d9_170607?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1773936000;1774540800&q-key-time=1773936000;1774540800&q-header-list=host&q-url-param-list=&q-signature=ca3fe27d442bdc38c3d164a22e4703c620f22422)
+![](https://cofile.eeo.cn/res-store%2Fbbe2f7f8c7c63a78670899059db837251e0c35f0279f6a99690321353f7c27d9_170607?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1776009600;1776614400&q-key-time=1776009600;1776614400&q-header-list=host&q-url-param-list=&q-signature=7c05cda273199198a73f5c9536a129ba4c36eccb)
 
 
 # 四、扣除学生奖杯
@@ -131,4 +131,4 @@ section: "ClassIn"
 在摄像头下方按键中，右键单击 奖杯
 
 
-![](https://cofile.eeo.cn/res-store%2F2e59429ee7f0a6ef888ac69bca4bfe9e664d6ed72bc904e07862de5ca1f87af0_107539?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1773936000;1774540800&q-key-time=1773936000;1774540800&q-header-list=host&q-url-param-list=&q-signature=66322724a4e62d74bfce7eea3f0f097650eca9d7)
+![](https://cofile.eeo.cn/res-store%2F2e59429ee7f0a6ef888ac69bca4bfe9e664d6ed72bc904e07862de5ca1f87af0_107539?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1776009600;1776614400&q-key-time=1776009600;1776614400&q-header-list=host&q-url-param-list=&q-signature=f55befe6e3e8fb822db9aafa693212f046245d0c)

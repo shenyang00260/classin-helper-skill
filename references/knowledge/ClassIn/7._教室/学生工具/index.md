@@ -11,7 +11,7 @@ section: "ClassIn"
 # 一、授权前后工具对比学生授权
 
 
-![](https://cofile.eeo.cn/res-store%2F7ea7238f4789306d5db78fb39f763887fb46e0f97c31ba945a4c1a756490003d_310627?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1773936000;1774540800&q-key-time=1773936000;1774540800&q-header-list=host&q-url-param-list=&q-signature=b9ccfbde49d7f25b725400f82aac430a3bc1357c)
+![](https://cofile.eeo.cn/res-store%2F7ea7238f4789306d5db78fb39f763887fb46e0f97c31ba945a4c1a756490003d_310627?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1776009600;1776614400&q-key-time=1776009600;1776614400&q-header-list=host&q-url-param-list=&q-signature=06da62dc1f3e7739a6b9bf3fe302cbb642116145)
 
 
 # 二、学生授权
@@ -71,7 +71,7 @@ section: "ClassIn"
 在摄像头下方按键中，点击 授权 （再次点击则取消授权）
 
 
-![](https://cofile.eeo.cn/res-store%2Fadc87d20a0e4fc20dea88104bc2882c2b3215d07588cdf35274dedac7f4f69c8_159327?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1773936000;1774540800&q-key-time=1773936000;1774540800&q-header-list=host&q-url-param-list=&q-signature=63c54a1f5ef05c06df019583bfa2571166f890ed)
+![](https://cofile.eeo.cn/res-store%2Fadc87d20a0e4fc20dea88104bc2882c2b3215d07588cdf35274dedac7f4f69c8_159327?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1776009600;1776614400&q-key-time=1776009600;1776614400&q-header-list=host&q-url-param-list=&q-signature=3af05a6c4c8c33a2a3fe6d0fa5e1a0b96753fc42)
 
 
 # 三、学生上台自动授权
@@ -92,7 +92,7 @@ section: "ClassIn"
 在摄像头下方按键中，点击 上台自动授权
 
 
-![](https://cofile.eeo.cn/res-store%2F201818bb4ab928484cb360c6494a2752f8cca1108d565780a4e3db18168b1f54_163602?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1773936000;1774540800&q-key-time=1773936000;1774540800&q-header-list=host&q-url-param-list=&q-signature=89ff18eb5ad2971493b5958a9c96e64c6089603f)
+![](https://cofile.eeo.cn/res-store%2F201818bb4ab928484cb360c6494a2752f8cca1108d565780a4e3db18168b1f54_163602?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1776009600;1776614400&q-key-time=1776009600;1776614400&q-header-list=host&q-url-param-list=&q-signature=624d790dd81a83eedf42b9acfae7e4c7d3164d66)
 
 
 # 四、台上全体学生授权
@@ -113,7 +113,7 @@ section: "ClassIn"
 在摄像头下方按键中，点击 全体授权 （再次点击则取消授权）
 
 
-![](https://cofile.eeo.cn/res-store%2Ff2c1d0ae32a29a80ccf0232f1ee2179d21f1a20a7ffbf4b9450fa0cae48728e7_150746?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1773936000;1774540800&q-key-time=1773936000;1774540800&q-header-list=host&q-url-param-list=&q-signature=cc82abb8cf730619bf952aa9cb2fdd0d27c87539)
+![](https://cofile.eeo.cn/res-store%2Ff2c1d0ae32a29a80ccf0232f1ee2179d21f1a20a7ffbf4b9450fa0cae48728e7_150746?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1776009600;1776614400&q-key-time=1776009600;1776614400&q-header-list=host&q-url-param-list=&q-signature=622c2552286e267fdf5b47c2bd2029d942c9ba05)
 
 
 # 五、取消所有学生授权
@@ -131,7 +131,7 @@ section: "ClassIn"
 在摄像头下方按键中，点击 取消全体授权
 
 
-![](https://cofile.eeo.cn/res-store%2F51fe2038c735cb45a94e936a6e313b512124e65107558ea3547c6a09c4b0e4ed_138292?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1773936000;1774540800&q-key-time=1773936000;1774540800&q-header-list=host&q-url-param-list=&q-signature=682cdbdbf532a408c68d54279b3c411e1520cb00)
+![](https://cofile.eeo.cn/res-store%2F51fe2038c735cb45a94e936a6e313b512124e65107558ea3547c6a09c4b0e4ed_138292?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1776009600;1776614400&q-key-time=1776009600;1776614400&q-header-list=host&q-url-param-list=&q-signature=d19544285b4c241fef3114f60481ad7a405c43bd)
 
 
 # 六、花名册中学生授权
@@ -149,7 +149,7 @@ section: "ClassIn"
 点击右侧 授权 （再次点击则取消授权）
 
 
-![](https://cofile.eeo.cn/res-store%2F90ceb6b7b867d87a5fecb8e56ef9ecc2d4811e79ab4d84f64ebb7c3af11229c3_143906?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1773936000;1774540800&q-key-time=1773936000;1774540800&q-header-list=host&q-url-param-list=&q-signature=7b6ced3dd21533594eeaf3ba7d927f2e367fc91f)
+![](https://cofile.eeo.cn/res-store%2F90ceb6b7b867d87a5fecb8e56ef9ecc2d4811e79ab4d84f64ebb7c3af11229c3_143906?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1776009600;1776614400&q-key-time=1776009600;1776614400&q-header-list=host&q-url-param-list=&q-signature=4f1c4ea1f0964376b0ec005b026fd4c6c2b6f42c)
 
 
 #### iPad
@@ -161,10 +161,10 @@ section: "ClassIn"
 点击 授权 （再次点击则取消授权）
 
 
-![](https://cofile.eeo.cn/res-store%2Fb0dff1c45626e26027f7978bcd19443d62212b7fc8302f50ad7aed52d26b3521_158772?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1773936000;1774540800&q-key-time=1773936000;1774540800&q-header-list=host&q-url-param-list=&q-signature=76e2fc0fbbc35a9dd4a970bbeeecab4921df5b67)
+![](https://cofile.eeo.cn/res-store%2Fb0dff1c45626e26027f7978bcd19443d62212b7fc8302f50ad7aed52d26b3521_158772?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1776009600;1776614400&q-key-time=1776009600;1776614400&q-header-list=host&q-url-param-list=&q-signature=82fa81f363ff1b40416df61ed5b6983bd614ee12)
 
 
 #### 手机/安卓平板
 
 
-![](https://cofile.eeo.cn/res-store%2F1dcd6b0b93c36bb15252a7acb85378132d11dc426cad5f0d91dc3d84dea3069b_124699?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1773936000;1774540800&q-key-time=1773936000;1774540800&q-header-list=host&q-url-param-list=&q-signature=e703a1ca3e281cc5200993e307bda4673153dc0d)
+![](https://cofile.eeo.cn/res-store%2F1dcd6b0b93c36bb15252a7acb85378132d11dc426cad5f0d91dc3d84dea3069b_124699?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1776009600;1776614400&q-key-time=1776009600;1776614400&q-header-list=host&q-url-param-list=&q-signature=0bfe244ee44fdf1e9a6b5b2ae689251f942322a4)

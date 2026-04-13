@@ -47,7 +47,7 @@ section: "常见问题"
 点击 清理缓存
 
 
-![](https://cofile.eeo.cn/res-store%2F925bdeef1aaabcff825170b22eba902eeeb3a5b2f036365678bfaf713e11567f_206419?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1773936000;1774540800&q-key-time=1773936000;1774540800&q-header-list=host&q-url-param-list=&q-signature=07837c68f2f978fe234aba71e40afcef0233db8b)
+![](https://cofile.eeo.cn/res-store%2F925bdeef1aaabcff825170b22eba902eeeb3a5b2f036365678bfaf713e11567f_206419?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1776009600;1776614400&q-key-time=1776009600;1776614400&q-header-list=host&q-url-param-list=&q-signature=7377eeee1312e0eb57ca33f0350d8ebf249b7c96)
 
 
 #### 手机
@@ -62,7 +62,7 @@ section: "常见问题"
 进入 软件设置
 
 
-![](https://cofile.eeo.cn/res-store%2F9cda3bfef72e82406857fb4d484dca716db25dcc6b5d110f4d0b3e322104b1d4_248423?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1773936000;1774540800&q-key-time=1773936000;1774540800&q-header-list=host&q-url-param-list=&q-signature=31fc418e7a9e07777e8793949c07431914281ce1)
+![](https://cofile.eeo.cn/res-store%2F9cda3bfef72e82406857fb4d484dca716db25dcc6b5d110f4d0b3e322104b1d4_248423?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1776009600;1776614400&q-key-time=1776009600;1776614400&q-header-list=host&q-url-param-list=&q-signature=d8dcdc21c9d750704c5e761890cd08b770950ca0)
 
 
 #### 平板
@@ -71,4 +71,4 @@ section: "常见问题"
 点击左下角 头像
 
 
-![](https://cofile.eeo.cn/res-store%2Fda03528834e55e1ac73e0bdf049a995ef22033e42f3c22e002e59017d3d23ffe_295634?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1773936000;1774540800&q-key-time=1773936000;1774540800&q-header-list=host&q-url-param-list=&q-signature=90f82e96bd296de82902527ace21d3cec329476d)
+![](https://cofile.eeo.cn/res-store%2Fda03528834e55e1ac73e0bdf049a995ef22033e42f3c22e002e59017d3d23ffe_295634?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1776009600;1776614400&q-key-time=1776009600;1776614400&q-header-list=host&q-url-param-list=&q-signature=b092447108f7d974e99a7f92946009f6fa0ce3bd)

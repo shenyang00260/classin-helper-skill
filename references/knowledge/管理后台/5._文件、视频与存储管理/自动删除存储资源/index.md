@@ -62,4 +62,4 @@ section: "管理后台"
 在 设置自动删除存储资源 中，开启或关闭 自动删除存储 功能，并设置自动删除时间
 
 
-![](https://cofile.eeo.cn/res-store%2Fdd275957893acf5217ee843a8f589acdfb82b43aed25a9a78cb7e61b2a08c6c7_278862?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1773936000;1774540800&q-key-time=1773936000;1774540800&q-header-list=host&q-url-param-list=&q-signature=1f91e45a332e0c89d47e12f3e8b9c784a6936157)
+![](https://cofile.eeo.cn/res-store%2Fdd275957893acf5217ee843a8f589acdfb82b43aed25a9a78cb7e61b2a08c6c7_278862?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1776009600;1776614400&q-key-time=1776009600;1776614400&q-header-list=host&q-url-param-list=&q-signature=fcfff092601ce7e7408fc6656b021c132dcd8b4d)

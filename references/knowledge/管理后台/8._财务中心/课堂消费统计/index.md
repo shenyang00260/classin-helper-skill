@@ -56,4 +56,4 @@ section: "管理后台"
 点击 课堂消费 右侧 下载 ，等待下载任务生成后，在新的弹窗中点击 去查看
 
 
-![](https://cofile.eeo.cn/res-store%2F384504f65f1f9764a9c1d5359792e834542204b299cb8d6cdbbc7d293b7f45b4_256093?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1773936000;1774540800&q-key-time=1773936000;1774540800&q-header-list=host&q-url-param-list=&q-signature=4900b45017f5ac03d63ed1c8b4cce1022d97b12d)
+![](https://cofile.eeo.cn/res-store%2F384504f65f1f9764a9c1d5359792e834542204b299cb8d6cdbbc7d293b7f45b4_256093?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1776009600;1776614400&q-key-time=1776009600;1776614400&q-header-list=host&q-url-param-list=&q-signature=a624e5fe948ac7427d137233fd513aaec4228ad4)
