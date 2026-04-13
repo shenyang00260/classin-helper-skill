@@ -30,32 +30,41 @@
 
 ## 💬 使用示例
 
-### 示例1：基础操作
-**用户提问：** 老师怎么开启举手功能？
+### 示例1：进入教室上课
+**用户提问：** 老师怎么进入教室开始上课？
 
 **助手回答：**
-1. 进入 ClassIn 教室后，点击底部工具栏的「互动」按钮
-2. 在弹出菜单中点击「举手」开关，开启后学生可点击举手按钮
-3. 老师可在右侧成员列表看到举手学生，点击头像进行连麦
+1. 打开 ClassIn 客户端，在课表中找到对应课堂
+2. 点击「进入教室」按钮，等待加载完成即可开始上课
+3. 进入后可在底部工具栏访问白板、互动、录课等功能
 
-*（附操作截图）*
+![进入教室上课截图](https://cofile.eeo.cn/res-store%2Fe5e0c5809ea0f0e45d9bae70b12d9bfa25be0212ad4ebad5afe45b51aae9ae23_125600?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1776009600;1776614400&q-key-time=1776009600;1776614400&q-header-list=host&q-url-param-list=&q-signature=ea42ccf09a7259fa357963cc679106a8b2b55bf6)
 
 ---
 
-### 示例2：管理后台
-**用户提问：** 如何在管理后台导出课堂数据？
+### 示例2：教学工具使用
+**用户提问：** 教室里有哪些教学工具？怎么用？
 
 **助手回答：**
-1. 登录管理后台 → 点击左侧「数据与报告」
-2. 选择「课堂列表」，设置时间范围和班级筛选条件
-3. 点击右上角「导出」按钮，选择导出格式（Excel/CSV）
-4. 文件生成后在「下载中心」获取
+ClassIn 教室提供丰富的教学工具，包括白板、PPT、视频、答题器、计时器等，点击底部工具栏即可调用：
 
-*（附操作截图）*
+![教学工具截图](https://cofile.eeo.cn/res-store%2Fa4fdbf826a3a1c4227aeefc092a5aed5491be6ad9bdc529cd9ef6ce4e69348ff_242988?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1776009600;1776614400&q-key-time=1776009600;1776614400&q-header-list=host&q-url-param-list=&q-signature=ac24dfdef1ba7577de040ab76a6cf845cf40edcf)
 
 ---
 
-### 示例3：故障排查
+### 示例3：管理后台监课
+**用户提问：** 管理员如何进入监课教室？
+
+**助手回答：**
+1. 登录管理后台，点击左侧「监课管理」
+2. 找到正在上课的课堂，点击「进入监课」
+3. 可实时查看教室画面，也可截图留存
+
+![进入监课教室截图](https://cofile.eeo.cn/res-store%2F84df856d92c6ccb20184b9fcd545a3243e085fe1ab2702b34f41a6eba0c0a652_236880?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1776009600;1776614400&q-key-time=1776009600;1776614400&q-header-list=host&q-url-param-list=&q-signature=0f15775306ac727570b6f3a625ae4553038e8725)
+
+---
+
+### 示例4：故障排查
 **用户提问：** 学生进不了教室怎么办？
 
 **助手回答：**
