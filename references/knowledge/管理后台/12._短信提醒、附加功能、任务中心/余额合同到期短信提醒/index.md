@@ -47,4 +47,4 @@ section: "管理后台"
 在 账户余额/合同到期提醒 中，开启或关闭 帐户余额/合同到期短信提醒（功能免费，不收取短信费），并可以在下方设置多个接收提醒的手机号
 
 
-![](https://cofile.eeo.cn/res-store%2F3c5f5e4c9fde034ff21a510e7aabc7a4feadd989a20b83d7851caaa78df2fc46_315051?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1776614400;1777219200&q-key-time=1776614400;1777219200&q-header-list=host&q-url-param-list=&q-signature=aa1bdae1ed8d7b918ab9778f3316fede225ca785)
+![](https://cofile.eeo.cn/res-store%2F3c5f5e4c9fde034ff21a510e7aabc7a4feadd989a20b83d7851caaa78df2fc46_315051?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1777219200;1777824000&q-key-time=1777219200;1777824000&q-header-list=host&q-url-param-list=&q-signature=aaa7bba8d4d860c930312e4f33d75a4a22c40a93)

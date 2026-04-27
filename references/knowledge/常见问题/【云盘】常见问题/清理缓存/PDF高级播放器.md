@@ -47,7 +47,7 @@ section: "常见问题"
 开启或关闭 PDF高级播放器
 
 
-![](https://cofile.eeo.cn/res-store%2F303a11306fafebae5c1595c61e2540f013124eb754fe7511b15fc7becaf533db_693383?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1776614400;1777219200&q-key-time=1776614400;1777219200&q-header-list=host&q-url-param-list=&q-signature=ca9a69835b9576dd41831cc90c8981fa3bbaa2f3)
+![](https://cofile.eeo.cn/res-store%2F303a11306fafebae5c1595c61e2540f013124eb754fe7511b15fc7becaf533db_693383?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1777219200;1777824000&q-key-time=1777219200;1777824000&q-header-list=host&q-url-param-list=&q-signature=1d0d6b0dda0eac817e40ef1c9a92211ad36112e8)
 
 
 #### iPad
@@ -56,4 +56,4 @@ section: "常见问题"
 点击左下角头像
 
 
-![](https://cofile.eeo.cn/res-store%2F8b21805b84369ebf8f7b5f1fc84fc3440c27b37a5e927be0357d48fc4072cde4_520344?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1776614400;1777219200&q-key-time=1776614400;1777219200&q-header-list=host&q-url-param-list=&q-signature=f10f666148535485f1f9d8e2b6590bfa34692a90)
+![](https://cofile.eeo.cn/res-store%2F8b21805b84369ebf8f7b5f1fc84fc3440c27b37a5e927be0357d48fc4072cde4_520344?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1777219200;1777824000&q-key-time=1777219200;1777824000&q-header-list=host&q-url-param-list=&q-signature=fe8f592b56346f697acdeee1bd523715a2c9ee3b)

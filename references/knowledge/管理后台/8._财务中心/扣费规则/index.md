@@ -282,4 +282,4 @@ ClassIn的收费是基于预充值机制的。学校或企业事先在他们的C
 点击右上角 扣费规则
 
 
-![](https://cofile.eeo.cn/res-store%2F208e5e9a48e66a12fe98a2b6f2f1aa6d53b359449e5dba0bb55eeb241250a961_427089?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1776614400;1777219200&q-key-time=1776614400;1777219200&q-header-list=host&q-url-param-list=&q-signature=97247a56462ddf13b40f4a4a0932f7818a9e5785)
+![](https://cofile.eeo.cn/res-store%2F208e5e9a48e66a12fe98a2b6f2f1aa6d53b359449e5dba0bb55eeb241250a961_427089?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1777219200;1777824000&q-key-time=1777219200;1777824000&q-header-list=host&q-url-param-list=&q-signature=2a9db57d6cb21afbb45cdcde6b62d8349035d93a)
