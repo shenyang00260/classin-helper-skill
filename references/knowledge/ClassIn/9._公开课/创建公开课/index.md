@@ -50,10 +50,10 @@ section: "ClassIn"
 设置相关参数
 
 
-![](https://cofile.eeo.cn/res-store%2F5d9dd91884f855d404edf810919eff9d298d80de355917711eb44e4dc05b856d_203626?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1777219200;1777824000&q-key-time=1777219200;1777824000&q-header-list=host&q-url-param-list=&q-signature=43ec8d5e91ec81ab817d8ea3200161c401f5a338)
+![](https://cofile.eeo.cn/res-store%2F5d9dd91884f855d404edf810919eff9d298d80de355917711eb44e4dc05b856d_203626?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1777824000;1778428800&q-key-time=1777824000;1778428800&q-header-list=host&q-url-param-list=&q-signature=d6d99dea127ba0b99ee4816408b077f9edb5aa00)
 
 
 #### 手机
 
 
-![](https://cofile.eeo.cn/res-store%2F2cc80a50905347199e4e6ec913fed3e4af009055dbe42d822e626c7269747dad_419279?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1777219200;1777824000&q-key-time=1777219200;1777824000&q-header-list=host&q-url-param-list=&q-signature=371bbe27bf35f62b2e4530cd8a5446dfc63c2522)
+![](https://cofile.eeo.cn/res-store%2F2cc80a50905347199e4e6ec913fed3e4af009055dbe42d822e626c7269747dad_419279?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1777824000;1778428800&q-key-time=1777824000;1778428800&q-header-list=host&q-url-param-list=&q-signature=21643c7bf05676f1536a47b2a501b088b05aaba9)

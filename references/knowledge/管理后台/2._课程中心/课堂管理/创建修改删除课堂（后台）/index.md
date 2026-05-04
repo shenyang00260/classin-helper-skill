@@ -165,7 +165,7 @@ section: "管理后台"
 设置相关参数
 
 
-![](https://cofile.eeo.cn/res-store%2F46e6ca160881dce31b1f5f1221be0b9f63eb5939bdffcbfdd8428b5b14aa2f0a_931058?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1777219200;1777824000&q-key-time=1777219200;1777824000&q-header-list=host&q-url-param-list=&q-signature=d4a1f2d4cee38aa6315320283ecfa641a4698d5c)
+![](https://cofile.eeo.cn/res-store%2F46e6ca160881dce31b1f5f1221be0b9f63eb5939bdffcbfdd8428b5b14aa2f0a_931058?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1777824000;1778428800&q-key-time=1777824000;1778428800&q-header-list=host&q-url-param-list=&q-signature=f4ab660b8b6e8109bf3a9848e01e3df6dcdb5d92)
 
 
 #### （2）批量创建课堂
@@ -174,7 +174,7 @@ section: "管理后台"
 点击 新建 ＞ 批量创建课堂
 
 
-![](https://cofile.eeo.cn/res-store%2F10040849169192c70c3c50eb7c33e60c8f36844412e40217e667e74b423ee691_1017158?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1777219200;1777824000&q-key-time=1777219200;1777824000&q-header-list=host&q-url-param-list=&q-signature=4ffbae59aedb8dabf6e74e54651e5c054db03c75)
+![](https://cofile.eeo.cn/res-store%2F10040849169192c70c3c50eb7c33e60c8f36844412e40217e667e74b423ee691_1017158?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1777824000;1778428800&q-key-time=1777824000;1778428800&q-header-list=host&q-url-param-list=&q-signature=db708e3fe886848f4eb9a2037e13dc77dace155c)
 
 
 # 二、修改课堂
@@ -243,7 +243,7 @@ section: "管理后台"
 找到需要修改的课堂后，点击右侧 操作 ，选择 编辑课堂
 
 
-![](https://cofile.eeo.cn/res-store%2F3f6bcaee05e790e209ea8971f2fa6513158a55715acbc5a0b6109a337f37adec_1223745?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1777219200;1777824000&q-key-time=1777219200;1777824000&q-header-list=host&q-url-param-list=&q-signature=53679b88d443e92239ab5f4a4dbff01536fdf872)
+![](https://cofile.eeo.cn/res-store%2F3f6bcaee05e790e209ea8971f2fa6513158a55715acbc5a0b6109a337f37adec_1223745?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1777824000;1778428800&q-key-time=1777824000;1778428800&q-header-list=host&q-url-param-list=&q-signature=c36f4bcc198d31896a67163f801a206b76b7001e)
 
 
 #### （2）批量修改课堂
@@ -255,10 +255,10 @@ section: "管理后台"
 或 鼠标悬停在需要修改的课堂后，点击 小铅笔图标 ，打开 批量编辑
 
 
-![](https://cofile.eeo.cn/res-store%2F390c0865e5700e8d55e9ba0e3ab8708f66673daff3fa3fbc951df5d9c4be7ded_999067?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1777219200;1777824000&q-key-time=1777219200;1777824000&q-header-list=host&q-url-param-list=&q-signature=d88931677cb1fcb6621f0fd93edaaf3a8e081308)
+![](https://cofile.eeo.cn/res-store%2F390c0865e5700e8d55e9ba0e3ab8708f66673daff3fa3fbc951df5d9c4be7ded_999067?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1777824000;1778428800&q-key-time=1777824000;1778428800&q-header-list=host&q-url-param-list=&q-signature=8009ef3d72f058f6452fe940b67ef4c7a44dcfa5)
 
 
-![](https://cofile.eeo.cn/res-store%2Fe456f84cbe060b37c36a2c1ea3c75c50a4104e9e8a72cb29bc034efa901f6660_993309?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1777219200;1777824000&q-key-time=1777219200;1777824000&q-header-list=host&q-url-param-list=&q-signature=3294100a34ab722644b60e1ec6710a103b8190a6)
+![](https://cofile.eeo.cn/res-store%2Fe456f84cbe060b37c36a2c1ea3c75c50a4104e9e8a72cb29bc034efa901f6660_993309?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1777824000;1778428800&q-key-time=1777824000;1778428800&q-header-list=host&q-url-param-list=&q-signature=db9b65be5b3ee0dbef92e9ffce2d587de4b16320)
 
 
 # 三、删除课堂
@@ -273,7 +273,7 @@ section: "管理后台"
 找到需要删除的课堂，点击右侧 操作 ，选择 删除课堂
 
 
-![](https://cofile.eeo.cn/res-store%2F085ac792dbd77a8d007e70a7bf076554edf2437b42104fe8e0ee7b30bbb5d0ac_897812?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1777219200;1777824000&q-key-time=1777219200;1777824000&q-header-list=host&q-url-param-list=&q-signature=b057abeda3bffb6ce74b97e1d99370ecfd41a9ef)
+![](https://cofile.eeo.cn/res-store%2F085ac792dbd77a8d007e70a7bf076554edf2437b42104fe8e0ee7b30bbb5d0ac_897812?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1777824000;1778428800&q-key-time=1777824000;1778428800&q-header-list=host&q-url-param-list=&q-signature=07bd18ea92defb1cb566603bb78363cf7d6d5c41)
 
 
 #### （2）批量删除课堂
@@ -282,4 +282,4 @@ section: "管理后台"
 勾选需要删除的课堂，点击 批量操作，选择 批量删除课堂
 
 
-![](https://cofile.eeo.cn/res-store%2F9bac37d88b93e9ced68d077bdf63363b1e2ca5008a9a0a9ced928bf6e1088627_988355?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1777219200;1777824000&q-key-time=1777219200;1777824000&q-header-list=host&q-url-param-list=&q-signature=d95fdf959ac6e5ed7cfdae25a74412d4d4fdad29)
+![](https://cofile.eeo.cn/res-store%2F9bac37d88b93e9ced68d077bdf63363b1e2ca5008a9a0a9ced928bf6e1088627_988355?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1777824000;1778428800&q-key-time=1777824000;1778428800&q-header-list=host&q-url-param-list=&q-signature=3cc8e9d07d312a4c940edb04a8a27c0c00017045)
