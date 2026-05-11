@@ -32,7 +32,7 @@ section: "ClassIn"
 选用教室右侧工具中 鼠标 工具
 
 
-![](https://cofile.eeo.cn/res-store%2Fb5f32149e708b91e530204404db55aa9f833ec2a40a3627a9f625dd294ed3f4a_153657?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1777824000;1778428800&q-key-time=1777824000;1778428800&q-header-list=host&q-url-param-list=&q-signature=6c2676c8bfad63aa5f63bb1c9786cfdab61fbc0c)
+![](https://cofile.eeo.cn/res-store%2Fb5f32149e708b91e530204404db55aa9f833ec2a40a3627a9f625dd294ed3f4a_153657?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1778428800;1779033600&q-key-time=1778428800;1779033600&q-header-list=host&q-url-param-list=&q-signature=c1368b6f4c7d11c23590c0937e86c9c32209d5ab)
 
 
 #### iPad
@@ -41,7 +41,7 @@ section: "ClassIn"
 选用教室左下角工具中 鼠标 工具
 
 
-![](https://cofile.eeo.cn/res-store%2Fcdae41bdb23d0ceb341c6ffb9dcb2787505698b096ff9f14d23a1185ce2f6020_216385?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1777824000;1778428800&q-key-time=1777824000;1778428800&q-header-list=host&q-url-param-list=&q-signature=ff1131ca64bf061286992476f7967d1225e3a049)
+![](https://cofile.eeo.cn/res-store%2Fcdae41bdb23d0ceb341c6ffb9dcb2787505698b096ff9f14d23a1185ce2f6020_216385?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1778428800;1779033600&q-key-time=1778428800;1779033600&q-header-list=host&q-url-param-list=&q-signature=1c1c5c6b9d11afd0ff562f2215dfdec6064d24f5)
 
 
 #### 手机/安卓平板
@@ -50,7 +50,7 @@ section: "ClassIn"
 选用教室右下角工具里 鼠标 工具
 
 
-![](https://cofile.eeo.cn/res-store%2F1a9720c516d255ab125025cf7a6f24de98d6bfe85c5f3d5fd5f597d759e089b3_337898?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1777824000;1778428800&q-key-time=1777824000;1778428800&q-header-list=host&q-url-param-list=&q-signature=f37db1c4a8d233f3f3d209cc311e3dc682d11a1c)
+![](https://cofile.eeo.cn/res-store%2F1a9720c516d255ab125025cf7a6f24de98d6bfe85c5f3d5fd5f597d759e089b3_337898?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1778428800;1779033600&q-key-time=1778428800;1779033600&q-header-list=host&q-url-param-list=&q-signature=2f1f263c802326034f6c5d70ba0412de9dd895e9)
 
 
 # 二、选择/移动
@@ -252,19 +252,19 @@ section: "ClassIn"
 选中元素后可对元素进行 移动 或 二次修改
 
 
-![](https://cofile.eeo.cn/res-store%2F93ed48d1d52b63c38b30d5e0dcf263eabce14dd4508d59172b3d401faccb2154_376955?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1777824000;1778428800&q-key-time=1777824000;1778428800&q-header-list=host&q-url-param-list=&q-signature=919d9fd6dc9847c8362eabc8b68d9447cd3aea3b)
+![](https://cofile.eeo.cn/res-store%2F93ed48d1d52b63c38b30d5e0dcf263eabce14dd4508d59172b3d401faccb2154_376955?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1778428800;1779033600&q-key-time=1778428800;1779033600&q-header-list=host&q-url-param-list=&q-signature=ec03ec865ca22a60e34c127376a70e563608ac90)
 
 
 选用教室左下角工具中 选择/移动 工具
 
 
-![](https://cofile.eeo.cn/res-store%2F116a4f99a2d28e09f15df4a976087a83795934ef00887c9adfca7e82695c4ad8_214109?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1777824000;1778428800&q-key-time=1777824000;1778428800&q-header-list=host&q-url-param-list=&q-signature=823d96989d150b458c60a77a86360f89a852d3bc)
+![](https://cofile.eeo.cn/res-store%2F116a4f99a2d28e09f15df4a976087a83795934ef00887c9adfca7e82695c4ad8_214109?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1778428800;1779033600&q-key-time=1778428800;1779033600&q-header-list=host&q-url-param-list=&q-signature=8f5cbc97aea9e06293ccc37d6309603d270b010b)
 
 
 选用教室右下角工具里 选择/移动 工具
 
 
-![](https://cofile.eeo.cn/res-store%2F7273f40da1942710852ecd3aad7f1cdb4beb41ba588db8f1354b812dc74d7b64_329153?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1777824000;1778428800&q-key-time=1777824000;1778428800&q-header-list=host&q-url-param-list=&q-signature=91a4cf42f4d088ca54d537d916b3af095b0508a6)
+![](https://cofile.eeo.cn/res-store%2F7273f40da1942710852ecd3aad7f1cdb4beb41ba588db8f1354b812dc74d7b64_329153?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1778428800;1779033600&q-key-time=1778428800;1779033600&q-header-list=host&q-url-param-list=&q-signature=bc79cf91004896b54a28be36ebb97309ebc0abf2)
 
 
 # 三、画笔
@@ -339,19 +339,19 @@ section: "ClassIn"
 选用教室右侧工具中 画笔 工具
 
 
-![](https://cofile.eeo.cn/res-store%2Fe6815fbabdf71c9486c73c90df6cb0a9af983b6f5c487af94efe207f414be6a9_404689?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1777824000;1778428800&q-key-time=1777824000;1778428800&q-header-list=host&q-url-param-list=&q-signature=c7fa72aa73bc2428864b91e2ee1dbae30344c94f)
+![](https://cofile.eeo.cn/res-store%2Fe6815fbabdf71c9486c73c90df6cb0a9af983b6f5c487af94efe207f414be6a9_404689?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1778428800;1779033600&q-key-time=1778428800;1779033600&q-header-list=host&q-url-param-list=&q-signature=c88a1a725f6dfb5c9db0a835670fa51be4310746)
 
 
 选用教室左下角工具中 画笔 工具
 
 
-![](https://cofile.eeo.cn/res-store%2F399cb35a20ae46141e219d09be910e3378b6fb8e7f26eddb209a86182a6ef57e_258525?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1777824000;1778428800&q-key-time=1777824000;1778428800&q-header-list=host&q-url-param-list=&q-signature=7075e49f4033c414b2e75b39cec43589d84096e3)
+![](https://cofile.eeo.cn/res-store%2F399cb35a20ae46141e219d09be910e3378b6fb8e7f26eddb209a86182a6ef57e_258525?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1778428800;1779033600&q-key-time=1778428800;1779033600&q-header-list=host&q-url-param-list=&q-signature=7616e3818565840af5023740371e967c9ddb5c35)
 
 
 选用教室右下角工具里 画笔 工具
 
 
-![](https://cofile.eeo.cn/res-store%2F258c3802dacab423aa1a88e0b75d9add91050830ddf59d117dfd31a51e06d0d8_102961?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1777824000;1778428800&q-key-time=1777824000;1778428800&q-header-list=host&q-url-param-list=&q-signature=34825f724ae2fef63b91aa5cf0b71b329332284c)
+![](https://cofile.eeo.cn/res-store%2F258c3802dacab423aa1a88e0b75d9add91050830ddf59d117dfd31a51e06d0d8_102961?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1778428800;1779033600&q-key-time=1778428800;1779033600&q-header-list=host&q-url-param-list=&q-signature=d3bc76707e652428fd4a0a72b628e112ea189f6b)
 
 
 # 四、黑板擦
@@ -381,19 +381,19 @@ section: "ClassIn"
 选用教室右侧工具中 黑板擦 工具
 
 
-![](https://cofile.eeo.cn/res-store%2F821c58442a48eb4f78fc5d3f9c1ff106b0a2a1195c4dcd39622fbaeb33c4142f_161640?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1777824000;1778428800&q-key-time=1777824000;1778428800&q-header-list=host&q-url-param-list=&q-signature=f038fd737d86fe284a54992dc9b91499ff501ffb)
+![](https://cofile.eeo.cn/res-store%2F821c58442a48eb4f78fc5d3f9c1ff106b0a2a1195c4dcd39622fbaeb33c4142f_161640?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1778428800;1779033600&q-key-time=1778428800;1779033600&q-header-list=host&q-url-param-list=&q-signature=8d3e7c676dad7ce6b62eed88c57e22a7199ea75b)
 
 
 选用教室左下角工具中 黑板擦 工具
 
 
-![](https://cofile.eeo.cn/res-store%2F36fb3ccaf6549da279e6cba66cadfd1079a0ea5fbcee09489c0fbeb512ca31c6_253439?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1777824000;1778428800&q-key-time=1777824000;1778428800&q-header-list=host&q-url-param-list=&q-signature=413fd246545a0a5b50ea161d97a2c204dc94abf5)
+![](https://cofile.eeo.cn/res-store%2F36fb3ccaf6549da279e6cba66cadfd1079a0ea5fbcee09489c0fbeb512ca31c6_253439?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1778428800;1779033600&q-key-time=1778428800;1779033600&q-header-list=host&q-url-param-list=&q-signature=4ffe0ae174470d865a721415719cb16103485a8a)
 
 
 选用教室右下角工具里 黑板擦 工具
 
 
-![](https://cofile.eeo.cn/res-store%2Ffd183690e8c1bb81538e7dae1419d984a620a33a6518a511bf83eebe5fa16700_515150?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1777824000;1778428800&q-key-time=1777824000;1778428800&q-header-list=host&q-url-param-list=&q-signature=5f1d54cb6afe77ad2de02fd36e5b83fb0febf45d)
+![](https://cofile.eeo.cn/res-store%2Ffd183690e8c1bb81538e7dae1419d984a620a33a6518a511bf83eebe5fa16700_515150?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1778428800;1779033600&q-key-time=1778428800;1779033600&q-header-list=host&q-url-param-list=&q-signature=bce4fbf78c9fa37e0adfae2dbdbf1c3bed3e04ee)
 
 
 # 五、文本输入
@@ -423,19 +423,19 @@ section: "ClassIn"
 选用教室右侧工具中 文本 工具
 
 
-![](https://cofile.eeo.cn/res-store%2Fa4cc88189a9f6d115e8933a38767017e68113cc841302c06f70749eccb7096a2_83895?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1777824000;1778428800&q-key-time=1777824000;1778428800&q-header-list=host&q-url-param-list=&q-signature=9147ea81db88cbc02d105298c3c0609351c26b01)
+![](https://cofile.eeo.cn/res-store%2Fa4cc88189a9f6d115e8933a38767017e68113cc841302c06f70749eccb7096a2_83895?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1778428800;1779033600&q-key-time=1778428800;1779033600&q-header-list=host&q-url-param-list=&q-signature=cff66d68371ac5ac0094691bf60666c889587c95)
 
 
 选用教室左下角工具中 文本 工具
 
 
-![](https://cofile.eeo.cn/res-store%2F04f0a3e55d6eb3c6ee8972630faf4b492c8fed6582520549c039df54868e7686_133000?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1777824000;1778428800&q-key-time=1777824000;1778428800&q-header-list=host&q-url-param-list=&q-signature=532c36a18978f24e4bac6cc3c9de3b736c3a327e)
+![](https://cofile.eeo.cn/res-store%2F04f0a3e55d6eb3c6ee8972630faf4b492c8fed6582520549c039df54868e7686_133000?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1778428800;1779033600&q-key-time=1778428800;1779033600&q-header-list=host&q-url-param-list=&q-signature=8c398580f59bf4919f8f1939757c6407b92fc8d2)
 
 
 选用教室右下角工具里 文本 工具
 
 
-![](https://cofile.eeo.cn/res-store%2F3e64d1d83f59567c76c7f6f4e233d8ae2a77ee274a5177365c9faea468b4baa5_261366?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1777824000;1778428800&q-key-time=1777824000;1778428800&q-header-list=host&q-url-param-list=&q-signature=a0eef4a34c835a2b73592506d605c481692bffee)
+![](https://cofile.eeo.cn/res-store%2F3e64d1d83f59567c76c7f6f4e233d8ae2a77ee274a5177365c9faea468b4baa5_261366?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1778428800;1779033600&q-key-time=1778428800;1779033600&q-header-list=host&q-url-param-list=&q-signature=47a130c00ca014c8d44c1b2020e6ef6dc9e69d12)
 
 
 # 六、截图
@@ -450,7 +450,7 @@ iPhone、安卓手机、安卓平板中只有“打开本地相册中图片”�
 选用教室右侧工具中 截图 工具
 
 
-![](https://cofile.eeo.cn/res-store%2F1f1c5e31ac46ee77ed890b69d2d2bcaf580eab5c43caad3ea835196204149f06_501634?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1777824000;1778428800&q-key-time=1777824000;1778428800&q-header-list=host&q-url-param-list=&q-signature=d54b9d9553b917cb507872ce50ee9e6841566f67)
+![](https://cofile.eeo.cn/res-store%2F1f1c5e31ac46ee77ed890b69d2d2bcaf580eab5c43caad3ea835196204149f06_501634?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1778428800;1779033600&q-key-time=1778428800;1779033600&q-header-list=host&q-url-param-list=&q-signature=4c87f9e82991b062f187cf080a73b7b55517fa9a)
 
 
 选用教室左下角工具中 截图 工具
@@ -459,13 +459,13 @@ iPhone、安卓手机、安卓平板中只有“打开本地相册中图片”�
 选择 截图 或 上传图片
 
 
-![](https://cofile.eeo.cn/res-store%2Fe7b4c4617a9dc1a8667025d49e434510869f658f1215b0e4ce1997a4856a2769_105170?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1777824000;1778428800&q-key-time=1777824000;1778428800&q-header-list=host&q-url-param-list=&q-signature=55d5c469b5942b605f97a2f21f67b1c5d9355c6b)
+![](https://cofile.eeo.cn/res-store%2Fe7b4c4617a9dc1a8667025d49e434510869f658f1215b0e4ce1997a4856a2769_105170?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1778428800;1779033600&q-key-time=1778428800;1779033600&q-header-list=host&q-url-param-list=&q-signature=5cf5472b61de9d9ef4b4d4fcfe441a948e85ca30)
 
 
 选用教室右下角工具里 拍照/上传相册图片 工具
 
 
-![](https://cofile.eeo.cn/res-store%2Fc7b478beec030d3685bfb67f31a1546c87ec32eb1d292ac564dc58892aa1a9cf_166750?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1777824000;1778428800&q-key-time=1777824000;1778428800&q-header-list=host&q-url-param-list=&q-signature=a30511859eca5a9eb36e2f97225b71368532196a)
+![](https://cofile.eeo.cn/res-store%2Fc7b478beec030d3685bfb67f31a1546c87ec32eb1d292ac564dc58892aa1a9cf_166750?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1778428800;1779033600&q-key-time=1778428800;1779033600&q-header-list=host&q-url-param-list=&q-signature=0423bb19e1b2dfc7c07ac4e4c936b1ea67fd08fe)
 
 
 # 七、激光笔
@@ -486,13 +486,13 @@ iPhone、安卓手机、安卓平板中没有激光笔工具。
 选用教室右侧工具中 激光笔 工具
 
 
-![](https://cofile.eeo.cn/res-store%2F3f8e2c75585e7210ef10761195a2681c7593a329e55d100bd9a1fdb73253249b_271596?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1777824000;1778428800&q-key-time=1777824000;1778428800&q-header-list=host&q-url-param-list=&q-signature=460d29798237fb429d11e3ba50d533d7b0501389)
+![](https://cofile.eeo.cn/res-store%2F3f8e2c75585e7210ef10761195a2681c7593a329e55d100bd9a1fdb73253249b_271596?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1778428800;1779033600&q-key-time=1778428800;1779033600&q-header-list=host&q-url-param-list=&q-signature=75624f004387f1a710706e1bbf426be9b799c41c)
 
 
 选用教室左下角工具中 激光笔 工具
 
 
-![](https://cofile.eeo.cn/res-store%2F2e490fcb5c661d2a22372a5b9250f87d3ed48fe03e8c59432a6e7c9f704d7819_506573?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1777824000;1778428800&q-key-time=1777824000;1778428800&q-header-list=host&q-url-param-list=&q-signature=b69a33c6adeb263c33afc2e3c416a5f1e0e0fa90)
+![](https://cofile.eeo.cn/res-store%2F2e490fcb5c661d2a22372a5b9250f87d3ed48fe03e8c59432a6e7c9f704d7819_506573?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1778428800;1779033600&q-key-time=1778428800;1779033600&q-header-list=host&q-url-param-list=&q-signature=f8aeb87aca2c139bb22b733c7dfdaafdbf5499f4)
 
 
 # 八、云盘空间
@@ -516,13 +516,13 @@ iPhone、安卓手机、安卓平板中没有激光笔工具。
 资源中心课件：打开云盘，进入 资源中心 ，进入 我的资源 ，打开从资源中心里获取的课件
 
 
-![](https://cofile.eeo.cn/res-store%2Fbd184bfd3efd6bd8ccdb505ff7e893fc5fa375b69f6562be21e9193994dbee47_106418?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1777824000;1778428800&q-key-time=1777824000;1778428800&q-header-list=host&q-url-param-list=&q-signature=877d46a51077cdead2fb68a6c520e04c8be3aa0b)
+![](https://cofile.eeo.cn/res-store%2Fbd184bfd3efd6bd8ccdb505ff7e893fc5fa375b69f6562be21e9193994dbee47_106418?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1778428800;1779033600&q-key-time=1778428800;1779033600&q-header-list=host&q-url-param-list=&q-signature=0c0267d3579a8ea7dbabc6d7f0f2ea50589f6c29)
 
 
-![](https://cofile.eeo.cn/res-store%2F984d947c35f7eb361f6fddc967121330097063d952b54271344b8a5ad0da91fe_232005?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1777824000;1778428800&q-key-time=1777824000;1778428800&q-header-list=host&q-url-param-list=&q-signature=e43c0165d393cc0f2e2b709bc94d8581fc7c97fa)
+![](https://cofile.eeo.cn/res-store%2F984d947c35f7eb361f6fddc967121330097063d952b54271344b8a5ad0da91fe_232005?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1778428800;1779033600&q-key-time=1778428800;1779033600&q-header-list=host&q-url-param-list=&q-signature=2b32e9ce21951aeb0bbf573d9edacf87472bd3f1)
 
 
-![](https://cofile.eeo.cn/res-store%2Fdc637b09cba5d3d197aa04ff8f8be03a745725c099b2f66d9ec82e8709ab95d6_300233?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1777824000;1778428800&q-key-time=1777824000;1778428800&q-header-list=host&q-url-param-list=&q-signature=bb6dd7a50a5fecf5ebc279377a65d296f6cb80e9)
+![](https://cofile.eeo.cn/res-store%2Fdc637b09cba5d3d197aa04ff8f8be03a745725c099b2f66d9ec82e8709ab95d6_300233?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1778428800;1779033600&q-key-time=1778428800;1779033600&q-header-list=host&q-url-param-list=&q-signature=cb0421b6507c019aa8b2604c625bfb93bd31f39b)
 
 
 # 九、LMS
@@ -555,7 +555,7 @@ iPhone、安卓手机、安卓平板中没有课堂LMS功能。
 创建“测验”
 
 
-![](https://cofile.eeo.cn/res-store%2Fe01a94e77b8c1b8103c26564a0a8f44226d90e3da5d248ad685c90970b496b3c_187040?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1777824000;1778428800&q-key-time=1777824000;1778428800&q-header-list=host&q-url-param-list=&q-signature=eb69257a3695f72f7716aa0467a658e6f23667e8)
+![](https://cofile.eeo.cn/res-store%2Fe01a94e77b8c1b8103c26564a0a8f44226d90e3da5d248ad685c90970b496b3c_187040?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1778428800;1779033600&q-key-time=1778428800;1779033600&q-header-list=host&q-url-param-list=&q-signature=77c3278b85c892b6076cea48c2807cee61b61342)
 
 
 # 十、课堂笔记
@@ -585,7 +585,7 @@ iPhone、安卓手机、安卓平板中没有课堂LMS功能。
 打开教室右侧工具中 课堂笔记 工具
 
 
-![](https://cofile.eeo.cn/res-store%2F5609ad2af759a103d142181560e56354ba26b046e2c927240ce8702218f7b211_202299?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1777824000;1778428800&q-key-time=1777824000;1778428800&q-header-list=host&q-url-param-list=&q-signature=f5015fb13eb18ce91d93ac3a25f0af34ef2b7466)
+![](https://cofile.eeo.cn/res-store%2F5609ad2af759a103d142181560e56354ba26b046e2c927240ce8702218f7b211_202299?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1778428800;1779033600&q-key-time=1778428800;1779033600&q-header-list=host&q-url-param-list=&q-signature=0ecd7227d5ce07c873b5406784029d065d4ba27d)
 
 
 # 十一、聊天工具
@@ -612,16 +612,16 @@ iPhone、安卓手机、安卓平板中没有课堂LMS功能。
 打开教室右侧工具中 聊天 工具
 
 
-![](https://cofile.eeo.cn/res-store%2F10e7d21a6f4cae02f9823708ea4629ffd3947e2ad0add0f55c330be8e1fb680a_96754?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1777824000;1778428800&q-key-time=1777824000;1778428800&q-header-list=host&q-url-param-list=&q-signature=0ac1f59d5cbdc834d6f54703b3878892673d5272)
+![](https://cofile.eeo.cn/res-store%2F10e7d21a6f4cae02f9823708ea4629ffd3947e2ad0add0f55c330be8e1fb680a_96754?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1778428800;1779033600&q-key-time=1778428800;1779033600&q-header-list=host&q-url-param-list=&q-signature=a14781fe49af933d7ff201a25d6593bc9f150fe6)
 
 
 打开教室右下角工具中 聊天 工具
 
 
-![](https://cofile.eeo.cn/res-store%2F02c997ce9babefe4103039c6f521e02cace7c804af360b68a66f8436a4e94ae5_181312?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1777824000;1778428800&q-key-time=1777824000;1778428800&q-header-list=host&q-url-param-list=&q-signature=3f1e1f13312595f1caf6d1c367df546d14650076)
+![](https://cofile.eeo.cn/res-store%2F02c997ce9babefe4103039c6f521e02cace7c804af360b68a66f8436a4e94ae5_181312?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1778428800;1779033600&q-key-time=1778428800;1779033600&q-header-list=host&q-url-param-list=&q-signature=52e3c7a0cbc1675025525c8554d22e5b078acd02)
 
 
-![](https://cofile.eeo.cn/res-store%2F3081f1f9570e9bdd2b06a3b1e3e5579fe05229b08025603fc7b3ff0c5eb79603_83513?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1777824000;1778428800&q-key-time=1777824000;1778428800&q-header-list=host&q-url-param-list=&q-signature=674598fa66370d031aaa11ea9b1e838ed936600f)
+![](https://cofile.eeo.cn/res-store%2F3081f1f9570e9bdd2b06a3b1e3e5579fe05229b08025603fc7b3ff0c5eb79603_83513?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1778428800;1779033600&q-key-time=1778428800;1779033600&q-header-list=host&q-url-param-list=&q-signature=d8492354158a1c014cbf0716178a08ab5567a820)
 
 
 # 十二、花名册
@@ -675,10 +675,10 @@ iPhone、安卓手机、安卓平板中没有课堂LMS功能。
 ### 工具展示
 
 
-![](https://cofile.eeo.cn/res-store%2F42aa5b426e636e22aa3dae4a89da0dc5b2c729036d2c9b341c7b5bc108a601b0_129709?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1777824000;1778428800&q-key-time=1777824000;1778428800&q-header-list=host&q-url-param-list=&q-signature=a2d5b8237143a6c40c12228f22b941721e70527d)
+![](https://cofile.eeo.cn/res-store%2F42aa5b426e636e22aa3dae4a89da0dc5b2c729036d2c9b341c7b5bc108a601b0_129709?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1778428800;1779033600&q-key-time=1778428800;1779033600&q-header-list=host&q-url-param-list=&q-signature=b3d080ec354eb7387936ce392649c2b04a122229)
 
 
-![](https://cofile.eeo.cn/res-store%2Fdedcc4677cde0ad3659d52a5aa36e73a3a948b2a913bfc5d847cb23eb5400aad_222047?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1777824000;1778428800&q-key-time=1777824000;1778428800&q-header-list=host&q-url-param-list=&q-signature=82eb618348bb7a8d9f7507c0bdf9fb4662dd7992)
+![](https://cofile.eeo.cn/res-store%2Fdedcc4677cde0ad3659d52a5aa36e73a3a948b2a913bfc5d847cb23eb5400aad_222047?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1778428800;1779033600&q-key-time=1778428800;1779033600&q-header-list=host&q-url-param-list=&q-signature=677976ce90970e04c8a21ad341f1f6ac9ed60017)
 
 
 手机/安卓平板
@@ -687,4 +687,4 @@ iPhone、安卓手机、安卓平板中没有课堂LMS功能。
 #### 注：安卓系统和鸿蒙系统的手机或平板里，教室中是没有轮播功能的。
 
 
-![](https://cofile.eeo.cn/res-store%2F7843aef76dc637bb7513c0c2d2151e9a6f6b54629f46f7794fb7ca38ee940f26_307858?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1777824000;1778428800&q-key-time=1777824000;1778428800&q-header-list=host&q-url-param-list=&q-signature=4625782d4b9507b52cef5cfb8097f330ff8dc362)
+![](https://cofile.eeo.cn/res-store%2F7843aef76dc637bb7513c0c2d2151e9a6f6b54629f46f7794fb7ca38ee940f26_307858?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1778428800;1779033600&q-key-time=1778428800;1779033600&q-header-list=host&q-url-param-list=&q-signature=d8c7b79b70b1bb8a5624a775ac55fc792aa17331)

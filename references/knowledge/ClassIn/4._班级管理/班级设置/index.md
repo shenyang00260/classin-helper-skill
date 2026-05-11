@@ -44,7 +44,7 @@ section: "ClassIn"
 在 班级设置 中再次点击 班级名称 修改班级封面和班级名称
 
 
-![](https://cofile.eeo.cn/res-store%2Fac273d4be5c6e252a7840ee573249552812dd0f8211d11655cdf1a501f386640_772985?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1777824000;1778428800&q-key-time=1777824000;1778428800&q-header-list=host&q-url-param-list=&q-signature=ae591dd6c3b5b5a7ad32f4f0154fcd6b8541b64c)
+![](https://cofile.eeo.cn/res-store%2Fac273d4be5c6e252a7840ee573249552812dd0f8211d11655cdf1a501f386640_772985?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1778428800;1779033600&q-key-time=1778428800;1779033600&q-header-list=host&q-url-param-list=&q-signature=d3efce22a58e3b4061b43e7864c348168b67bb2b)
 
 
 #### 手机
@@ -59,7 +59,7 @@ section: "ClassIn"
 在 班级设置 中再次点击 班级名称 右侧 ＞ 修改班级封面或班级名称
 
 
-![](https://cofile.eeo.cn/res-store%2F185d1066f4517a00f397b6e6a94b71fe5b3e13054db75e0a59a64a01768c6856_260885?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1777824000;1778428800&q-key-time=1777824000;1778428800&q-header-list=host&q-url-param-list=&q-signature=6fb3bca000a40474db55ed5047f38e82b2795c4f)
+![](https://cofile.eeo.cn/res-store%2F185d1066f4517a00f397b6e6a94b71fe5b3e13054db75e0a59a64a01768c6856_260885?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1778428800;1779033600&q-key-time=1778428800;1779033600&q-header-list=host&q-url-param-list=&q-signature=d19c122c35528f3b2c62019f0eebf01ec3ac3cb2)
 
 
 # 二、班级介绍和班级备注
@@ -92,13 +92,13 @@ section: "ClassIn"
 在 班级设置 中修改 班级介绍 或 班级备注
 
 
-![](https://cofile.eeo.cn/res-store%2F3813fd1515d4581766c4aaf1d03bc25fc257773f76a4866b03a0c2623eee8578_364879?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1777824000;1778428800&q-key-time=1777824000;1778428800&q-header-list=host&q-url-param-list=&q-signature=a45c04197ca39d6d203b246c1171bd64bfd316e8)
+![](https://cofile.eeo.cn/res-store%2F3813fd1515d4581766c4aaf1d03bc25fc257773f76a4866b03a0c2623eee8578_364879?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1778428800;1779033600&q-key-time=1778428800;1779033600&q-header-list=host&q-url-param-list=&q-signature=ad65262aa73b39035a14c15348ba7449a1e7edda)
 
 
 在 班级设置 中修改 班级介绍 或 班级备注
 
 
-![](https://cofile.eeo.cn/res-store%2F4f348fbfbffb743ae7a7c64d89b6a7ba0bc6a9ca5b449e525c786b181af11314_1360328?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1777824000;1778428800&q-key-time=1777824000;1778428800&q-header-list=host&q-url-param-list=&q-signature=b78aef4c1c46755428a0871f9cb1a75f2f7a387e)
+![](https://cofile.eeo.cn/res-store%2F4f348fbfbffb743ae7a7c64d89b6a7ba0bc6a9ca5b449e525c786b181af11314_1360328?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1778428800;1779033600&q-key-time=1778428800;1779033600&q-header-list=host&q-url-param-list=&q-signature=6bfa36b41941d46ee47344a4b8390107615e41b3)
 
 
 # 三、班级头图
@@ -122,7 +122,7 @@ section: "ClassIn"
 点击 替换图片 更换班级头图
 
 
-![](https://cofile.eeo.cn/res-store%2Fecd1f7940babbbd03fd149f5f32ca8b21bc6c08e2d9c30367d3d8eed58f6e8d2_526797?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1777824000;1778428800&q-key-time=1777824000;1778428800&q-header-list=host&q-url-param-list=&q-signature=443d897c9bb791ce6e211c55fb7019571a33976d)
+![](https://cofile.eeo.cn/res-store%2Fecd1f7940babbbd03fd149f5f32ca8b21bc6c08e2d9c30367d3d8eed58f6e8d2_526797?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1778428800;1779033600&q-key-time=1778428800;1779033600&q-header-list=host&q-url-param-list=&q-signature=0b26c1c489104e4b9a7e3344a1b049ffb36687f8)
 
 
 # 四、开放加入班级
@@ -140,13 +140,13 @@ section: "ClassIn"
 开启/关闭 开放加入班级
 
 
-![](https://cofile.eeo.cn/res-store%2F89c7e56f16f95abf81341949c2a4f6b94e6b4e6b86d4e7a8a3b2aa9b84f94137_326347?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1777824000;1778428800&q-key-time=1777824000;1778428800&q-header-list=host&q-url-param-list=&q-signature=edc5f7d7dc63ce4231737ff15e98fbbd35468aea)
+![](https://cofile.eeo.cn/res-store%2F89c7e56f16f95abf81341949c2a4f6b94e6b4e6b86d4e7a8a3b2aa9b84f94137_326347?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1778428800;1779033600&q-key-time=1778428800;1779033600&q-header-list=host&q-url-param-list=&q-signature=5f934639e0c7e6581a5fa0dd55df9515bfe6cd4d)
 
 
 开启/关闭 开放加入班级
 
 
-![](https://cofile.eeo.cn/res-store%2F56712ff783597669fb9d94f092aae789e0f91cbaba58c61dcaafe3ced769afc5_302013?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1777824000;1778428800&q-key-time=1777824000;1778428800&q-header-list=host&q-url-param-list=&q-signature=f0d5f2942c0d5833aae99c2a1200587c277f97b0)
+![](https://cofile.eeo.cn/res-store%2F56712ff783597669fb9d94f092aae789e0f91cbaba58c61dcaafe3ced769afc5_302013?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1778428800;1779033600&q-key-time=1778428800;1779033600&q-header-list=host&q-url-param-list=&q-signature=3a38c85556a69d9f2408a058dca9178ed04a5d01)
 
 
 # 五、分享页面中显示班级报名入口
@@ -161,7 +161,7 @@ section: "ClassIn"
 开启/关闭 分享页面显示加入班级入口
 
 
-![](https://cofile.eeo.cn/res-store%2F80419527a51f9917ca562be59e2afaa0cc1be58aa661110d252e2ef47c9abaec_332028?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1777824000;1778428800&q-key-time=1777824000;1778428800&q-header-list=host&q-url-param-list=&q-signature=4b7dc115470bec7a13fc65a849feb192a06d2cfd)
+![](https://cofile.eeo.cn/res-store%2F80419527a51f9917ca562be59e2afaa0cc1be58aa661110d252e2ef47c9abaec_332028?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1778428800;1779033600&q-key-time=1778428800;1779033600&q-header-list=host&q-url-param-list=&q-signature=d0c7f964a47ac6a4bc9f37fc90b0629e18363d18)
 
 
 点击 班级管理
@@ -170,7 +170,7 @@ section: "ClassIn"
 开启/关闭 分享页面显示加入班级入口
 
 
-![](https://cofile.eeo.cn/res-store%2F25b668885170368980853b53ddc53028074d043f982b1ba84d39892e238bcc6d_307796?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1777824000;1778428800&q-key-time=1777824000;1778428800&q-header-list=host&q-url-param-list=&q-signature=27855efdfacc31e02ca31b508bfcdaeaaebd8498)
+![](https://cofile.eeo.cn/res-store%2F25b668885170368980853b53ddc53028074d043f982b1ba84d39892e238bcc6d_307796?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1778428800;1779033600&q-key-time=1778428800;1779033600&q-header-list=host&q-url-param-list=&q-signature=df63c320bbec6d837517748f7f7c6253eac196cb)
 
 
 # 六、学生修改班级昵称
@@ -185,13 +185,13 @@ section: "ClassIn"
 开启/关闭 学生修改班级昵称
 
 
-![](https://cofile.eeo.cn/res-store%2F2da9033f2850da681977cf132d4161b4c822fe6f89803ef34eed225ae1641566_331809?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1777824000;1778428800&q-key-time=1777824000;1778428800&q-header-list=host&q-url-param-list=&q-signature=13c7d029ebbe61412485bfd45e9f49cc1f9c83d1)
+![](https://cofile.eeo.cn/res-store%2F2da9033f2850da681977cf132d4161b4c822fe6f89803ef34eed225ae1641566_331809?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1778428800;1779033600&q-key-time=1778428800;1779033600&q-header-list=host&q-url-param-list=&q-signature=f7aa4e921eabb947caa50f208421098a4efc144d)
 
 
 开启/关闭 学生修改班级昵称
 
 
-![](https://cofile.eeo.cn/res-store%2F7a27e68c9de7632cec64792d438e5a9d23189445c6acee75bb5509657f08be68_307142?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1777824000;1778428800&q-key-time=1777824000;1778428800&q-header-list=host&q-url-param-list=&q-signature=69abdc0200daac59e5c56055526e7fb9931660ac)
+![](https://cofile.eeo.cn/res-store%2F7a27e68c9de7632cec64792d438e5a9d23189445c6acee75bb5509657f08be68_307142?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1778428800;1779033600&q-key-time=1778428800;1779033600&q-header-list=host&q-url-param-list=&q-signature=268ded372a3145ce869a58ed54eb2848dd143456)
 
 
 # 七、班级成员可互相添加好友
@@ -206,13 +206,13 @@ section: "ClassIn"
 开启/关闭 班级成员可互相添加好友
 
 
-![](https://cofile.eeo.cn/res-store%2F8bb7cc7a556ad39547b502d201e09bff03dac1eef691af73f996a37cba17cd12_333291?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1777824000;1778428800&q-key-time=1777824000;1778428800&q-header-list=host&q-url-param-list=&q-signature=2f0eb745d3e95d587e8667a7a73470f56ed386f6)
+![](https://cofile.eeo.cn/res-store%2F8bb7cc7a556ad39547b502d201e09bff03dac1eef691af73f996a37cba17cd12_333291?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1778428800;1779033600&q-key-time=1778428800;1779033600&q-header-list=host&q-url-param-list=&q-signature=08675a6b65bc3b5a9a7930d614709a5e8d740c1f)
 
 
 开启/关闭 班级成员可互相添加好友
 
 
-![](https://cofile.eeo.cn/res-store%2F628860495f3af0a4df8302b89709ba6ab70068c3110145b4ecb5cb2ae5025369_309644?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1777824000;1778428800&q-key-time=1777824000;1778428800&q-header-list=host&q-url-param-list=&q-signature=1c6c8f46bf80837e7685ca5fc6a3d1ff641600a2)
+![](https://cofile.eeo.cn/res-store%2F628860495f3af0a4df8302b89709ba6ab70068c3110145b4ecb5cb2ae5025369_309644?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1778428800;1779033600&q-key-time=1778428800;1779033600&q-header-list=host&q-url-param-list=&q-signature=71456578766ac0746c27575ed0f2d2bc90eed4ce)
 
 
 # 八、允许教师新建课堂
@@ -236,13 +236,13 @@ section: "ClassIn"
 开启/关闭 允许教师新建课堂
 
 
-![](https://cofile.eeo.cn/res-store%2F35db0a88708a96bde44c72e60fcd3ab959be5ecded34d9a6a9742520d6dab6f2_438410?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1777824000;1778428800&q-key-time=1777824000;1778428800&q-header-list=host&q-url-param-list=&q-signature=6b215edf3dbe6dce0720a7ff89875dbf12ddc1fb)
+![](https://cofile.eeo.cn/res-store%2F35db0a88708a96bde44c72e60fcd3ab959be5ecded34d9a6a9742520d6dab6f2_438410?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1778428800;1779033600&q-key-time=1778428800;1779033600&q-header-list=host&q-url-param-list=&q-signature=ecb121d27192844d8e11fd0e6dacfc3f9a8b7e8c)
 
 
 开启/关闭 允许教师新建课堂
 
 
-![](https://cofile.eeo.cn/res-store%2F941e32936aae8ce0fc1d3561c5445f2cb981761b41947cc53e399917f38e60b7_302264?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1777824000;1778428800&q-key-time=1777824000;1778428800&q-header-list=host&q-url-param-list=&q-signature=59349cf66165bcea715ebefca69f8d17386067c8)
+![](https://cofile.eeo.cn/res-store%2F941e32936aae8ce0fc1d3561c5445f2cb981761b41947cc53e399917f38e60b7_302264?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1778428800;1779033600&q-key-time=1778428800;1779033600&q-header-list=host&q-url-param-list=&q-signature=c328e8f7a245f4f56db79990cfb1696d6848c657)
 
 
 # 九、允许离开班级的学生或班级解散后，可查看课程内容
@@ -260,13 +260,13 @@ section: "ClassIn"
 开启/关闭 允许离开班级的学生或班级解散后，可查看课程内容
 
 
-![](https://cofile.eeo.cn/res-store%2F99ca9f9f5060160e922374c3ceed0e11f54ea9f7777b2aaa298dba1d50b6e3d6_451357?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1777824000;1778428800&q-key-time=1777824000;1778428800&q-header-list=host&q-url-param-list=&q-signature=5009e4ce4c7eafdca2cff983aaf842024ed4f708)
+![](https://cofile.eeo.cn/res-store%2F99ca9f9f5060160e922374c3ceed0e11f54ea9f7777b2aaa298dba1d50b6e3d6_451357?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1778428800;1779033600&q-key-time=1778428800;1779033600&q-header-list=host&q-url-param-list=&q-signature=ae3374739409f4d1bad2a00c617b2ca7eed13606)
 
 
 开启/关闭 允许离开班级的学生或班级解散后，可查看课程内容
 
 
-![](https://cofile.eeo.cn/res-store%2F93fb54a1588afa0ad048c8c4b3390c3438cfa8ddf6ed58e3379c4d4db827601d_317552?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1777824000;1778428800&q-key-time=1777824000;1778428800&q-header-list=host&q-url-param-list=&q-signature=4e6ae4c41f83907303c84cab74bd86af630bbc0c)
+![](https://cofile.eeo.cn/res-store%2F93fb54a1588afa0ad048c8c4b3390c3438cfa8ddf6ed58e3379c4d4db827601d_317552?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1778428800;1779033600&q-key-time=1778428800;1779033600&q-header-list=host&q-url-param-list=&q-signature=58985d12101a29257b7d7f77a5be4019fc4617b4)
 
 
 # 十、班级免打扰设置
@@ -287,13 +287,13 @@ section: "ClassIn"
 开启/关闭：待办通知免打扰
 
 
-![](https://cofile.eeo.cn/res-store%2Fd45bee094fb8dc63125ffe630f2bdaba7758e582c2c2ede07966afbd52604996_310724?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1777824000;1778428800&q-key-time=1777824000;1778428800&q-header-list=host&q-url-param-list=&q-signature=9e7f528092394037837df2d3e77acb46780bfaf2)
+![](https://cofile.eeo.cn/res-store%2Fd45bee094fb8dc63125ffe630f2bdaba7758e582c2c2ede07966afbd52604996_310724?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1778428800;1779033600&q-key-time=1778428800;1779033600&q-header-list=host&q-url-param-list=&q-signature=7effa1a465156fb1a3f414ec84ebae273ccb8910)
 
 
 开启/关闭 待办
 
 
-![](https://cofile.eeo.cn/res-store%2Fea6293beac6c4f4bff3af98464d46eea3def5a7c7e5b944e0724f1ada467a9db_1558846?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1777824000;1778428800&q-key-time=1777824000;1778428800&q-header-list=host&q-url-param-list=&q-signature=3ce247759adbea277c1fb6d07a156c25f2735fd1)
+![](https://cofile.eeo.cn/res-store%2Fea6293beac6c4f4bff3af98464d46eea3def5a7c7e5b944e0724f1ada467a9db_1558846?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1778428800;1779033600&q-key-time=1778428800;1779033600&q-header-list=host&q-url-param-list=&q-signature=26ba5aff42484957cdf48a7ae8882513ed705a7a)
 
 
 ## 2、公告通知免打扰
@@ -305,13 +305,13 @@ section: "ClassIn"
 开启/关闭：公告通知免打扰
 
 
-![](https://cofile.eeo.cn/res-store%2Fce626070aa41f6747a88f22a5ffc1d27264f4f527db6f9738a5ab1b6b82723cc_313041?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1777824000;1778428800&q-key-time=1777824000;1778428800&q-header-list=host&q-url-param-list=&q-signature=79891ab3a783429fc0f16055c90872c23a489123)
+![](https://cofile.eeo.cn/res-store%2Fce626070aa41f6747a88f22a5ffc1d27264f4f527db6f9738a5ab1b6b82723cc_313041?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1778428800;1779033600&q-key-time=1778428800;1779033600&q-header-list=host&q-url-param-list=&q-signature=87069ad5dc5e38bd3f5f8b840048850f556a90f4)
 
 
 开启/关闭 公告
 
 
-![](https://cofile.eeo.cn/res-store%2F9a9e21eb04379794db13b15e8397eb5cd1813e0f22528ba31a01bdc8bf915635_1582855?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1777824000;1778428800&q-key-time=1777824000;1778428800&q-header-list=host&q-url-param-list=&q-signature=3f64515994f64f0ebe91568f6a7e3974d0df23d5)
+![](https://cofile.eeo.cn/res-store%2F9a9e21eb04379794db13b15e8397eb5cd1813e0f22528ba31a01bdc8bf915635_1582855?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1778428800;1779033600&q-key-time=1778428800;1779033600&q-header-list=host&q-url-param-list=&q-signature=ac493d882cada8fa0dde145f29cd44c469a33876)
 
 
 ## 3、共创通知免打扰
@@ -323,13 +323,13 @@ section: "ClassIn"
 开启/关闭：共创通知免打扰
 
 
-![](https://cofile.eeo.cn/res-store%2Fa00593ec91cbd0bcbba008584c834faeff57814e684cb55fc60a2ccad8bf9051_311718?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1777824000;1778428800&q-key-time=1777824000;1778428800&q-header-list=host&q-url-param-list=&q-signature=712ce22d6e6a921f1e31cfa22a104ded94ce1a42)
+![](https://cofile.eeo.cn/res-store%2Fa00593ec91cbd0bcbba008584c834faeff57814e684cb55fc60a2ccad8bf9051_311718?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1778428800;1779033600&q-key-time=1778428800;1779033600&q-header-list=host&q-url-param-list=&q-signature=b46ab9e79ac1d72a79d5b0725e652ec7f98434a1)
 
 
 开启/关闭 共创
 
 
-![](https://cofile.eeo.cn/res-store%2Fc14bbd6571c18b115a11f53f33751efbe5f4f34a07367f730b81ed711d638a14_1584535?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1777824000;1778428800&q-key-time=1777824000;1778428800&q-header-list=host&q-url-param-list=&q-signature=ce77fe01db2cac012a5b2713f5b472d13f7ec424)
+![](https://cofile.eeo.cn/res-store%2Fc14bbd6571c18b115a11f53f33751efbe5f4f34a07367f730b81ed711d638a14_1584535?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1778428800;1779033600&q-key-time=1778428800;1779033600&q-header-list=host&q-url-param-list=&q-signature=394a54c4296781deb9d87c5439bb2f2abcfad196)
 
 
 ## 4、聊天通知免打扰
@@ -341,10 +341,10 @@ section: "ClassIn"
 开启/关闭：聊天通知免打扰
 
 
-![](https://cofile.eeo.cn/res-store%2F4ee818e75d1af6731d99cdb57636eef7c49057430f6c7b612477a6b24f3786ce_315739?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1777824000;1778428800&q-key-time=1777824000;1778428800&q-header-list=host&q-url-param-list=&q-signature=5df6e7f2e0903eac9a35c1c390864bd292a0bc3a)
+![](https://cofile.eeo.cn/res-store%2F4ee818e75d1af6731d99cdb57636eef7c49057430f6c7b612477a6b24f3786ce_315739?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1778428800;1779033600&q-key-time=1778428800;1779033600&q-header-list=host&q-url-param-list=&q-signature=24e257faea0edc880dd6165edbdbfef98f843940)
 
 
 开启/关闭 聊天
 
 
-![](https://cofile.eeo.cn/res-store%2F48bb5530741a76b225d552f0463436b06b8d492d43672ccc7f05703819239c00_1578296?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1777824000;1778428800&q-key-time=1777824000;1778428800&q-header-list=host&q-url-param-list=&q-signature=7f5ccd69763e75c3c0ef906a32032c44aea38a97)
+![](https://cofile.eeo.cn/res-store%2F48bb5530741a76b225d552f0463436b06b8d492d43672ccc7f05703819239c00_1578296?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1778428800;1779033600&q-key-time=1778428800;1779033600&q-header-list=host&q-url-param-list=&q-signature=e211f5bc916658ada5ce32777cfdfd2f8a306637)
