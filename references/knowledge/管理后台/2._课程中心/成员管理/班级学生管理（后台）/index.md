@@ -56,7 +56,7 @@ section: "管理后台"
 点击 设置班级学生
 
 
-![](https://cofile.eeo.cn/res-store%2F316eb17fc3a5f7f4484f572d4273629ba3ee4dfd7c972b72f6ae222b0bb0e57a_566600?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1777824000;1778428800&q-key-time=1777824000;1778428800&q-header-list=host&q-url-param-list=&q-signature=b88294e29422c079d59cfeebdde94def33ec3fcb)
+![](https://cofile.eeo.cn/res-store%2F316eb17fc3a5f7f4484f572d4273629ba3ee4dfd7c972b72f6ae222b0bb0e57a_566600?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1779033600;1779638400&q-key-time=1779033600;1779638400&q-header-list=host&q-url-param-list=&q-signature=6b1d7d9d028a212a0a220ca7b3decec645df469d)
 
 
 # 二、复制其他班级学生
@@ -86,7 +86,7 @@ section: "管理后台"
 点击 复制班级学生
 
 
-![](https://cofile.eeo.cn/res-store%2Fa47714fb4f54699dccb31979dfca695695a6cad105ac5868225afc77eda71505_580660?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1777824000;1778428800&q-key-time=1777824000;1778428800&q-header-list=host&q-url-param-list=&q-signature=e33f635b8fd4971b06d9e1c6313496b1d37c6b94)
+![](https://cofile.eeo.cn/res-store%2Fa47714fb4f54699dccb31979dfca695695a6cad105ac5868225afc77eda71505_580660?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1779033600;1779638400&q-key-time=1779033600;1779638400&q-header-list=host&q-url-param-list=&q-signature=bb9b3551510110febedebd673d5a1be3d9de4a06)
 
 
 # 三、修改班级学生
@@ -98,7 +98,7 @@ section: "管理后台"
 右上角新增或删除学生
 
 
-![](https://cofile.eeo.cn/res-store%2Fb5e367561cd84b13c6e2e0ac20e81921442377a71632522b526794705bc57aac_581520?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1777824000;1778428800&q-key-time=1777824000;1778428800&q-header-list=host&q-url-param-list=&q-signature=c628753294f7539ddbc778d56245382527df1af5)
+![](https://cofile.eeo.cn/res-store%2Fb5e367561cd84b13c6e2e0ac20e81921442377a71632522b526794705bc57aac_581520?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1779033600;1779638400&q-key-time=1779033600;1779638400&q-header-list=host&q-url-param-list=&q-signature=381816f1787a048289ec408df39aed87d7a31660)
 
 
 # 四、删除班级学生
@@ -107,4 +107,4 @@ section: "管理后台"
 移除单个学生或勾选多个学生后点击批量操作选择批量移除学生
 
 
-![](https://cofile.eeo.cn/res-store%2F8b252e5a6cbfc5f479d9080b6102999e4874bd5f77ed95dfa6e80d0f638bd7ef_555525?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1777824000;1778428800&q-key-time=1777824000;1778428800&q-header-list=host&q-url-param-list=&q-signature=d760440e0ce2144ed5789928760a0f451e81f2f1)
+![](https://cofile.eeo.cn/res-store%2F8b252e5a6cbfc5f479d9080b6102999e4874bd5f77ed95dfa6e80d0f638bd7ef_555525?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1779033600;1779638400&q-key-time=1779033600;1779638400&q-header-list=host&q-url-param-list=&q-signature=25a18334a2d809c9082452f0056e49947f1d200a)

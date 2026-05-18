@@ -47,4 +47,4 @@ section: "管理后台"
 在 直播数据展示设置 中，勾选对外展示的数据
 
 
-![](https://cofile.eeo.cn/res-store%2F8711e7b4917f08748e48d703b467b96c02991a2e8cbc29b6cf212cffb597fec9_797032?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1778428800;1779033600&q-key-time=1778428800;1779033600&q-header-list=host&q-url-param-list=&q-signature=91eb03ce54d549b2c3bd76950200929e1fa07c30)
+![](https://cofile.eeo.cn/res-store%2F8711e7b4917f08748e48d703b467b96c02991a2e8cbc29b6cf212cffb597fec9_797032?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1779033600;1779638400&q-key-time=1779033600;1779638400&q-header-list=host&q-url-param-list=&q-signature=9a3ccb571bc8101c5b24c3988bae47f68acf3015)

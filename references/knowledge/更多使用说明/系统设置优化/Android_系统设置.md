@@ -14,13 +14,13 @@ section: "更多使用说明"
 ### 1.1 小米设备
 
 
-![](https://cofile.eeo.cn/res-store%2F1394e42c78d0853efc552e279fb7ff1a3f5dc27b2e0d11f8fadaa449a3498a64_5510333?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1778428800;1779033600&q-key-time=1778428800;1779033600&q-header-list=host&q-url-param-list=&q-signature=76ce313ea6a584f94f5414643e59cb89b6037ac6)
+![](https://cofile.eeo.cn/res-store%2F1394e42c78d0853efc552e279fb7ff1a3f5dc27b2e0d11f8fadaa449a3498a64_5510333?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1779033600;1779638400&q-key-time=1779033600;1779638400&q-header-list=host&q-url-param-list=&q-signature=af822f4f119aa77dff1e0db09f5b40fd7d332c47)
 
 
 ### 1.2 华为设备
 
 
-![](https://cofile.eeo.cn/res-store%2Fc7b4acd4d1f273ead83f83654b5e46e007baef5be37f5a7e9a3bac95ad871bcf_1295162?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1778428800;1779033600&q-key-time=1778428800;1779033600&q-header-list=host&q-url-param-list=&q-signature=6ef9ce4ea7d7c4f6ce067bc49784839961209461)
+![](https://cofile.eeo.cn/res-store%2Fc7b4acd4d1f273ead83f83654b5e46e007baef5be37f5a7e9a3bac95ad871bcf_1295162?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1779033600;1779638400&q-key-time=1779033600;1779638400&q-header-list=host&q-url-param-list=&q-signature=df02b16d807f191ccdca3730bb7f67bfdab7b694)
 
 
 ## 二、修改DNS
@@ -29,13 +29,13 @@ section: "更多使用说明"
 ### 2.1 小米设备
 
 
-![](https://cofile.eeo.cn/res-store%2F0a0e4d8315483088e0f01852542b34be7bf249c07d1f7cbd1f1281ac6ddd568f_5994881?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1778428800;1779033600&q-key-time=1778428800;1779033600&q-header-list=host&q-url-param-list=&q-signature=6d9b8d6bdd11be61f15fa48c04d706967b2ce37d)
+![](https://cofile.eeo.cn/res-store%2F0a0e4d8315483088e0f01852542b34be7bf249c07d1f7cbd1f1281ac6ddd568f_5994881?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1779033600;1779638400&q-key-time=1779033600;1779638400&q-header-list=host&q-url-param-list=&q-signature=7ab56188769e622327dd77d71984ac2712db65c2)
 
 
 ### 2.2 华为设备
 
 
-![](https://cofile.eeo.cn/res-store%2Fa414b9a8b3ff680fafe81872f37e1495bc97d43076cf9cff201caffbc0323027_1575861?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1778428800;1779033600&q-key-time=1778428800;1779033600&q-header-list=host&q-url-param-list=&q-signature=1ae4578b83001e3b801975995f93f12082708d98)
+![](https://cofile.eeo.cn/res-store%2Fa414b9a8b3ff680fafe81872f37e1495bc97d43076cf9cff201caffbc0323027_1575861?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1779033600;1779638400&q-key-time=1779033600;1779638400&q-header-list=host&q-url-param-list=&q-signature=019a756c2f8ddb0dbfb71856a457c6473214880f)
 
 
 ## 三、开启网络热点
@@ -44,19 +44,19 @@ section: "更多使用说明"
 ### 3.1 小米设备
 
 
-![](https://cofile.eeo.cn/res-store%2F6051212035a6fb4fd808658e6a3d8ac06ce172593d5b1cb4c13096d19d5f0bac_5975478?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1778428800;1779033600&q-key-time=1778428800;1779033600&q-header-list=host&q-url-param-list=&q-signature=b721068e20c67dfc258771bd79facfeddcfde8da)
+![](https://cofile.eeo.cn/res-store%2F6051212035a6fb4fd808658e6a3d8ac06ce172593d5b1cb4c13096d19d5f0bac_5975478?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1779033600;1779638400&q-key-time=1779033600;1779638400&q-header-list=host&q-url-param-list=&q-signature=d5398aec4db808c55b4fa043b0c4cea54bf7d908)
 
 
 ### 3.2 华为设备
 
 
-![](https://cofile.eeo.cn/res-store%2F2bdb38951d8cb54068d060f988ed683bc80973a14c38000bc9ca5bc2c0a685bd_1190604?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1778428800;1779033600&q-key-time=1778428800;1779033600&q-header-list=host&q-url-param-list=&q-signature=ca9314b31cb57d41f2c353f8640df24ace4f7eb7)
+![](https://cofile.eeo.cn/res-store%2F2bdb38951d8cb54068d060f988ed683bc80973a14c38000bc9ca5bc2c0a685bd_1190604?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1779033600;1779638400&q-key-time=1779033600;1779638400&q-header-list=host&q-url-param-list=&q-signature=0b043339b5efa5833bf188ff542915f5970bd1fa)
 
 
 ## 四、允许访问存储
 
 
-![](https://cofile.eeo.cn/res-store%2F6f6c403b22e0b75672bb0761713186f006327561c6e1eb4c91dd40fe26ca2c0e_1399162?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1778428800;1779033600&q-key-time=1778428800;1779033600&q-header-list=host&q-url-param-list=&q-signature=6265467901f883c6163c27b123a529e30e41c768)
+![](https://cofile.eeo.cn/res-store%2F6f6c403b22e0b75672bb0761713186f006327561c6e1eb4c91dd40fe26ca2c0e_1399162?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1779033600;1779638400&q-key-time=1779033600;1779638400&q-header-list=host&q-url-param-list=&q-signature=d1cf749ed17d7799ebf4676d6d2de1d1f497031f)
 
 
 ## 五、允许安装应用
@@ -68,7 +68,7 @@ section: "更多使用说明"
 安装classin提示需要进行授权时，点击允许后系统会自动跳转到安装外部来源应用设置界面，开启允许安装应用功能即可（灰色按钮为关闭状态，绿色按钮为开启状态）
 
 
-![](https://cofile.eeo.cn/res-store%2F711c13cd40abb400b31b86b44ddc903e645e22ec702166551cef0041eba2204d_114331?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1778428800;1779033600&q-key-time=1778428800;1779033600&q-header-list=host&q-url-param-list=&q-signature=ad1ac45c7898caf6a0f688ccc53e052f4950787c)
+![](https://cofile.eeo.cn/res-store%2F711c13cd40abb400b31b86b44ddc903e645e22ec702166551cef0041eba2204d_114331?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1779033600;1779638400&q-key-time=1779033600;1779638400&q-header-list=host&q-url-param-list=&q-signature=69cb312b063be578d5fd041a4929e785f00dd3e2)
 
 
 ### 5.2 方法二
@@ -77,7 +77,7 @@ section: "更多使用说明"
 安装classin提示需要进行授权时，弹出提示无直接跳转按钮时，可直接打开手机设置，进入应用，在应用中搜索ClassIn，进入ClassIn应用信息中，进入权限，点击进入应用内安装其他应用，勾选允许
 
 
-![](https://cofile.eeo.cn/res-store%2F8c23f6c4f45ffb45f10358df1aa1a7b77e1bd1b9e016037d466d9c2b19cc2fd0_356427?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1778428800;1779033600&q-key-time=1778428800;1779033600&q-header-list=host&q-url-param-list=&q-signature=7f747f8c6720514106a51f8692010d229a29b577)
+![](https://cofile.eeo.cn/res-store%2F8c23f6c4f45ffb45f10358df1aa1a7b77e1bd1b9e016037d466d9c2b19cc2fd0_356427?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1779033600;1779638400&q-key-time=1779033600;1779638400&q-header-list=host&q-url-param-list=&q-signature=38518d616591c09fd99d9e3f1094073447247035)
 
 
 ## 六、授权麦克风
@@ -86,7 +86,7 @@ section: "更多使用说明"
 ### 6.1 华为设备
 
 
-![](https://cofile.eeo.cn/res-store%2F089defa4d4c2963b1426b8290bc50cded04fa7b0e44e3f1409d0c21cb0977eca_3239502?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1778428800;1779033600&q-key-time=1778428800;1779033600&q-header-list=host&q-url-param-list=&q-signature=fe27961b248ce2a31cab878fee42b44cc01b7559)
+![](https://cofile.eeo.cn/res-store%2F089defa4d4c2963b1426b8290bc50cded04fa7b0e44e3f1409d0c21cb0977eca_3239502?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1779033600;1779638400&q-key-time=1779033600;1779638400&q-header-list=host&q-url-param-list=&q-signature=c69fc5ddfff1d24697dab49bd2e1203c5161a3f5)
 
 
 ## 七、授权摄像头
@@ -95,4 +95,4 @@ section: "更多使用说明"
 ### 7.1 华为设备
 
 
-![](https://cofile.eeo.cn/res-store%2Fac97bc4a51fe5497fcb799a289802b7e554ac7699203a7d8f275472d1dbf316a_3222602?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1778428800;1779033600&q-key-time=1778428800;1779033600&q-header-list=host&q-url-param-list=&q-signature=3a414796f9da16f9ac4d7fbd29fd88da5d0f46b2)
+![](https://cofile.eeo.cn/res-store%2Fac97bc4a51fe5497fcb799a289802b7e554ac7699203a7d8f275472d1dbf316a_3222602?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1779033600;1779638400&q-key-time=1779033600;1779638400&q-header-list=host&q-url-param-list=&q-signature=50f82bf4c916ccdfd93c4333a1b2f6676cc677ca)
