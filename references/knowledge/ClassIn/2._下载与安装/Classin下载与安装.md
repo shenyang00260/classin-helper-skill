@@ -32,7 +32,7 @@ section: "ClassIn"
 在 设备规格 中，查看CPU型号、内存和操作系统。
 
 
-![](https://cofile.eeo.cn/res-store%2F6c0ba30a2c29f907481639d7fcac2d07657379063c7731a076f9d9feb5e90b35_892437?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1779638400;1780243200&q-key-time=1779638400;1780243200&q-header-list=host&q-url-param-list=&q-signature=04c39b446a36bf55e53c7b4279016eade04c486a)
+![](https://cofile.eeo.cn/res-store%2F6c0ba30a2c29f907481639d7fcac2d07657379063c7731a076f9d9feb5e90b35_892437?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1780243200;1780848000&q-key-time=1780243200;1780848000&q-header-list=host&q-url-param-list=&q-signature=f36f4eebd641920d34e1f4d55b9462fad4a8611d)
 
 
 ### （2）查看配置表
@@ -173,7 +173,7 @@ Classin支持的操作系统包括：Windows 7、Windows 8、Windows 10、Window
 按提示步骤安装Classin
 
 
-![](https://cofile.eeo.cn/res-store%2F700f387e666f14a2aad8c88a200c4d19e4b42493af5b23654e71802e6baab6fc_516474?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1779638400;1780243200&q-key-time=1779638400;1780243200&q-header-list=host&q-url-param-list=&q-signature=0b4055dbe3b0c8be30c9161d1e84787b6b186b9e)
+![](https://cofile.eeo.cn/res-store%2F700f387e666f14a2aad8c88a200c4d19e4b42493af5b23654e71802e6baab6fc_516474?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1780243200;1780848000&q-key-time=1780243200;1780848000&q-header-list=host&q-url-param-list=&q-signature=c70b5e2a573eb4080bdf6aba8297cbda45a2d812)
 
 
 # 二、Mac 安装 Classin
@@ -197,7 +197,7 @@ Classin支持的操作系统包括：Windows 7、Windows 8、Windows 10、Window
 查看CPU型号
 
 
-![](https://cofile.eeo.cn/res-store%2F2910229de3e8dc38f748ea122fe95ca3f0016f263bc74ff8c2d4db656ee8251a_2594456?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1779638400;1780243200&q-key-time=1779638400;1780243200&q-header-list=host&q-url-param-list=&q-signature=e606e94d4a0c5e056bb9880d0d421df0856fcf71)
+![](https://cofile.eeo.cn/res-store%2F2910229de3e8dc38f748ea122fe95ca3f0016f263bc74ff8c2d4db656ee8251a_2594456?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1780243200;1780848000&q-key-time=1780243200;1780848000&q-header-list=host&q-url-param-list=&q-signature=7a4684c2c119d2977bafb81cf5a8c42eb67756fc)
 
 
 ### （2）自查CPU芯片型号
@@ -215,7 +215,7 @@ Classin支持的操作系统包括：Windows 7、Windows 8、Windows 10、Window
 在关于本机界面中 处理器 一栏右侧查看内存，系统版本，CPU芯片型号
 
 
-![](https://cofile.eeo.cn/res-store%2F2d253d122ed30a5098760d26b6d726c5958bd20605c7d3e4d37e2c7f0750154e_468319?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1779638400;1780243200&q-key-time=1779638400;1780243200&q-header-list=host&q-url-param-list=&q-signature=a9ca18f21f4dfa134ac455e374b7a56702a9c633)
+![](https://cofile.eeo.cn/res-store%2F2d253d122ed30a5098760d26b6d726c5958bd20605c7d3e4d37e2c7f0750154e_468319?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1780243200;1780848000&q-key-time=1780243200;1780848000&q-header-list=host&q-url-param-list=&q-signature=951433c248d65a9a20dd8a9a0e8edf638e9f93c7)
 
 
 ### （3）查看配置表
@@ -278,7 +278,7 @@ macOS10.13及以上的系统支持下载ClassIn。由于目前市面上的Mac电
 等待首次验证，然后在弹出的提示中点击 打开
 
 
-![](https://cofile.eeo.cn/res-store%2F2a329a83198014196bd331d7b968a7c2c375d25716271ad79d792530382f6305_753216?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1779638400;1780243200&q-key-time=1779638400;1780243200&q-header-list=host&q-url-param-list=&q-signature=4331d8e5fa77fd1760045be4f974f30f087e678d)
+![](https://cofile.eeo.cn/res-store%2F2a329a83198014196bd331d7b968a7c2c375d25716271ad79d792530382f6305_753216?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1780243200;1780848000&q-key-time=1780243200;1780848000&q-header-list=host&q-url-param-list=&q-signature=2b92d7e98cb90ae44d353158139c68c89d366cae)
 
 
 #### Apple芯片下载安装Classin
@@ -290,7 +290,7 @@ macOS10.13及以上的系统支持下载ClassIn。由于目前市面上的Mac电
 将左侧Classin图标拖进右侧Applications文件夹中，并等待Classin拷贝完成
 
 
-![](https://cofile.eeo.cn/res-store%2F446eef78239c7fc3c7c8bd338e3b635e5196ffd138080af832470c8a9fd40ff6_804696?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1779638400;1780243200&q-key-time=1779638400;1780243200&q-header-list=host&q-url-param-list=&q-signature=1440290fe00a1e5fa9d8ad6e4ec6b4294ef8a19a)
+![](https://cofile.eeo.cn/res-store%2F446eef78239c7fc3c7c8bd338e3b635e5196ffd138080af832470c8a9fd40ff6_804696?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1780243200;1780848000&q-key-time=1780243200;1780848000&q-header-list=host&q-url-param-list=&q-signature=7639fb6dad193182a6e01307733a4cc70d749128)
 
 
 # 三、iPhone/iPad 安装 Classin
@@ -410,7 +410,7 @@ iPad mini 5 及以上
 点击右侧 获取
 
 
-![](https://cofile.eeo.cn/res-store%2F3dab7ff0f41b326a1620a30446d480d747d27e40dc1b8bcc55961af703a7d8ac_283439?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1779638400;1780243200&q-key-time=1779638400;1780243200&q-header-list=host&q-url-param-list=&q-signature=2bf56a3468701d70035b4a40942969d81ca1082b)
+![](https://cofile.eeo.cn/res-store%2F3dab7ff0f41b326a1620a30446d480d747d27e40dc1b8bcc55961af703a7d8ac_283439?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1780243200;1780848000&q-key-time=1780243200;1780848000&q-header-list=host&q-url-param-list=&q-signature=e8318e015ece60ef90349a61bd386e53658d58e6)
 
 
 # 四、安卓手机/平板 安装 Classin
@@ -541,4 +541,4 @@ Harmony OS：2.0或更高
 点击右侧 安装
 
 
-![](https://cofile.eeo.cn/res-store%2F806c51e81e52f479f0f5ce7cd7b024b33f49ca8d7912a6256aff5110b63b4ed4_234077?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1779638400;1780243200&q-key-time=1779638400;1780243200&q-header-list=host&q-url-param-list=&q-signature=7c8e23239f347e5f24a969d4baf112f9b4d35712)
+![](https://cofile.eeo.cn/res-store%2F806c51e81e52f479f0f5ce7cd7b024b33f49ca8d7912a6256aff5110b63b4ed4_234077?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1780243200;1780848000&q-key-time=1780243200;1780848000&q-header-list=host&q-url-param-list=&q-signature=020970038f99593ed5698bb091b6bb348492a3cc)
