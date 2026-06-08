@@ -164,7 +164,7 @@ section: "管理后台"
 点击 确定
 
 
-![](https://cofile.eeo.cn/res-store%2Ff00ddb47077fdb19b008f720b8c01a555246c5c87d2aa62b1e1d532774d508d9_313018?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1780243200;1780848000&q-key-time=1780243200;1780848000&q-header-list=host&q-url-param-list=&q-signature=e17bd3c752049c1380f3ba95ee33624de1914378)
+![](https://cofile.eeo.cn/res-store%2Ff00ddb47077fdb19b008f720b8c01a555246c5c87d2aa62b1e1d532774d508d9_313018?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1780848000;1781452800&q-key-time=1780848000;1781452800&q-header-list=host&q-url-param-list=&q-signature=793a9f0f9ed19c372a7adcb310542344f24c357b)
 
 
 # 二、修改班级
@@ -194,7 +194,7 @@ section: "管理后台"
 进入 设置 修改班级
 
 
-![](https://cofile.eeo.cn/res-store%2F7f402cd528a8c0eeb034969933fb6c71c4ec91f57cd280aad013420bbc557bf8_475420?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1780243200;1780848000&q-key-time=1780243200;1780848000&q-header-list=host&q-url-param-list=&q-signature=cf8bbedda7cc6fbc3a89d7313d1a8aca781b56a7)
+![](https://cofile.eeo.cn/res-store%2F7f402cd528a8c0eeb034969933fb6c71c4ec91f57cd280aad013420bbc557bf8_475420?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1780848000;1781452800&q-key-time=1780848000;1781452800&q-header-list=host&q-url-param-list=&q-signature=bd373c1084eaf076bf82ca21ee75a81c5e05058e)
 
 
 # 三、班级结课
@@ -230,7 +230,7 @@ section: "管理后台"
 找到班级后，点击右侧 结课
 
 
-![](https://cofile.eeo.cn/res-store%2F0d764e33394d67da1ae3b34d21e736cce77e70ceec0ace99f2302788a6384d60_257909?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1780243200;1780848000&q-key-time=1780243200;1780848000&q-header-list=host&q-url-param-list=&q-signature=56a883cc9525e5284f48d2a7ec5555721d8cf396)
+![](https://cofile.eeo.cn/res-store%2F0d764e33394d67da1ae3b34d21e736cce77e70ceec0ace99f2302788a6384d60_257909?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1780848000;1781452800&q-key-time=1780848000;1781452800&q-header-list=host&q-url-param-list=&q-signature=6af3687510ed530d489f80d35dfd9b8077a34b5b)
 
 
 #### （2）批量结课
@@ -239,4 +239,4 @@ section: "管理后台"
 勾选多个班级，点击 批量操作，选择 批量结课
 
 
-![](https://cofile.eeo.cn/res-store%2Fb35bb964d14592e41fc9f5013b8cbc6db51f42a48e275a37e82529d9f9edb327_252201?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1780243200;1780848000&q-key-time=1780243200;1780848000&q-header-list=host&q-url-param-list=&q-signature=c3945f6d6664a03053dd6b3964bc0c447fdefe49)
+![](https://cofile.eeo.cn/res-store%2Fb35bb964d14592e41fc9f5013b8cbc6db51f42a48e275a37e82529d9f9edb327_252201?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1780848000;1781452800&q-key-time=1780848000;1781452800&q-header-list=host&q-url-param-list=&q-signature=71c32f316ab717364d6018d7945f8d5a353c96ee)

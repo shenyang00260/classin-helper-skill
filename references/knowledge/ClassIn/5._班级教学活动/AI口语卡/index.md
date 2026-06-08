@@ -17,7 +17,7 @@ section: "ClassIn"
 在英语教育培训行业中，听、读、说、写四大重要学习系统中，阅读和口语的客观评分或评价一直是个难题。因为它们涉及到发音、词汇、语调、语法和流畅度等多个因素，人工评分不仅工作负荷大，对评分者的体力和脑力也是巨大挑战。此外，由于评分者的状态不同，评分结果也会有波动，从而增加机构的运营成本。AI口语评测可以全面提升学生的口语能力，同时为教师的批阅工作带来高效和省时的解决方案。
 
 
-![](https://cofile.eeo.cn/res-store%2F44116e3e7839d71ae10595770fc5d17e1b561418625c75e35207fb6566a48174_900994?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1780243200;1780848000&q-key-time=1780243200;1780848000&q-header-list=host&q-url-param-list=&q-signature=3dfa801cfde6bb8aa79948c46d00902df165161d)
+![](https://cofile.eeo.cn/res-store%2F44116e3e7839d71ae10595770fc5d17e1b561418625c75e35207fb6566a48174_900994?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1780848000;1781452800&q-key-time=1780848000;1781452800&q-header-list=host&q-url-param-list=&q-signature=2ded64113acc865ac771a60135d92093b8b4920e)
 
 
 # 二、创建「AI口语卡」
@@ -152,7 +152,7 @@ section: "ClassIn"
 创建 AI口语卡
 
 
-![](https://cofile.eeo.cn/res-store%2Fa3dcede03017504d67b578763bfc4002491801502c5de8e9d64fa0a84b249d14_1675552?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1780243200;1780848000&q-key-time=1780243200;1780848000&q-header-list=host&q-url-param-list=&q-signature=79b9123b6e05402f78798ce5d034abc8084c43ab)
+![](https://cofile.eeo.cn/res-store%2Fa3dcede03017504d67b578763bfc4002491801502c5de8e9d64fa0a84b249d14_1675552?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1780848000;1781452800&q-key-time=1780848000;1781452800&q-header-list=host&q-url-param-list=&q-signature=c784ccffe860e4cd25feb53c689668757ad3b89d)
 
 
 # 三、修改「AI口语卡」
@@ -176,7 +176,7 @@ section: "ClassIn"
 找到AI口语卡，点击「···」 ，然后选择 编辑
 
 
-![](https://cofile.eeo.cn/res-store%2F89bd7e5423cd532140f01124873e8de487f1fb5e159a51c95676e75c1d3ad226_3080809?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1780243200;1780848000&q-key-time=1780243200;1780848000&q-header-list=host&q-url-param-list=&q-signature=564841e2ff0f7f1fa9c22dfdfce1745bff166352)
+![](https://cofile.eeo.cn/res-store%2F89bd7e5423cd532140f01124873e8de487f1fb5e159a51c95676e75c1d3ad226_3080809?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1780848000;1781452800&q-key-time=1780848000;1781452800&q-header-list=host&q-url-param-list=&q-signature=a9d599393a37930138e8c94bfd7841b3c126daf0)
 
 
 # 四、删除「AI口语卡」
@@ -191,7 +191,7 @@ section: "ClassIn"
 找到AI口语卡，点击「···」 ，然后选择 删除
 
 
-![](https://cofile.eeo.cn/res-store%2Fa0266f6d29bd169c4b3045b05a9737605e0587a8677bada4c9248fcd26ee42e9_430910?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1780243200;1780848000&q-key-time=1780243200;1780848000&q-header-list=host&q-url-param-list=&q-signature=891a4c50ea13b7c0ca4928eb174591046ea7c41e)
+![](https://cofile.eeo.cn/res-store%2Fa0266f6d29bd169c4b3045b05a9737605e0587a8677bada4c9248fcd26ee42e9_430910?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1780848000;1781452800&q-key-time=1780848000;1781452800&q-header-list=host&q-url-param-list=&q-signature=788410b8e98c0b7a2012c53d64099fcef90b2829)
 
 
 #### 手机
@@ -212,7 +212,7 @@ section: "ClassIn"
 选择 删除
 
 
-![](https://cofile.eeo.cn/res-store%2F07c42ecc1a1cd62b73306ef0320d076ee761c5def4811742df5e5e861b00b1a8_1651252?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1780243200;1780848000&q-key-time=1780243200;1780848000&q-header-list=host&q-url-param-list=&q-signature=f3e037d3ccb7bd7c8023edcdb599d75877cbb02f)
+![](https://cofile.eeo.cn/res-store%2F07c42ecc1a1cd62b73306ef0320d076ee761c5def4811742df5e5e861b00b1a8_1651252?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1780848000;1781452800&q-key-time=1780848000;1781452800&q-header-list=host&q-url-param-list=&q-signature=c3b21e59ee39b7620603f4e2f4abc029e12ddec6)
 
 
 # 五、结束「AI口语卡」
@@ -224,13 +224,13 @@ section: "ClassIn"
 找到AI口语卡，点击「···」 ，然后选择 立即结束
 
 
-![](https://cofile.eeo.cn/res-store%2F7cff10fae5a4f8200a544e58ab9a91979479ffba2ebcdffd36c07277f410a58c_445353?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1780243200;1780848000&q-key-time=1780243200;1780848000&q-header-list=host&q-url-param-list=&q-signature=3f88fa0a8b5d2917ac31b26b1a875a0d4b77ad79)
+![](https://cofile.eeo.cn/res-store%2F7cff10fae5a4f8200a544e58ab9a91979479ffba2ebcdffd36c07277f410a58c_445353?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1780848000;1781452800&q-key-time=1780848000;1781452800&q-header-list=host&q-url-param-list=&q-signature=5d1c97af13a11b1bf73c56c61dc5158901988a60)
 
 
 选择 立即结束
 
 
-![](https://cofile.eeo.cn/res-store%2F2d4921ab80594d2e0dbd167477f2abbf5ee7e8fdbedb97c11059e56bcf47211a_1651160?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1780243200;1780848000&q-key-time=1780243200;1780848000&q-header-list=host&q-url-param-list=&q-signature=5f347556663aed06ce0809b661baf698890de8f0)
+![](https://cofile.eeo.cn/res-store%2F2d4921ab80594d2e0dbd167477f2abbf5ee7e8fdbedb97c11059e56bcf47211a_1651160?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1780848000;1781452800&q-key-time=1780848000;1781452800&q-header-list=host&q-url-param-list=&q-signature=86c0f0adf410a77fcb0c6bc29929405b8b1decc8)
 
 
 # 六、复制「AI口语卡」
@@ -245,7 +245,7 @@ section: "ClassIn"
 找到AI口语卡，点击「···」，选择 复制活动
 
 
-![](https://cofile.eeo.cn/res-store%2F82481d20cf79156841b8e9625f483d30ab0228177514e7b7bf1a113c8eab4533_442233?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1780243200;1780848000&q-key-time=1780243200;1780848000&q-header-list=host&q-url-param-list=&q-signature=ba7f68db693f417fa5af6ad10a68347d14c07d3d)
+![](https://cofile.eeo.cn/res-store%2F82481d20cf79156841b8e9625f483d30ab0228177514e7b7bf1a113c8eab4533_442233?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1780848000;1781452800&q-key-time=1780848000;1781452800&q-header-list=host&q-url-param-list=&q-signature=4e3dd9d7ec29d033a3c1f36cc317ed2aea18d592)
 
 
 # 七、分享「AI口语卡」
@@ -272,10 +272,10 @@ section: "ClassIn"
 选择分享方式
 
 
-![](https://cofile.eeo.cn/res-store%2Fcc878cf0b455585520fca0bdad004667e3e9d1069090c791f36222599c84c70d_1651033?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1780243200;1780848000&q-key-time=1780243200;1780848000&q-header-list=host&q-url-param-list=&q-signature=c25567dd45d54139137b4329d7c81d29a654311e)
+![](https://cofile.eeo.cn/res-store%2Fcc878cf0b455585520fca0bdad004667e3e9d1069090c791f36222599c84c70d_1651033?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1780848000;1781452800&q-key-time=1780848000;1781452800&q-header-list=host&q-url-param-list=&q-signature=d468f44ee770be22620cc2383895a1afc416b9fe)
 
 
-![](https://cofile.eeo.cn/res-store%2Ff49fa2914be9233942e103fb95ec330674869eb79b4dfea5a0097b9f61771fab_447057?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1780243200;1780848000&q-key-time=1780243200;1780848000&q-header-list=host&q-url-param-list=&q-signature=39138645b01c6521313c344ed1607d566e746712)
+![](https://cofile.eeo.cn/res-store%2Ff49fa2914be9233942e103fb95ec330674869eb79b4dfea5a0097b9f61771fab_447057?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1780848000;1781452800&q-key-time=1780848000;1781452800&q-header-list=host&q-url-param-list=&q-signature=2e83e0be7efa3a038030f6040a1b3aeba496d96c)
 
 
 # 八、提醒学生朗读「AI口语卡」
@@ -302,10 +302,10 @@ section: "ClassIn"
 点击 通知提醒
 
 
-![](https://cofile.eeo.cn/res-store%2Ff48b104e3b56e90f0e21f7959ec2c3123fcf5985de32343abe503f43516df45b_1649446?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1780243200;1780848000&q-key-time=1780243200;1780848000&q-header-list=host&q-url-param-list=&q-signature=16c1fa806816925d807a03f5c22c7724b45d8d3b)
+![](https://cofile.eeo.cn/res-store%2Ff48b104e3b56e90f0e21f7959ec2c3123fcf5985de32343abe503f43516df45b_1649446?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1780848000;1781452800&q-key-time=1780848000;1781452800&q-header-list=host&q-url-param-list=&q-signature=0c272bd34cacb7c7805103d8b6b16328179bf99a)
 
 
-![](https://cofile.eeo.cn/res-store%2F18943e3509e0a63ab1b1c4ee7c2406a9ba8ca1ad8c6765079e7af8e2ba6f343f_571975?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1780243200;1780848000&q-key-time=1780243200;1780848000&q-header-list=host&q-url-param-list=&q-signature=01dfd273fb31065549d506a0471c3538f795091b)
+![](https://cofile.eeo.cn/res-store%2F18943e3509e0a63ab1b1c4ee7c2406a9ba8ca1ad8c6765079e7af8e2ba6f343f_571975?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1780848000;1781452800&q-key-time=1780848000;1781452800&q-header-list=host&q-url-param-list=&q-signature=0f24745ad8713f4eb6efe6595e61c80bc21bcc66)
 
 
 # 九、学生提交「AI口语卡」
@@ -317,7 +317,7 @@ section: "ClassIn"
 学生在AI口语卡朗读界面中，可以查看题目，在每道题中可以播放系统音频，可以自行朗读录音，朗读完其中的某道题目后，系统会自动给出星级评价，并用颜色标出读得不准确的词汇（红色代表较差或漏读，黄色代表良好，绿色代表优秀，参考下图），也支持播放自己朗读的音频，另外学生还可以选择重新录制或继续录制下一道题目。
 
 
-![](https://cofile.eeo.cn/res-store%2Fe1da3cbb6235dbe7792aa58365b453aefb2b6d7cf05f01a850fdb1bca787080e_1731624?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1780243200;1780848000&q-key-time=1780243200;1780848000&q-header-list=host&q-url-param-list=&q-signature=eb9e977872d6dbeabeb46e937aae45b2bd355515)
+![](https://cofile.eeo.cn/res-store%2Fe1da3cbb6235dbe7792aa58365b453aefb2b6d7cf05f01a850fdb1bca787080e_1731624?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1780848000;1781452800&q-key-time=1780848000;1781452800&q-header-list=host&q-url-param-list=&q-signature=c0003ff3a4c65124d65b3e2d66f963bf1aaa137b)
 
 
 学生如果没有提交AI口语卡就退出了朗读页面，系统会保留之前的朗读记录，以便学生下次记录朗读后面的题目。
@@ -344,13 +344,13 @@ section: "ClassIn"
 完成所有朗读后，点击 提交
 
 
-![](https://cofile.eeo.cn/res-store%2F713b491056b76360dcef8df180744d619fdc2b2c786ddf3339c5ea368fc19232_559848?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1780243200;1780848000&q-key-time=1780243200;1780848000&q-header-list=host&q-url-param-list=&q-signature=7f71fbc281bc06f2f82cc313ab9db7987a3f071f)
+![](https://cofile.eeo.cn/res-store%2F713b491056b76360dcef8df180744d619fdc2b2c786ddf3339c5ea368fc19232_559848?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1780848000;1781452800&q-key-time=1780848000;1781452800&q-header-list=host&q-url-param-list=&q-signature=58775c953d64f71587336e45d463ecbc5c3695a3)
 
 
 朗读完本题后，向左 滑动切换 到下一道题目中
 
 
-![](https://cofile.eeo.cn/res-store%2Fe1da3cbb6235dbe7792aa58365b453aefb2b6d7cf05f01a850fdb1bca787080e_1731624?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1780243200;1780848000&q-key-time=1780243200;1780848000&q-header-list=host&q-url-param-list=&q-signature=eb9e977872d6dbeabeb46e937aae45b2bd355515)
+![](https://cofile.eeo.cn/res-store%2Fe1da3cbb6235dbe7792aa58365b453aefb2b6d7cf05f01a850fdb1bca787080e_1731624?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1780848000;1781452800&q-key-time=1780848000;1781452800&q-header-list=host&q-url-param-list=&q-signature=c0003ff3a4c65124d65b3e2d66f963bf1aaa137b)
 
 
 # 十、学生再次提交「AI口语卡」
@@ -365,10 +365,10 @@ section: "ClassIn"
 点击 再读一次
 
 
-![](https://cofile.eeo.cn/res-store%2Fea35cca54296b5ca8f2e6899297e1a0646881e8e41b66c75729d6bccbd60048f_13719?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1780243200;1780848000&q-key-time=1780243200;1780848000&q-header-list=host&q-url-param-list=&q-signature=d591d1a2d0dd1196291eafeb6992e3a809fd746b)
+![](https://cofile.eeo.cn/res-store%2Fea35cca54296b5ca8f2e6899297e1a0646881e8e41b66c75729d6bccbd60048f_13719?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1780848000;1781452800&q-key-time=1780848000;1781452800&q-header-list=host&q-url-param-list=&q-signature=7bb899b99c0892627e3d5a2eff9472b4fe564e1e)
 
 
-![](https://cofile.eeo.cn/res-store%2F90d99b4d95167488a7e5ac072acd147cf146b47e623648a0ed19cdd0598b88d6_1197931?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1780243200;1780848000&q-key-time=1780243200;1780848000&q-header-list=host&q-url-param-list=&q-signature=b7491c19b0a8c88482106faae765da1f3cfff732)
+![](https://cofile.eeo.cn/res-store%2F90d99b4d95167488a7e5ac072acd147cf146b47e623648a0ed19cdd0598b88d6_1197931?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1780848000;1781452800&q-key-time=1780848000;1781452800&q-header-list=host&q-url-param-list=&q-signature=a0c37613a4d53dbf63112b1ea42c34db3675830a)
 
 
 ## 2、提交被打回订正的AI口语卡
@@ -383,10 +383,10 @@ section: "ClassIn"
 点击 去订正
 
 
-![](https://cofile.eeo.cn/res-store%2Fd2ab97d682f94dc1f43d98bacff41653e44c63be5cb4b981f73338cb9993ce87_3451575?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1780243200;1780848000&q-key-time=1780243200;1780848000&q-header-list=host&q-url-param-list=&q-signature=52181de9d7cc8bf69dc7f3b908cdf11a90b08e27)
+![](https://cofile.eeo.cn/res-store%2Fd2ab97d682f94dc1f43d98bacff41653e44c63be5cb4b981f73338cb9993ce87_3451575?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1780848000;1781452800&q-key-time=1780848000;1781452800&q-header-list=host&q-url-param-list=&q-signature=f320611275d1a712d0ba910995e66d7f0232ab66)
 
 
-![](https://cofile.eeo.cn/res-store%2Fdd2b6330a0d705e2764d91a5641e87fc7a342dcda1d1b6aeba545d3f8fb780cf_524328?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1780243200;1780848000&q-key-time=1780243200;1780848000&q-header-list=host&q-url-param-list=&q-signature=54a968f7a119d6fe29446f759ac060e5a48da196)
+![](https://cofile.eeo.cn/res-store%2Fdd2b6330a0d705e2764d91a5641e87fc7a342dcda1d1b6aeba545d3f8fb780cf_524328?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1780848000;1781452800&q-key-time=1780848000;1781452800&q-header-list=host&q-url-param-list=&q-signature=1aa4002b76950d6937503693a269dd16e43860d3)
 
 
 # 十一、批阅「AI口语卡」
@@ -398,7 +398,7 @@ section: "ClassIn"
 如果AI口语卡设置了评分方案，系统会根据学生朗读结果自动生成评分（参考下图，学生的每一道题目系统都会自动给出星级评价，并用颜色标出读得不准确的词汇），那么教师可以在AI口语卡的已批中再次批阅学生的口语卡；如果AI口语卡没有设置评分方案，那么教师可以在AI口语卡的待批中批阅学生的口语卡。
 
 
-![](https://cofile.eeo.cn/res-store%2Fb73325cac81b200840f992ad3ffa747e837c4c935d387c7ba090b4a2135eb932_1690939?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1780243200;1780848000&q-key-time=1780243200;1780848000&q-header-list=host&q-url-param-list=&q-signature=b5867240d22e5d36cf93a0232c9c2332bc58ad70)
+![](https://cofile.eeo.cn/res-store%2Fb73325cac81b200840f992ad3ffa747e837c4c935d387c7ba090b4a2135eb932_1690939?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1780848000;1781452800&q-key-time=1780848000;1781452800&q-header-list=host&q-url-param-list=&q-signature=b6d561ec9353c76b3f4285e946ccf28d32308e1a)
 
 
 在批阅过程中，教师可以播放学生每道题的录音，根据录音进行点评。在点评中支持输入文字和录音评语，如果学生的朗读表现出色，教师可以将其设为优秀，如果设置了评分，也可以对其口语卡评分。
@@ -422,10 +422,10 @@ section: "ClassIn"
 点击 打回订正 或 提交批阅
 
 
-![](https://cofile.eeo.cn/res-store%2Fca2f9d056b10d0bd6c2c5613af47ff0207e171ca92fccabec709daabcb9cdc69_501606?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1780243200;1780848000&q-key-time=1780243200;1780848000&q-header-list=host&q-url-param-list=&q-signature=f79ba4135e37759a635411d9a7d4589d6cfeeaeb)
+![](https://cofile.eeo.cn/res-store%2Fca2f9d056b10d0bd6c2c5613af47ff0207e171ca92fccabec709daabcb9cdc69_501606?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1780848000;1781452800&q-key-time=1780848000;1781452800&q-header-list=host&q-url-param-list=&q-signature=239a9a72e57d16b8f1ba70adc237447cd95d9e66)
 
 
-![](https://cofile.eeo.cn/res-store%2F88f52fa579fbeda3e82a1fb2c2e6a757d1c9b564acf37a2ae4d181929b3528e3_1615266?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1780243200;1780848000&q-key-time=1780243200;1780848000&q-header-list=host&q-url-param-list=&q-signature=3a6a046486dda8ded8a9a84f84f1bfa40ffa7eb4)
+![](https://cofile.eeo.cn/res-store%2F88f52fa579fbeda3e82a1fb2c2e6a757d1c9b564acf37a2ae4d181929b3528e3_1615266?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1780848000;1781452800&q-key-time=1780848000;1781452800&q-header-list=host&q-url-param-list=&q-signature=2c2d1afdffacad1344400c2bcba6e67f9d26e860)
 
 
 # 十二、查看下载「AI口语卡」数据
@@ -452,7 +452,7 @@ section: "ClassIn"
 下载 学生数据明细
 
 
-![](https://cofile.eeo.cn/res-store%2F98c61f3756e4dce265c0e7fc6d1951ac164b20b9a2b8835f83e0ac4bf956e0e5_528806?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1780243200;1780848000&q-key-time=1780243200;1780848000&q-header-list=host&q-url-param-list=&q-signature=7268cd96c47732435e767a619286cceee793e4d1)
+![](https://cofile.eeo.cn/res-store%2F98c61f3756e4dce265c0e7fc6d1951ac164b20b9a2b8835f83e0ac4bf956e0e5_528806?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1780848000;1781452800&q-key-time=1780848000;1781452800&q-header-list=host&q-url-param-list=&q-signature=c0fe4cadc24a91a4149c119f62eb72dcc502c2c5)
 
 
-![](https://cofile.eeo.cn/res-store%2F48791fc1656e92c9c35737f49247075148390fb9538bb576f729ad4a6d5a0a3c_1748091?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1780243200;1780848000&q-key-time=1780243200;1780848000&q-header-list=host&q-url-param-list=&q-signature=102bb0b69245572bd7d24fc57648e30ceb9e0af0)
+![](https://cofile.eeo.cn/res-store%2F48791fc1656e92c9c35737f49247075148390fb9538bb576f729ad4a6d5a0a3c_1748091?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1780848000;1781452800&q-key-time=1780848000;1781452800&q-header-list=host&q-url-param-list=&q-signature=daca371abb3baa11f763dc8444ecbd6da6e1901d)

@@ -44,4 +44,4 @@ section: "管理后台"
 在 增值服务 中，开启或关闭 OMO站播 功能
 
 
-![](https://cofile.eeo.cn/res-store%2Fae5c86a6746b9203c39aca76e7ca410a5a2cc501a71cdc879524e498263d7565_635580?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1780243200;1780848000&q-key-time=1780243200;1780848000&q-header-list=host&q-url-param-list=&q-signature=14bb8e061422a2fab7664231aa31d52a4ff4446e)
+![](https://cofile.eeo.cn/res-store%2Fae5c86a6746b9203c39aca76e7ca410a5a2cc501a71cdc879524e498263d7565_635580?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1780848000;1781452800&q-key-time=1780848000;1781452800&q-header-list=host&q-url-param-list=&q-signature=c6fc9252b802d23d3f9a0319ad913d427f3f45f2)

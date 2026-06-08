@@ -202,7 +202,7 @@ OMO站播模式
 包含：PC（台式机，笔记本）、触控大屏、iOS（iPad）、iOS（iPhone）、Android 手机、Android 平板
 
 
-![](https://cofile.eeo.cn/res-store%2F5298d7bcecdf4801ad17fe8c69ae978af5e0c373bc33242826dd31f2b28b4c2f_161084?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1780243200;1780848000&q-key-time=1780243200;1780848000&q-header-list=host&q-url-param-list=&q-signature=2537762b65ec4ecccaffe99717599e4a9653a901)
+![](https://cofile.eeo.cn/res-store%2F5298d7bcecdf4801ad17fe8c69ae978af5e0c373bc33242826dd31f2b28b4c2f_161084?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1780848000;1781452800&q-key-time=1780848000;1781452800&q-header-list=host&q-url-param-list=&q-signature=2a96e93e976030dc3f37572da327acab22c64ad3)
 
 
 ## 三、班级成员权限
@@ -599,7 +599,7 @@ LMS
 聊天工具
 
 
-![](https://cofile.eeo.cn/res-store%2F76528765342413469520a905afd4a3b160e6195e7cf0ec6375a56bd23070a0d7_253608?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1780243200;1780848000&q-key-time=1780243200;1780848000&q-header-list=host&q-url-param-list=&q-signature=fecd7fdf2c66f08caea3d4c716c4fc3e5bb76b32)
+![](https://cofile.eeo.cn/res-store%2F76528765342413469520a905afd4a3b160e6195e7cf0ec6375a56bd23070a0d7_253608?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1780848000;1781452800&q-key-time=1780848000;1781452800&q-header-list=host&q-url-param-list=&q-signature=0464fe3c5b267cd5869915a99fa6b9bb5509fe26)
 
 
 ### 学生授权前后工具对比
@@ -625,4 +625,4 @@ LMS
 授权后
 
 
-![](https://cofile.eeo.cn/res-store%2F7ea7238f4789306d5db78fb39f763887fb46e0f97c31ba945a4c1a756490003d_310627?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1780243200;1780848000&q-key-time=1780243200;1780848000&q-header-list=host&q-url-param-list=&q-signature=0a14b29f95fefcf7f78a105611fbfe55b70cc01b)
+![](https://cofile.eeo.cn/res-store%2F7ea7238f4789306d5db78fb39f763887fb46e0f97c31ba945a4c1a756490003d_310627?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1780848000;1781452800&q-key-time=1780848000;1781452800&q-header-list=host&q-url-param-list=&q-signature=087f92e788589602ad34155baef764535b79be0f)

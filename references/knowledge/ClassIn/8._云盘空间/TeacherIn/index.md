@@ -62,7 +62,7 @@ TI小店
 创建课程
 
 
-![](https://cofile.eeo.cn/res-store%2F334b71bef3f669e78ff6593c3183ea872647f1dcd1e4fa202665fb696865aac2_741594?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1780243200;1780848000&q-key-time=1780243200;1780848000&q-header-list=host&q-url-param-list=&q-signature=9dc24c51655c43f93f457731d4f0cb40216493c4)
+![](https://cofile.eeo.cn/res-store%2F334b71bef3f669e78ff6593c3183ea872647f1dcd1e4fa202665fb696865aac2_741594?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1780848000;1781452800&q-key-time=1780848000;1781452800&q-header-list=host&q-url-param-list=&q-signature=09f2e9c2056f5b7820a607744ec5c24ed323ac53)
 
 
 # 三、应用/分享/发布/删除课程
@@ -92,7 +92,7 @@ TI小店
 应用 / 分享 / 发布 / 删除 课程
 
 
-![](https://cofile.eeo.cn/res-store%2Fbaf0bb6458020ec3f067de6b942ced5296620e14b20724fbf25bdff0afa35886_1418844?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1780243200;1780848000&q-key-time=1780243200;1780848000&q-header-list=host&q-url-param-list=&q-signature=766d4a6476d06a06aae565b4139951eb105a233a)
+![](https://cofile.eeo.cn/res-store%2Fbaf0bb6458020ec3f067de6b942ced5296620e14b20724fbf25bdff0afa35886_1418844?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1780848000;1781452800&q-key-time=1780848000;1781452800&q-header-list=host&q-url-param-list=&q-signature=ce07dbd13f8430a2d1501386d74b74eed824d370)
 
 
 # 四、应用/分享/发布/删除课程
@@ -107,4 +107,4 @@ TI小店
 切换 / 建立 组织 或 查看 个人空间容量
 
 
-![](https://cofile.eeo.cn/res-store%2F376f1a7e0a96e4ce278398081f1a4417356cac940b9cdd43cb41f962b980a9be_971359?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1780243200;1780848000&q-key-time=1780243200;1780848000&q-header-list=host&q-url-param-list=&q-signature=7df55fa6d8a5f229a5bd09ac8fd0e2cfb6ce76dd)
+![](https://cofile.eeo.cn/res-store%2F376f1a7e0a96e4ce278398081f1a4417356cac940b9cdd43cb41f962b980a9be_971359?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1780848000;1781452800&q-key-time=1780848000;1781452800&q-header-list=host&q-url-param-list=&q-signature=59d46ca74145e22b5fa9cd574f98dd9b8cc8a992)
