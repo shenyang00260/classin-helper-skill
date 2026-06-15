@@ -26,13 +26,13 @@ section: "更多使用说明"
 后台的直播上架和回放上架的设置，可以随时开启或者关闭，但直播上架设置仅在直播期间生效，回放上架仅在课后回放期间生效
 
 
-![](https://cofile.eeo.cn/res-store%2Fc8001047f94745d80b38b85910dd15d13499c926d4d9433e84ae2bfca339965e_541393?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1780848000;1781452800&q-key-time=1780848000;1781452800&q-header-list=host&q-url-param-list=&q-signature=f86fac2df236e6551abd7b98de2b37a796ea676b)
+![](https://cofile.eeo.cn/res-store%2Fc8001047f94745d80b38b85910dd15d13499c926d4d9433e84ae2bfca339965e_541393?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1781452800;1782057600&q-key-time=1781452800;1782057600&q-header-list=host&q-url-param-list=&q-signature=7f7c1a86453248bc207673c8aae05350f93a8f12)
 
 
 从商品库中选择现有商品，每堂课最多支持同时选择6个商品
 
 
-![](https://cofile.eeo.cn/res-store%2F1a81be8e864e34bdb735e559ae37104303c5411dbbff6e4e3b6e164d9fb09e55_195383?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1780848000;1781452800&q-key-time=1780848000;1781452800&q-header-list=host&q-url-param-list=&q-signature=f9cf9e77e26e8ca12a6ec6f71baab00557eb774c)
+![](https://cofile.eeo.cn/res-store%2F1a81be8e864e34bdb735e559ae37104303c5411dbbff6e4e3b6e164d9fb09e55_195383?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1781452800;1782057600&q-key-time=1781452800;1782057600&q-header-list=host&q-url-param-list=&q-signature=64b523b2864fb6913f26ca471b6ef01cb3c73e4b)
 
 
 # 三、教室中上架/下架商品
@@ -41,7 +41,7 @@ section: "更多使用说明"
 直播期间，教师或助教可在 ClassIn 直播教室的 “教学工具 - TI 小店”，或教务老师在后台通过 “课堂商品管理设置”，将商品设为 “直播上架” 状态，学生观看直播时可直接购买。
 
 
-![](https://cofile.eeo.cn/res-store%2F25bdab899eea2b3954726118b8d98731a4d65da19f095bc92387a577110d69f9_158242?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1780848000;1781452800&q-key-time=1780848000;1781452800&q-header-list=host&q-url-param-list=&q-signature=6e7062b9b355af198a5405f1fe158b8791f36967)
+![](https://cofile.eeo.cn/res-store%2F25bdab899eea2b3954726118b8d98731a4d65da19f095bc92387a577110d69f9_158242?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1781452800;1782057600&q-key-time=1781452800;1782057600&q-header-list=host&q-url-param-list=&q-signature=377f5316a8333ff37a45d22bf6a5fc29f0c3c235)
 
 
 # 四、学生购买商品
@@ -50,4 +50,4 @@ section: "更多使用说明"
 学生在直播或者回放时，可以购买处于“直播上架”或者“回放上架”的商品
 
 
-![](https://cofile.eeo.cn/res-store%2F299d181f002c8c5c2f1ed759346a0f0192ecb7e40adae9508ee104130a18429f_56962?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1780848000;1781452800&q-key-time=1780848000;1781452800&q-header-list=host&q-url-param-list=&q-signature=f43a3039d2676c2e5c5c4f8742a64e7aadbca3ad)
+![](https://cofile.eeo.cn/res-store%2F299d181f002c8c5c2f1ed759346a0f0192ecb7e40adae9508ee104130a18429f_56962?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1781452800;1782057600&q-key-time=1781452800;1782057600&q-header-list=host&q-url-param-list=&q-signature=de78c8684efa8b99cd8cb2b81586ce02bf74200f)

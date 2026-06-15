@@ -47,4 +47,4 @@ section: "管理后台"
 在 余量提醒 中，设置提醒额度和多个接收提醒的手机号
 
 
-![](https://cofile.eeo.cn/res-store%2F6ffb3ded27455d55d44816a9b89cec86280eff00a558e9390b976766b2cb3cba_156247?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1780848000;1781452800&q-key-time=1780848000;1781452800&q-header-list=host&q-url-param-list=&q-signature=fda3882f0388a9ad346b0651d6d607af05157c96)
+![](https://cofile.eeo.cn/res-store%2F6ffb3ded27455d55d44816a9b89cec86280eff00a558e9390b976766b2cb3cba_156247?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1781452800;1782057600&q-key-time=1781452800;1782057600&q-header-list=host&q-url-param-list=&q-signature=cb304a8b5577e6aa0d66d8dbbaee72f6cfb2dcca)
