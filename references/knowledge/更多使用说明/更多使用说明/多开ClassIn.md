@@ -35,4 +35,4 @@ section: "更多使用说明"
 等待验证完成后即可登录第二个ClassIn
 
 
-![](https://cofile.eeo.cn/res-store%2Fd3ccf0d1a612a863ace7be75e8df2a5b298ce429738b45e6cc48140d0c89c9f2_841883?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1782057600;1782662400&q-key-time=1782057600;1782662400&q-header-list=host&q-url-param-list=&q-signature=71bbfaa01091f0e2e7c054c0da9f55cc3879fa00)
+![](https://cofile.eeo.cn/res-store%2Fd3ccf0d1a612a863ace7be75e8df2a5b298ce429738b45e6cc48140d0c89c9f2_841883?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1782662400;1783267200&q-key-time=1782662400;1783267200&q-header-list=host&q-url-param-list=&q-signature=ac3bd6eb0c9013e8f23de63f673d67c12df66073)
