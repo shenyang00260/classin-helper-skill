@@ -11,52 +11,52 @@ section: "ClassInX"
 # 1、账号登录与退出
 
 
-![](https://cofile.eeo.cn/res-store%2Fb12df0b451b529d2fa7258a95701fb5008e22be1a51565a0461e3bf65e890f12_133025540%2Fcover_0_v1.jpg?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1782662400;1783267200&q-key-time=1782662400;1783267200&q-header-list=host&q-url-param-list=&q-signature=b21394483e1716fd63ab77e5740f6e662d6aac63)
+![](https://cofile.eeo.cn/res-store%2Fb12df0b451b529d2fa7258a95701fb5008e22be1a51565a0461e3bf65e890f12_133025540%2Fcover_0_v1.jpg?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1783267200;1783872000&q-key-time=1783267200;1783872000&q-header-list=host&q-url-param-list=&q-signature=035286c16ac6927fc6d4615945cf0ec5e39947b9)
 
 
 # 2、设置音视频功能
 
 
-![](https://cofile.eeo.cn/res-store%2F4506f6c049a9c764ec598ca80e208bcdd976e1d43047ecbc2cf8a3df3f7587dc_282451860%2Fcover_0_v1.jpg?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1782662400;1783267200&q-key-time=1782662400;1783267200&q-header-list=host&q-url-param-list=&q-signature=42e10543c5ca05f5d5f848cbe89843a7644c36e0)
+![](https://cofile.eeo.cn/res-store%2F4506f6c049a9c764ec598ca80e208bcdd976e1d43047ecbc2cf8a3df3f7587dc_282451860%2Fcover_0_v1.jpg?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1783267200;1783872000&q-key-time=1783267200;1783872000&q-header-list=host&q-url-param-list=&q-signature=11927a18915343a1eb331cead235376e6a64c0e8)
 
 
 # 3、返回电脑系统桌面
 
 
-![](https://cofile.eeo.cn/res-store%2F95ac9195a77912a816082963863c63e737f93477f7b6a57c69631a00df216594_96949050%2Fcover_0_v1.jpg?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1782662400;1783267200&q-key-time=1782662400;1783267200&q-header-list=host&q-url-param-list=&q-signature=b25c3cfc2417288cb68ef754f91c132da67b08cd)
+![](https://cofile.eeo.cn/res-store%2F95ac9195a77912a816082963863c63e737f93477f7b6a57c69631a00df216594_96949050%2Fcover_0_v1.jpg?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1783267200;1783872000&q-key-time=1783267200;1783872000&q-header-list=host&q-url-param-list=&q-signature=73f3fe2d288fa0ff8e2fe8e9d26ab308b29ed05d)
 
 
 # 4、提前下课或退出教室
 
 
-![](https://cofile.eeo.cn/res-store%2F12872c9ab5490ac7a79c22a457cf71d4145665bbebf553ccebe0abce6bc969c8_73816257%2Fcover_0_v1.jpg?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1782662400;1783267200&q-key-time=1782662400;1783267200&q-header-list=host&q-url-param-list=&q-signature=1c346d93e46290e5c62db12cef643e769cf17de4)
+![](https://cofile.eeo.cn/res-store%2F12872c9ab5490ac7a79c22a457cf71d4145665bbebf553ccebe0abce6bc969c8_73816257%2Fcover_0_v1.jpg?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1783267200;1783872000&q-key-time=1783267200;1783872000&q-header-list=host&q-url-param-list=&q-signature=6ecdd997776da4ab1ac27e7a4741fb71b718553b)
 
 
 # 5、打开教学工具
 
 
-![](https://cofile.eeo.cn/res-store%2F5c2f853cfc42cf65d983640f4d60e3ff60404f383a1bc5139265b280bbc562d1_386367039%2Fcover_0_v1.jpg?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1782662400;1783267200&q-key-time=1782662400;1783267200&q-header-list=host&q-url-param-list=&q-signature=03b4a2563840cea910de50bef2658c2655c33a03)
+![](https://cofile.eeo.cn/res-store%2F5c2f853cfc42cf65d983640f4d60e3ff60404f383a1bc5139265b280bbc562d1_386367039%2Fcover_0_v1.jpg?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1783267200;1783872000&q-key-time=1783267200;1783872000&q-header-list=host&q-url-param-list=&q-signature=1a3a6270ed2ad32870cd86232eca0007766e874b)
 
 
 # 6、背景设置与查看设备实时使用情况
 
 
-![](https://cofile.eeo.cn/res-store%2F003d272ed844692e19f705d687cc411a963e4e8fe8738adfcf77419340879c97_222640125%2Fcover_0_v1.jpg?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1782662400;1783267200&q-key-time=1782662400;1783267200&q-header-list=host&q-url-param-list=&q-signature=a00f3705b06553415cbbbf31df2a6ae284ec9703)
+![](https://cofile.eeo.cn/res-store%2F003d272ed844692e19f705d687cc411a963e4e8fe8738adfcf77419340879c97_222640125%2Fcover_0_v1.jpg?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1783267200;1783872000&q-key-time=1783267200;1783872000&q-header-list=host&q-url-param-list=&q-signature=2ff0bac8c2823ec3a0e18ca83260b7c65027cb11)
 
 
 # 7、打开课件
 
 
-![](https://cofile.eeo.cn/res-store%2Fbb918c1c77262e88dd056049dbb42e3b4ef875175c63d0885a9266ea3416f818_175420586%2Fcover_0_v1.jpg?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1782662400;1783267200&q-key-time=1782662400;1783267200&q-header-list=host&q-url-param-list=&q-signature=197cfa5fdf64fa2d0f1ca0b566c9b651b8e53f22)
+![](https://cofile.eeo.cn/res-store%2Fbb918c1c77262e88dd056049dbb42e3b4ef875175c63d0885a9266ea3416f818_175420586%2Fcover_0_v1.jpg?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1783267200;1783872000&q-key-time=1783267200;1783872000&q-header-list=host&q-url-param-list=&q-signature=27aa4f39f0f4081c0b5560a6be12811404198dd8)
 
 
 # 8、打开ClassIn客户端
 
 
-![](https://cofile.eeo.cn/res-store%2F43a6f6babe074b51ba1282e6290841a6ea11be3f1d588a22246a79c87d7df25c_74617699%2Fcover_0_v1.jpg?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1782662400;1783267200&q-key-time=1782662400;1783267200&q-header-list=host&q-url-param-list=&q-signature=825831b1d9bd1c9361fa13c746726ad7e01b87a7)
+![](https://cofile.eeo.cn/res-store%2F43a6f6babe074b51ba1282e6290841a6ea11be3f1d588a22246a79c87d7df25c_74617699%2Fcover_0_v1.jpg?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1783267200;1783872000&q-key-time=1783267200;1783872000&q-header-list=host&q-url-param-list=&q-signature=16804712e854d4eade044682367d641bfe9dd505)
 
 
 # 9、彻底退出软件
 
 
-![](https://cofile.eeo.cn/res-store%2Fc220ec21cd89fbe8779622c4ac03bf0909383cc66920d64eebfa09a56a004503_134388100%2Fcover_0_v1.jpg?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1782662400;1783267200&q-key-time=1782662400;1783267200&q-header-list=host&q-url-param-list=&q-signature=b4b36974f1c43036fa3079b4442a72b74d78fb93)
+![](https://cofile.eeo.cn/res-store%2Fc220ec21cd89fbe8779622c4ac03bf0909383cc66920d64eebfa09a56a004503_134388100%2Fcover_0_v1.jpg?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1783267200;1783872000&q-key-time=1783267200;1783872000&q-header-list=host&q-url-param-list=&q-signature=19466beca606b4bb300e9d786fa0e4aabac4d28a)
