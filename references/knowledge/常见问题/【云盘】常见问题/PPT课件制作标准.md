@@ -20,10 +20,10 @@ section: "常见问题"
 每个PPT课件大小的限制不得超过500MB。（查看课件大小的方法请参考下图）
 
 
-![](https://cofile.eeo.cn/res-store%2F5db320fe063753b4b565674f9aa88ae3381026c9d23712273375930fcfdb1880_87026?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1783267200;1783872000&q-key-time=1783267200;1783872000&q-header-list=host&q-url-param-list=&q-signature=d01a02c74663cad1f20b1b786032bcc51200eade)
+![](https://cofile.eeo.cn/res-store%2F5db320fe063753b4b565674f9aa88ae3381026c9d23712273375930fcfdb1880_87026?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1783872000;1784476800&q-key-time=1783872000;1784476800&q-header-list=host&q-url-param-list=&q-signature=7d0970f30cfadc6fc528c19abad8d9f7c5158bcf)
 
 
-![](https://cofile.eeo.cn/res-store%2Fbdb5453cdecde8374f5a599db462848f13903089be898a0645903b0f8c2e434a_114746?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1783267200;1783872000&q-key-time=1783267200;1783872000&q-header-list=host&q-url-param-list=&q-signature=977d3f62ed3d799207d48bced4b2ef682870a293)
+![](https://cofile.eeo.cn/res-store%2Fbdb5453cdecde8374f5a599db462848f13903089be898a0645903b0f8c2e434a_114746?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1783872000;1784476800&q-key-time=1783872000;1784476800&q-header-list=host&q-url-param-list=&q-signature=b72029bed6d30978337f56465b817f1075a7fa05)
 
 
 ## 不支持或不建议插入的内容
@@ -47,7 +47,7 @@ section: "常见问题"
 点击查看附件 → ppt支持字体.docx
 
 
-![](https://cofile.eeo.cn/res-store%2F4fe161ecbdca5e55480b38e0e52a1a09a2ae976e897071db1951db436bd93892_168906?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1783267200;1783872000&q-key-time=1783267200;1783872000&q-header-list=host&q-url-param-list=&q-signature=8f52cb6d55fa1c0b1e5b9f0cd923bb45f2fa8260)
+![](https://cofile.eeo.cn/res-store%2F4fe161ecbdca5e55480b38e0e52a1a09a2ae976e897071db1951db436bd93892_168906?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1783872000;1784476800&q-key-time=1783872000;1784476800&q-header-list=host&q-url-param-list=&q-signature=4c633f1ae58a27587ca9350440cc74127ee36276)
 
 
 ## 文字编辑规范
@@ -59,13 +59,13 @@ section: "常见问题"
 2、避免使用分散对齐来让文字均匀分布（转换后会变成左对齐不符合预期）
 
 
-![](https://cofile.eeo.cn/res-store%2Fe5a01f76800083ef335387eb8be2e1d36c0610cda47cac3f53e136459dcbf299_82351?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1783267200;1783872000&q-key-time=1783267200;1783872000&q-header-list=host&q-url-param-list=&q-signature=762ee64aa8f81503de3389724a6814705d9ed654)
+![](https://cofile.eeo.cn/res-store%2Fe5a01f76800083ef335387eb8be2e1d36c0610cda47cac3f53e136459dcbf299_82351?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1783872000;1784476800&q-key-time=1783872000;1784476800&q-header-list=host&q-url-param-list=&q-signature=1562200d949e7de443ddbe56bb9436abe05b91a8)
 
 
 3、使用默认行高1.0（非1.0行高的文字和其他元素或文本框有可能会无法完全水平对齐，垂直方向有些许错位，如果没有以上需求可以正常使用行高设置）
 
 
-![](https://cofile.eeo.cn/res-store%2F8900cffba64ab180ea5e4668f2fdc23f07e3053697f4ad24869150f62cbb5c3b_61941?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1783267200;1783872000&q-key-time=1783267200;1783872000&q-header-list=host&q-url-param-list=&q-signature=73d267bd10e522dd4aa58616c0a3c44374e4816a)
+![](https://cofile.eeo.cn/res-store%2F8900cffba64ab180ea5e4668f2fdc23f07e3053697f4ad24869150f62cbb5c3b_61941?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1783872000;1784476800&q-key-time=1783872000;1784476800&q-header-list=host&q-url-param-list=&q-signature=3875b809aa55f232d70b7157e89aec7ca41c9f85)
 
 
 ## 支持插入到PPT中的视频格式
@@ -89,7 +89,7 @@ MP4、3gp、mpg、3g2、avi、wmv、mov、mpeg、m4v、qt
 3、不支持元素设置不可见，不需要显示在页面的元素请删除，否则转换后会显示出来影响正常内容
 
 
-![](https://cofile.eeo.cn/res-store%2Fd9e3b72a53c17e27999f035bf71b4c65685fa01ee2ca8d45df1aa19c2516f112_301016?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1783267200;1783872000&q-key-time=1783267200;1783872000&q-header-list=host&q-url-param-list=&q-signature=84fa0aed71ccc5975e5a3881abd277b901adb54f)
+![](https://cofile.eeo.cn/res-store%2Fd9e3b72a53c17e27999f035bf71b4c65685fa01ee2ca8d45df1aa19c2516f112_301016?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1783872000;1784476800&q-key-time=1783872000;1784476800&q-header-list=host&q-url-param-list=&q-signature=b6cbed03a17331d21dd1aa85a9ebbfacf18fea9b)
 
 
 ## 添加编辑动画的注意项
@@ -98,7 +98,7 @@ MP4、3gp、mpg、3g2、avi、wmv、mov、mpeg、m4v、qt
 1、有过渡效果的动画可以更好的保证转换后的动画顺序正确显示（目前仅“出现，消失”是没有过渡效果的动画，在动画窗格中的图标为绿色或红色的三角形）
 
 
-![](https://cofile.eeo.cn/res-store%2F3ebbcc9eb8576bdb0378a36b994ca8a8b20872e8ac80a0ba29aec5bb5ee56eb2_246919?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1783267200;1783872000&q-key-time=1783267200;1783872000&q-header-list=host&q-url-param-list=&q-signature=b8df4bd3b36495c3ad18d350f83a9a5d7c3dab0a)
+![](https://cofile.eeo.cn/res-store%2F3ebbcc9eb8576bdb0378a36b994ca8a8b20872e8ac80a0ba29aec5bb5ee56eb2_246919?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1783872000;1784476800&q-key-time=1783872000;1784476800&q-header-list=host&q-url-param-list=&q-signature=7427a82ae1e770335cf8b65a1c6734d53ac48393)
 
 
 2、避免通过光标括选文字范围添加动画效果（通过选中文字添加动画效果可能会导致动画不符合预期，建议点击文本框边缘来选中文本框，给整个文本框添加动画效果）
@@ -131,7 +131,7 @@ PPT全屏尺寸：宽度31.75cm*高度13.851cm
 2.在电脑本地中调整PPT尺寸
 
 
-![](https://cofile.eeo.cn/res-store%2Fe190c724c6a9900780c943feac74738c2cfd96fd57134a3acb5654d8535149bd_293372?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1783267200;1783872000&q-key-time=1783267200;1783872000&q-header-list=host&q-url-param-list=&q-signature=556e7540821402e0fb854a3057339399533868da)
+![](https://cofile.eeo.cn/res-store%2Fe190c724c6a9900780c943feac74738c2cfd96fd57134a3acb5654d8535149bd_293372?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1783872000;1784476800&q-key-time=1783872000;1784476800&q-header-list=host&q-url-param-list=&q-signature=c03401c589fff37395bd9558e1f896ddfc14b4bf)
 
 
 ## 常见播放问题
@@ -149,7 +149,7 @@ PPT全屏尺寸：宽度31.75cm*高度13.851cm
 问题2解决方法：在“切换”选项中取消勾选“设置自动换片时间”
 
 
-![](https://cofile.eeo.cn/res-store%2F2d101e71f3b245214d5f466812dc10b24a882352268732c6555c8accb312305c_106454?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1783267200;1783872000&q-key-time=1783267200;1783872000&q-header-list=host&q-url-param-list=&q-signature=2e9522b31f534af327fb489210df4ff52ba8b732)
+![](https://cofile.eeo.cn/res-store%2F2d101e71f3b245214d5f466812dc10b24a882352268732c6555c8accb312305c_106454?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1783872000;1784476800&q-key-time=1783872000;1784476800&q-header-list=host&q-url-param-list=&q-signature=7fdc30c86b1faa5479b042963773c9f82d97a1de)
 
 
 问题3描述： WPS制作的课件切换动画即使是"无"也会有两秒的持续时间设置
@@ -158,7 +158,7 @@ PPT全屏尺寸：宽度31.75cm*高度13.851cm
 问题3解决方法：全选所有页面，将切换动画设置为其他动画，再设置回"无"。 这时候持续时间会显示"自动"，表示课件恢复正常。
 
 
-![](https://cofile.eeo.cn/res-store%2Fe5e21686866f6abbf333c990383870a9670597e0a29cd762a03f7e55eb66760a_153231?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1783267200;1783872000&q-key-time=1783267200;1783872000&q-header-list=host&q-url-param-list=&q-signature=68b49484586a1bc13cff8b84ac008e5291ef250b)
+![](https://cofile.eeo.cn/res-store%2Fe5e21686866f6abbf333c990383870a9670597e0a29cd762a03f7e55eb66760a_153231?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1783872000;1784476800&q-key-time=1783872000;1784476800&q-header-list=host&q-url-param-list=&q-signature=0b2253395c7fb23858f7921c33eaa2e3c3cd4bbb)
 
 
 问题4描述：教室中会播放动画，但PPT本地播放没有动画效果
@@ -167,13 +167,13 @@ PPT全屏尺寸：宽度31.75cm*高度13.851cm
 问题4解决方法：放映设置中取消勾选“放映时不播放动画”
 
 
-![](https://cofile.eeo.cn/res-store%2Fbc36ba702c29136148213b61a644e1d9f8b3cc70f0e577b089a73e5a7e02eb2e_264916?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1783267200;1783872000&q-key-time=1783267200;1783872000&q-header-list=host&q-url-param-list=&q-signature=d80ef7a77a14cb92dc204daf6fd30379cd7b876c)
+![](https://cofile.eeo.cn/res-store%2Fbc36ba702c29136148213b61a644e1d9f8b3cc70f0e577b089a73e5a7e02eb2e_264916?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1783872000;1784476800&q-key-time=1783872000;1784476800&q-header-list=host&q-url-param-list=&q-signature=628d3c5d0584e42c2be87218f8886b2c6fc899ae)
 
 
 ## PPT异常问题
 
 
-![](https://cofile.eeo.cn/res-store%2Fbf80abc85370fe61e01f450b1329b944bce198ad1f7a8fbd7e5bb5d15238f31a_706202?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1783267200;1783872000&q-key-time=1783267200;1783872000&q-header-list=host&q-url-param-list=&q-signature=0f10e7593d4b2f615153e7eea8deb9ec736f53d2)
+![](https://cofile.eeo.cn/res-store%2Fbf80abc85370fe61e01f450b1329b944bce198ad1f7a8fbd7e5bb5d15238f31a_706202?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1783872000;1784476800&q-key-time=1783872000;1784476800&q-header-list=host&q-url-param-list=&q-signature=02eb61f6ee29da491596da1334a5c097159689cd)
 
 
 ## PPT水印问题
@@ -185,4 +185,4 @@ PPT全屏尺寸：宽度31.75cm*高度13.851cm
 解决方法：本地打开PPT文件，在“视图”选项中点击“幻灯片母版”进入，找到带有水印的PPT所在页，删除顶层水印
 
 
-![](https://cofile.eeo.cn/res-store%2Ff4432de1051fe23fdcb10ae1f911e3070a4877cc37f02aee9e7baab9a6b8adce_217646?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1783267200;1783872000&q-key-time=1783267200;1783872000&q-header-list=host&q-url-param-list=&q-signature=391289779b0bed16f9ece631b67f08453b6b0d8a)
+![](https://cofile.eeo.cn/res-store%2Ff4432de1051fe23fdcb10ae1f911e3070a4877cc37f02aee9e7baab9a6b8adce_217646?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1783872000;1784476800&q-key-time=1783872000;1784476800&q-header-list=host&q-url-param-list=&q-signature=55e68bfc508713327089fb8ad041826a04ee6fc3)

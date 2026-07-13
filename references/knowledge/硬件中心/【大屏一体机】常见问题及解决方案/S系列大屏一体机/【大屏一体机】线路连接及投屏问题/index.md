@@ -29,10 +29,10 @@ section: "硬件中心"
 根据页面提示链接wifi输入密码即可投屏，密码：88887777
 
 
-![](https://cofile.eeo.cn/res-store%2F93645ba36f1cac3140c889588bc3a177abc9378c8f7548ab574f2ecb27e378d1_621947?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1783267200;1783872000&q-key-time=1783267200;1783872000&q-header-list=host&q-url-param-list=&q-signature=50463600798a10a54e065e74809b8a6e1d62ab03)
+![](https://cofile.eeo.cn/res-store%2F93645ba36f1cac3140c889588bc3a177abc9378c8f7548ab574f2ecb27e378d1_621947?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1783872000;1784476800&q-key-time=1783872000;1784476800&q-header-list=host&q-url-param-list=&q-signature=61fc712ba5ec7a1f05a3badea646418f5f94e6a7)
 
 
-![](https://cofile.eeo.cn/res-store%2F08eef98f121faf6e0d1523b722cd7e534b2305f47164258a0a12866cd5b1e66b_824997?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1783267200;1783872000&q-key-time=1783267200;1783872000&q-header-list=host&q-url-param-list=&q-signature=408ddc7c0800258187aae484b67ba3df0e286660)
+![](https://cofile.eeo.cn/res-store%2F08eef98f121faf6e0d1523b722cd7e534b2305f47164258a0a12866cd5b1e66b_824997?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1783872000;1784476800&q-key-time=1783872000;1784476800&q-header-list=host&q-url-param-list=&q-signature=5cc7ed0564fbc75e42dc7b539f56f99ded75b205)
 
 
 使用Classin X软件投屏
@@ -62,4 +62,4 @@ section: "硬件中心"
 当通过上述有线方式连接大屏和笔记本时，请注意将麦克风和摄像头连接至笔记本，而不是大屏一体机。
 
 
-![](https://cofile.eeo.cn/res-store%2F37173b99d86f0b26c8cbc36c0a2da9933d3da3605f59136513f7ab8437880ba7_526740?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1783267200;1783872000&q-key-time=1783267200;1783872000&q-header-list=host&q-url-param-list=&q-signature=f2e8d30d552b84b181b40ed60b4bfef9f9160146)
+![](https://cofile.eeo.cn/res-store%2F37173b99d86f0b26c8cbc36c0a2da9933d3da3605f59136513f7ab8437880ba7_526740?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1783872000;1784476800&q-key-time=1783872000;1784476800&q-header-list=host&q-url-param-list=&q-signature=153e0202cee1c744589a9e6418f0eb2b964004f0)

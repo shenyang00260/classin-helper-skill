@@ -71,4 +71,4 @@ section: "ClassInX"
 启用新设置的 自定义教室配置
 
 
-![](https://cofile.eeo.cn/res-store%2F2f9dc4b9cca3ba1698ad7afffcb61a3de08ad9aac08f72b6132c3771d06c15b3_136264?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1783267200;1783872000&q-key-time=1783267200;1783872000&q-header-list=host&q-url-param-list=&q-signature=bbb33e4fec0e5fdb768b3c8f302532fd8372700e)
+![](https://cofile.eeo.cn/res-store%2F2f9dc4b9cca3ba1698ad7afffcb61a3de08ad9aac08f72b6132c3771d06c15b3_136264?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1783872000;1784476800&q-key-time=1783872000;1784476800&q-header-list=host&q-url-param-list=&q-signature=6c526417f7b9479dfcafc608888f3f70bd5b778a)

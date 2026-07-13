@@ -17,7 +17,7 @@ section: "更多使用说明"
 注：系统还原软件不同，页面及步骤会略有差别
 
 
-![](https://cofile.eeo.cn/res-store%2F918d56f041796624700c46b7e28f30f821aa68561e8bb7baec78869b7432bd85_125766?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1783267200;1783872000&q-key-time=1783267200;1783872000&q-header-list=host&q-url-param-list=&q-signature=d6c3fd2c97b98b132414232b757d4d2fa7abcedc)
+![](https://cofile.eeo.cn/res-store%2F918d56f041796624700c46b7e28f30f821aa68561e8bb7baec78869b7432bd85_125766?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1783872000;1784476800&q-key-time=1783872000;1784476800&q-header-list=host&q-url-param-list=&q-signature=eadd9bbdc12bfd941dcd2aad58836607659c3761)
 
 
 ## 二. 取消系统还原功能
@@ -29,7 +29,7 @@ section: "更多使用说明"
 （注：系统还原软件不同，页面及步骤会略有差别）
 
 
-![](https://cofile.eeo.cn/res-store%2F470a12bc72bb72912cd9d93f7bee417857ae63df4bc338fe9d13a27365346df7_105068?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1783267200;1783872000&q-key-time=1783267200;1783872000&q-header-list=host&q-url-param-list=&q-signature=865d9b63094e529f0d3af59ff03a983ce0437075)
+![](https://cofile.eeo.cn/res-store%2F470a12bc72bb72912cd9d93f7bee417857ae63df4bc338fe9d13a27365346df7_105068?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1783872000;1784476800&q-key-time=1783872000;1784476800&q-header-list=host&q-url-param-list=&q-signature=28678747f856c02239c693a4e704d50f552b344c)
 
 
 ## 三. 升级ClassIn
@@ -44,7 +44,7 @@ section: "更多使用说明"
 打开系统还原软件，输入密码，恢复系统还原功能，然后重启大屏/一体机。
 
 
-![](https://cofile.eeo.cn/res-store%2Fdf9da1600118753e16c8fa11ce0efb2e3c7347102975f2cea8e45d3e7bfb2714_114323?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1783267200;1783872000&q-key-time=1783267200;1783872000&q-header-list=host&q-url-param-list=&q-signature=e84d330e7de9162e2d5d43e071f83ba21c2dfce9)
+![](https://cofile.eeo.cn/res-store%2Fdf9da1600118753e16c8fa11ce0efb2e3c7347102975f2cea8e45d3e7bfb2714_114323?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1783872000;1784476800&q-key-time=1783872000;1784476800&q-header-list=host&q-url-param-list=&q-signature=92051a3c3138ce8b4980e36815e09eff6ed03ccf)
 
 
 您按照以上操作步骤，即可完成ClassIn升级。系统还原软件不同，页面以及步骤会略有差别哦~

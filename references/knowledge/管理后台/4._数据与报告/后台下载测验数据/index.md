@@ -47,4 +47,4 @@ section: "管理后台"
 点击右侧 数据 ，点击 本次测验数据 或 课堂测验数据（如需下载可点击右上角 下载表格 或 批量下载 ）
 
 
-![](https://cofile.eeo.cn/res-store%2Fe7e32b50358960e7b8c04209ef65bb3ea4a8d103770556f17f26efefa6d34e0a_172734?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1783267200;1783872000&q-key-time=1783267200;1783872000&q-header-list=host&q-url-param-list=&q-signature=4f2929c4c690baa6bfba4f6b0eb531d11382aa18)
+![](https://cofile.eeo.cn/res-store%2Fe7e32b50358960e7b8c04209ef65bb3ea4a8d103770556f17f26efefa6d34e0a_172734?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1783872000;1784476800&q-key-time=1783872000;1784476800&q-header-list=host&q-url-param-list=&q-signature=c4d0d44b2814ce220cf5540731cdddd9dda50ac2)

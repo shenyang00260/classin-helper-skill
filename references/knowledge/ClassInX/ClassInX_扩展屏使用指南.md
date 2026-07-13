@@ -14,7 +14,7 @@ section: "ClassInX"
 有两块大屏连接，ClassIn X 2.0大屏进入ClassIn X 软件，点击或上划查看更多工具后，点击扩展屏的投影设置，选择扩展，即可将副屏作为扩展屏使用。
 
 
-![](https://cofile.eeo.cn/res-store%2F415455981e0430067cd7bac39ca8b521b452220946347cf79bcff3ad14b3db01_193032?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1783267200;1783872000&q-key-time=1783267200;1783872000&q-header-list=host&q-url-param-list=&q-signature=6141ced54b9d51ad2558348cad8605a86555307a)
+![](https://cofile.eeo.cn/res-store%2F415455981e0430067cd7bac39ca8b521b452220946347cf79bcff3ad14b3db01_193032?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1783872000;1784476800&q-key-time=1783872000;1784476800&q-header-list=host&q-url-param-list=&q-signature=2cb37f85e4c9bae6559209a28297675ba45d41b7)
 
 
 ### 二、扩展黑板（双屏联动）
@@ -35,13 +35,13 @@ section: "ClassInX"
 （4）在教室中，选择扩展黑板的情况下，教室内授课教师设置好后，教室中的学生可以通过教室右下角的扩展屏控制按钮切换主屏和扩展屏显示。
 
 
-![](https://cofile.eeo.cn/res-store%2F4bef5ff27f14bd5aa7572e6561aba52c509a18f03b337615e9621ad6be49adc2_870261?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1783267200;1783872000&q-key-time=1783267200;1783872000&q-header-list=host&q-url-param-list=&q-signature=1b0ea9ca52310715fbef14328a4b0a891ae5033f)
+![](https://cofile.eeo.cn/res-store%2F4bef5ff27f14bd5aa7572e6561aba52c509a18f03b337615e9621ad6be49adc2_870261?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1783872000;1784476800&q-key-time=1783872000;1784476800&q-header-list=host&q-url-param-list=&q-signature=199b88a12005a4615ebe010438b8eecc1bf937f6)
 
 
-![](https://cofile.eeo.cn/res-store%2F3eb514666f3fc1ee1a71aa1007fd35a570ab4d30b10222217ee9ea0f0ec665af_496514?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1783267200;1783872000&q-key-time=1783267200;1783872000&q-header-list=host&q-url-param-list=&q-signature=94d2d2d2183e2d347c4c0a663bce35285b8d6548)
+![](https://cofile.eeo.cn/res-store%2F3eb514666f3fc1ee1a71aa1007fd35a570ab4d30b10222217ee9ea0f0ec665af_496514?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1783872000;1784476800&q-key-time=1783872000;1784476800&q-header-list=host&q-url-param-list=&q-signature=0acda08faa369320058b26b3a96eef91eee5ceef)
 
 
-![](https://cofile.eeo.cn/res-store%2Fb9c3043d1fa56c168a6bd4cad9c28982eb02e39028771d892aeb00f542c5b662_268508?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1783267200;1783872000&q-key-time=1783267200;1783872000&q-header-list=host&q-url-param-list=&q-signature=bb8b2929e72838088358e38a42d6623cf0b5e92a)
+![](https://cofile.eeo.cn/res-store%2Fb9c3043d1fa56c168a6bd4cad9c28982eb02e39028771d892aeb00f542c5b662_268508?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1783872000;1784476800&q-key-time=1783872000;1784476800&q-header-list=host&q-url-param-list=&q-signature=b7c79ffa1642b566c042aa22d218fd688de2e89e)
 
 
 ### 三、扩展黑板（双屏不联动）
@@ -50,7 +50,7 @@ section: "ClassInX"
 扩展屏设置面板的左下角关闭“双屏联动”后，两块黑板虽显示同一板书，但可以各自独立翻页。
 
 
-![](https://cofile.eeo.cn/res-store%2F4df9ed60f0075dae5c417d3b2a1fd7d3b8234181e91c032b8f6c71809cb92a16_109066?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1783267200;1783872000&q-key-time=1783267200;1783872000&q-header-list=host&q-url-param-list=&q-signature=5c3dee5a5c1ba13276b22f34d1fd38ed428f231e)
+![](https://cofile.eeo.cn/res-store%2F4df9ed60f0075dae5c417d3b2a1fd7d3b8234181e91c032b8f6c71809cb92a16_109066?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1783872000;1784476800&q-key-time=1783872000;1784476800&q-header-list=host&q-url-param-list=&q-signature=1ab5e627c7fb43881dbe02c78c77837dbfe86349)
 
 
 ### 四、扩展文件
@@ -71,10 +71,10 @@ section: "ClassInX"
 （4）在教室中，选择扩展文件的情况下，教室内授课教师可以在扩展屏窗口面板上设置“允许学生自由浏览”文件的权限，开启后，教室内的学生在教室右下角查看扩展屏文件的同时还可以自由翻页文件。
 
 
-![](https://cofile.eeo.cn/res-store%2Fd95e687d34b00b55b84ca1fa44cc53fcebb4724bb5eed3c495743914b9da9b21_866388?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1783267200;1783872000&q-key-time=1783267200;1783872000&q-header-list=host&q-url-param-list=&q-signature=562a55427c1d1d2296c3b551ca47e752123cdd59)
+![](https://cofile.eeo.cn/res-store%2Fd95e687d34b00b55b84ca1fa44cc53fcebb4724bb5eed3c495743914b9da9b21_866388?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1783872000;1784476800&q-key-time=1783872000;1784476800&q-header-list=host&q-url-param-list=&q-signature=48d0093299880ebd8c4b00ddeb1c74fda468fe92)
 
 
-![](https://cofile.eeo.cn/res-store%2Fac578a253d208a67826e8cc06c0d8b32fca865d8515e86dc0fbeae1d82bed020_437569?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1783267200;1783872000&q-key-time=1783267200;1783872000&q-header-list=host&q-url-param-list=&q-signature=25dddbeb61e0c7f64d46d39184d74df11a1f9d16)
+![](https://cofile.eeo.cn/res-store%2Fac578a253d208a67826e8cc06c0d8b32fca865d8515e86dc0fbeae1d82bed020_437569?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1783872000;1784476800&q-key-time=1783872000;1784476800&q-header-list=host&q-url-param-list=&q-signature=643cd1030305d05a3b62a77a6321efc822674a4a)
 
 
 ### 五、扩展屏显示视频墙
@@ -83,7 +83,7 @@ section: "ClassInX"
 扩展屏除了可以显示黑板、文件内容外，还可展示视频墙画面。用户在屏幕中央底部dock栏中进入工具箱，打开视频墙工具，视频墙画面会自动显示在扩展屏上。
 
 
-![](https://cofile.eeo.cn/res-store%2Ff56b922af07c4e43d75bfcaae306d2733e77c411bd39e33120923ad6fd3be09c_276670?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1783267200;1783872000&q-key-time=1783267200;1783872000&q-header-list=host&q-url-param-list=&q-signature=3790413b79ecae5740a71fd499f9bc227fccec72)
+![](https://cofile.eeo.cn/res-store%2Ff56b922af07c4e43d75bfcaae306d2733e77c411bd39e33120923ad6fd3be09c_276670?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1783872000;1784476800&q-key-time=1783872000;1784476800&q-header-list=host&q-url-param-list=&q-signature=29cffa7e349e6149aee401901acab18d38d37fe5)
 
 
-![](https://cofile.eeo.cn/res-store%2Ff1c3b14ae7082e5121d64da159a01a98799583d3af7d007962cd204bdc90338d_605200?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1783267200;1783872000&q-key-time=1783267200;1783872000&q-header-list=host&q-url-param-list=&q-signature=0baa70c136336ad59edf059fe634b58e39af4c0f)
+![](https://cofile.eeo.cn/res-store%2Ff1c3b14ae7082e5121d64da159a01a98799583d3af7d007962cd204bdc90338d_605200?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1783872000;1784476800&q-key-time=1783872000;1784476800&q-header-list=host&q-url-param-list=&q-signature=e33b13c86f94bdedd4e8458cfd450c9732c8fdb5)
