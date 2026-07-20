@@ -26,7 +26,7 @@ section: "更多使用说明"
 后台的直播上架和回放上架的设置，可以随时开启或者关闭，但直播上架设置仅在直播期间生效，回放上架仅在课后回放期间生效
 
 
-![](https://cofile.eeo.cn/res-store%2Fc8001047f94745d80b38b85910dd15d13499c926d4d9433e84ae2bfca339965e_541393?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1783872000;1784476800&q-key-time=1783872000;1784476800&q-header-list=host&q-url-param-list=&q-signature=0a93902245abde59fb4dff5a5be418e1f7ce98b6)
+![](https://cofile.eeo.cn//newbee/assets/emoji-15/OpenFileFolder.png)
 
 
 从商品库中选择现有商品，每堂课最多支持同时选择6个商品

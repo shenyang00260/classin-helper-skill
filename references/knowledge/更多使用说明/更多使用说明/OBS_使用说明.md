@@ -20,7 +20,7 @@ section: "更多使用说明"
 在浏览器中访问 obsproject.com ，然后根据您的电脑系统下载对应的安装包
 
 
-![](https://cofile.eeo.cn/res-store%2Fb49cb27402d6ed0c7ff69c3a16c5aa5c356dc8cb9386b7b6403d0e1c624bfb3a_656583?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1783872000;1784476800&q-key-time=1783872000;1784476800&q-header-list=host&q-url-param-list=&q-signature=6cda34f2806939ec351508f0900cb353660d9d46)
+![](https://cofile.eeo.cn//newbee/assets/emoji-15/OpenFileFolder.png)
 
 
 ## （2）obs中添加视频
@@ -122,7 +122,7 @@ section: "更多使用说明"
 # 二、教室虚拟直播
 
 
-![](https://cofile.eeo.cn/res-store%2Fb49cb27402d6ed0c7ff69c3a16c5aa5c356dc8cb9386b7b6403d0e1c624bfb3a_656583?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1783872000;1784476800&q-key-time=1783872000;1784476800&q-header-list=host&q-url-param-list=&q-signature=6cda34f2806939ec351508f0900cb353660d9d46)
+![](https://cofile.eeo.cn//newbee/assets/emoji-15/OpenFileFolder.png)
 
 
 ### 2.2 场景添加本地视频

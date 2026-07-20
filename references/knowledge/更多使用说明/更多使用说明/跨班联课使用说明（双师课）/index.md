@@ -74,7 +74,7 @@ section: "更多使用说明"
 在主班级中选定一个课程（注意，不是整个班级），并将其作为主课堂的基础，创建它的子课堂。如果班级中尚未添加任何课堂，可以参考下方图示进行创建。（创建路径：登录后台管理 ＞ 班级管理 ＞ 进入班级 ＞ 添加课堂）
 
 
-![](https://cofile.eeo.cn/res-store%2F6b6fef85000e1dcb6524ef567fb28fca873fcb455c408161a450e055d3d7fc51_508386?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1783872000;1784476800&q-key-time=1783872000;1784476800&q-header-list=host&q-url-param-list=&q-signature=5e7234ba234a717d13479ff08970f2870534f0b6)
+![](https://cofile.eeo.cn//newbee/assets/emoji-15/OpenFileFolder.png)
 
 
 ### 2.2 添加子课堂
@@ -104,7 +104,7 @@ section: "更多使用说明"
 （6）在录课方面，可以选择【使用主课堂的录课回放】或【云端录课（各子课堂分别录课）】。需要注意的是，若选择子课堂云端录课，每个录课的子教室都需要有一名助教进入教室进行全程录制。
 
 
-![](https://cofile.eeo.cn/res-store%2Fb42c69fee8ef785001e940ad6378e36e8e28a6f30faea11654b14a2c16cb3dd6_289908?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1783872000;1784476800&q-key-time=1783872000;1784476800&q-header-list=host&q-url-param-list=&q-signature=bf83b692ea2cb6b81aa584fd3c3ed528d12af416)
+![](https://cofile.eeo.cn/res-store%2Fb42c69fee8ef785001e940ad6378e36e8e28a6f30faea11654b14a2c16cb3dd6_289908?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1784476800;1785081600&q-key-time=1784476800;1785081600&q-header-list=host&q-url-param-list=&q-signature=5e59751895177e22fb53b5cb5987a7fcdb7c971b)
 
 
 ### 2.3 编辑与删除

@@ -59,7 +59,7 @@ section: "管理后台"
 右上角获取课堂直播回放链接
 
 
-![](https://cofile.eeo.cn/res-store%2F6606266e8e2bdd079be191dc715d061c3c7d75acaaeda1e5a091e3c9fe54b3c7_802520?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1783872000;1784476800&q-key-time=1783872000;1784476800&q-header-list=host&q-url-param-list=&q-signature=07400d0b4021b8b5532c3810e4581989916ddc46)
+![](https://cofile.eeo.cn/res-store%2F6606266e8e2bdd079be191dc715d061c3c7d75acaaeda1e5a091e3c9fe54b3c7_802520?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1784476800;1785081600&q-key-time=1784476800;1785081600&q-header-list=host&q-url-param-list=&q-signature=bfbf063614f1feb0bd49ff8db5c77e760c80b9b3)
 
 
 # 二、获取班级链接
@@ -77,4 +77,4 @@ section: "管理后台"
 点击右上角  班级直播回放平台
 
 
-![](https://cofile.eeo.cn/res-store%2Fc147c20517ae70cbeb4c30bb6c9578c0ead22a084e4bdd67e2089e97685fbbcb_533805?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1783872000;1784476800&q-key-time=1783872000;1784476800&q-header-list=host&q-url-param-list=&q-signature=cfacddc7d9dd1f9e2d33e626c38550c6bbfd2b28)
+![](https://cofile.eeo.cn/res-store%2Fc147c20517ae70cbeb4c30bb6c9578c0ead22a084e4bdd67e2089e97685fbbcb_533805?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1784476800;1785081600&q-key-time=1784476800;1785081600&q-header-list=host&q-url-param-list=&q-signature=1561a2c118fedf2394797252f321b625defea593)
