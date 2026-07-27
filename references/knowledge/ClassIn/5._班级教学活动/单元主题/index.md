@@ -59,7 +59,7 @@ section: "ClassIn"
 直接 发布 或 保存草稿
 
 
-![](https://cofile.eeo.cn/res-store%2F43cc34f2964cefb0468858f8b32e0e950b8d84053a54113df394824ccc1a0844_463602?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1784476800;1785081600&q-key-time=1784476800;1785081600&q-header-list=host&q-url-param-list=&q-signature=1de51c9f9696cbf6b910e2aa80167ca91a4de21f)
+![](https://cofile.eeo.cn/res-store%2F43cc34f2964cefb0468858f8b32e0e950b8d84053a54113df394824ccc1a0844_463602?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1785081600;1785686400&q-key-time=1785081600;1785686400&q-header-list=host&q-url-param-list=&q-signature=85a7e6601532e92e057437d844ab2403e253fd2b)
 
 
 #### 手机
@@ -77,7 +77,7 @@ section: "ClassIn"
 创建 单元主题（非首次创建时，点击右下角 + 号创建单元主题）
 
 
-![](https://cofile.eeo.cn/res-store%2Fc0278a1fc33928f3c5dde326fed419e9f8ce6f52c5d70efdc6a7cb179f2e25c6_1234169?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1784476800;1785081600&q-key-time=1784476800;1785081600&q-header-list=host&q-url-param-list=&q-signature=409df1695b3489968a28254a8c5ef5f800c36edb)
+![](https://cofile.eeo.cn/res-store%2Fc0278a1fc33928f3c5dde326fed419e9f8ce6f52c5d70efdc6a7cb179f2e25c6_1234169?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1785081600;1785686400&q-key-time=1785081600;1785686400&q-header-list=host&q-url-param-list=&q-signature=6dc40f0958a51e70948cecfd341871829cae728b)
 
 
 # 三、修改「单元主题」
@@ -110,7 +110,7 @@ section: "ClassIn"
 选择 编辑
 
 
-![](https://cofile.eeo.cn/res-store%2F027792ba89f543e5f801b26777a80dd5610fe2d7e808d8a188ce9381c688d2ca_444229?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1784476800;1785081600&q-key-time=1784476800;1785081600&q-header-list=host&q-url-param-list=&q-signature=afc49116408636789b5c2488112db4a2886b2bcd)
+![](https://cofile.eeo.cn/res-store%2F027792ba89f543e5f801b26777a80dd5610fe2d7e808d8a188ce9381c688d2ca_444229?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1785081600;1785686400&q-key-time=1785081600;1785686400&q-header-list=host&q-url-param-list=&q-signature=420138c20da4b20bb3401bd7fd68a716f71be851)
 
 
 进入 主页
@@ -125,7 +125,7 @@ section: "ClassIn"
 找到单元主题，点击「···」选择 编辑
 
 
-![](https://cofile.eeo.cn/res-store%2F7828aeca15f3293cf1cf4b0998fe73b1759ed8864e6fc5d0bbad09e0d1e8e737_852624?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1784476800;1785081600&q-key-time=1784476800;1785081600&q-header-list=host&q-url-param-list=&q-signature=2eec8182fa57bcd98eeec0e815684d9551419bfa)
+![](https://cofile.eeo.cn/res-store%2F7828aeca15f3293cf1cf4b0998fe73b1759ed8864e6fc5d0bbad09e0d1e8e737_852624?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1785081600;1785686400&q-key-time=1785081600;1785686400&q-header-list=host&q-url-param-list=&q-signature=fdbef574915053fb372337b554b7785f9284294d)
 
 
 # 四、删除「单元主题」
@@ -137,13 +137,13 @@ section: "ClassIn"
 选择 删除
 
 
-![](https://cofile.eeo.cn/res-store%2F47b908a928aef89a844ad0144d5b2c2ee0206e13387ee66445f5ce9c6350e1b7_443837?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1784476800;1785081600&q-key-time=1784476800;1785081600&q-header-list=host&q-url-param-list=&q-signature=666c9df13a2759d09c486613374e05faa66e4e4d)
+![](https://cofile.eeo.cn/res-store%2F47b908a928aef89a844ad0144d5b2c2ee0206e13387ee66445f5ce9c6350e1b7_443837?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1785081600;1785686400&q-key-time=1785081600;1785686400&q-header-list=host&q-url-param-list=&q-signature=68ea8f02b8c7e5011f7819161bbaabbfe5334037)
 
 
 找到单元主题，点击「···」选择 删除
 
 
-![](https://cofile.eeo.cn/res-store%2F1ceb3cce764864efe9e59a07266f3b2b07ffd716a3c2f123d968d953af207b16_861062?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1784476800;1785081600&q-key-time=1784476800;1785081600&q-header-list=host&q-url-param-list=&q-signature=aa65185d11a8e32364d4bdc7d8bc9307acdbafb6)
+![](https://cofile.eeo.cn/res-store%2F1ceb3cce764864efe9e59a07266f3b2b07ffd716a3c2f123d968d953af207b16_861062?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1785081600;1785686400&q-key-time=1785081600;1785686400&q-header-list=host&q-url-param-list=&q-signature=05754abebbf7f3d85e6409942c1c71a851d4861b)
 
 
 # 五、分享「单元主题」
@@ -164,10 +164,10 @@ section: "ClassIn"
 选择分享方式进行分享
 
 
-![](https://cofile.eeo.cn/res-store%2F922ed16444a6a8227ee3ab0908456848e7a45017e7f5848584bd0de30e65b609_726397?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1784476800;1785081600&q-key-time=1784476800;1785081600&q-header-list=host&q-url-param-list=&q-signature=5153d189165aca8aa8fbfb738e430d171384fc92)
+![](https://cofile.eeo.cn/res-store%2F922ed16444a6a8227ee3ab0908456848e7a45017e7f5848584bd0de30e65b609_726397?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1785081600;1785686400&q-key-time=1785081600;1785686400&q-header-list=host&q-url-param-list=&q-signature=bfe5e4e871587a5d49dbe0e5ffcca352f408b66b)
 
 
-![](https://cofile.eeo.cn/res-store%2F8e6236779851d5d0eccfb26bdaafb20a8a33d7e3898c60b5787180b06caaf0c9_617220?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1784476800;1785081600&q-key-time=1784476800;1785081600&q-header-list=host&q-url-param-list=&q-signature=ecf0602bb49be8db46971e2bd3d0b9aa9ed2bf7a)
+![](https://cofile.eeo.cn/res-store%2F8e6236779851d5d0eccfb26bdaafb20a8a33d7e3898c60b5787180b06caaf0c9_617220?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1785081600;1785686400&q-key-time=1785081600;1785686400&q-header-list=host&q-url-param-list=&q-signature=d37c9edd548f8c88f3ceb233c1ec0734091aa7a2)
 
 
 # 六、「单元与活动」排序
@@ -200,7 +200,7 @@ section: "ClassIn"
 可以按正序倒序排列也可以按照活动类型和教师以及完成状态进行筛选
 
 
-![](https://cofile.eeo.cn/res-store%2F5e28e420819ddd8983252f4fef6fb68a3fec28c5fa664dd7c7b8986ff5c436d8_662408?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1784476800;1785081600&q-key-time=1784476800;1785081600&q-header-list=host&q-url-param-list=&q-signature=c8bf001378b7d1e287bae724d6b9aa760646a6d4)
+![](https://cofile.eeo.cn/res-store%2F5e28e420819ddd8983252f4fef6fb68a3fec28c5fa664dd7c7b8986ff5c436d8_662408?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1785081600;1785686400&q-key-time=1785081600;1785686400&q-header-list=host&q-url-param-list=&q-signature=7331c9ae688f063a577966685b7e334fc532cc87)
 
 
 进入 筛选
@@ -209,7 +209,7 @@ section: "ClassIn"
 根据正反序、活动类型、人员等信息对教学活动进行排序显示
 
 
-![](https://cofile.eeo.cn/res-store%2F6baa661ba493e3739855317ab3991e42111fc5ca69f4d2ddb812bff65af695fc_1600459?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1784476800;1785081600&q-key-time=1784476800;1785081600&q-header-list=host&q-url-param-list=&q-signature=2b0d19c8d8140108533ed07cd78bc996fd1e609e)
+![](https://cofile.eeo.cn/res-store%2F6baa661ba493e3739855317ab3991e42111fc5ca69f4d2ddb812bff65af695fc_1600459?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1785081600;1785686400&q-key-time=1785081600;1785686400&q-header-list=host&q-url-param-list=&q-signature=c7fb911336a04d991ee46c98c7ce265deb12dca9)
 
 
 # 七、筛选活动
@@ -266,13 +266,13 @@ section: "ClassIn"
 查看 能力模型 页面
 
 
-![](https://cofile.eeo.cn/res-store%2F5e28e420819ddd8983252f4fef6fb68a3fec28c5fa664dd7c7b8986ff5c436d8_662408?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1784476800;1785081600&q-key-time=1784476800;1785081600&q-header-list=host&q-url-param-list=&q-signature=c8bf001378b7d1e287bae724d6b9aa760646a6d4)
+![](https://cofile.eeo.cn/res-store%2F5e28e420819ddd8983252f4fef6fb68a3fec28c5fa664dd7c7b8986ff5c436d8_662408?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1785081600;1785686400&q-key-time=1785081600;1785686400&q-header-list=host&q-url-param-list=&q-signature=7331c9ae688f063a577966685b7e334fc532cc87)
 
 
 查看学生总成绩和学习进度，点击学习成绩可跳转到班级/单元报告
 
 
-![](https://cofile.eeo.cn/res-store%2F6baa661ba493e3739855317ab3991e42111fc5ca69f4d2ddb812bff65af695fc_1600459?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1784476800;1785081600&q-key-time=1784476800;1785081600&q-header-list=host&q-url-param-list=&q-signature=2b0d19c8d8140108533ed07cd78bc996fd1e609e)
+![](https://cofile.eeo.cn/res-store%2F6baa661ba493e3739855317ab3991e42111fc5ca69f4d2ddb812bff65af695fc_1600459?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1785081600;1785686400&q-key-time=1785081600;1785686400&q-header-list=host&q-url-param-list=&q-signature=c7fb911336a04d991ee46c98c7ce265deb12dca9)
 
 
 # 九、单元报告
@@ -296,10 +296,10 @@ section: "ClassIn"
 点击能力分析，切换到 能力分析 页面
 
 
-![](https://cofile.eeo.cn/res-store%2Fe51292bc4db71720ac543df68b2b1c8b5e7d5533ca0d1e519a9d10e6fbc8f6f2_413830?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1784476800;1785081600&q-key-time=1784476800;1785081600&q-header-list=host&q-url-param-list=&q-signature=6b928290f5818b341902317294d716cb03ced1cb)
+![](https://cofile.eeo.cn/res-store%2Fe51292bc4db71720ac543df68b2b1c8b5e7d5533ca0d1e519a9d10e6fbc8f6f2_413830?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1785081600;1785686400&q-key-time=1785081600;1785686400&q-header-list=host&q-url-param-list=&q-signature=9ddda3ed6348641e9b86bf04098d34b05b52741b)
 
 
-![](https://cofile.eeo.cn/res-store%2F15670b8bb65a6dc3be80df18827973eb871a516bfe127c768894ec9ed335415a_1271525?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1784476800;1785081600&q-key-time=1784476800;1785081600&q-header-list=host&q-url-param-list=&q-signature=938dee180b46e6b0a4a94a94d6215db6c5c76040)
+![](https://cofile.eeo.cn/res-store%2F15670b8bb65a6dc3be80df18827973eb871a516bfe127c768894ec9ed335415a_1271525?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1785081600;1785686400&q-key-time=1785081600;1785686400&q-header-list=host&q-url-param-list=&q-signature=962071b9b8a48bc555d4e456840459b8b86a2fd0)
 
 
 # 十、课程报告
@@ -317,7 +317,7 @@ section: "ClassIn"
 查看 课程报告 页面
 
 
-![](https://cofile.eeo.cn/res-store%2Fd03a3cd4e5ef1f10bb134870f97335885a016267c4dda58a141615d506c05278_466726?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1784476800;1785081600&q-key-time=1784476800;1785081600&q-header-list=host&q-url-param-list=&q-signature=f124ba4f6185efe2723c1055d9e41b853edd15f5)
+![](https://cofile.eeo.cn/res-store%2Fd03a3cd4e5ef1f10bb134870f97335885a016267c4dda58a141615d506c05278_466726?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1785081600;1785686400&q-key-time=1785081600;1785686400&q-header-list=host&q-url-param-list=&q-signature=ac8589747e588cd924c3e54a091d891a529d01ce)
 
 
-![](https://cofile.eeo.cn/res-store%2F371fc1231cc0dea255ffd9e8da419f465eec14558e8180a3120662760495aee0_2121973?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1784476800;1785081600&q-key-time=1784476800;1785081600&q-header-list=host&q-url-param-list=&q-signature=4af021a59bc14995a00189052f7d2eafa189ac92)
+![](https://cofile.eeo.cn/res-store%2F371fc1231cc0dea255ffd9e8da419f465eec14558e8180a3120662760495aee0_2121973?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1785081600;1785686400&q-key-time=1785081600;1785686400&q-header-list=host&q-url-param-list=&q-signature=ba467c5676132d10fe24c25378113f9819ab0de4)

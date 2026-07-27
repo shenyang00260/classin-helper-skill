@@ -59,7 +59,7 @@ NOBOOK官网
 查看 学科VIP有效期
 
 
-![](https://cofile.eeo.cn/res-store%2F3dee1d2eeb10fa1518b653cc63cd510b2a543ceb2be7fd9675ba9e265a87cd19_1061610?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1784476800;1785081600&q-key-time=1784476800;1785081600&q-header-list=host&q-url-param-list=&q-signature=11c8ff88a33d3080159a265d5fa85f41d79ffd02)
+![](https://cofile.eeo.cn/res-store%2F3dee1d2eeb10fa1518b653cc63cd510b2a543ceb2be7fd9675ba9e265a87cd19_1061610?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1785081600;1785686400&q-key-time=1785081600;1785686400&q-header-list=host&q-url-param-list=&q-signature=9adebc01607a89cfd35b9b8ce7c3730f347ed804)
 
 
 # 三、实验
@@ -80,4 +80,4 @@ NOBOOK官网
 进入 我的实验
 
 
-![](https://cofile.eeo.cn/res-store%2Fae7c628a87016f340e17ae85cdf427a6d6b00bae0d7aa22b7cd09ec2b8cf3a5e_965301?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1784476800;1785081600&q-key-time=1784476800;1785081600&q-header-list=host&q-url-param-list=&q-signature=2fb7f75ae1b57dfa93e8eb8d6ec5b3dad7869a40)
+![](https://cofile.eeo.cn/res-store%2Fae7c628a87016f340e17ae85cdf427a6d6b00bae0d7aa22b7cd09ec2b8cf3a5e_965301?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1785081600;1785686400&q-key-time=1785081600;1785686400&q-header-list=host&q-url-param-list=&q-signature=fc139d4c8d3aaec260b3381017bfc193c933a225)
