@@ -65,4 +65,4 @@ section: "管理后台"
 点击 进入教室
 
 
-![](https://cofile.eeo.cn/res-store%2F84df856d92c6ccb20184b9fcd545a3243e085fe1ab2702b34f41a6eba0c0a652_236880?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1785081600;1785686400&q-key-time=1785081600;1785686400&q-header-list=host&q-url-param-list=&q-signature=8f093a370307820428d541b67c6128b604f2475c)
+![](https://cofile.eeo.cn/res-store%2F84df856d92c6ccb20184b9fcd545a3243e085fe1ab2702b34f41a6eba0c0a652_236880?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1785686400;1786291200&q-key-time=1785686400;1786291200&q-header-list=host&q-url-param-list=&q-signature=ace5143d6377a3199f28da5b34647b6384ccd2b5)

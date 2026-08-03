@@ -47,4 +47,4 @@ section: "管理后台"
 在 课程正式学生和教师观看课程回放设置 中，开启或关闭 上课结束后允许正式学生和教师观看课程回放视频
 
 
-![](https://cofile.eeo.cn/res-store%2Fbc940f7cc829e1c91368aa4fc0498ed7c42652680adc5ce44a3c00313a8de771_427489?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1785081600;1785686400&q-key-time=1785081600;1785686400&q-header-list=host&q-url-param-list=&q-signature=45d1944d066937ad9dc8fbe4195a76eed4f7266d)
+![](https://cofile.eeo.cn/res-store%2Fbc940f7cc829e1c91368aa4fc0498ed7c42652680adc5ce44a3c00313a8de771_427489?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1785686400;1786291200&q-key-time=1785686400;1786291200&q-header-list=host&q-url-param-list=&q-signature=927b2bda18fd05f2d8e0037c40cab0c1f9a48bfd)
