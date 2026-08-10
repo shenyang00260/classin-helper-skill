@@ -236,19 +236,19 @@ edb板书文件是ClassIn独有的由图片和文字组成的一种文件，可�
 方式一：（新建edb板书文件）空间-我的云盘-新建板书
 
 
-![](https://cofile.eeo.cn/res-store%2Fd17cd78764fbee1bf9ef155e057f931392d155d70a812996b1bd717764082f34_334709?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1785686400;1786291200&q-key-time=1785686400;1786291200&q-header-list=host&q-url-param-list=&q-signature=b19ad7a5bec3c6aafdbd63a960507831aaf69fd5)
+![](https://cofile.eeo.cn/res-store%2Fd17cd78764fbee1bf9ef155e057f931392d155d70a812996b1bd717764082f34_334709?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786291200;1786896000&q-key-time=1786291200;1786896000&q-header-list=host&q-url-param-list=&q-signature=9b83ba7e0a99461fd037d0f151b673db3c65030b)
 
 
 方式二：（编辑edb板书文件）空间-我的云盘-打开edb板书文件-编辑
 
 
-![](https://cofile.eeo.cn/res-store%2F29b07ad6eace80500f74ff63f6a28d4b8e4dd67489f8223c03a9c47c4068aee7_441261?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1785686400;1786291200&q-key-time=1785686400;1786291200&q-header-list=host&q-url-param-list=&q-signature=c6ff9129e0e77268ea61fb955cdaab0b185171d1)
+![](https://cofile.eeo.cn/res-store%2F29b07ad6eace80500f74ff63f6a28d4b8e4dd67489f8223c03a9c47c4068aee7_441261?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786291200;1786896000&q-key-time=1786291200;1786896000&q-header-list=host&q-url-param-list=&q-signature=60dd831174e044fd08c6ca578f3ce85d40e6204e)
 
 
 方式三：进入黑板（无需排课）或教室-制作/编辑edb板书文件-保存板书
 
 
-![](https://cofile.eeo.cn/res-store%2F68b2179fe83eed3f9c93a9f6595b7c8ca965c4deca6c79899b8d9b4b21fcfc0a_155025?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1785686400;1786291200&q-key-time=1785686400;1786291200&q-header-list=host&q-url-param-list=&q-signature=d9366ecc8e8d6d66db42e2a64a7f2ce9dd009aec)
+![](https://cofile.eeo.cn/res-store%2F68b2179fe83eed3f9c93a9f6595b7c8ca965c4deca6c79899b8d9b4b21fcfc0a_155025?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786291200;1786896000&q-key-time=1786291200;1786896000&q-header-list=host&q-url-param-list=&q-signature=38967a82a5e1d6a1cf211b243dd1350c28a243ef)
 
 
 a.黑板或教室中如何制作edb文件
@@ -260,13 +260,13 @@ a.黑板或教室中如何制作edb文件
 使用通用快捷键快速复制粘贴图片；复制：ctrl+c  ；粘贴：ctrl+v
 
 
-![](https://cofile.eeo.cn/res-store%2F63417352229e3f56377ce3fffde11c4c56e905485f84883f930980e91fdcaeb4_280674?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1785686400;1786291200&q-key-time=1785686400;1786291200&q-header-list=host&q-url-param-list=&q-signature=f58b53e92d58b8481222f23fc86ad4363c2c0850)
+![](https://cofile.eeo.cn/res-store%2F63417352229e3f56377ce3fffde11c4c56e905485f84883f930980e91fdcaeb4_280674?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786291200;1786896000&q-key-time=1786291200;1786896000&q-header-list=host&q-url-param-list=&q-signature=64a0f47a010a4bf5bc5b2b53700aa517eff23c0e)
 
 
-![](https://cofile.eeo.cn/res-store%2F4bc26bfa0f8a898827384596221e736967589af833e2d2ac40c665046745eebf_535764?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1785686400;1786291200&q-key-time=1785686400;1786291200&q-header-list=host&q-url-param-list=&q-signature=c557172bbcc3dafc6925ff6de20dbbc8d8006f0a)
+![](https://cofile.eeo.cn/res-store%2F4bc26bfa0f8a898827384596221e736967589af833e2d2ac40c665046745eebf_535764?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786291200;1786896000&q-key-time=1786291200;1786896000&q-header-list=host&q-url-param-list=&q-signature=30930e02d646cb61851b24871b64d03d7be6d89d)
 
 
-![](https://cofile.eeo.cn/res-store%2Fb7aeb8b57fd6c81826cccd87d070d8ffd3fecd45e85598c2a35c6a8f6783fd2c_325206?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1785686400;1786291200&q-key-time=1785686400;1786291200&q-header-list=host&q-url-param-list=&q-signature=bc03e9db855f4eb4bc99759a3db80c6c19dbba85)
+![](https://cofile.eeo.cn/res-store%2Fb7aeb8b57fd6c81826cccd87d070d8ffd3fecd45e85598c2a35c6a8f6783fd2c_325206?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786291200;1786896000&q-key-time=1786291200;1786896000&q-header-list=host&q-url-param-list=&q-signature=50f06264727796a2dc8fbd9d8b5852075f13a232)
 
 
 b.黑板或教室中如何保存edb文件
@@ -281,7 +281,7 @@ b.黑板或教室中如何保存edb文件
 保存板书时有三种可选择文件格式-edb/png/pdf，保存到本地可多选，保存到云盘仅支持单选。
 
 
-![](https://cofile.eeo.cn/res-store%2Fdf2de7e14b7489fa378fbbd2558013e277cdbec07f65048beca0ee3baf5ad92f_293211?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1785686400;1786291200&q-key-time=1785686400;1786291200&q-header-list=host&q-url-param-list=&q-signature=4f1b7d8a5662d48255989c0c97915b641e70db8b)
+![](https://cofile.eeo.cn/res-store%2Fdf2de7e14b7489fa378fbbd2558013e277cdbec07f65048beca0ee3baf5ad92f_293211?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786291200;1786896000&q-key-time=1786291200;1786896000&q-header-list=host&q-url-param-list=&q-signature=84610130e3821519700fbe328564d18c8e818fbc)
 
 
 ### 2.edoc文件
@@ -299,19 +299,19 @@ edoc是ClassIn为用户提供的在ClassIn中进行协作编辑的文档格式�
 方法一：（新建协作文档）空间-我的云盘-新建-协作文档，可在我的云盘中查找，可分享至ClassIn好友或班级
 
 
-![](https://cofile.eeo.cn/res-store%2F893752074d1fbae7d10eb3262d6d678e205f4d64b9996371aee0b725809c0321_413567?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1785686400;1786291200&q-key-time=1785686400;1786291200&q-header-list=host&q-url-param-list=&q-signature=1c28ca89a2283d36681220ec530107796a6a86de)
+![](https://cofile.eeo.cn/res-store%2F893752074d1fbae7d10eb3262d6d678e205f4d64b9996371aee0b725809c0321_413567?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786291200;1786896000&q-key-time=1786291200;1786896000&q-header-list=host&q-url-param-list=&q-signature=87038b428e0e0ba87953aefd4ecfc6624584020b)
 
 
 方法二：（新建协作文档）教室内-工具箱-协作-文档，也可创建edoc，给学生授权，可临时添加协作编辑权限
 
 
-![](https://cofile.eeo.cn/res-store%2Fb6e245e0bc3e44cfc80a843ddd1a4d7d600d7ee7c43a0d63ca53353eb4cee377_131405?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1785686400;1786291200&q-key-time=1785686400;1786291200&q-header-list=host&q-url-param-list=&q-signature=8931095c61cdb8febdc884e4f4ce0dda46db0b4e)
+![](https://cofile.eeo.cn/res-store%2Fb6e245e0bc3e44cfc80a843ddd1a4d7d600d7ee7c43a0d63ca53353eb4cee377_131405?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786291200;1786896000&q-key-time=1786291200;1786896000&q-header-list=host&q-url-param-list=&q-signature=a6fd445cda95616f7158c6e08207fd762fbdd3ae)
 
 
 方法三：（在线编辑协作文档）空间-我的云盘-打开word-点击在线编辑
 
 
-![](https://cofile.eeo.cn/res-store%2Fc6f8a93614e92beb065cabdf5784f76324bc18be8fbf7f0b86d3d58e819e5d0a_535084?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1785686400;1786291200&q-key-time=1785686400;1786291200&q-header-list=host&q-url-param-list=&q-signature=bbbd9c0abe79c4c63ad984440be43df8606a2756)
+![](https://cofile.eeo.cn/res-store%2Fc6f8a93614e92beb065cabdf5784f76324bc18be8fbf7f0b86d3d58e819e5d0a_535084?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786291200;1786896000&q-key-time=1786291200;1786896000&q-header-list=host&q-url-param-list=&q-signature=29c3fc9813d3f2b1302cafcfd3ece82df6f8e553)
 
 
 #### （3）edoc内添加批注
@@ -320,7 +320,7 @@ edoc是ClassIn为用户提供的在ClassIn中进行协作编辑的文档格式�
 edoc内，点击文档内的“+”可添加批注。
 
 
-![](https://cofile.eeo.cn/res-store%2F6801e725d4c7d9960c60a587f93867a050f3357640d6f838a8c1ba5b8cd4b1af_40522?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1785686400;1786291200&q-key-time=1785686400;1786291200&q-header-list=host&q-url-param-list=&q-signature=bba43cc0683a0d8bdcac58d8897a07761fbf2f94)
+![](https://cofile.eeo.cn/res-store%2F6801e725d4c7d9960c60a587f93867a050f3357640d6f838a8c1ba5b8cd4b1af_40522?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786291200;1786896000&q-key-time=1786291200;1786896000&q-header-list=host&q-url-param-list=&q-signature=473177580d241e7e52e96bfa715764462a2aa553)
 
 
 ### 3.eppt文件
@@ -338,13 +338,13 @@ eppt是ClassIn为用户提供的在ClassIn中进行编辑的ppt格式，可用�
 方法一：（新建在线ppt）空间-我的云盘-新建-在线PPT，可在我的云盘中查找，可分享至ClassIn好友或班级
 
 
-![](https://cofile.eeo.cn/res-store%2Ff92e4da541aed334b42e4d36f9beab1877892e1bfb9095697370ed886eaabef3_422433?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1785686400;1786291200&q-key-time=1785686400;1786291200&q-header-list=host&q-url-param-list=&q-signature=ff12e4bbcba859f0564e258384cba8f9d3ff589c)
+![](https://cofile.eeo.cn/res-store%2Ff92e4da541aed334b42e4d36f9beab1877892e1bfb9095697370ed886eaabef3_422433?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786291200;1786896000&q-key-time=1786291200;1786896000&q-header-list=host&q-url-param-list=&q-signature=f8b991d6dc9efaa650a1b8059aac0f38e39c5831)
 
 
 方法二：（修改已上传的ppt）空间-我的云盘-打开ppt-点击在线编辑
 
 
-![](https://cofile.eeo.cn/res-store%2Ff92e4da541aed334b42e4d36f9beab1877892e1bfb9095697370ed886eaabef3_422433?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1785686400;1786291200&q-key-time=1785686400;1786291200&q-header-list=host&q-url-param-list=&q-signature=ff12e4bbcba859f0564e258384cba8f9d3ff589c)
+![](https://cofile.eeo.cn/res-store%2Ff92e4da541aed334b42e4d36f9beab1877892e1bfb9095697370ed886eaabef3_422433?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786291200;1786896000&q-key-time=1786291200;1786896000&q-header-list=host&q-url-param-list=&q-signature=f8b991d6dc9efaa650a1b8059aac0f38e39c5831)
 
 
 ### 4.eda文件
@@ -362,16 +362,16 @@ eda是一类教室内的拓展工具，由ClassIn开发，作为公共资源提�
 空间-我的云盘-右下角?-ClassIn使用指南-教室内其他拓展工具
 
 
-![](https://cofile.eeo.cn/res-store%2F24a6546fba1e26ef2f482d5998348d1a68ed04052262a1f168171819d6ed828c_600892?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1785686400;1786291200&q-key-time=1785686400;1786291200&q-header-list=host&q-url-param-list=&q-signature=7ee24baf426cef4ea3dcf9da52716bd50166165d)
+![](https://cofile.eeo.cn/res-store%2F24a6546fba1e26ef2f482d5998348d1a68ed04052262a1f168171819d6ed828c_600892?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786291200;1786896000&q-key-time=1786291200;1786896000&q-header-list=host&q-url-param-list=&q-signature=7975ab09d980333e085c29748e0c5d515176db7b)
 
 
-![](https://cofile.eeo.cn/res-store%2Fe45604e6a316539730569271b09b23934140af516ba88d8c4a4dfa6fb1bd7c5f_694493?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1785686400;1786291200&q-key-time=1785686400;1786291200&q-header-list=host&q-url-param-list=&q-signature=3c9eca0c059531c979797de12871a99d19386be6)
+![](https://cofile.eeo.cn/res-store%2Fe45604e6a316539730569271b09b23934140af516ba88d8c4a4dfa6fb1bd7c5f_694493?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786291200;1786896000&q-key-time=1786291200;1786896000&q-header-list=host&q-url-param-list=&q-signature=fbe84f0709b7e4d27a88f37c6617de382108876b)
 
 
-![](https://cofile.eeo.cn/res-store%2Fbf550bae5baf8810a9831cbc6f1482dd856971e61b45b609fc5d13ca91d619b9_644460?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1785686400;1786291200&q-key-time=1785686400;1786291200&q-header-list=host&q-url-param-list=&q-signature=6d172d0470d2154894691f00b9bcef03befc01e9)
+![](https://cofile.eeo.cn/res-store%2Fbf550bae5baf8810a9831cbc6f1482dd856971e61b45b609fc5d13ca91d619b9_644460?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786291200;1786896000&q-key-time=1786291200;1786896000&q-header-list=host&q-url-param-list=&q-signature=6ebdb164205efc02b3a928151ecfd5fff3b58e9d)
 
 
-![](https://cofile.eeo.cn/res-store%2F2cacb183f3a8f304998114948485f31b019390777a66ea4b05b153bf14634136_417688?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1785686400;1786291200&q-key-time=1785686400;1786291200&q-header-list=host&q-url-param-list=&q-signature=83f9822a3d37bf7c464aee5aee04891d76a16dac)
+![](https://cofile.eeo.cn/res-store%2F2cacb183f3a8f304998114948485f31b019390777a66ea4b05b153bf14634136_417688?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786291200;1786896000&q-key-time=1786291200;1786896000&q-header-list=host&q-url-param-list=&q-signature=35c4c20611c0c9b8f3b259a3228e004daaee6446)
 
 
 ### 5.edlink文件
@@ -392,28 +392,28 @@ edlink 是网页链接，与在浏览器中保存链接相比，edlink 可实现
 打开 txt 文件，将网址贴入其中（仅输入网址即可），如图所示
 
 
-![](https://cofile.eeo.cn/res-store%2F45d30a53c2be77d0d82ff7664a7a2112b85731c1a3516b541bb62b83e53c1a34_245480?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1785686400;1786291200&q-key-time=1785686400;1786291200&q-header-list=host&q-url-param-list=&q-signature=1481c9b849b2dae0b9cd5fb230757d11950e2c94)
+![](https://cofile.eeo.cn/res-store%2F45d30a53c2be77d0d82ff7664a7a2112b85731c1a3516b541bb62b83e53c1a34_245480?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786291200;1786896000&q-key-time=1786291200;1786896000&q-header-list=host&q-url-param-list=&q-signature=b64e7c4118fbe84f2ec3542526fdc8e655e3a3c1)
 
 
 另存txt文本，保存类型选择所有文件，文件名后缀输入.edlink  ，如图所示
 
 
-![](https://cofile.eeo.cn/res-store%2F6a98552a152979485e78d044b535c24ec2f160fc6cba5b3592040139a9a16c45_19865?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1785686400;1786291200&q-key-time=1785686400;1786291200&q-header-list=host&q-url-param-list=&q-signature=4c45162e5d75239fdd4ce930887b8de304d20721)
+![](https://cofile.eeo.cn/res-store%2F6a98552a152979485e78d044b535c24ec2f160fc6cba5b3592040139a9a16c45_19865?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786291200;1786896000&q-key-time=1786291200;1786896000&q-header-list=host&q-url-param-list=&q-signature=cf4c572911ce13b25b96b518702b16a848bc1111)
 
 
 本地找到文件后鼠标右键点击属性，查看文件类型是edlink则正确，如图所示
 
 
-![](https://cofile.eeo.cn/res-store%2Fec87f4992f6b7eab1b49475aa69652aefb41b3991d84fa0df59fcb14836f67cc_63516?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1785686400;1786291200&q-key-time=1785686400;1786291200&q-header-list=host&q-url-param-list=&q-signature=47cfb8ad61b5b8de50e29b31b6ae222e19271812)
+![](https://cofile.eeo.cn/res-store%2Fec87f4992f6b7eab1b49475aa69652aefb41b3991d84fa0df59fcb14836f67cc_63516?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786291200;1786896000&q-key-time=1786291200;1786896000&q-header-list=host&q-url-param-list=&q-signature=2479af8af3ce65374cffdf39befb6512b47a3452)
 
 
 将本地edlink文件上传至ClassIn空间-我的云盘，即可打开
 
 
-![](https://cofile.eeo.cn/res-store%2Fdd43d229481d9073d95712eaa8d24f61408b64a55d83edeef8b635f10856476f_54970?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1785686400;1786291200&q-key-time=1785686400;1786291200&q-header-list=host&q-url-param-list=&q-signature=6824ed46bf598a6bcef5d2a1751d02b58fba1d12)
+![](https://cofile.eeo.cn/res-store%2Fdd43d229481d9073d95712eaa8d24f61408b64a55d83edeef8b635f10856476f_54970?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786291200;1786896000&q-key-time=1786291200;1786896000&q-header-list=host&q-url-param-list=&q-signature=cd00306a4876909b72dd2c133532df1d177c1c5d)
 
 
-![](https://cofile.eeo.cn/res-store%2F1fe654779edc0ffffb6b403f78cbd94368b8fda633e728d91d28ba2b8b8b5980_536584?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1785686400;1786291200&q-key-time=1785686400;1786291200&q-header-list=host&q-url-param-list=&q-signature=6643264e7148147be360050b34a82f4b0e214a9e)
+![](https://cofile.eeo.cn/res-store%2F1fe654779edc0ffffb6b403f78cbd94368b8fda633e728d91d28ba2b8b8b5980_536584?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786291200;1786896000&q-key-time=1786291200;1786896000&q-header-list=host&q-url-param-list=&q-signature=d4afedad0876f91cff8e1f92a8ecb080d2472128)
 
 
 ### 6.edu文件
@@ -446,7 +446,7 @@ edu文件是一种包含网站地址的特殊文件。当教师在课堂上打�
 a.访问“NoBook”官网：https://www.nobook.com/index.html ，注册新账号或登录已有账号。
 
 
-![](https://cofile.eeo.cn/res-store%2Fca8f7a44c0f9c8be28bc6325db38f03050627c75b0031f2db84886f71d1a9a1e_518625?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1785686400;1786291200&q-key-time=1785686400;1786291200&q-header-list=host&q-url-param-list=&q-signature=4c0bfd2f0521af2710ad9f3e6f2fedc2c8cdf093)
+![](https://cofile.eeo.cn/res-store%2Fca8f7a44c0f9c8be28bc6325db38f03050627c75b0031f2db84886f71d1a9a1e_518625?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786291200;1786896000&q-key-time=1786291200;1786896000&q-header-list=host&q-url-param-list=&q-signature=714011e7970c971cae3e37efea948c84f0dfdb09)
 
 
 b.在精品实验中选择一个，在课上需要学生自己动手操作的实验。
@@ -455,13 +455,13 @@ b.在精品实验中选择一个，在课上需要学生自己动手操作的实
 注：如果有一部分学生没有付费版的NoBook帐号，请选择免费版的实验，避免学生无打开的权限
 
 
-![](https://cofile.eeo.cn/res-store%2Fa1896ed8f50959160e8955b2b0a3483a912beed598e51a77c204c3a353c6e02f_368907?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1785686400;1786291200&q-key-time=1785686400;1786291200&q-header-list=host&q-url-param-list=&q-signature=5c89f55a3c760a7d254c0fc456fa90cb4dd4a3ec)
+![](https://cofile.eeo.cn/res-store%2Fa1896ed8f50959160e8955b2b0a3483a912beed598e51a77c204c3a353c6e02f_368907?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786291200;1786896000&q-key-time=1786291200;1786896000&q-header-list=host&q-url-param-list=&q-signature=853133cc669993f734b778dcc762ea8499532cde)
 
 
 c.点击选中的实验，通过分享按钮，即可以获得该NoBook实验的分享地址。
 
 
-![](https://cofile.eeo.cn/res-store%2Ffdec02c9cd9f89a7f04e4659f6273fb76a24c1f517aba496f9468793e17d67b9_478043?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1785686400;1786291200&q-key-time=1785686400;1786291200&q-header-list=host&q-url-param-list=&q-signature=02f44fdbb6d8aa7109debac098fb6039e940cc9d)
+![](https://cofile.eeo.cn/res-store%2Ffdec02c9cd9f89a7f04e4659f6273fb76a24c1f517aba496f9468793e17d67b9_478043?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786291200;1786896000&q-key-time=1786291200;1786896000&q-header-list=host&q-url-param-list=&q-signature=cecd2a457e4213497949f53b7b08e0bec388eb1c)
 
 
 d.通过浏览器打开分享地址，浏览器会跳转，即可获得该实验的网站地址。
@@ -470,7 +470,7 @@ d.通过浏览器打开分享地址，浏览器会跳转，即可获得该实验
 注：如果网站地址无法在edu中打开，请去掉地址最后面的“=”符号后，再尝试用edu打开。
 
 
-![](https://cofile.eeo.cn/res-store%2F4cfabe1a98e36a0da546ee570a69639b8f9529e727d23b390970ba282031cbf9_227553?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1785686400;1786291200&q-key-time=1785686400;1786291200&q-header-list=host&q-url-param-list=&q-signature=76a1c79c610d360b3362a36fea800d22212f5aa5)
+![](https://cofile.eeo.cn/res-store%2F4cfabe1a98e36a0da546ee570a69639b8f9529e727d23b390970ba282031cbf9_227553?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786291200;1786896000&q-key-time=1786291200;1786896000&q-header-list=host&q-url-param-list=&q-signature=f0be0aee29c8ce972d6c207a8c512f94918d0a18)
 
 
 以问卷星为例，说明如何获取网址：
@@ -479,13 +479,13 @@ d.通过浏览器打开分享地址，浏览器会跳转，即可获得该实验
 a.访问“问卷星”官网 www.wjx.cn ，注册新账号或登录已有账号。
 
 
-![](https://cofile.eeo.cn/res-store%2Fed5ef63b07e8173ca4274031d3673dc4360ab7209c095a4fb7f2afca68125f30_139808?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1785686400;1786291200&q-key-time=1785686400;1786291200&q-header-list=host&q-url-param-list=&q-signature=92dd81defdf742e515d511353f50fd9a8dc11254)
+![](https://cofile.eeo.cn/res-store%2Fed5ef63b07e8173ca4274031d3673dc4360ab7209c095a4fb7f2afca68125f30_139808?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786291200;1786896000&q-key-time=1786291200;1786896000&q-header-list=host&q-url-param-list=&q-signature=72a1b8d37842b5f553916c2974c285de9f3fab9e)
 
 
 b.登录后开始创建问卷。
 
 
-![](https://cofile.eeo.cn/res-store%2Fa00a70f2c5d0da5f37e1d52e8489997d8aca684557d45a7b60c87d92a1e3da3e_1457528?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1785686400;1786291200&q-key-time=1785686400;1786291200&q-header-list=host&q-url-param-list=&q-signature=18dc735357eb6fa891da01c4ceb351de576f3269)
+![](https://cofile.eeo.cn/res-store%2Fa00a70f2c5d0da5f37e1d52e8489997d8aca684557d45a7b60c87d92a1e3da3e_1457528?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786291200;1786896000&q-key-time=1786291200;1786896000&q-header-list=host&q-url-param-list=&q-signature=2826726b30d59a082cd8fa149af66c1ea70dd56f)
 
 
 c.点击需要的选项进行出题或者点击右侧的“批量添加考试题”
@@ -494,19 +494,19 @@ c.点击需要的选项进行出题或者点击右侧的“批量添加考试题
 d.编辑好试卷后点击完成编辑
 
 
-![](https://cofile.eeo.cn/res-store%2F06e40c43749c8db87829acea7d6395cf4654bf38744b9008ff24fa1ffa7cec4d_105226?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1785686400;1786291200&q-key-time=1785686400;1786291200&q-header-list=host&q-url-param-list=&q-signature=b8673a79e8d722774936be702a8c1fd8b432100d)
+![](https://cofile.eeo.cn/res-store%2F06e40c43749c8db87829acea7d6395cf4654bf38744b9008ff24fa1ffa7cec4d_105226?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786291200;1786896000&q-key-time=1786291200;1786896000&q-header-list=host&q-url-param-list=&q-signature=6b15f5568e22e717f6a6be42170b738aeb1782a2)
 
 
 e.完成试卷编辑后点击发放问卷
 
 
-![](https://cofile.eeo.cn/res-store%2F776ca9d6db23d0a4e8437648fd87a2be4aa8397f41ab99559a795f7346d1dad7_115967?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1785686400;1786291200&q-key-time=1785686400;1786291200&q-header-list=host&q-url-param-list=&q-signature=5760db37e9df508cfac3bb240fba23dab62db3dc)
+![](https://cofile.eeo.cn/res-store%2F776ca9d6db23d0a4e8437648fd87a2be4aa8397f41ab99559a795f7346d1dad7_115967?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786291200;1786896000&q-key-time=1786291200;1786896000&q-header-list=host&q-url-param-list=&q-signature=8fd33c2bcf8f22b3b54b01dc62b950702fe6e07e)
 
 
 f.点击“复制”按钮，复制链接，即可以获得问卷星的网站地址。
 
 
-![](https://cofile.eeo.cn/res-store%2F9a557e14dbdbbfd45894c51d0f7206e26de516b184a1746a10aa0dd7b740212f_102896?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1785686400;1786291200&q-key-time=1785686400;1786291200&q-header-list=host&q-url-param-list=&q-signature=42f2ac2d49a96909ba9362511a105e362ca3dd46)
+![](https://cofile.eeo.cn/res-store%2F9a557e14dbdbbfd45894c51d0f7206e26de516b184a1746a10aa0dd7b740212f_102896?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786291200;1786896000&q-key-time=1786291200;1786896000&q-header-list=host&q-url-param-list=&q-signature=659ec6e6f3fa448bb4759bbfd11f67769059ecf6)
 
 
 第二步：
@@ -518,7 +518,7 @@ f.点击“复制”按钮，复制链接，即可以获得问卷星的网站地
 注：建好后，在“ClassIn教室-空间-我的云盘”中打开该文件，检查网站地址是否正确。
 
 
-![](https://cofile.eeo.cn/res-store%2F107218063fbba23d5fcc428d5718ada3ecf9f922d6da6bf35a08aaf0ef1025d4_189657?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1785686400;1786291200&q-key-time=1785686400;1786291200&q-header-list=host&q-url-param-list=&q-signature=4e0c429e520be1b0fc6316208f15ed31ed4b3323)
+![](https://cofile.eeo.cn/res-store%2F107218063fbba23d5fcc428d5718ada3ecf9f922d6da6bf35a08aaf0ef1025d4_189657?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786291200;1786896000&q-key-time=1786291200;1786896000&q-header-list=host&q-url-param-list=&q-signature=abec6a17897eba4a9f14d016cd2e622965857132)
 
 
 第三步：
@@ -530,7 +530,7 @@ f.点击“复制”按钮，复制链接，即可以获得问卷星的网站地
 注：如果该网站需要登录才能进行练习，请安排一次体验课，让学生有足够的时间可以登录网站，登录过一次之后，该设备后续无需再次登录。
 
 
-![](https://cofile.eeo.cn/res-store%2F64d959de9c668a5a50c25525226cb62c645b9bdc50334d50724d80ec240a245f_277409?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1785686400;1786291200&q-key-time=1785686400;1786291200&q-header-list=host&q-url-param-list=&q-signature=871413760259c0d30749f457f889d94315cb9537)
+![](https://cofile.eeo.cn/res-store%2F64d959de9c668a5a50c25525226cb62c645b9bdc50334d50724d80ec240a245f_277409?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786291200;1786896000&q-key-time=1786291200;1786896000&q-header-list=host&q-url-param-list=&q-signature=994c7c9888d69df5b930f9e005af41ede12a3c1d)
 
 
 第四步：
@@ -545,19 +545,19 @@ f.点击“复制”按钮，复制链接，即可以获得问卷星的网站地
 教师端画面
 
 
-![](https://cofile.eeo.cn/res-store%2F8884259bc13fbfb32c22225cd94c591b6945312b019ff93c6a028dd07f010d10_79358?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1785686400;1786291200&q-key-time=1785686400;1786291200&q-header-list=host&q-url-param-list=&q-signature=5ea7272d692479bc21cc7d5f6ab6c57114f9b7d3)
+![](https://cofile.eeo.cn/res-store%2F8884259bc13fbfb32c22225cd94c591b6945312b019ff93c6a028dd07f010d10_79358?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786291200;1786896000&q-key-time=1786291200;1786896000&q-header-list=host&q-url-param-list=&q-signature=24ec5754881ece79bfd4e603438656ee789c49d6)
 
 
 学生A画面
 
 
-![](https://cofile.eeo.cn/res-store%2F9f9d61d57fc7d8a005e5b5981b5c391759db1f51ac42688e686250a8aa476081_89868?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1785686400;1786291200&q-key-time=1785686400;1786291200&q-header-list=host&q-url-param-list=&q-signature=b77c55fd594419718ed3710a025e16b377b13e54)
+![](https://cofile.eeo.cn/res-store%2F9f9d61d57fc7d8a005e5b5981b5c391759db1f51ac42688e686250a8aa476081_89868?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786291200;1786896000&q-key-time=1786291200;1786896000&q-header-list=host&q-url-param-list=&q-signature=f4d7555a8a6271836737a91b8e492c47f118d185)
 
 
 学生B画面
 
 
-![](https://cofile.eeo.cn/res-store%2F74eb0f2ae5520a8d57f2017a14041b2bf074b5b218e5cad58e3ef928587fb114_91398?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1785686400;1786291200&q-key-time=1785686400;1786291200&q-header-list=host&q-url-param-list=&q-signature=dd2db2f6e7a963883a62370c1a88698f89524dc0)
+![](https://cofile.eeo.cn/res-store%2F74eb0f2ae5520a8d57f2017a14041b2bf074b5b218e5cad58e3ef928587fb114_91398?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786291200;1786896000&q-key-time=1786291200;1786896000&q-header-list=host&q-url-param-list=&q-signature=ef51f4c46575c2e86b84f854383f91c7def5f293)
 
 
 ### 7.edv文件
@@ -593,7 +593,7 @@ edx文件是一种包含网站地址的特殊文件。当教师在课堂上打�
 注：建好后，可以直接打开预览，查看网页显示是否正确。
 
 
-![](https://cofile.eeo.cn/res-store%2F7233c6c5c891c36afcdd603429527373f16f321e34021e243f7f623067982268_91070?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1785686400;1786291200&q-key-time=1785686400;1786291200&q-header-list=host&q-url-param-list=&q-signature=68526087ae4c38209178cf7cb756b75a92f63f5c)
+![](https://cofile.eeo.cn/res-store%2F7233c6c5c891c36afcdd603429527373f16f321e34021e243f7f623067982268_91070?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786291200;1786896000&q-key-time=1786291200;1786896000&q-header-list=host&q-url-param-list=&q-signature=77d087cf3a129fbf439f7cf606c31b47a485debd)
 
 
 在正式上课期间，教师可以在空间-我的云盘中打开该edx文件，打开后 就可以完全按照多向浏览器的使用方式上课了
@@ -602,13 +602,13 @@ edx文件是一种包含网站地址的特殊文件。当教师在课堂上打�
 注：该类型文件 在教室内只支持老师打开，其他角色都无权限打开，教室外不受限制，可以正常预览
 
 
-![](https://cofile.eeo.cn/res-store%2Fa660756fcf94c013e7c66283435773161f475bdf4445efb8f34886e6bdd36841_281260?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1785686400;1786291200&q-key-time=1785686400;1786291200&q-header-list=host&q-url-param-list=&q-signature=035f57a62280e289f18ecefc0382900676e0c195)
+![](https://cofile.eeo.cn/res-store%2Fa660756fcf94c013e7c66283435773161f475bdf4445efb8f34886e6bdd36841_281260?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786291200;1786896000&q-key-time=1786291200;1786896000&q-header-list=host&q-url-param-list=&q-signature=4887f74bd9c2d797af90f6f6321c78092b2df802)
 
 
 学生界面如下
 
 
-![](https://cofile.eeo.cn/res-store%2F70ea0b8f305fd2936ea25ef9997f4eaf2b123c2d0c98aae2deaa3d8ec1281820_1195597?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1785686400;1786291200&q-key-time=1785686400;1786291200&q-header-list=host&q-url-param-list=&q-signature=afe69ac67a1a8f68f68c25abb70346e14a311424)
+![](https://cofile.eeo.cn/res-store%2F70ea0b8f305fd2936ea25ef9997f4eaf2b123c2d0c98aae2deaa3d8ec1281820_1195597?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786291200;1786896000&q-key-time=1786291200;1786896000&q-header-list=host&q-url-param-list=&q-signature=69b4e389e5ec5a3ec6df032f46e814c938fbe3e2)
 
 
 ### 9.edt文件
@@ -629,16 +629,16 @@ edx文件是一种包含网站地址的特殊文件。当教师在课堂上打�
 另存图片，保存类型是JPEG，文件名后缀输入.edt  ，如图所示
 
 
-![](https://cofile.eeo.cn/res-store%2F074910177ea83fb7cf8ff36a578ba202f5b1583d3cf7ae87fb523adb2e6f16e1_89210?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1785686400;1786291200&q-key-time=1785686400;1786291200&q-header-list=host&q-url-param-list=&q-signature=747166df9b987fef823009e83eccbd3635810298)
+![](https://cofile.eeo.cn/res-store%2F074910177ea83fb7cf8ff36a578ba202f5b1583d3cf7ae87fb523adb2e6f16e1_89210?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786291200;1786896000&q-key-time=1786291200;1786896000&q-header-list=host&q-url-param-list=&q-signature=8a8e364f1e487f47feb4e2d016d88c5d965e516d)
 
 
 本地找到文件后鼠标右键点击属性，查看文件类型是edt则正确，如图所示
 
 
-![](https://cofile.eeo.cn/res-store%2F9debc322700ef990feb893db0c2002f64b672fe1596b5c77c3edb3a91b1535e1_53157?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1785686400;1786291200&q-key-time=1785686400;1786291200&q-header-list=host&q-url-param-list=&q-signature=6e18e20cd40f25de382513b5d6801f67b5a57cd1)
+![](https://cofile.eeo.cn/res-store%2F9debc322700ef990feb893db0c2002f64b672fe1596b5c77c3edb3a91b1535e1_53157?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786291200;1786896000&q-key-time=1786291200;1786896000&q-header-list=host&q-url-param-list=&q-signature=1d1f91daf9070f0f210595e3f4da6dfc1151c046)
 
 
 将本地edt文件上传至ClassIn空间-我的云盘，即可在教室中打开
 
 
-![](https://cofile.eeo.cn/res-store%2Feb551bc288cd0739ea97b329e4b7adf1618403b3fbf606814ccefac7a08128d8_59782?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1785686400;1786291200&q-key-time=1785686400;1786291200&q-header-list=host&q-url-param-list=&q-signature=cc69956cd7712afc5610986a7d46de04bd4fce82)
+![](https://cofile.eeo.cn/res-store%2Feb551bc288cd0739ea97b329e4b7adf1618403b3fbf606814ccefac7a08128d8_59782?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786291200;1786896000&q-key-time=1786291200;1786896000&q-header-list=host&q-url-param-list=&q-signature=cc3a6d1a8134178100784eb632392695e4dd2335)
