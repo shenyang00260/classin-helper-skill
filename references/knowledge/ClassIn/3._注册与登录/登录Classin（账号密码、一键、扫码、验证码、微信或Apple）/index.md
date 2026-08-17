@@ -35,7 +35,7 @@ section: "ClassIn"
 输入已注册的账号密码登录
 
 
-![](https://cofile.eeo.cn/res-store%2F3867cb48e08459a7c547984a66d02d95d2bab15b739a337ac0292f09eb4e2c0e_249848?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786291200;1786896000&q-key-time=1786291200;1786896000&q-header-list=host&q-url-param-list=&q-signature=1e3d15395124506bbe81291af81e7a30d659e4bb)
+![](https://cofile.eeo.cn/res-store%2F3867cb48e08459a7c547984a66d02d95d2bab15b739a337ac0292f09eb4e2c0e_249848?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786896000;1787500800&q-key-time=1786896000;1787500800&q-header-list=host&q-url-param-list=&q-signature=1724f80c60b632cbbaf92d7f5b317a7796d7b30c)
 
 
 #### 手机
@@ -44,7 +44,7 @@ section: "ClassIn"
 点击 其他账号登录 ，输入已注册的账号密码登录
 
 
-![](https://cofile.eeo.cn/res-store%2Fd6a57df3932bbe80948e11b0b45d4091f9e8764a1b6ec65f61db5ffebf83a3b1_707046?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786291200;1786896000&q-key-time=1786291200;1786896000&q-header-list=host&q-url-param-list=&q-signature=7659d52ea088c4348f5194fe55c5151d311d4920)
+![](https://cofile.eeo.cn/res-store%2Fd6a57df3932bbe80948e11b0b45d4091f9e8764a1b6ec65f61db5ffebf83a3b1_707046?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786896000;1787500800&q-key-time=1786896000;1787500800&q-header-list=host&q-url-param-list=&q-signature=9d3158b7c0726aa5070533672a0589699d1d9d87)
 
 
 # 二、手机一键登录
@@ -65,7 +65,7 @@ section: "ClassIn"
 点击 「本机号码一键登录」即可直接登录Classin
 
 
-![](https://cofile.eeo.cn/res-store%2Fca2529fdad1945b2c6dc75408779bb7cecec1b02bca81644869116c226a9cfe5_185839?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786291200;1786896000&q-key-time=1786291200;1786896000&q-header-list=host&q-url-param-list=&q-signature=6ea01090cd2bf589eb1d396e7043b9f689c0d7ce)
+![](https://cofile.eeo.cn/res-store%2Fca2529fdad1945b2c6dc75408779bb7cecec1b02bca81644869116c226a9cfe5_185839?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786896000;1787500800&q-key-time=1786896000;1787500800&q-header-list=host&q-url-param-list=&q-signature=c88b54ca649ae2daff976da2edb9df21de834750)
 
 
 # 三、扫码登录
@@ -89,7 +89,7 @@ section: "ClassIn"
 扫描电脑中Classin的二维码
 
 
-![](https://cofile.eeo.cn/res-store%2Fc931b1bc2dc51f63d0c3713a2b3b81a8c2b42a20c6fdaf279d16c53017a50f95_271344?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786291200;1786896000&q-key-time=1786291200;1786896000&q-header-list=host&q-url-param-list=&q-signature=a2105d30096cb9abf5616b17d35d31cdd4f694ee)
+![](https://cofile.eeo.cn/res-store%2Fc931b1bc2dc51f63d0c3713a2b3b81a8c2b42a20c6fdaf279d16c53017a50f95_271344?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786896000;1787500800&q-key-time=1786896000;1787500800&q-header-list=host&q-url-param-list=&q-signature=87b5a624434d1873b2a658dd54eb6e6b8a110a19)
 
 
 # 四、验证码登录
@@ -113,7 +113,7 @@ section: "ClassIn"
 输入 手机号 或 邮箱 后 获取验证码
 
 
-![](https://cofile.eeo.cn/res-store%2F71953d3e3359fed4d7a58fea6948377b39aac2c29b4695e6a440b189f291f8d3_1032011?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786291200;1786896000&q-key-time=1786291200;1786896000&q-header-list=host&q-url-param-list=&q-signature=2e4da0f88719298b0b5a40f3b45f78631597bfc4)
+![](https://cofile.eeo.cn/res-store%2F71953d3e3359fed4d7a58fea6948377b39aac2c29b4695e6a440b189f291f8d3_1032011?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786896000;1787500800&q-key-time=1786896000;1787500800&q-header-list=host&q-url-param-list=&q-signature=f835763091dea9f27a1ef5004dcb4dbea3f2b9ec)
 
 
 # 五、微信或Apple登录
@@ -131,4 +131,4 @@ section: "ClassIn"
 完成绑定验证即可登录
 
 
-![](https://cofile.eeo.cn/res-store%2F6db5d11b10cbb7db59b44726882c704a0be24b33b8990dcfbab9acbb4ac448b5_680426?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786291200;1786896000&q-key-time=1786291200;1786896000&q-header-list=host&q-url-param-list=&q-signature=9a010917e8eb281107c6a67161db14b04ac51ecf)
+![](https://cofile.eeo.cn/res-store%2F6db5d11b10cbb7db59b44726882c704a0be24b33b8990dcfbab9acbb4ac448b5_680426?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786896000;1787500800&q-key-time=1786896000;1787500800&q-header-list=host&q-url-param-list=&q-signature=554d47bae9e69a0b53efb7d8cb678aaf85317bdf)

@@ -44,7 +44,7 @@ section: "ClassInX"
 进入 触屏大小尺寸，调整尺寸
 
 
-![](https://cofile.eeo.cn/res-store%2Fe337c4ece14982104bbea03c5abe904f72ff1c9aa96fcb9a0d6e991c0d4c0d86_556999?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786291200;1786896000&q-key-time=1786291200;1786896000&q-header-list=host&q-url-param-list=&q-signature=58421187a4903e2f218761dcff1dc6fd11069083)
+![](https://cofile.eeo.cn/res-store%2Fe337c4ece14982104bbea03c5abe904f72ff1c9aa96fcb9a0d6e991c0d4c0d86_556999?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786896000;1787500800&q-key-time=1786896000;1787500800&q-header-list=host&q-url-param-list=&q-signature=bda5e6f6e64cfc732f2497deb772056c39493754)
 
 
 # 二、开机自动运行
@@ -59,7 +59,7 @@ section: "ClassInX"
 开启 或 关闭 开机自动运行
 
 
-![](https://cofile.eeo.cn/res-store%2Fc58b58f5fae24217e2cffabb4786150ea873cbbf84054e610c3c11ee75cb56c0_338284?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786291200;1786896000&q-key-time=1786291200;1786896000&q-header-list=host&q-url-param-list=&q-signature=104da234db0eabb5405fe98f86917221bd717461)
+![](https://cofile.eeo.cn/res-store%2Fc58b58f5fae24217e2cffabb4786150ea873cbbf84054e610c3c11ee75cb56c0_338284?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786896000;1787500800&q-key-time=1786896000;1787500800&q-header-list=host&q-url-param-list=&q-signature=9cedad9c5a7c8a7abd9342f98bc47e8679dd9791)
 
 
 # 三、触控屏自动唤起软键盘
@@ -74,7 +74,7 @@ section: "ClassInX"
 开启 或 关闭 触控屏自动唤起软键盘
 
 
-![](https://cofile.eeo.cn/res-store%2F5ad5052989718ccecde9e52f80cc58a0550c0c307385b93639d9b260eef707a5_337427?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786291200;1786896000&q-key-time=1786291200;1786896000&q-header-list=host&q-url-param-list=&q-signature=98eb58c9d42e1a884d434e41346ded1a03e94500)
+![](https://cofile.eeo.cn/res-store%2F5ad5052989718ccecde9e52f80cc58a0550c0c307385b93639d9b260eef707a5_337427?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786896000;1787500800&q-key-time=1786896000;1787500800&q-header-list=host&q-url-param-list=&q-signature=550ccc693eaf6ff3d2d80a4937ca7ceb73e260e6)
 
 
 # 四、ClassInX 软件日志上报
@@ -86,7 +86,7 @@ section: "ClassInX"
 在软件日志上报后，点击 上报
 
 
-![](https://cofile.eeo.cn/res-store%2Fd0ee43455ac6c4a5dd086c31a306392e5c776b09caf6c54c6dac4bedb99cf7a8_361298?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786291200;1786896000&q-key-time=1786291200;1786896000&q-header-list=host&q-url-param-list=&q-signature=ca3449adfe646985c13d3716973046921e064d11)
+![](https://cofile.eeo.cn/res-store%2Fd0ee43455ac6c4a5dd086c31a306392e5c776b09caf6c54c6dac4bedb99cf7a8_361298?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786896000;1787500800&q-key-time=1786896000;1787500800&q-header-list=host&q-url-param-list=&q-signature=ad13b871ec49ab5b93f7eeaa8a7e3a781ef13c89)
 
 
 # 五、上报软件助手录音
@@ -98,7 +98,7 @@ section: "ClassInX"
 在上报软件助手录音后，点击 上报
 
 
-![](https://cofile.eeo.cn/res-store%2Fcc22484f30245b4446e2993b787de221909c50fb079482c050c5a1dc02ab51c9_362928?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786291200;1786896000&q-key-time=1786291200;1786896000&q-header-list=host&q-url-param-list=&q-signature=1878f121f88d61a6a52307d0dc27e492c0f70e0c)
+![](https://cofile.eeo.cn/res-store%2Fcc22484f30245b4446e2993b787de221909c50fb079482c050c5a1dc02ab51c9_362928?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786896000;1787500800&q-key-time=1786896000;1787500800&q-header-list=host&q-url-param-list=&q-signature=2dc7bc4b37b7d8c77b1325214e24dc52e89b131c)
 
 
 # 六、ClassInX 清除缓存文件
@@ -116,7 +116,7 @@ section: "ClassInX"
 点击 立即重启
 
 
-![](https://cofile.eeo.cn/res-store%2F6e22d30972e21e2649f47b7b5e424c6ce42e98ff96ebe53be951ed9cd01640fa_352354?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786291200;1786896000&q-key-time=1786291200;1786896000&q-header-list=host&q-url-param-list=&q-signature=574224d5fe9ba86b0558ad7dfaf97805d9d9239d)
+![](https://cofile.eeo.cn/res-store%2F6e22d30972e21e2649f47b7b5e424c6ce42e98ff96ebe53be951ed9cd01640fa_352354?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786896000;1787500800&q-key-time=1786896000;1787500800&q-header-list=host&q-url-param-list=&q-signature=acf84a5d9fb995662233810917ba05c4d4350cd9)
 
 
 # 七、ClassInX 清除数据文件
@@ -131,4 +131,4 @@ section: "ClassInX"
 点击 立即重启 软件
 
 
-![](https://cofile.eeo.cn/res-store%2F4ca5ea5926a79f273d3d98510bb700044630df98db7d99783449cf426d0727f0_353333?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786291200;1786896000&q-key-time=1786291200;1786896000&q-header-list=host&q-url-param-list=&q-signature=4dedce75be01c32db179f4ed15f140effe18bfa6)
+![](https://cofile.eeo.cn/res-store%2F4ca5ea5926a79f273d3d98510bb700044630df98db7d99783449cf426d0727f0_353333?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786896000;1787500800&q-key-time=1786896000;1787500800&q-header-list=host&q-url-param-list=&q-signature=037ee3cf545d47c5d8a67530cc4716f6b73d2c99)

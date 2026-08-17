@@ -35,7 +35,7 @@ section: "ClassIn"
 在 设备规格 中查看电脑内存容量和CPU型号
 
 
-![](https://cofile.eeo.cn/res-store%2F207d74d5f0e039ef1498ace4e289f42cb4e480653d840eb3c47df6733319d61b_254401?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786291200;1786896000&q-key-time=1786291200;1786896000&q-header-list=host&q-url-param-list=&q-signature=da95a0ed90a7ca417c06663cba6531124a5c82bd)
+![](https://cofile.eeo.cn/res-store%2F207d74d5f0e039ef1498ace4e289f42cb4e480653d840eb3c47df6733319d61b_254401?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786896000;1787500800&q-key-time=1786896000;1787500800&q-header-list=host&q-url-param-list=&q-signature=2c68c686683424aea9f83d38770afea726f6986e)
 
 
 ### （2）Mac电脑
@@ -56,7 +56,7 @@ section: "ClassIn"
 在命令执行后的输出中，查看电脑的CPU型号信息
 
 
-![](https://cofile.eeo.cn/res-store%2Fc1a18eb51659d113a4dd400a9e9cd95ddf94de78f76e1565742fff9b1f315192_2672290?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786291200;1786896000&q-key-time=1786291200;1786896000&q-header-list=host&q-url-param-list=&q-signature=16854410162e447805a098261cad0ae2601ee3a3)
+![](https://cofile.eeo.cn/res-store%2Fc1a18eb51659d113a4dd400a9e9cd95ddf94de78f76e1565742fff9b1f315192_2672290?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786896000;1787500800&q-key-time=1786896000;1787500800&q-header-list=host&q-url-param-list=&q-signature=28157b36503bff676b352df5734335be79312278)
 
 
 # 二、查询网速
@@ -103,7 +103,7 @@ section: "ClassIn"
 点击 测速
 
 
-![](https://cofile.eeo.cn/res-store%2F46e397fb953659ed33b6119718556f27b879769eae8acb042399cad96d359215_366221?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786291200;1786896000&q-key-time=1786291200;1786896000&q-header-list=host&q-url-param-list=&q-signature=37a6d1b6a50b63445a414b252ce02ca7e1915d8d)
+![](https://cofile.eeo.cn/res-store%2F46e397fb953659ed33b6119718556f27b879769eae8acb042399cad96d359215_366221?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786896000;1787500800&q-key-time=1786896000;1787500800&q-header-list=host&q-url-param-list=&q-signature=222d64ed9b368df68db638915ad99d83656561a4)
 
 
 # 三、查询设备跑分
@@ -142,7 +142,7 @@ section: "ClassIn"
 查看右侧 CPU Mark 一栏中的数值，该数值即为您电脑CPU的性能评分
 
 
-![](https://cofile.eeo.cn/res-store%2F57ebd37b9391dcc022dca39ec54aa02be8efe5a589e51f54dec7efb985ed1179_379263?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786291200;1786896000&q-key-time=1786291200;1786896000&q-header-list=host&q-url-param-list=&q-signature=c2dd9b2f3a3c2c0485d8663ffa59f3c2e4e40af5)
+![](https://cofile.eeo.cn/res-store%2F57ebd37b9391dcc022dca39ec54aa02be8efe5a589e51f54dec7efb985ed1179_379263?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786896000;1787500800&q-key-time=1786896000;1787500800&q-header-list=host&q-url-param-list=&q-signature=cfc0fe2773c65276478fbf201b9faa34eb79a4ce)
 
 
 # 四、查询Mac电脑芯片型号
