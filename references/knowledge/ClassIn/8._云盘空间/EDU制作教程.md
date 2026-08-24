@@ -38,7 +38,7 @@ edu文件是一种包含网站地址的特殊文件。当教师在课堂上打�
 a.访问“NoBook”官网：https://www.nobook.com/index.html ，注册新账号或登录已有账号。
 
 
-![](https://cofile.eeo.cn/res-store%2Fa1896ed8f50959160e8955b2b0a3483a912beed598e51a77c204c3a353c6e02f_368907?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786896000;1787500800&q-key-time=1786896000;1787500800&q-header-list=host&q-url-param-list=&q-signature=b2d3623638999e8f5a36b151a4627a69c9ff4adc)
+![](https://cofile.eeo.cn/res-store%2Fa1896ed8f50959160e8955b2b0a3483a912beed598e51a77c204c3a353c6e02f_368907?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=bf6d62da389b0dc8289318fbe4fd407432c02a22)
 
 
 b.在精品实验中选择一个，在课上需要学生自己动手操作的实验。
@@ -47,13 +47,13 @@ b.在精品实验中选择一个，在课上需要学生自己动手操作的实
 注：如果有一部分学生没有付费版的NoBook帐号，请选择免费版的实验，避免学生无打开的权限
 
 
-![](https://cofile.eeo.cn/res-store%2Ffdec02c9cd9f89a7f04e4659f6273fb76a24c1f517aba496f9468793e17d67b9_478043?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786896000;1787500800&q-key-time=1786896000;1787500800&q-header-list=host&q-url-param-list=&q-signature=d441595cbd1f5a21dc8d7b87b49e4d63fed8c554)
+![](https://cofile.eeo.cn/res-store%2Ffdec02c9cd9f89a7f04e4659f6273fb76a24c1f517aba496f9468793e17d67b9_478043?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=9b182ff910aba205cb73f146ea394566ba800d63)
 
 
 c.点击选中的实验，通过分享按钮，即可以获得该NoBook实验的分享地址。
 
 
-![](https://cofile.eeo.cn/res-store%2F4cfabe1a98e36a0da546ee570a69639b8f9529e727d23b390970ba282031cbf9_227553?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786896000;1787500800&q-key-time=1786896000;1787500800&q-header-list=host&q-url-param-list=&q-signature=c8cac0f04c0ea32bceb074644bf9d0b74ce8b153)
+![](https://cofile.eeo.cn/res-store%2F4cfabe1a98e36a0da546ee570a69639b8f9529e727d23b390970ba282031cbf9_227553?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=0a89d73bf84a1ea16b768dbd64bbcf097ca67d02)
 
 
 d.通过浏览器打开分享地址，浏览器会跳转，即可获得该实验的网站地址。
@@ -62,7 +62,7 @@ d.通过浏览器打开分享地址，浏览器会跳转，即可获得该实验
 注：如果网站地址无法在edu中打开，请去掉地址最后面的“=”符号后，再尝试用edu打开。
 
 
-![](https://cofile.eeo.cn/res-store%2Fed5ef63b07e8173ca4274031d3673dc4360ab7209c095a4fb7f2afca68125f30_139808?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786896000;1787500800&q-key-time=1786896000;1787500800&q-header-list=host&q-url-param-list=&q-signature=6f85189b888aba122e3b6898bc4c7cdb43c65e64)
+![](https://cofile.eeo.cn/res-store%2Fed5ef63b07e8173ca4274031d3673dc4360ab7209c095a4fb7f2afca68125f30_139808?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=b05c509294944bc1651fa6b466897de21539ec22)
 
 
 以问卷星为例，说明如何获取网址：
@@ -71,13 +71,13 @@ d.通过浏览器打开分享地址，浏览器会跳转，即可获得该实验
 a.访问“问卷星”官网 www.wjx.cn ，注册新账号或登录已有账号。
 
 
-![](https://cofile.eeo.cn/res-store%2Fa00a70f2c5d0da5f37e1d52e8489997d8aca684557d45a7b60c87d92a1e3da3e_1457528?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786896000;1787500800&q-key-time=1786896000;1787500800&q-header-list=host&q-url-param-list=&q-signature=e0ba66739b56af43cacd3f88a6ca9ce77ea1b8c5)
+![](https://cofile.eeo.cn/res-store%2Fa00a70f2c5d0da5f37e1d52e8489997d8aca684557d45a7b60c87d92a1e3da3e_1457528?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=e4625c10a56223f8dda46afef3ebd8b5254fc565)
 
 
 b.登录后开始创建问卷。
 
 
-![](https://cofile.eeo.cn/res-store%2F06e40c43749c8db87829acea7d6395cf4654bf38744b9008ff24fa1ffa7cec4d_105226?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786896000;1787500800&q-key-time=1786896000;1787500800&q-header-list=host&q-url-param-list=&q-signature=fe1d8f18aa0b28943fd2ef0aa6c1380de1051110)
+![](https://cofile.eeo.cn/res-store%2F06e40c43749c8db87829acea7d6395cf4654bf38744b9008ff24fa1ffa7cec4d_105226?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=987bcb8b810b00b3d5ae67ebd810e58a56c04f38)
 
 
 c.点击需要的选项进行出题或者点击右侧的“批量添加考试题”
@@ -86,19 +86,19 @@ c.点击需要的选项进行出题或者点击右侧的“批量添加考试题
 d.编辑好试卷后点击完成编辑
 
 
-![](https://cofile.eeo.cn/res-store%2F776ca9d6db23d0a4e8437648fd87a2be4aa8397f41ab99559a795f7346d1dad7_115967?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786896000;1787500800&q-key-time=1786896000;1787500800&q-header-list=host&q-url-param-list=&q-signature=7ebaaab84c4aceb61d810ff9056f7f02533f9d45)
+![](https://cofile.eeo.cn/res-store%2F776ca9d6db23d0a4e8437648fd87a2be4aa8397f41ab99559a795f7346d1dad7_115967?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=8047546622e58da43de2a0e25de73b3045f55541)
 
 
 e.完成试卷编辑后点击发放问卷
 
 
-![](https://cofile.eeo.cn/res-store%2F9a557e14dbdbbfd45894c51d0f7206e26de516b184a1746a10aa0dd7b740212f_102896?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786896000;1787500800&q-key-time=1786896000;1787500800&q-header-list=host&q-url-param-list=&q-signature=bf1abe60d70e809713b0ef686025717b3bf44e64)
+![](https://cofile.eeo.cn/res-store%2F9a557e14dbdbbfd45894c51d0f7206e26de516b184a1746a10aa0dd7b740212f_102896?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=b6fa9d2ae5ad98cb0026b059079da4ab10a78cfc)
 
 
 f.点击“复制”按钮，复制链接，即可以获得问卷星的网站地址。
 
 
-![](https://cofile.eeo.cn/res-store%2F107218063fbba23d5fcc428d5718ada3ecf9f922d6da6bf35a08aaf0ef1025d4_189657?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786896000;1787500800&q-key-time=1786896000;1787500800&q-header-list=host&q-url-param-list=&q-signature=0f0fd5fd298dffb2e8c86972a79d5bea096f6807)
+![](https://cofile.eeo.cn/res-store%2F107218063fbba23d5fcc428d5718ada3ecf9f922d6da6bf35a08aaf0ef1025d4_189657?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=ce9bf55e6ded4ec5ea860297c7899c3f33570646)
 
 
 第二步：
@@ -110,7 +110,7 @@ f.点击“复制”按钮，复制链接，即可以获得问卷星的网站地
 注：建好后，在“ClassIn教室-空间-我的云盘”中打开该文件，检查网站地址是否正确。
 
 
-![](https://cofile.eeo.cn/res-store%2F64d959de9c668a5a50c25525226cb62c645b9bdc50334d50724d80ec240a245f_277409?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786896000;1787500800&q-key-time=1786896000;1787500800&q-header-list=host&q-url-param-list=&q-signature=de41ef332f5971332acce817bafddbc9641891e4)
+![](https://cofile.eeo.cn/res-store%2F64d959de9c668a5a50c25525226cb62c645b9bdc50334d50724d80ec240a245f_277409?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=f79e5f2a961268b1bf0a40b07365d39664365659)
 
 
 第三步：
@@ -122,7 +122,7 @@ f.点击“复制”按钮，复制链接，即可以获得问卷星的网站地
 注：如果该网站需要登录才能进行练习，请安排一次体验课，让学生有足够的时间可以登录网站，登录过一次之后，该设备后续无需再次登录。
 
 
-![](https://cofile.eeo.cn/res-store%2F8884259bc13fbfb32c22225cd94c591b6945312b019ff93c6a028dd07f010d10_79358?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786896000;1787500800&q-key-time=1786896000;1787500800&q-header-list=host&q-url-param-list=&q-signature=6f600c37bfc615733ff926755b0047e6e9548a91)
+![](https://cofile.eeo.cn/res-store%2F8884259bc13fbfb32c22225cd94c591b6945312b019ff93c6a028dd07f010d10_79358?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=d68cde09e917e6980bf50f429b62d62da5fa041d)
 
 
 第四步：
@@ -137,16 +137,16 @@ f.点击“复制”按钮，复制链接，即可以获得问卷星的网站地
 教师端画面
 
 
-![](https://cofile.eeo.cn/res-store%2F9f9d61d57fc7d8a005e5b5981b5c391759db1f51ac42688e686250a8aa476081_89868?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786896000;1787500800&q-key-time=1786896000;1787500800&q-header-list=host&q-url-param-list=&q-signature=ab04ca5080d3b118fa132174d58707168995c7f7)
+![](https://cofile.eeo.cn/res-store%2F9f9d61d57fc7d8a005e5b5981b5c391759db1f51ac42688e686250a8aa476081_89868?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=f22cca2135c1f1483509f196d89cfbb6ecb26570)
 
 
 学生A画面
 
 
-![](https://cofile.eeo.cn/res-store%2F74eb0f2ae5520a8d57f2017a14041b2bf074b5b218e5cad58e3ef928587fb114_91398?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786896000;1787500800&q-key-time=1786896000;1787500800&q-header-list=host&q-url-param-list=&q-signature=d3e330e7621c55f418841926f8147aa8d3990da5)
+![](https://cofile.eeo.cn/res-store%2F74eb0f2ae5520a8d57f2017a14041b2bf074b5b218e5cad58e3ef928587fb114_91398?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=7a7acf099069239896b92735d2940814bc378648)
 
 
 学生B画面
 
 
-![](https://cofile.eeo.cn/res-store%2F7233c6c5c891c36afcdd603429527373f16f321e34021e243f7f623067982268_91070?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786896000;1787500800&q-key-time=1786896000;1787500800&q-header-list=host&q-url-param-list=&q-signature=dc749f16e6eac35dcddb02fcd52c754feab133c3)
+![](https://cofile.eeo.cn/res-store%2F7233c6c5c891c36afcdd603429527373f16f321e34021e243f7f623067982268_91070?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=d50013360043144f032dc0945a24f0c997fb76a4)

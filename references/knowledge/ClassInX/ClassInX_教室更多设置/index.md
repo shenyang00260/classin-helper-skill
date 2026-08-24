@@ -41,7 +41,7 @@ section: "ClassInX"
 选择 显示 或 隐藏 座位席区域
 
 
-![](https://cofile.eeo.cn/res-store%2F2e7153f177259bdaa75954b2a1b90002a758a8e056a3664de3a949931d26ed9a_422133?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786896000;1787500800&q-key-time=1786896000;1787500800&q-header-list=host&q-url-param-list=&q-signature=28fdfa303be4c94fc44e0c65951769be55de14b8)
+![](https://cofile.eeo.cn/res-store%2F2e7153f177259bdaa75954b2a1b90002a758a8e056a3664de3a949931d26ed9a_422133?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=cbd5ed6842bf3e08ab5967d301b0bb2d3143e95c)
 
 
 # 二、专注模式
@@ -77,7 +77,7 @@ section: "ClassInX"
 开启 或 关闭 专注模式
 
 
-![](https://cofile.eeo.cn/res-store%2F8a622070b7bb0a0688ee75b642b2d6c7938dadaa8c357565643dd5999b828e87_406825?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786896000;1787500800&q-key-time=1786896000;1787500800&q-header-list=host&q-url-param-list=&q-signature=829d2d2027bb875980856653d35e3527d058f689)
+![](https://cofile.eeo.cn/res-store%2F8a622070b7bb0a0688ee75b642b2d6c7938dadaa8c357565643dd5999b828e87_406825?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=37d274f9c7ce7496306f6b5a2c37ffd0612b6171)
 
 
 # 三、举手声音提示
@@ -101,7 +101,7 @@ section: "ClassInX"
 选择 举手提示音
 
 
-![](https://cofile.eeo.cn/res-store%2F36418e08acefc93bb3d55388eae2179cb69a71973e20cb287f7eb7b737715a83_418897?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786896000;1787500800&q-key-time=1786896000;1787500800&q-header-list=host&q-url-param-list=&q-signature=5853c1db2dfeea560c1ac4ae8bc203d8c1a48017)
+![](https://cofile.eeo.cn/res-store%2F36418e08acefc93bb3d55388eae2179cb69a71973e20cb287f7eb7b737715a83_418897?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=c91958d8e8da3d6b1b6f3a29e15869b87f1cc36b)
 
 
 # 四、进出教室通知
@@ -119,7 +119,7 @@ section: "ClassInX"
 开启 或 关闭 进出教室通知
 
 
-![](https://cofile.eeo.cn/res-store%2F1cc02fe8be3f9aa0bb88d6c03eee9d99b4a51f4ea1d5600f7e652633bb8e6e9c_415672?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786896000;1787500800&q-key-time=1786896000;1787500800&q-header-list=host&q-url-param-list=&q-signature=db3acc118bf896530d55f022171f612578a360b3)
+![](https://cofile.eeo.cn/res-store%2F1cc02fe8be3f9aa0bb88d6c03eee9d99b4a51f4ea1d5600f7e652633bb8e6e9c_415672?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=bad2d3429b9c101d3929cff6e028fa01b4dd0f85)
 
 
 # 五、教室背景
@@ -140,7 +140,7 @@ section: "ClassInX"
 选择 或 上传 教室背景图片
 
 
-![](https://cofile.eeo.cn/res-store%2F5e76f4ee31b93e140b99edd4ba9c84e5afc3976e450d845dc5f8e18c6828d838_444791?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786896000;1787500800&q-key-time=1786896000;1787500800&q-header-list=host&q-url-param-list=&q-signature=b074e1ff56f419eeb32bfd26bcc23b23937993fb)
+![](https://cofile.eeo.cn/res-store%2F5e76f4ee31b93e140b99edd4ba9c84e5afc3976e450d845dc5f8e18c6828d838_444791?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=bcf235cc3ed444bddee0426c7e21deaf7ade4cf1)
 
 
 # 六、教室窗口布局
@@ -170,7 +170,7 @@ section: "ClassInX"
 （如果使用电脑，拖动的同时按住shift键）
 
 
-![](https://cofile.eeo.cn/res-store%2F5985cec1bbb9dc72976664eb4504690429b0eab833d3d71c58e0f9c58c737938_727758?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786896000;1787500800&q-key-time=1786896000;1787500800&q-header-list=host&q-url-param-list=&q-signature=cfbfb60847a3dfa2f375d5d7eff352de5f5345f7)
+![](https://cofile.eeo.cn/res-store%2F5985cec1bbb9dc72976664eb4504690429b0eab833d3d71c58e0f9c58c737938_727758?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=03d47da5a93c213392015e557cbf6c7dd95d8105)
 
 
 # 七、教室求助
@@ -200,7 +200,7 @@ section: "ClassInX"
 学生：描述问题后点击确定
 
 
-![](https://cofile.eeo.cn/res-store%2F855d9bf76f775ac36515d3eb8bd476bbeb9f160ec1816f6c570dd5e6de9de27a_530880?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786896000;1787500800&q-key-time=1786896000;1787500800&q-header-list=host&q-url-param-list=&q-signature=fc1028b2fb2325dc970d6c4e17426537ddff283d)
+![](https://cofile.eeo.cn/res-store%2F855d9bf76f775ac36515d3eb8bd476bbeb9f160ec1816f6c570dd5e6de9de27a_530880?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=a856e48dc5f5b049e7bd4e04c45ef4345c054228)
 
 
 # 八、ClassInX 软件升级
@@ -224,10 +224,10 @@ section: "ClassInX"
 查看当前ClassInX软件版本或点击 升级
 
 
-![](https://cofile.eeo.cn/res-store%2F5d3684847cd2bc77cb1a0d5ad8ee24dce1692ae6cbe0f9e834b8986fa3e8dea8_240916?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786896000;1787500800&q-key-time=1786896000;1787500800&q-header-list=host&q-url-param-list=&q-signature=59887a4f1f157433c432150cfb30a5096a662650)
+![](https://cofile.eeo.cn/res-store%2F5d3684847cd2bc77cb1a0d5ad8ee24dce1692ae6cbe0f9e834b8986fa3e8dea8_240916?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=0f6594973cc56233344df2cd9464991453db2504)
 
 
-![](https://cofile.eeo.cn/res-store%2F2893a25f304419bb6ef8351b12644c32925ac92583420ac752b7dbd63f836937_353202?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786896000;1787500800&q-key-time=1786896000;1787500800&q-header-list=host&q-url-param-list=&q-signature=e4bbb0441ab6ad4195d3eda3de4d98497032db20)
+![](https://cofile.eeo.cn/res-store%2F2893a25f304419bb6ef8351b12644c32925ac92583420ac752b7dbd63f836937_353202?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=fe43cb9c9b602cbf9af4efd9422938c812801713)
 
 
 # 九、教室设置手写笔
@@ -245,7 +245,7 @@ section: "ClassInX"
 开启 或 关闭 手写笔仅用于手写
 
 
-![](https://cofile.eeo.cn/res-store%2F6c5b0c6afe650be722e51f5d179af21240842d0f540805ea3c26e6c00ac04cb0_391831?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786896000;1787500800&q-key-time=1786896000;1787500800&q-header-list=host&q-url-param-list=&q-signature=1b8ca63af3f291201fec1052c2ad9b9ecb3333ff)
+![](https://cofile.eeo.cn/res-store%2F6c5b0c6afe650be722e51f5d179af21240842d0f540805ea3c26e6c00ac04cb0_391831?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=d4597ad1b99fc7d8ceabf640f72bd869328877a3)
 
 
 # 十、教室触控锁设置
@@ -263,7 +263,7 @@ section: "ClassInX"
 开启 或 关闭 锁定屏幕触控功能
 
 
-![](https://cofile.eeo.cn/res-store%2Fc7cfac555164e865b76c6e8eea64934f99642859e290788b44433d7252c04ef7_389340?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786896000;1787500800&q-key-time=1786896000;1787500800&q-header-list=host&q-url-param-list=&q-signature=78c6dac81f5e540c577f3313179f84ec26dfebab)
+![](https://cofile.eeo.cn/res-store%2Fc7cfac555164e865b76c6e8eea64934f99642859e290788b44433d7252c04ef7_389340?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=448d0b3a4764244593e6c351c63bc697b0fc5731)
 
 
 # 十一、大可语音助手
@@ -290,4 +290,4 @@ section: "ClassInX"
 开启 或 关闭 大可语音助手
 
 
-![](https://cofile.eeo.cn/res-store%2F404d5d32c04c850e7937344a2cd30e12c031eae0ecc6f6c96cd1b063c0182b99_470874?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786896000;1787500800&q-key-time=1786896000;1787500800&q-header-list=host&q-url-param-list=&q-signature=bef5dc85d19954ff9ae282e0206245ced90b1a29)
+![](https://cofile.eeo.cn/res-store%2F404d5d32c04c850e7937344a2cd30e12c031eae0ecc6f6c96cd1b063c0182b99_470874?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=383dfd5dc5daf6d24cc2642e6131c3f17fa2bc43)

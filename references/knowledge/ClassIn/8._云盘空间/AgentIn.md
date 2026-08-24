@@ -74,7 +74,7 @@ AgentIn智能体商店，是赋能每一位教育者的AI智能体伙伴。在�
 进入 我创建的 查看创建的AI智能体
 
 
-![](https://cofile.eeo.cn/res-store%2F5cbf7cd47d68b4b4419a693d08eb3e0c3487832084a65c97618ae6c32360857f_1309479?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786896000;1787500800&q-key-time=1786896000;1787500800&q-header-list=host&q-url-param-list=&q-signature=2d2820695529224584de5d2a71738f035dc955ef)
+![](https://cofile.eeo.cn/res-store%2F5cbf7cd47d68b4b4419a693d08eb3e0c3487832084a65c97618ae6c32360857f_1309479?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=c52564a049468f93ff11c37000d314a5fa810707)
 
 
 ### 2.导入AI智能体
@@ -86,7 +86,7 @@ AgentIn智能体商店，是赋能每一位教育者的AI智能体伙伴。在�
 填写智能体的ID和个人访问令牌后，点击 导入
 
 
-![](https://cofile.eeo.cn/res-store%2Faaa563179dabee7d9a0451fe1d622638d21390cf926f2637f7ffa06c18db1bc4_439542?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786896000;1787500800&q-key-time=1786896000;1787500800&q-header-list=host&q-url-param-list=&q-signature=3f060bac50408742cf9a9aaf40fa066459edd6cf)
+![](https://cofile.eeo.cn/res-store%2Faaa563179dabee7d9a0451fe1d622638d21390cf926f2637f7ffa06c18db1bc4_439542?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=9f37ce6341c9d33375fa1bdb4d6573f4c017d243)
 
 
 # 三、空间收藏AI智能体
@@ -113,7 +113,7 @@ AgentIn智能体商店，是赋能每一位教育者的AI智能体伙伴。在�
 进入 我的收藏 查看并使用收藏的AI智能体
 
 
-![](https://cofile.eeo.cn/res-store%2F7ae85ebf8135220d57d274b996b6041af7d28017d6f9e5362e5296d2724a24f1_775603?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786896000;1787500800&q-key-time=1786896000;1787500800&q-header-list=host&q-url-param-list=&q-signature=f23891557dc9acedb0a94fe9e3003d22c27f46d8)
+![](https://cofile.eeo.cn/res-store%2F7ae85ebf8135220d57d274b996b6041af7d28017d6f9e5362e5296d2724a24f1_775603?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=2096307a722a97731629bb3c183aac6f667faac9)
 
 
 # 四、空间对话AI智能体
@@ -134,7 +134,7 @@ AgentIn智能体商店，是赋能每一位教育者的AI智能体伙伴。在�
 进入 我的收藏/我的创建 与智能体对话；或进入 首页 与智能体对话
 
 
-![](https://cofile.eeo.cn/res-store%2F783aa4de1a501b9786306c1cf0d546df7d7cd41f6d05c6730f858315a1a5fcd9_1103399?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786896000;1787500800&q-key-time=1786896000;1787500800&q-header-list=host&q-url-param-list=&q-signature=109c4d3f5376ccfa0eec8ef343e07746717b04a1)
+![](https://cofile.eeo.cn/res-store%2F783aa4de1a501b9786306c1cf0d546df7d7cd41f6d05c6730f858315a1a5fcd9_1103399?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=5876802c38bb6449ee7ab38b40cfb97a252443f5)
 
 
 # 五、空间应用AI智能体到班级
@@ -155,7 +155,7 @@ AgentIn智能体商店，是赋能每一位教育者的AI智能体伙伴。在�
 智能体回复结束后，点击 应用于
 
 
-![](https://cofile.eeo.cn/res-store%2F94160f95fe157233fee966c5df62fc7e049934f09a57109c08f591f639d2c26d_883891?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786896000;1787500800&q-key-time=1786896000;1787500800&q-header-list=host&q-url-param-list=&q-signature=71bf933acc6bcbc462105658afbabf0079b9ad92)
+![](https://cofile.eeo.cn/res-store%2F94160f95fe157233fee966c5df62fc7e049934f09a57109c08f591f639d2c26d_883891?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=ca10c15e0f29a00be7b020f52135b277bf1efe2f)
 
 
 # 六、空间查看或删除自己历史对话
@@ -173,4 +173,4 @@ AgentIn智能体商店，是赋能每一位教育者的AI智能体伙伴。在�
 点击 查看 或 删除 自己的历史对话
 
 
-![](https://cofile.eeo.cn/res-store%2Fd740a572d0ffff1140cadbcc9ec213d00f3f5a06295c8f45aa6586aaf7980845_423762?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786896000;1787500800&q-key-time=1786896000;1787500800&q-header-list=host&q-url-param-list=&q-signature=c83ffa3d1bdab4df1b0bf19a6d97e0fdca5b3e8f)
+![](https://cofile.eeo.cn/res-store%2Fd740a572d0ffff1140cadbcc9ec213d00f3f5a06295c8f45aa6586aaf7980845_423762?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=39a9e48d3caa43c911a518ee54f4cab437f90176)

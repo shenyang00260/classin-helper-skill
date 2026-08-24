@@ -32,7 +32,7 @@ section: "ClassIn"
 在 设备规格 中，查看CPU型号、内存和操作系统。
 
 
-![](https://cofile.eeo.cn/res-store%2F84f66d7804c3bbe8835947869be2f5ee40a3809e4131a70c481a008af84874ca_2155346?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786896000;1787500800&q-key-time=1786896000;1787500800&q-header-list=host&q-url-param-list=&q-signature=cd83ef6aa43f056c1b5c10cbb220e03a19b15f89)
+![](https://cofile.eeo.cn/res-store%2F84f66d7804c3bbe8835947869be2f5ee40a3809e4131a70c481a008af84874ca_2155346?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=b616cebbb55652f5adeb6df845d9e533135d7a5a)
 
 
 ### （2）查看配置表
@@ -173,7 +173,7 @@ Classin支持的操作系统包括：Windows 7、Windows 8、Windows 10、Window
 按提示步骤安装Classin
 
 
-![](https://cofile.eeo.cn/res-store%2F59512203db1ad6388906a645f72c303c00c8ddd4151e87796b7f328d08451a4e_8472512?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786896000;1787500800&q-key-time=1786896000;1787500800&q-header-list=host&q-url-param-list=&q-signature=63375be257fc7006356f59fa3b23305d2ec84fd6)
+![](https://cofile.eeo.cn/res-store%2F59512203db1ad6388906a645f72c303c00c8ddd4151e87796b7f328d08451a4e_8472512?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=3db62ba02dfe9d7446721678dcb7af85624b5e4e)
 
 
 # 二、Mac 安装 Classin
@@ -197,7 +197,7 @@ Classin支持的操作系统包括：Windows 7、Windows 8、Windows 10、Window
 查看CPU型号
 
 
-![](https://cofile.eeo.cn/res-store%2F3dab7ff0f41b326a1620a30446d480d747d27e40dc1b8bcc55961af703a7d8ac_283439?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786896000;1787500800&q-key-time=1786896000;1787500800&q-header-list=host&q-url-param-list=&q-signature=74558b66640a4957d6dbd73af0cbeb0dc52aa0eb)
+![](https://cofile.eeo.cn/res-store%2F3dab7ff0f41b326a1620a30446d480d747d27e40dc1b8bcc55961af703a7d8ac_283439?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=7820bb490c741dd637fb9dc1c968878e2c9c68c9)
 
 
 ### （2）自查CPU芯片型号
@@ -215,7 +215,7 @@ Classin支持的操作系统包括：Windows 7、Windows 8、Windows 10、Window
 在关于本机界面中 处理器 一栏右侧查看内存，系统版本，CPU芯片型号
 
 
-![](https://cofile.eeo.cn/res-store%2F806c51e81e52f479f0f5ce7cd7b024b33f49ca8d7912a6256aff5110b63b4ed4_234077?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786896000;1787500800&q-key-time=1786896000;1787500800&q-header-list=host&q-url-param-list=&q-signature=4f067895f3a3b8efb726ea15e04ec2d2b5dfb27e)
+![](https://cofile.eeo.cn/res-store%2F806c51e81e52f479f0f5ce7cd7b024b33f49ca8d7912a6256aff5110b63b4ed4_234077?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=87fe31f0cd0bf1daec832caa9c2a633cd23fdd7d)
 
 
 ### （3）查看配置表

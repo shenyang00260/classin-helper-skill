@@ -32,7 +32,7 @@ edx文件是一种包含网站地址的特殊文件。当教师在课堂上打�
 注：建好后，可以直接打开预览，查看网页显示是否正确。
 
 
-![](https://cofile.eeo.cn/res-store%2Fa660756fcf94c013e7c66283435773161f475bdf4445efb8f34886e6bdd36841_281260?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786896000;1787500800&q-key-time=1786896000;1787500800&q-header-list=host&q-url-param-list=&q-signature=f7ecabcec70e38bfc32f5f441a84e2d9b7de0b47)
+![](https://cofile.eeo.cn/res-store%2Fa660756fcf94c013e7c66283435773161f475bdf4445efb8f34886e6bdd36841_281260?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=d2ca88ee2c34b543755c18cb5d3bdc3affec4bf1)
 
 
 第三步：
@@ -44,10 +44,10 @@ edx文件是一种包含网站地址的特殊文件。当教师在课堂上打�
 注：该类型文件 在教室内只支持老师打开，其他角色都无权限打开，教室外不受限制，可以正常预览
 
 
-![](https://cofile.eeo.cn/res-store%2F70ea0b8f305fd2936ea25ef9997f4eaf2b123c2d0c98aae2deaa3d8ec1281820_1195597?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786896000;1787500800&q-key-time=1786896000;1787500800&q-header-list=host&q-url-param-list=&q-signature=53cc4de6f344b67be43d8907b9306b4d079fb613)
+![](https://cofile.eeo.cn/res-store%2F70ea0b8f305fd2936ea25ef9997f4eaf2b123c2d0c98aae2deaa3d8ec1281820_1195597?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=c4d0f65095431f3b8b39d28e0798b1137748f8df)
 
 
 学生界面如下
 
 
-![](https://cofile.eeo.cn/res-store%2F074910177ea83fb7cf8ff36a578ba202f5b1583d3cf7ae87fb523adb2e6f16e1_89210?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786896000;1787500800&q-key-time=1786896000;1787500800&q-header-list=host&q-url-param-list=&q-signature=8cac104775d8875156c8b31172050d5f166ec274)
+![](https://cofile.eeo.cn/res-store%2F074910177ea83fb7cf8ff36a578ba202f5b1583d3cf7ae87fb523adb2e6f16e1_89210?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=fbd4ba7cfdb32091ba82d9dbf7a3cf322a9cdfd6)

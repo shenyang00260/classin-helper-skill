@@ -53,7 +53,7 @@ section: "管理后台"
 点击右上角 添加教师
 
 
-![](https://cofile.eeo.cn/res-store%2Fb48d220ae57c1656eba34acfb88ffab997a0587891f74aba4f45035396ce76f2_387172?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786896000;1787500800&q-key-time=1786896000;1787500800&q-header-list=host&q-url-param-list=&q-signature=7d8164e114e1200bc6c24c06fd8cd0b7af5678cb)
+![](https://cofile.eeo.cn/res-store%2Fb48d220ae57c1656eba34acfb88ffab997a0587891f74aba4f45035396ce76f2_387172?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=888cd50f8ddd0f02b4713a0ebd104be15c3ff6f4)
 
 
 # 二、后台添加学生
@@ -83,4 +83,4 @@ section: "管理后台"
 点击左上角 添加学生
 
 
-![](https://cofile.eeo.cn/res-store%2Fd2f4e4580c0ee3cf3dc5fd9530b84ac58174da83db8775de57b0aff7e64dbf99_410743?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1786896000;1787500800&q-key-time=1786896000;1787500800&q-header-list=host&q-url-param-list=&q-signature=32f8a42e45ec667d4b5f18dc46e79e7be07316ed)
+![](https://cofile.eeo.cn/res-store%2Fd2f4e4580c0ee3cf3dc5fd9530b84ac58174da83db8775de57b0aff7e64dbf99_410743?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=22e781271c4e1931b95a7daff4e44ef93f3b26fd)
