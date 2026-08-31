@@ -202,7 +202,7 @@ AI课堂总结
 直接 发布 或 保存草稿
 
 
-![](https://cofile.eeo.cn/res-store%2F6f4cc7bf20127bc6a65dbb37c457eecd625ae45a2bcb2a5b87e6ef2a431a5635_885061?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=b5393b8f1af7d09932949cf303dbbffffc3d7134)
+![](https://cofile.eeo.cn/res-store%2F6f4cc7bf20127bc6a65dbb37c457eecd625ae45a2bcb2a5b87e6ef2a431a5635_885061?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788105600;1788710400&q-key-time=1788105600;1788710400&q-header-list=host&q-url-param-list=&q-signature=78b4cc3fb02bff2da264b8d6178596a66cdeedec)
 
 
 #### 手机
@@ -211,7 +211,7 @@ AI课堂总结
 创建 课堂（非首次创建时，点击右下角 + 号创建课堂）
 
 
-![](https://cofile.eeo.cn/res-store%2Fdbd8d5e3979e986875f629126a8a69e41517f7e169f60b1d6cb4f9341725d1c3_2620957?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=e94fe005a926524028a74a4e05f534c362a1c443)
+![](https://cofile.eeo.cn/res-store%2Fdbd8d5e3979e986875f629126a8a69e41517f7e169f60b1d6cb4f9341725d1c3_2620957?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788105600;1788710400&q-key-time=1788105600;1788710400&q-header-list=host&q-url-param-list=&q-signature=aed398903f54a55ee373f93cf355afa1304a563b)
 
 
 # 三、修改「课堂」
@@ -253,7 +253,7 @@ AI课堂总结
 找到课堂后点击「···」 ，选择编辑
 
 
-![](https://cofile.eeo.cn/res-store%2F0218f5c0ced43ba32e4be51dc8ae31075bbace2914f4c4df37339de0832b1620_378018?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=775e9a93b3d2601fcb1ab203808152cbcdf1e192)
+![](https://cofile.eeo.cn/res-store%2F0218f5c0ced43ba32e4be51dc8ae31075bbace2914f4c4df37339de0832b1620_378018?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788105600;1788710400&q-key-time=1788105600;1788710400&q-header-list=host&q-url-param-list=&q-signature=38c723820b7f9ad48cb863dd7e813cd06e3d6e1c)
 
 
 进入 课程
@@ -268,7 +268,7 @@ AI课堂总结
 选择 编辑
 
 
-![](https://cofile.eeo.cn/res-store%2Fd6cd89d66a585a9922874a77a47bdc5e9e372a9c78849274b41587949de37eba_1844296?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=cfa81717e62122b596b389da351a3baa93252e86)
+![](https://cofile.eeo.cn/res-store%2Fd6cd89d66a585a9922874a77a47bdc5e9e372a9c78849274b41587949de37eba_1844296?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788105600;1788710400&q-key-time=1788105600;1788710400&q-header-list=host&q-url-param-list=&q-signature=457e7d6e5bc180f924aa466bfdd20912fde250a4)
 
 
 # 四、删除「课堂」
@@ -283,13 +283,13 @@ AI课堂总结
 找到课堂后点击「···」 ，选择 删除
 
 
-![](https://cofile.eeo.cn/res-store%2Fcca49c2b745b23a2f73e0d3dd1a18fbb4193276c2ec325120059f4ca49e9c59f_384453?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=7fe57d5b87703a49886a756ac98a8ee87b9841c0)
+![](https://cofile.eeo.cn/res-store%2Fcca49c2b745b23a2f73e0d3dd1a18fbb4193276c2ec325120059f4ca49e9c59f_384453?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788105600;1788710400&q-key-time=1788105600;1788710400&q-header-list=host&q-url-param-list=&q-signature=3bcfe12c51eff57d24315c5c9f788f947e869e31)
 
 
 选择 删除
 
 
-![](https://cofile.eeo.cn/res-store%2F3685801bc117db0e736e812b17c99e14b425199df3a118bdd1949647946236e3_1854621?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=42b0fdd46f18711e45e50036c5a12fa772bf958c)
+![](https://cofile.eeo.cn/res-store%2F3685801bc117db0e736e812b17c99e14b425199df3a118bdd1949647946236e3_1854621?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788105600;1788710400&q-key-time=1788105600;1788710400&q-header-list=host&q-url-param-list=&q-signature=51400dbefc66f5712e76cd2a2a2413fc072170aa)
 
 
 # 五、复制「课堂」
@@ -301,13 +301,13 @@ AI课堂总结
 找到课堂后点击「···」 ，选择 复制活动
 
 
-![](https://cofile.eeo.cn/res-store%2Fe307e7a92707c20da8e8838e84cf1dbeb0772f3a870d2f48a54101d2e7d06393_386248?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=83119e42e01dd79e2efa65d1976bf5b917adad3d)
+![](https://cofile.eeo.cn/res-store%2Fe307e7a92707c20da8e8838e84cf1dbeb0772f3a870d2f48a54101d2e7d06393_386248?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788105600;1788710400&q-key-time=1788105600;1788710400&q-header-list=host&q-url-param-list=&q-signature=2a730d19fd821d933184f4d33486c054bea69b00)
 
 
 选择 复制活动
 
 
-![](https://cofile.eeo.cn/res-store%2F443ab96d84662b72325c377bf59cc58916460bbbc6140ce11a5a47846ec78698_1847163?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=08062d4b9b3e2f75eac6b35f4c18df39e618c104)
+![](https://cofile.eeo.cn/res-store%2F443ab96d84662b72325c377bf59cc58916460bbbc6140ce11a5a47846ec78698_1847163?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788105600;1788710400&q-key-time=1788105600;1788710400&q-header-list=host&q-url-param-list=&q-signature=08474720cbca6b0044f5993193a535d79385de70)
 
 
 # 六、设置「联席教师」
@@ -343,13 +343,13 @@ AI课堂总结
 在创建窗口中点击 展开 ，添加 联席教师
 
 
-![](https://cofile.eeo.cn/res-store%2Fb0c02a4eb2601fe968735e9b049cd8c6a12ef45a0f0195819cc412da96c9100e_687213?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=a04fa085fcd0b194658ec5bcf0fee1d0346d7441)
+![](https://cofile.eeo.cn/res-store%2Fb0c02a4eb2601fe968735e9b049cd8c6a12ef45a0f0195819cc412da96c9100e_687213?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788105600;1788710400&q-key-time=1788105600;1788710400&q-header-list=host&q-url-param-list=&q-signature=4cab4d469269298eb226c433a2776294a5500a23)
 
 
 添加 联席教师
 
 
-![](https://cofile.eeo.cn/res-store%2F4f137f722a0236424d3a58dd88e9a70228df3dd288ca1ad0b31a00939c32925b_1865644?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=21481ce29a86651e952e205e7d27ae8ec87e5347)
+![](https://cofile.eeo.cn/res-store%2F4f137f722a0236424d3a58dd88e9a70228df3dd288ca1ad0b31a00939c32925b_1865644?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788105600;1788710400&q-key-time=1788105600;1788710400&q-header-list=host&q-url-param-list=&q-signature=63617df7f0d18725a5d7f4b00b8027142013895d)
 
 
 ## 2、上课中添加/更换联席教师
@@ -370,13 +370,13 @@ AI课堂总结
 点击 确定
 
 
-![](https://cofile.eeo.cn/res-store%2F5d69437f828f6313dddca10a1fb01a0db4fa60d4cdf2a480f8fbf107b9befdea_902630?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=b3e8edcf5f38b2c4a1d33e411a65837d42a6d21d)
+![](https://cofile.eeo.cn/res-store%2F5d69437f828f6313dddca10a1fb01a0db4fa60d4cdf2a480f8fbf107b9befdea_902630?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788105600;1788710400&q-key-time=1788105600;1788710400&q-header-list=host&q-url-param-list=&q-signature=6005282e47247349679e3065ca9b5656d8aadc2e)
 
 
 在 联席教师 位置设置
 
 
-![](https://cofile.eeo.cn/res-store%2Fd10e842bb99b26b327fb6d18f6f782d14df3d7978a35625bb582e1a8e78fa952_2755786?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=7c31f46a4128685137832e20bd4e9aab78a1ad0d)
+![](https://cofile.eeo.cn/res-store%2Fd10e842bb99b26b327fb6d18f6f782d14df3d7978a35625bb582e1a8e78fa952_2755786?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788105600;1788710400&q-key-time=1788105600;1788710400&q-header-list=host&q-url-param-list=&q-signature=77f43026674425b55392c68aabed66dfff997fec)
 
 
 # 七、更换「授课教师」
@@ -391,10 +391,10 @@ AI课堂总结
 选择教师，勾选新授课老师后，点击确定
 
 
-![](https://cofile.eeo.cn/res-store%2Fda4b1a94a4fda334bb094a8c3a52d23138e377cf4f89819fef0d57389877f8e6_681635?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=5b7eb469e3471fa93f72ec74dff1e35fa7eca9cf)
+![](https://cofile.eeo.cn/res-store%2Fda4b1a94a4fda334bb094a8c3a52d23138e377cf4f89819fef0d57389877f8e6_681635?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788105600;1788710400&q-key-time=1788105600;1788710400&q-header-list=host&q-url-param-list=&q-signature=0ec1ec5e9d8a544342502b058c6b1912e821054b)
 
 
-![](https://cofile.eeo.cn/res-store%2F43191a4c439fd713d57fc17b6f0e617421bef5d861c9d8bb71459656aefd9f59_2212640?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=79899df4f3433c8c020d18ba30ad79a9f36afa9c)
+![](https://cofile.eeo.cn/res-store%2F43191a4c439fd713d57fc17b6f0e617421bef5d861c9d8bb71459656aefd9f59_2212640?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788105600;1788710400&q-key-time=1788105600;1788710400&q-header-list=host&q-url-param-list=&q-signature=f6ab8598608bc8ce626cbc8d03119114511ea8d4)
 
 
 # 八、获取网页直播回放链接
@@ -415,10 +415,10 @@ www.eeo.cn后台管理中开启《允许老师在客户端获取网页直播回�
 点击课堂信息，复制或转发本课堂/本班级网页直播回放链接
 
 
-![](https://cofile.eeo.cn/res-store%2F507f53056716f1f6e06436cc0d33df83b888c950b08334c044c3d23c0964f1ae_1407717?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=79453a19e7fa8640dbfe50a0c4f287d3122e7f52)
+![](https://cofile.eeo.cn/res-store%2F507f53056716f1f6e06436cc0d33df83b888c950b08334c044c3d23c0964f1ae_1407717?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788105600;1788710400&q-key-time=1788105600;1788710400&q-header-list=host&q-url-param-list=&q-signature=a03f91b409a5a4ca16f1c3b9d02c733e45f2104c)
 
 
-![](https://cofile.eeo.cn/res-store%2Fb8d69bdda20a31f1dbbfe6763c9056f81dabb9d50ef4fb5d7ff8af7e03c472b5_444762?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=40d0729a65e6287c6fea102a8c5500d9866f91db)
+![](https://cofile.eeo.cn/res-store%2Fb8d69bdda20a31f1dbbfe6763c9056f81dabb9d50ef4fb5d7ff8af7e03c472b5_444762?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788105600;1788710400&q-key-time=1788105600;1788710400&q-header-list=host&q-url-param-list=&q-signature=ec54def0e85ef56f82d33edac83edb85fc75bea0)
 
 
 # 九、班级中观看「录课回放视频」
@@ -472,10 +472,10 @@ www.eeo.cn后台管理中开启《允许老师在客户端获取网页直播回�
 找到课堂后点击 回放
 
 
-![](https://cofile.eeo.cn/res-store%2Fa059448a442f2272a6ba2eb62cd5fac8d3df725d4042997118bf597295f3450e_1340919?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=22e0a2d171521383a1216e1fdbe86293246a1f8c)
+![](https://cofile.eeo.cn/res-store%2Fa059448a442f2272a6ba2eb62cd5fac8d3df725d4042997118bf597295f3450e_1340919?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788105600;1788710400&q-key-time=1788105600;1788710400&q-header-list=host&q-url-param-list=&q-signature=b00f805b03de920e56077a0b4ea3e088d0ee1eba)
 
 
-![](https://cofile.eeo.cn/res-store%2Fdc7c4a3bbc4d53b9bb70c8bba543ba17128463ae918f4e2cad58b3311add471f_1748964?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=ba54fc0cdf4487d2578bcd82f9249859800c0375)
+![](https://cofile.eeo.cn/res-store%2Fdc7c4a3bbc4d53b9bb70c8bba543ba17128463ae918f4e2cad58b3311add471f_1748964?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788105600;1788710400&q-key-time=1788105600;1788710400&q-header-list=host&q-url-param-list=&q-signature=1632da9386ab76dda770987ffa7ec6802f493c19)
 
 
 # 十、班级中查看「板书课件」
@@ -517,10 +517,10 @@ www.eeo.cn后台管理中开启《允许老师在客户端获取网页直播回�
 找到课堂后点击 板书课件
 
 
-![](https://cofile.eeo.cn/res-store%2F157417777e21ae8376f292a95463829172dede9f1e7beb3b4b3abe484a8617af_395486?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=ee7737e5f0cd51ff006cca401808d56826357adb)
+![](https://cofile.eeo.cn/res-store%2F157417777e21ae8376f292a95463829172dede9f1e7beb3b4b3abe484a8617af_395486?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788105600;1788710400&q-key-time=1788105600;1788710400&q-header-list=host&q-url-param-list=&q-signature=e211bbd23442ec3a2859fb6ea9a9cbe9f760f6ef)
 
 
-![](https://cofile.eeo.cn/res-store%2F0ffc8d277edcccf92ff2e9079a263341c69e5be8420c140838e1ae32a50cadfd_1305728?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=eb3e9e548696b5e943725e1366b87b87d390805a)
+![](https://cofile.eeo.cn/res-store%2F0ffc8d277edcccf92ff2e9079a263341c69e5be8420c140838e1ae32a50cadfd_1305728?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788105600;1788710400&q-key-time=1788105600;1788710400&q-header-list=host&q-url-param-list=&q-signature=9d0e6c7d6502f57c5208a3afe5fab27104d462e8)
 
 
 # 十一、班级中查看「教学报告」
@@ -568,7 +568,7 @@ www.eeo.cn后台管理中开启《允许老师在客户端获取网页直播回�
 教学报告模板样式如下图：
 
 
-![](https://cofile.eeo.cn/res-store%2Fdab78ebe9429acccef3db2151dc7a068c89ba2a282d88b3f63a20dcbbd7c4b29_544888?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=efed77468c63784207557224d6746b0930edd5c0)
+![](https://cofile.eeo.cn/res-store%2Fdab78ebe9429acccef3db2151dc7a068c89ba2a282d88b3f63a20dcbbd7c4b29_544888?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788105600;1788710400&q-key-time=1788105600;1788710400&q-header-list=host&q-url-param-list=&q-signature=e45dd58a09915d624d2755d4136c062b4618aa6f)
 
 
 新版教学报告中，开课前学生参与作答的答题器及开课前老师给学生发放的奖杯不计算到课堂成就数据中。旧版教学报告会记录该数据。
@@ -577,10 +577,10 @@ www.eeo.cn后台管理中开启《允许老师在客户端获取网页直播回�
 找到课堂后点击 教学报告
 
 
-![](https://cofile.eeo.cn/res-store%2F0b85954c7a4965013a4e62922b09b2392c8c63cb485b59d6859ae7a7407d1897_1790127?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=219cc74b69ddccc0f02ebe5fd00e7f701cea1faf)
+![](https://cofile.eeo.cn/res-store%2F0b85954c7a4965013a4e62922b09b2392c8c63cb485b59d6859ae7a7407d1897_1790127?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788105600;1788710400&q-key-time=1788105600;1788710400&q-header-list=host&q-url-param-list=&q-signature=fd75595fbe96e530add35410cd2ca8c480a1632a)
 
 
-![](https://cofile.eeo.cn/res-store%2Fa35abbb68a6f88cec361d72100c8ef1fdd06ae368204902b2894ceccf9d72e68_626522?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=543b18d38bf41d73f55b01e2838fac200371f97d)
+![](https://cofile.eeo.cn/res-store%2Fa35abbb68a6f88cec361d72100c8ef1fdd06ae368204902b2894ceccf9d72e68_626522?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788105600;1788710400&q-key-time=1788105600;1788710400&q-header-list=host&q-url-param-list=&q-signature=dabeefa54efd62ef2459e918db9ace416e86e664)
 
 
 # 十二、班级中查看「学习报告」
@@ -634,16 +634,16 @@ www.eeo.cn后台管理中开启《允许老师在客户端获取网页直播回�
 学习报告模板样式如下图：
 
 
-![](https://cofile.eeo.cn/res-store%2F6e4450602096afe9d5be84ee1e98155f5ffedc67581d2550e2ac2724b5f909e8_1896424?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=ea61c18bc22f760e02ab47a7e7ce8bd12c3761fa)
+![](https://cofile.eeo.cn/res-store%2F6e4450602096afe9d5be84ee1e98155f5ffedc67581d2550e2ac2724b5f909e8_1896424?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788105600;1788710400&q-key-time=1788105600;1788710400&q-header-list=host&q-url-param-list=&q-signature=a08f00bf8f56d44e184a98c26750d95760372a4e)
 
 
 找到课堂后点击 学习报告
 
 
-![](https://cofile.eeo.cn/res-store%2F5941b13d780e63c9ce2c0513a7c24c191887544b5329285667219feefed0287e_596067?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=06706afabf648882c55444bac94b4d6cf4ddc9f1)
+![](https://cofile.eeo.cn/res-store%2F5941b13d780e63c9ce2c0513a7c24c191887544b5329285667219feefed0287e_596067?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788105600;1788710400&q-key-time=1788105600;1788710400&q-header-list=host&q-url-param-list=&q-signature=e5d027cbc926fde105c62d3e1a537a6b71ebd38f)
 
 
-![](https://cofile.eeo.cn/res-store%2F2ce1883cc15ff199455be11a913e2f2075e8d51e07098282a3ca414ba40eeafc_1840395?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=3731fa4f73b3fc336f03677ce23c9b990bdec16f)
+![](https://cofile.eeo.cn/res-store%2F2ce1883cc15ff199455be11a913e2f2075e8d51e07098282a3ca414ba40eeafc_1840395?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788105600;1788710400&q-key-time=1788105600;1788710400&q-header-list=host&q-url-param-list=&q-signature=0a03a6f5cbdcca2448209e1dea18d67346de2499)
 
 
 ## 2. 查看其他同学的「学习报告」
@@ -655,10 +655,10 @@ www.eeo.cn后台管理中开启《允许老师在客户端获取网页直播回�
 点击 课堂信息 ，在学生数据中点击查看其他同学的学习报告
 
 
-![](https://cofile.eeo.cn/res-store%2Ff17cf8804b25a7cd9c17b39ac0d5720e9545ce3e1efd62097c4151cb76979117_518801?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=d90ea82a70ff149a9482dcf63408c244e7798106)
+![](https://cofile.eeo.cn/res-store%2Ff17cf8804b25a7cd9c17b39ac0d5720e9545ce3e1efd62097c4151cb76979117_518801?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788105600;1788710400&q-key-time=1788105600;1788710400&q-header-list=host&q-url-param-list=&q-signature=fda38db6f8550b3d73168c03ba961302c63dbdc6)
 
 
-![](https://cofile.eeo.cn/res-store%2Fc690e2261e9ecea2d508c898b75824ce59873c1557faebad1b6cd8a0d5b58250_1830663?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=84fa37ca5d3ced6d519760e373eba0c6e625c8e6)
+![](https://cofile.eeo.cn/res-store%2Fc690e2261e9ecea2d508c898b75824ce59873c1557faebad1b6cd8a0d5b58250_1830663?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788105600;1788710400&q-key-time=1788105600;1788710400&q-header-list=host&q-url-param-list=&q-signature=b392115c7f1cbd6ff5c9779141146d050cbee920)
 
 
 # 十三、课后评价
@@ -676,10 +676,10 @@ www.eeo.cn后台管理中开启《允许老师在客户端获取网页直播回�
 点击 课后评价-评价学生
 
 
-![](https://cofile.eeo.cn/res-store%2Fe53a0254081bc71d85722048433faf1a07f4e4c60bf1042c1c01237a96adf22d_511019?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=360e895b0adf996bb5f04f77e3f46e0be64bbd54)
+![](https://cofile.eeo.cn/res-store%2Fe53a0254081bc71d85722048433faf1a07f4e4c60bf1042c1c01237a96adf22d_511019?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788105600;1788710400&q-key-time=1788105600;1788710400&q-header-list=host&q-url-param-list=&q-signature=e38e07f411af97ebe4540e8e984082d0a29542ca)
 
 
-![](https://cofile.eeo.cn/res-store%2F64c9b275d38a60246cde21a7e8e1b28377d9c3e3531bb1702c078aeca71ece6f_1777655?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=2549338f08119b49a1e0d213e5b709ad2ee20284)
+![](https://cofile.eeo.cn/res-store%2F64c9b275d38a60246cde21a7e8e1b28377d9c3e3531bb1702c078aeca71ece6f_1777655?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788105600;1788710400&q-key-time=1788105600;1788710400&q-header-list=host&q-url-param-list=&q-signature=964e35f4e1e573984cee8e1ba481b0f5bbb5ea03)
 
 
 ## 2. 教师课后查看收到的评价
@@ -691,10 +691,10 @@ www.eeo.cn后台管理中开启《允许老师在客户端获取网页直播回�
 点击 课后评价-我收到的评价
 
 
-![](https://cofile.eeo.cn/res-store%2Feb43c27d34e0d2ec855dc9fb38439af2519be24b7b3756cece7cb84e1f7589d4_632102?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=23f054c23e92c8be8de03bd83e74b6b09486074a)
+![](https://cofile.eeo.cn/res-store%2Feb43c27d34e0d2ec855dc9fb38439af2519be24b7b3756cece7cb84e1f7589d4_632102?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788105600;1788710400&q-key-time=1788105600;1788710400&q-header-list=host&q-url-param-list=&q-signature=22f3bf82816613ad713f208986ff944aa1d2994b)
 
 
-![](https://cofile.eeo.cn/res-store%2Fab01f9c31c5f81e9f78226b5d0f05e2bbd30ce30ec37584ed363af12641c4277_911303?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=5517c7af5a5bfe80797978ba3d05b1ea236cdfe4)
+![](https://cofile.eeo.cn/res-store%2Fab01f9c31c5f81e9f78226b5d0f05e2bbd30ce30ec37584ed363af12641c4277_911303?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788105600;1788710400&q-key-time=1788105600;1788710400&q-header-list=host&q-url-param-list=&q-signature=7228d0395da33fc8b4bbeba182246d3f7f0f0344)
 
 
 ## 3. 学生课后修改评价
@@ -709,7 +709,7 @@ www.eeo.cn后台管理中开启《允许老师在客户端获取网页直播回�
 点击 课后评价-评价教师
 
 
-![](https://cofile.eeo.cn/res-store%2Fbca52112c0142f1511223a142ac8905b2884c6b98edf26e0d9104cf205032efb_680539?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=07d6886add77854f5ff971ab11a0ca9661d5908c)
+![](https://cofile.eeo.cn/res-store%2Fbca52112c0142f1511223a142ac8905b2884c6b98edf26e0d9104cf205032efb_680539?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788105600;1788710400&q-key-time=1788105600;1788710400&q-header-list=host&q-url-param-list=&q-signature=83f0af2a512a1c518d294d1243bd56d11f531324)
 
 
 ## 4. 学生课后查看收到的评价
@@ -718,7 +718,7 @@ www.eeo.cn后台管理中开启《允许老师在客户端获取网页直播回�
 课堂学生进入课堂详情中，除了可以填写或修改对教师的评价外，还可以进入我收到的评价中，查看教师对自己本堂课的评价。
 
 
-![](https://cofile.eeo.cn/res-store%2F64c9b275d38a60246cde21a7e8e1b28377d9c3e3531bb1702c078aeca71ece6f_1777655?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=2549338f08119b49a1e0d213e5b709ad2ee20284)
+![](https://cofile.eeo.cn/res-store%2F64c9b275d38a60246cde21a7e8e1b28377d9c3e3531bb1702c078aeca71ece6f_1777655?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788105600;1788710400&q-key-time=1788105600;1788710400&q-header-list=host&q-url-param-list=&q-signature=964e35f4e1e573984cee8e1ba481b0f5bbb5ea03)
 
 
 ![](https://cofile.eeo.cn/res-store%2F9330f8fa7a9ddda2559b260da6a494e3dd30f320f9067dc7bfd7c6794966130a_513393?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1777824000;1778428800&q-key-time=1777824000;1778428800&q-header-list=host&q-url-param-list=&q-signature=bdf2b80739da7a5e07b14f618c9260af535f1009)
