@@ -74,7 +74,7 @@ section: "更多使用说明"
 在主班级中选定一个课程（注意，不是整个班级），并将其作为主课堂的基础，创建它的子课堂。如果班级中尚未添加任何课堂，可以参考下方图示进行创建。（创建路径：登录后台管理 ＞ 班级管理 ＞ 进入班级 ＞ 添加课堂）
 
 
-![](https://cofile.eeo.cn/res-store%2F6b6fef85000e1dcb6524ef567fb28fca873fcb455c408161a450e055d3d7fc51_508386?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788105600;1788710400&q-key-time=1788105600;1788710400&q-header-list=host&q-url-param-list=&q-signature=c4ca20aaee5be752f5ce1642f57a71aaa84c9875)
+![](https://cofile.eeo.cn/res-store%2F6b6fef85000e1dcb6524ef567fb28fca873fcb455c408161a450e055d3d7fc51_508386?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=76a8ff9aadd5c84982cc3b5c7ebf889e5661eb30)
 
 
 ### 2.2 添加子课堂
@@ -104,7 +104,7 @@ section: "更多使用说明"
 （6）在录课方面，可以选择【使用主课堂的录课回放】或【云端录课（各子课堂分别录课）】。需要注意的是，若选择子课堂云端录课，每个录课的子教室都需要有一名助教进入教室进行全程录制。
 
 
-![](https://cofile.eeo.cn/res-store%2Fb42c69fee8ef785001e940ad6378e36e8e28a6f30faea11654b14a2c16cb3dd6_289908?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788105600;1788710400&q-key-time=1788105600;1788710400&q-header-list=host&q-url-param-list=&q-signature=0d0bdc796d73bd3e9850ce59c44e95dc32e70f27)
+![](https://cofile.eeo.cn/res-store%2Fb42c69fee8ef785001e940ad6378e36e8e28a6f30faea11654b14a2c16cb3dd6_289908?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=73dc284c0cbbd3071189fdb37d3ecf37042193dd)
 
 
 ### 2.3 编辑与删除
@@ -116,7 +116,7 @@ ClassIn APP（客户端）和后台界面上，均可以编辑和删除 主课�
 ClassIn App（客户端）上，无法直接编辑或删除 子课堂 ，用户只能在后台进行相关操作。用户可以进入子课堂对应的班级进行常规编辑和删除（修改或删除子课堂），还可以通过点击主课堂最右侧的“操作”按钮，选择“在线双师”，然后进行删除操作
 
 
-![](https://cofile.eeo.cn/res-store%2F313bbae90c1cf7457ea054c5c3e7cac703cd09a9c264310f616a97f578c3aa36_278530?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788105600;1788710400&q-key-time=1788105600;1788710400&q-header-list=host&q-url-param-list=&q-signature=58d9910398eab5e9e8b56f4b52b63b1641303ac1)
+![](https://cofile.eeo.cn/res-store%2F313bbae90c1cf7457ea054c5c3e7cac703cd09a9c264310f616a97f578c3aa36_278530?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=2b7261f1a33daba5859166ade558475c50a8ce02)
 
 
 ## 3. 课后服务素材下载
@@ -164,7 +164,7 @@ ClassIn App（客户端）上，无法直接编辑或删除 子课堂 ，用户�
 （4）主讲教师的电脑和iPad支持连麦功能
 
 
-![](https://cofile.eeo.cn/res-store%2F3d337d262541154cfe27351d0a897b49a99d3c3ff91a1f2f3fdbd7adcecd1404_346497?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788105600;1788710400&q-key-time=1788105600;1788710400&q-header-list=host&q-url-param-list=&q-signature=332eb7ed146b887c5124603c2eb8f1e6c5ede286)
+![](https://cofile.eeo.cn/res-store%2F3d337d262541154cfe27351d0a897b49a99d3c3ff91a1f2f3fdbd7adcecd1404_346497?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=dd299f4d2dc5059a72efe45a1c3460c2262d4267)
 
 
 聊天
@@ -182,13 +182,13 @@ ClassIn App（客户端）上，无法直接编辑或删除 子课堂 ，用户�
 （3）主教室和子教室聊天区，不支持【问题】功能。如果学生有问题，学生可以在【聊天】窗口中进行提问。
 
 
-![](https://cofile.eeo.cn/res-store%2F7dd732399299f4d737c52d2837923cbd619a04e23705249418c70a9c8ef8cfd1_643506?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788105600;1788710400&q-key-time=1788105600;1788710400&q-header-list=host&q-url-param-list=&q-signature=37a94e5c9146fa80b9e21c74334bbed84202a6b5)
+![](https://cofile.eeo.cn/res-store%2F7dd732399299f4d737c52d2837923cbd619a04e23705249418c70a9c8ef8cfd1_643506?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=5493cfc4435d5153d4811cc7289fbe75a6c4321d)
 
 
 （6）注意：聊天区在回放中会遮挡课件；子教室学生通过录课回放，也会看到与本班无关的其他班级聊天内容；教师可在录课前手动点击“将聊天窗口移到教室外”的按钮，聊天区就不会被录制。
 
 
-![](https://cofile.eeo.cn/res-store%2F51c0bf68940c95caff46ae64d6007cdde5afd6507f0ba2b1884df474d8620e18_251458?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788105600;1788710400&q-key-time=1788105600;1788710400&q-header-list=host&q-url-param-list=&q-signature=a9122c683f146022baa5da17acde1a0facdd17c0)
+![](https://cofile.eeo.cn/res-store%2F51c0bf68940c95caff46ae64d6007cdde5afd6507f0ba2b1884df474d8620e18_251458?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=3235d9e0c881ea04138428dcdb88b96f6f3249f0)
 
 
 双师答题器
@@ -209,13 +209,13 @@ ClassIn App（客户端）上，无法直接编辑或删除 子课堂 ，用户�
 （4）结束答题后，可以给答对的学生或参与学生分发奖杯。这是主讲教师给子教室学生分发奖杯的唯一途径。
 
 
-![](https://cofile.eeo.cn/res-store%2F6cc377aad7f870e8218e466474f88d21537a72d840d036f596f49736d4bdbe66_1563442?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788105600;1788710400&q-key-time=1788105600;1788710400&q-header-list=host&q-url-param-list=&q-signature=a41f55f1cfcda6d83e08436b6c35760cb83973e8)
+![](https://cofile.eeo.cn/res-store%2F6cc377aad7f870e8218e466474f88d21537a72d840d036f596f49736d4bdbe66_1563442?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=4bad88796fbac57564da93f8c0d36e0678014b82)
 
 
 （5）答题过程中任何时间，老师都可以用答题器中的截图工具截图（通常是讲解后截带有解题思路的图），该截图会保存在后台，作为助教老师课后沟通的素材。
 
 
-![](https://cofile.eeo.cn/res-store%2Fd978ed81e210926b7da80b8e3431096d51af09fc02742bd80eabaf9ae480c85e_2093182?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788105600;1788710400&q-key-time=1788105600;1788710400&q-header-list=host&q-url-param-list=&q-signature=bf3c5ae30770074bcc571ef966c6ae30c148427a)
+![](https://cofile.eeo.cn/res-store%2Fd978ed81e210926b7da80b8e3431096d51af09fc02742bd80eabaf9ae480c85e_2093182?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=c28c87c32737a5daf279581dd0c6c59f4e665e0a)
 
 
 （6）结束答题后，子教室学生仅能看到本班的答题明细。（若教务设置了“子教室使用主教室录课回放”，子教室学生在回放中能看到所有班级的答题数据）
@@ -239,7 +239,7 @@ ClassIn App（客户端）上，无法直接编辑或删除 子课堂 ，用户�
 清除所有学生的授权状态、奖杯数和上台次数
 
 
-![](https://cofile.eeo.cn/res-store%2Fb0eb12bbeafba5ff11d32339ee17f7af1ebd1f1e8d06386ee32cd6e44c93a365_1329847?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788105600;1788710400&q-key-time=1788105600;1788710400&q-header-list=host&q-url-param-list=&q-signature=27cfb79b6c2056a8585be7436f8cdf8e16c550ea)
+![](https://cofile.eeo.cn/res-store%2Fb0eb12bbeafba5ff11d32339ee17f7af1ebd1f1e8d06386ee32cd6e44c93a365_1329847?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=21188a31689f72da31132ecacf3f9def0e83e76c)
 
 
 下课功能

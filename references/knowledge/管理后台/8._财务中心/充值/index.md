@@ -47,4 +47,4 @@ ClassIn提供了两种充值方式：在线支付和对公转账。其中“线�
 点击右上角 充值
 
 
-![](https://cofile.eeo.cn/res-store%2F9272ccadc594f391faa160d098c7dc56e719ae4ef5fd87f035b2be6bf383cf19_597167?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=2f03923c172c341582ecffffb33c3a66b81aad33)
+![](https://cofile.eeo.cn/res-store%2F9272ccadc594f391faa160d098c7dc56e719ae4ef5fd87f035b2be6bf383cf19_597167?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=a5057339c7cb84ddcc252a67b9c4d605c4615997)

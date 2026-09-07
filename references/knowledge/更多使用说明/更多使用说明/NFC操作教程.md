@@ -14,10 +14,10 @@ section: "更多使用说明"
 登录 X 版，点击【头像—设置】，点击【高级设置—修改注册信息】
 
 
-![](https://cofile.eeo.cn/res-store%2Fcc6931b5e82112119a1978368c838d87c2140e8df88a1a7e57e5e6a058a80f35_157370?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788105600;1788710400&q-key-time=1788105600;1788710400&q-header-list=host&q-url-param-list=&q-signature=bb655c546cdb5792d838c9d907d937cbd30c749d)
+![](https://cofile.eeo.cn/res-store%2Fcc6931b5e82112119a1978368c838d87c2140e8df88a1a7e57e5e6a058a80f35_157370?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=0841a006825dea0eff09e6d09fbcf6dc58b6c528)
 
 
-![](https://cofile.eeo.cn/res-store%2Facbcef5ca24d4ffa65da65d3e64e3438d2f509e1c635f124394d931b173deac3_52393?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788105600;1788710400&q-key-time=1788105600;1788710400&q-header-list=host&q-url-param-list=&q-signature=e84d8423cb97ce85bf1bfcccfa6a45f749cb18f2)
+![](https://cofile.eeo.cn/res-store%2Facbcef5ca24d4ffa65da65d3e64e3438d2f509e1c635f124394d931b173deac3_52393?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=876cdc2d49d90c5cadf36694744eb2cc91a18233)
 
 
 2.搜索对应机构名称，选择匹配的机构，确定
@@ -29,19 +29,19 @@ section: "更多使用说明"
 注：下图为示例机构，选择后保存
 
 
-![](https://cofile.eeo.cn/res-store%2F73f95613a1391b6ac2bbb9780156a9f15f323d341c0d929f4804f06cd593c800_72935?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788105600;1788710400&q-key-time=1788105600;1788710400&q-header-list=host&q-url-param-list=&q-signature=2fb90337d91e857df078307c26c85fb3b06c1bb8)
+![](https://cofile.eeo.cn/res-store%2F73f95613a1391b6ac2bbb9780156a9f15f323d341c0d929f4804f06cd593c800_72935?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=33ce75f438cf159ab2a2b3e8f5885f444ad682d0)
 
 
 3.将 NFC 卡片或设备贴在大屏侧面或读卡器上，系统会自动弹出绑定前验证提示
 
 
-![](https://cofile.eeo.cn/res-store%2F87f1c294e9f40ff99c3dc29ce226af0b654f1501530a4476d459c7621d6641a7_25367?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788105600;1788710400&q-key-time=1788105600;1788710400&q-header-list=host&q-url-param-list=&q-signature=3753bcfcda593721e1d8755ab753dda48269d67f)
+![](https://cofile.eeo.cn/res-store%2F87f1c294e9f40ff99c3dc29ce226af0b654f1501530a4476d459c7621d6641a7_25367?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=f6c0eaf952dbf2054491a0ef13e6c8ba9280afa8)
 
 
 4.扫码或密码验证后，会显示绑定页面，此时将卡片贴在读卡器部分不要移动，等待提示绑定成功，绑定成功后就可以刷卡登录/登出
 
 
-![](https://cofile.eeo.cn/res-store%2F5261988c2cc09c601d2a6e09f1da945f67e2e1e2bb53a782d51bfed9de673f63_24063?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788105600;1788710400&q-key-time=1788105600;1788710400&q-header-list=host&q-url-param-list=&q-signature=a907ef42639cd433accadc184a46f70b6d5bacff)
+![](https://cofile.eeo.cn/res-store%2F5261988c2cc09c601d2a6e09f1da945f67e2e1e2bb53a782d51bfed9de673f63_24063?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=138341b6a7582355d73eeb5bfe262b166d111e9c)
 
 
 # 常见问题

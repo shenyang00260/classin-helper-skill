@@ -26,7 +26,7 @@ section: "ClassInX"
 点击 上课
 
 
-![](https://cofile.eeo.cn/res-store%2F0f9a9e706d0620a545d4e54354f5216c17b063f1c81ed2e28a006631b7dfe5ca_145502?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=b6fff3765e315cf16fe2f32aec7e73829b9577c3)
+![](https://cofile.eeo.cn/res-store%2F0f9a9e706d0620a545d4e54354f5216c17b063f1c81ed2e28a006631b7dfe5ca_145502?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=e40b12b4f7956ac1c0189f9edacb261e073169ba)
 
 
 # 二、退出教室
@@ -50,7 +50,7 @@ section: "ClassInX"
 点击 退出教室
 
 
-![](https://cofile.eeo.cn/res-store%2F3cfdb3f546a06aef3a7a3f39aafd7eadc3ac3234bfa450f8344ceb2c15e5cf7b_227610?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=7e21e27ce59e8d25618216ab64d1136bf9ad8359)
+![](https://cofile.eeo.cn/res-store%2F3cfdb3f546a06aef3a7a3f39aafd7eadc3ac3234bfa450f8344ceb2c15e5cf7b_227610?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=608d6381a97b450f64b696a45d59fbeaf009d05b)
 
 
 # 三、全员下课
@@ -71,7 +71,7 @@ section: "ClassInX"
 滑动全员下课
 
 
-![](https://cofile.eeo.cn/res-store%2F50c1db9abc0e1a34cdd6ea6a4bcad209980ee1ff697bd912cd1c7aeea3194930_231915?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=93d45e1f637c361a1aec9d7e8a6dcafdc42e411c)
+![](https://cofile.eeo.cn/res-store%2F50c1db9abc0e1a34cdd6ea6a4bcad209980ee1ff697bd912cd1c7aeea3194930_231915?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=e7b23ee6a4ae2fa6c31b29ff20e46a051d47eabb)
 
 
 # 四、查看课堂的进度时间
@@ -83,7 +83,7 @@ section: "ClassInX"
 点击通知中心旁缩小按钮
 
 
-![](https://cofile.eeo.cn/res-store%2F3157beea3fcab3960e6d7da1f5aabf4d6378668e3ce9ccd1df2674a458af36a6_186951?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=1231deaedf30964c2e7264aed089be8eb2682476)
+![](https://cofile.eeo.cn/res-store%2F3157beea3fcab3960e6d7da1f5aabf4d6378668e3ce9ccd1df2674a458af36a6_186951?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=555ff478b61d3fafca9e005dd01f091af5f2820f)
 
 
 # 五、返回桌面
@@ -110,7 +110,7 @@ section: "ClassInX"
 操作完毕后，点击 返回 黑板/教室
 
 
-![](https://cofile.eeo.cn/res-store%2F82c2f9191b1afe1980683a1a464241968faaac325c466797ebfc3914b7cd31cc_886016?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=e3239a54bd54c24479bc6fcb4f1932fa6deb637c)
+![](https://cofile.eeo.cn/res-store%2F82c2f9191b1afe1980683a1a464241968faaac325c466797ebfc3914b7cd31cc_886016?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=7b6fa4c2c7b86ec5f961e3a7a3859a562e4aa06d)
 
 
 # 六、教室聊天工具
@@ -131,7 +131,7 @@ section: "ClassInX"
 点击 聊天工具
 
 
-![](https://cofile.eeo.cn/res-store%2Fdcaaa79f84acfeab7ae157b555c4be7948fb68c99b9cec871f5a9389505421db_225469?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=4e40a215ab49a64ff6c2df4a7734cc4200f6ec66)
+![](https://cofile.eeo.cn/res-store%2Fdcaaa79f84acfeab7ae157b555c4be7948fb68c99b9cec871f5a9389505421db_225469?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=3ce28f597e5fecb5281e37981b5f4ef06a1488bf)
 
 
 # 七、花名册
@@ -158,7 +158,7 @@ section: "ClassInX"
 在联席教师昵称后面操作其上下台
 
 
-![](https://cofile.eeo.cn/res-store%2F60370f89f04748ea7f715b7e35d4d3cc84e36f47e485bf1d8aca89fd7cb0eba4_250864?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=2399d755a66c058e2a59690f3ebfb085da3c164b)
+![](https://cofile.eeo.cn/res-store%2F60370f89f04748ea7f715b7e35d4d3cc84e36f47e485bf1d8aca89fd7cb0eba4_250864?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=986815ca620465fbaeb3edc7cf7aecf9d44ee677)
 
 
 ## 2. 学生上下台
@@ -179,13 +179,13 @@ section: "ClassInX"
 在学生昵称后面操作其上下台
 
 
-![](https://cofile.eeo.cn/res-store%2Fba4eafda7ce14b802be1bca2246d98bff81b6760812e7027bd2c15f9c58e326f_295767?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=2ff9b9af42dc5b30bc9d5dffb01b900999a32030)
+![](https://cofile.eeo.cn/res-store%2Fba4eafda7ce14b802be1bca2246d98bff81b6760812e7027bd2c15f9c58e326f_295767?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=95760774645058c32acf55a97a7833322b4c25f8)
 
 
 教师点击台上自己摄像头下方工具操作“全体学生下台”/“更换台上学生”：
 
 
-![](https://cofile.eeo.cn/res-store%2Fbe73a377590320240a435b7f6a3c38f6febdc29c2f17fc3040d67bcd26da425b_128955?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=7b86293ee348919b52fbf088e529cae3bf40bb8a)
+![](https://cofile.eeo.cn/res-store%2Fbe73a377590320240a435b7f6a3c38f6febdc29c2f17fc3040d67bcd26da425b_128955?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=0d4de6201892d76602e734ffdfbf132738467d35)
 
 
 ## 3. 授权/取消授权学生
@@ -206,13 +206,13 @@ section: "ClassInX"
 在学生昵称后面操作授权/取消授权学生
 
 
-![](https://cofile.eeo.cn/res-store%2Fbec9e07bd5b3180689142a52a79ad1417e48e196c0739fac02d9c1f6dfde6b3f_306102?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=f27c7ffcc3e3bcd3f2f70b271d3a13a898a138ff)
+![](https://cofile.eeo.cn/res-store%2Fbec9e07bd5b3180689142a52a79ad1417e48e196c0739fac02d9c1f6dfde6b3f_306102?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=31e69700be01600383c9881742d95d83a9e7516a)
 
 
 教师点击台上自己摄像头下方工具操作“台上学生授权”/“上台学生自动授权”/“取消全体授权”：
 
 
-![](https://cofile.eeo.cn/res-store%2F050ecc5675e42c3af6a57601f8ef62b63f428315c8c32e46035e90bc7f480617_177875?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=ba6444867ac969d65d7543a270b0979020318514)
+![](https://cofile.eeo.cn/res-store%2F050ecc5675e42c3af6a57601f8ef62b63f428315c8c32e46035e90bc7f480617_177875?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=f9451d71b605561f9174a28f258e5f7f57b1abc1)
 
 
 ## 4. 奖励/取消奖励学生
@@ -236,13 +236,13 @@ section: "ClassInX"
 （学生在台上时，长按/点击学生摄像头下方工具的奖励按钮可实现取消奖杯）
 
 
-![](https://cofile.eeo.cn/res-store%2F00ff7b462e6f5a9766a4928940fb52526674e8a930438bd57dedbdbce9cf4b75_297112?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=b80b198937481ec91579a0aebde5d3a510923be8)
+![](https://cofile.eeo.cn/res-store%2F00ff7b462e6f5a9766a4928940fb52526674e8a930438bd57dedbdbce9cf4b75_297112?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=8edf918ff35af4ddd2e3766d430c7dbce00d547e)
 
 
 教师点击台上自己摄像头下方工具操作给“台上学生奖励”：
 
 
-![](https://cofile.eeo.cn/res-store%2Fe14429cb22b89a965576bec111bc62c0c8326cd965b0ede7391209d291eaaa74_89761?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=7d3b71c1b42d250c0434bf4cd6cc56b5969ac846)
+![](https://cofile.eeo.cn/res-store%2Fe14429cb22b89a965576bec111bc62c0c8326cd965b0ede7391209d291eaaa74_89761?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=a013544ba9bcfdb0c5aa42364fb3216fe0e20cf3)
 
 
 ## 5. 静音/取消静音学生的麦克风
@@ -263,13 +263,13 @@ section: "ClassInX"
 点击学生昵称后面的 ··· ，然后点击静音/取消静音学生的麦克风
 
 
-![](https://cofile.eeo.cn/res-store%2F2b65bda174add654ed5e0e076327c76f1994ec8f7e434a494a4d90062c9a116b_319787?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=561a6ab0fc4ed8afabb1dc3a283ffbc45138bbb1)
+![](https://cofile.eeo.cn/res-store%2F2b65bda174add654ed5e0e076327c76f1994ec8f7e434a494a4d90062c9a116b_319787?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=ca5a06ec2669efd6f167324d61730cd889ed4ff7)
 
 
 教师点击台上自己摄像头下方工具操作“全体静音”学生的麦克风：
 
 
-![](https://cofile.eeo.cn/res-store%2F28cd69c163c642f71a4af22e0c8e5e7e7464069b426774c86b2fa7d5fe101a88_266628?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=5c068c8ffb691f08c90474979fa65bbcdaea1d09)
+![](https://cofile.eeo.cn/res-store%2F28cd69c163c642f71a4af22e0c8e5e7e7464069b426774c86b2fa7d5fe101a88_266628?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=985a43095e5923c651c890cc951fd987dfa54722)
 
 
 ## 6. 花名册私聊学生
@@ -293,7 +293,7 @@ section: "ClassInX"
 在分组讨论窗口的右下角点击 结束
 
 
-![](https://cofile.eeo.cn/res-store%2F4addef0dec805c250b59b66c703abe4a939df856afacb421328486b944ff63aa_724827?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=df1b2cee7a66bde3f5bf289c82f3e728b127cac2)
+![](https://cofile.eeo.cn/res-store%2F4addef0dec805c250b59b66c703abe4a939df856afacb421328486b944ff63aa_724827?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=aeef7bd3e7f8037e9d696392d4e84ed0683599bb)
 
 
 ## 7. 花名册禁言/取消禁言学生（聊天工具）
@@ -308,7 +308,7 @@ section: "ClassInX"
 点击学生昵称后面的 ··· ，然后点击 聊天禁言
 
 
-![](https://cofile.eeo.cn/res-store%2Fc7c388035fc639701b446c58648253cfc68693ce4af91c200ee49ba60dfa382a_296090?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=beb67520778b87a0a39a419994031ffff89f7527)
+![](https://cofile.eeo.cn/res-store%2Fc7c388035fc639701b446c58648253cfc68693ce4af91c200ee49ba60dfa382a_296090?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=8368c3af2461a54642a1b4390f8a8aef00e6f7ae)
 
 
 ## 8. 移出教室
@@ -329,7 +329,7 @@ section: "ClassInX"
 在系统提示中设置 移出时间 后，点击 确定
 
 
-![](https://cofile.eeo.cn/res-store%2Fe68029040c387f72b95752288c6d3844ee6e8f0da590e03139144c4c06cd3813_321192?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=949a94c3a59c5d259bc54dc1c37fb9cd768ca23b)
+![](https://cofile.eeo.cn/res-store%2Fe68029040c387f72b95752288c6d3844ee6e8f0da590e03139144c4c06cd3813_321192?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=a9c2d0dc57f7623c2f435e5e14453e225e8e8671)
 
 
 ## 9. 学生举手自动上台
@@ -347,7 +347,7 @@ section: "ClassInX"
 开启或关闭 举手自动上台
 
 
-![](https://cofile.eeo.cn/res-store%2Fe39ee1f31dbad6a1779c542084d3df118754ace052439299e283ccf7d5c9669e_430936?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=1a9be9f5948826c20800c64fb60cc543f609325b)
+![](https://cofile.eeo.cn/res-store%2Fe39ee1f31dbad6a1779c542084d3df118754ace052439299e283ccf7d5c9669e_430936?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=da9d959f80fae75798390a8288a0d7cef0295e76)
 
 
 ## 10. 座位席轮播
@@ -365,7 +365,7 @@ section: "ClassInX"
 开启或关闭 座位席轮播 （开启后，设置轮播范围/轮播顺序/轮播间隔时长）
 
 
-![](https://cofile.eeo.cn/res-store%2F5a5b0697c3b39635f0e973c734278b61be1ce0abe88c773b079c77ead9350324_432254?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=23c9d23ad56c1d5d785e4f6bd3fc6cdbe6866707)
+![](https://cofile.eeo.cn/res-store%2F5a5b0697c3b39635f0e973c734278b61be1ce0abe88c773b079c77ead9350324_432254?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=503660bcfd727fd8cd64d076411f6ebd9b4dfcdb)
 
 
 # 八、ClassInX 打开/上传文件（课件）
@@ -380,7 +380,7 @@ section: "ClassInX"
 点击 文件
 
 
-![](https://cofile.eeo.cn/res-store%2F235c63749bff4e1590e0a4631458a4a274e527dd1fdd3039cbda0a8615fc25ac_400606?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=3ef67e34dabc26e476c92a1898666648b6d06048)
+![](https://cofile.eeo.cn/res-store%2F235c63749bff4e1590e0a4631458a4a274e527dd1fdd3039cbda0a8615fc25ac_400606?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=eca8c00fb3100a900a764fa5b7ab6a2269c46533)
 
 
 # 九、工具箱
@@ -395,7 +395,7 @@ section: "ClassInX"
 点击 工具箱
 
 
-![](https://cofile.eeo.cn/res-store%2Fae774df0b638092fbeaaf89566f6350d52df16f840e78d8883d2477ed2d495e0_250709?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=d120a174bed69d7e7b5c822b926222d7b53439ff)
+![](https://cofile.eeo.cn/res-store%2Fae774df0b638092fbeaaf89566f6350d52df16f840e78d8883d2477ed2d495e0_250709?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=2652abe6e4c2883b1385ea5647d81f8b3362837d)
 
 
 # 十、教室LMS
@@ -413,7 +413,7 @@ section: "ClassInX"
 教师查看或创建活动（测验/答题卡/作业活动）
 
 
-![](https://cofile.eeo.cn/res-store%2F3755af02665a5abb27c30f36613c7281f4e5369837ea60874118e23ccb91ac0c_305833?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=7fa8ffa5cfb3fbe7796064d3d6f31afc29ca6baf)
+![](https://cofile.eeo.cn/res-store%2F3755af02665a5abb27c30f36613c7281f4e5369837ea60874118e23ccb91ac0c_305833?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=e000a24dbfa850f85dfbf638dcccd4026c6304ac)
 
 
 # 十一、进入ClassIn客户端
@@ -425,7 +425,7 @@ section: "ClassInX"
 点击 ClassIn
 
 
-![](https://cofile.eeo.cn/res-store%2Fd3c15546d0e8dd7d1713f7c6ba9a5a57fd3fc6b9b40cd23922cc1ea13e419ba0_246103?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=2dc2650fab123e342336e442bfa7f0c732607c62)
+![](https://cofile.eeo.cn/res-store%2Fd3c15546d0e8dd7d1713f7c6ba9a5a57fd3fc6b9b40cd23922cc1ea13e419ba0_246103?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=0d22a52fc0535c4e35d866a492812e8ea882464b)
 
 
 # 十二、ClassInX 投屏
@@ -470,19 +470,19 @@ section: "ClassInX"
 #### 其他电脑投屏到ClassIn X黑板或教室中：
 
 
-![](https://cofile.eeo.cn/res-store%2F89e2b6ac79a59fa8bf9a49e8aaae1c6f04a1a075bcd883bd738d31c1da6480c7_1954313?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=721b2f1c20c9d499715a7c5277358453dfbdece0)
+![](https://cofile.eeo.cn/res-store%2F89e2b6ac79a59fa8bf9a49e8aaae1c6f04a1a075bcd883bd738d31c1da6480c7_1954313?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=0278c01cbdd333be4b156476b5988675cfc75a38)
 
 
 #### 苹果手机、平板或电脑投屏到ClassIn X黑板或教室中：
 
 
-![](https://cofile.eeo.cn/res-store%2Fb42097f4aab40b22b138324fec5c5e271b07cdc8a9e2118b3b21ccdf4a6e34a2_2413773?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=5e3044da9f93d469ce49417f22c30cd044ecf553)
+![](https://cofile.eeo.cn/res-store%2Fb42097f4aab40b22b138324fec5c5e271b07cdc8a9e2118b3b21ccdf4a6e34a2_2413773?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=881a2ebde715504066f1e997f5c55ebb740cef13)
 
 
 #### 安卓手机或平板投屏到ClassIn X黑板或教室中：
 
 
-![](https://cofile.eeo.cn/res-store%2F40932c064fa63fc628789d394aeae1aa1ad833a49f386d9e4be55c482987d981_2328512?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=5f3b97334de0435aa0bcb6cd981901bca9672dc4)
+![](https://cofile.eeo.cn/res-store%2F40932c064fa63fc628789d394aeae1aa1ad833a49f386d9e4be55c482987d981_2328512?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=53679ebdba9d62e096c35c761bf52770109f5863)
 
 
 # 十三、教室网络CPU状态
@@ -494,7 +494,7 @@ section: "ClassInX"
 点击 网络图标
 
 
-![](https://cofile.eeo.cn/res-store%2F78ffe80a5b94ba2f27f653512ef8d1006b4f261dd149e0b98f38d51ba856380c_133668?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=6550604cf75e54fdd95fa6891832d1c4f0af44df)
+![](https://cofile.eeo.cn/res-store%2F78ffe80a5b94ba2f27f653512ef8d1006b4f261dd149e0b98f38d51ba856380c_133668?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=0d5b9a5345c6cf395ad1dba8267d92e5495b1661)
 
 
 # 十四、ClassInX OMO站播
@@ -539,31 +539,31 @@ OMO站播模式是一种高清录制现场的模式，授课教师在OMO站播�
 缩小OMO站播窗口
 
 
-![](https://cofile.eeo.cn/res-store%2F8aee669420d8566da2684f3ded22952b659cc65fed109a1af77e1c0228c5e465_240109?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=fdfc3ef258bb2e34ed1dd42f45b78b8de2e6c61a)
+![](https://cofile.eeo.cn/res-store%2F8aee669420d8566da2684f3ded22952b659cc65fed109a1af77e1c0228c5e465_240109?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=c3792927107092894c8de43a1300d917bcb7d045)
 
 
 ### 授课教师OMO站播画面展示：
 
 
-![](https://cofile.eeo.cn/res-store%2Fc8f5f266141ea13946be8fe38da27e8dae25f442750de4893318582fe1de2ea3_315388?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=59a84341dcd8041adb90e86638bad897f08918e8)
+![](https://cofile.eeo.cn/res-store%2Fc8f5f266141ea13946be8fe38da27e8dae25f442750de4893318582fe1de2ea3_315388?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=989c094eb90ecf88c002faa83057e24e36a572ef)
 
 
 ### 学生使用电脑在教室中查看OMO站播画面：
 
 
-![](https://cofile.eeo.cn/res-store%2F7eea3344f2926998620567f6f99aabf118f45cd0e0f8b8ad16d8bd7ed01367f6_475648?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=8bb1558ccef3a16bb533b3d4fa48ea824d900ac2)
+![](https://cofile.eeo.cn/res-store%2F7eea3344f2926998620567f6f99aabf118f45cd0e0f8b8ad16d8bd7ed01367f6_475648?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=8c3edb30e3168bba77e3f8a349520cbff1a110b3)
 
 
 ### 学生使用手机或安卓平板在教室中查看OMO站播画面：
 
 
-![](https://cofile.eeo.cn/res-store%2Ff715ff21247bb43a81adee0678318559e677c5618e3333a640e0f823a5d5ddd2_896670?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=60e1a02899e71450fc69dd9fcb3838b49565766d)
+![](https://cofile.eeo.cn/res-store%2Ff715ff21247bb43a81adee0678318559e677c5618e3333a640e0f823a5d5ddd2_896670?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=4de7ca7e94e9fdf6cff3819541f22f8dfe0b4944)
 
 
 ### 学生使用ipad在教室中查看OMO站播画面：
 
 
-![](https://cofile.eeo.cn/res-store%2Faf6694f7db6dd93c886c17c0a1caa6ad5a0439ffcb9673fb05f2876bff4a65e1_898402?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=9b5c611d4505012de1d64e1754f33135f9606758)
+![](https://cofile.eeo.cn/res-store%2Faf6694f7db6dd93c886c17c0a1caa6ad5a0439ffcb9673fb05f2876bff4a65e1_898402?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=3bef4614bffb039172fcb49b138256f712373d1a)
 
 
 # 十五、ClassInX 课堂延时
@@ -575,7 +575,7 @@ OMO站播模式是一种高清录制现场的模式，授课教师在OMO站播�
 延时弹窗弹出后，教师如果暂未决定是否延长，可以点击再想想，允许延时的范围内如果教师还想延时，可以在教室左下角的通知中心中点击“延时”，再选择延长15分钟或30分钟使用。
 
 
-![](https://cofile.eeo.cn/res-store%2F3ca480c0235d4d919812352a8a90a12990d2cc16ff34bde842a3a737a733863f_110149?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=796f5820669786d5227394ea5ac870c68305a471)
+![](https://cofile.eeo.cn/res-store%2F3ca480c0235d4d919812352a8a90a12990d2cc16ff34bde842a3a737a733863f_110149?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=deda434da80748b6617c7e60bcfbeab69d477ec4)
 
 
 # 十六、AI「素材搜索」
@@ -599,7 +599,7 @@ OMO站播模式是一种高清录制现场的模式，授课教师在OMO站播�
 除了在黑板上通过二次编辑工具使用该智能体外，也可以在黑板或教室右下角dock栏的AgentIn智能体商店中添加和使用该智能体。
 
 
-![](https://cofile.eeo.cn/res-store%2F7940e5d77ba25825c910926ecd455aea6d2c14f22a0adf571670bdf631e36a13_189823?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=a53dc16ed5d371dbcecd6b442d133aadcb6c31d6)
+![](https://cofile.eeo.cn/res-store%2F7940e5d77ba25825c910926ecd455aea6d2c14f22a0adf571670bdf631e36a13_189823?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=88d3bb9a7a6fd686a051ad45d98fc91305bfca8d)
 
 
 # 十七、AI「函数图像」
@@ -611,7 +611,7 @@ OMO站播模式是一种高清录制现场的模式，授课教师在OMO站播�
 教师选中黑板上文字/图片的函数元素后，点击二次编辑工具的AI 按钮，选择「函数图像」智能体即可使用。智能体对话框支持上传本地图片与截图，单次仅可传输1张图片。点击 AI 生成的函数图像，即可将其图像插入黑板，在黑板上选中函数图像后可调整其位置、大小等。另外也可以通过大可语音助手唤起使用该智能体。
 
 
-![](https://cofile.eeo.cn/res-store%2Fcd61209a95259d3de40f37855458ff82444fb6bdec6cea4b62d1155244363943_515434?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=45c48e6922247bd5f638e5d3725b74ef600f9ce8)
+![](https://cofile.eeo.cn/res-store%2Fcd61209a95259d3de40f37855458ff82444fb6bdec6cea4b62d1155244363943_515434?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=1e44e92995c8de1975dee79bd073339936ecd620)
 
 
 # 十七、AI「汉字笔顺」
@@ -623,7 +623,7 @@ OMO站播模式是一种高清录制现场的模式，授课教师在OMO站播�
 教师选中黑板上文字/图片的汉字元素后，点击二次编辑工具的AI 按钮，选择「汉字笔顺」智能体即可使用。智能体对话框支持上传本地图片与截图，单次仅可传输1张图片。点击 AI 生成的笔顺图片，即可将其插入黑板，在黑板上选中图片后可调整其位置、大小等。另外也可以通过大可语音助手唤起使用该智能体。
 
 
-![](https://cofile.eeo.cn/res-store%2F3f6f00940f64596355c0db921b39f6918414bacc4c9e06debdd41e64adcb2da1_425085?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=1c3edf588dcd688465214bde936caa386c66696c)
+![](https://cofile.eeo.cn/res-store%2F3f6f00940f64596355c0db921b39f6918414bacc4c9e06debdd41e64adcb2da1_425085?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=ccb5207af4738756bb0d895fb070e23f5d8d4d37)
 
 
 # 十八、Dock栏的智能体
@@ -638,7 +638,7 @@ OMO站播模式是一种高清录制现场的模式，授课教师在OMO站播�
 若后续不再使用该智能体应用，长按右下角的智能体图标，即可将其移除。
 
 
-![](https://cofile.eeo.cn/res-store%2Faef6a67b35053eccf5e0c024e2c86a400650e2081bf48ac52127f7b9aa683bff_491355?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=b8c0dcf03ec70dc46c187c7019c6258598e18801)
+![](https://cofile.eeo.cn/res-store%2Faef6a67b35053eccf5e0c024e2c86a400650e2081bf48ac52127f7b9aa683bff_491355?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=1398a298ab5f7933da206723068dcf7e449348fd)
 
 
 # 十九、工具盘（圆盘）
@@ -650,7 +650,7 @@ ClassInX的工具盘包含常用教学工具，比如画笔、文本工具、橡
 当用户长时间未操作工具盘时，工具盘会自动缩小为最小状态，再次点击可恢复到正常（展开）状态。在正常（展开）状态下，点击圆盘中间也可切换为最小状态。
 
 
-![](https://cofile.eeo.cn/res-store%2Ff3ed7bd62bd9f03adec470eb7c04b51b326461e0040f2f1d991c0c26c233b3af_465838?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=08d1d042576537d7a80028398081357614fac710)
+![](https://cofile.eeo.cn/res-store%2Ff3ed7bd62bd9f03adec470eb7c04b51b326461e0040f2f1d991c0c26c233b3af_465838?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=44ec9a05ce74a2998a2f1d76770546fd9702dfc2)
 
 
-![](https://cofile.eeo.cn/res-store%2F537d4aaff2610109c9449e78d67127740737c10d4ce03c4bd532a3d7f9f544d7_1168422?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1787500800;1788105600&q-key-time=1787500800;1788105600&q-header-list=host&q-url-param-list=&q-signature=b26cd3efd1d206314bad8798c17a4658235e9323)
+![](https://cofile.eeo.cn/res-store%2F537d4aaff2610109c9449e78d67127740737c10d4ce03c4bd532a3d7f9f544d7_1168422?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=c10429bdc83c64aff68fac129a5dffa63f66d529)

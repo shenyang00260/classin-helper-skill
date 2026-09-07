@@ -65,7 +65,7 @@ Cookie 收集的信息使我们能：
 三. 我们使用的cookie
 
 
-![](https://cofile.eeo.cn/res-store%2Fe7eb9e4227722124c7e0fa07b1650de8a794db70d0dbb839d687571aad6d7166_60376?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788105600;1788710400&q-key-time=1788105600;1788710400&q-header-list=host&q-url-param-list=&q-signature=2d35cd021a64b3fc60c21c08659ec46292bbf33c)
+![](https://cofile.eeo.cn/res-store%2Fe7eb9e4227722124c7e0fa07b1650de8a794db70d0dbb839d687571aad6d7166_60376?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=d6c362b1ad85c3159cacbe5ae901c6807a5d1700)
 
 
 四. 如何管理 Cookie 设置？
