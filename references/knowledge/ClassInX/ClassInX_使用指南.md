@@ -8,4 +8,4 @@ section: "ClassInX"
 # ClassInX 使用指南
 
 
-![](https://cofile.eeo.cn/res-store%2F86b013c50f7a1facc874650258a46fe4ec10febf0536096704f43925786a0dbb_1588066?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=f8df3f331211183184dbf4645c2e4eea4f66e0b2)
+![](https://cofile.eeo.cn/res-store%2F86b013c50f7a1facc874650258a46fe4ec10febf0536096704f43925786a0dbb_1588066?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789315200;1789920000&q-key-time=1789315200;1789920000&q-header-list=host&q-url-param-list=&q-signature=93878d946f83047436d90513a0e549be10145df2)

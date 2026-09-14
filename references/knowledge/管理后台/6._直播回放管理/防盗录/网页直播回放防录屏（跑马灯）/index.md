@@ -50,4 +50,4 @@ section: "管理后台"
 在 防录屏跑马灯设置 中，开启或关闭 防录屏
 
 
-![](https://cofile.eeo.cn/res-store%2F96763cb4afeda5ec5fb2dc0574a4298a36c18342a250c2437425783867f086a4_589544?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=19ac7b6d22011b8828db8fc008b0ac0315d3726b)
+![](https://cofile.eeo.cn/res-store%2F96763cb4afeda5ec5fb2dc0574a4298a36c18342a250c2437425783867f086a4_589544?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789315200;1789920000&q-key-time=1789315200;1789920000&q-header-list=host&q-url-param-list=&q-signature=109138aab75de8e5b6202797b0d8e2550537fe0d)

@@ -56,7 +56,7 @@ section: "ClassIn"
 点击 上台 （再次点击，将会回到台下）
 
 
-![](https://cofile.eeo.cn/res-store%2F619b421083f67ba2f1efac5175952b94e209b6c204c42f695a3f5ad8df90b532_223005?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=8ee9220416f41d47164352c57621fb778cd0ba0c)
+![](https://cofile.eeo.cn/res-store%2F619b421083f67ba2f1efac5175952b94e209b6c204c42f695a3f5ad8df90b532_223005?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789315200;1789920000&q-key-time=1789315200;1789920000&q-header-list=host&q-url-param-list=&q-signature=23d3234f67f7a0b965853e09bba93bf5e4c52f01)
 
 
 #### iPad
@@ -65,13 +65,13 @@ section: "ClassIn"
 打开教室右下角 花名册
 
 
-![](https://cofile.eeo.cn/res-store%2F013b495373e5c2d290695438723ec539c48b59b0662c6ae0bb961fddbdef4d0c_371688?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=1a26030aca843bb13d4ac124c1d3743fe520e684)
+![](https://cofile.eeo.cn/res-store%2F013b495373e5c2d290695438723ec539c48b59b0662c6ae0bb961fddbdef4d0c_371688?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789315200;1789920000&q-key-time=1789315200;1789920000&q-header-list=host&q-url-param-list=&q-signature=4efe8f1fc297635d5fafee81ca8bda2d4fc26e0a)
 
 
 #### 手机/安卓平板
 
 
-![](https://cofile.eeo.cn/res-store%2F87d725bfa45877858ce7f49ab4107f23015609512b1ec87f04ba104932cfab91_400966?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=a83444c25fc2cbd4436d34085a2aa6eab2acabfe)
+![](https://cofile.eeo.cn/res-store%2F87d725bfa45877858ce7f49ab4107f23015609512b1ec87f04ba104932cfab91_400966?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789315200;1789920000&q-key-time=1789315200;1789920000&q-header-list=host&q-url-param-list=&q-signature=427e49854fb00a1a66d8954595fd3cea6f637151)
 
 
 ## 2、学生回到台下
@@ -95,7 +95,7 @@ section: "ClassIn"
 在摄像头下方按键中，点击 回到台下
 
 
-![](https://cofile.eeo.cn/res-store%2F0868ac7359d728e76f60caabdbce67491e5fb16f4b18a0d0c8e8e6caf91ca6dc_437814?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=fc00aa17de0c21c9af7415a68ff43896c7e97fa5)
+![](https://cofile.eeo.cn/res-store%2F0868ac7359d728e76f60caabdbce67491e5fb16f4b18a0d0c8e8e6caf91ca6dc_437814?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789315200;1789920000&q-key-time=1789315200;1789920000&q-header-list=host&q-url-param-list=&q-signature=62cc7a9ff4ab0bb586a06830f7ddfc1df6e6e46c)
 
 
 ## 3、全体学生回到台下
@@ -113,7 +113,7 @@ section: "ClassIn"
 在摄像头下按键中，点击 全体回到台下
 
 
-![](https://cofile.eeo.cn/res-store%2Fc4b85a7b06bae756c458ee3a8d0fa1ef45e69e40504c24f7965e6845c6b4d3bf_57788?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=d40f994ac0726aec7d02c9aa648c0499e0780ce7)
+![](https://cofile.eeo.cn/res-store%2Fc4b85a7b06bae756c458ee3a8d0fa1ef45e69e40504c24f7965e6845c6b4d3bf_57788?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789315200;1789920000&q-key-time=1789315200;1789920000&q-header-list=host&q-url-param-list=&q-signature=04340ea073ee4f25679ad91f98eeb3818e65ac0c)
 
 
 ## 4、一键更换台上学生
@@ -131,7 +131,7 @@ section: "ClassIn"
 在摄像头下方按键中，点击 一键更换台上学生
 
 
-![](https://cofile.eeo.cn/res-store%2F053d2add2e94c1ab2ca8fea8e71e2385ed99272e5bd971f082ca74abbc8680ce_306067?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=cdcf1abd8208e8d168dbed50a5decd827bc6230b)
+![](https://cofile.eeo.cn/res-store%2F053d2add2e94c1ab2ca8fea8e71e2385ed99272e5bd971f082ca74abbc8680ce_306067?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789315200;1789920000&q-key-time=1789315200;1789920000&q-header-list=host&q-url-param-list=&q-signature=9ec3a8b810481808f7c35e114bc1d426fd8e45e1)
 
 
 ## 5、轮播
@@ -149,7 +149,7 @@ section: "ClassIn"
 右下方开启/关闭 轮播 功能
 
 
-![](https://cofile.eeo.cn/res-store%2F92bdfd91c17d9947a7ae0dc27843fe003d32e75fe7c706d9b7ad9dcf436b90de_59426?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=0bf9e8a58e038505fc052aa96c5236ea625cade9)
+![](https://cofile.eeo.cn/res-store%2F92bdfd91c17d9947a7ae0dc27843fe003d32e75fe7c706d9b7ad9dcf436b90de_59426?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789315200;1789920000&q-key-time=1789315200;1789920000&q-header-list=host&q-url-param-list=&q-signature=f81974de9bfafa521f5d2cca4dbaad657f87ca99)
 
 
 iPad
@@ -158,13 +158,13 @@ iPad
 右下角开启/关闭 轮播 功能
 
 
-![](https://cofile.eeo.cn/res-store%2F9d39b95ec06aed2c7fe67077610eef945b5a686f1664d92a449c593c8eb1efb7_374979?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=df7fe0e8a06d2e904fcbde7e8838add5cb836f57)
+![](https://cofile.eeo.cn/res-store%2F9d39b95ec06aed2c7fe67077610eef945b5a686f1664d92a449c593c8eb1efb7_374979?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789315200;1789920000&q-key-time=1789315200;1789920000&q-header-list=host&q-url-param-list=&q-signature=763a4d37ad5f39bd7ef4d5b2925886f37a002f83)
 
 
 iPhone
 
 
-![](https://cofile.eeo.cn/res-store%2Fc2dbc02c51adb8a60c360cb88706a2f1f6c64bd286f749d04a3f957a218bb283_181363?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=727627fde1c44a8511be7ed9d5c6564edcc93b32)
+![](https://cofile.eeo.cn/res-store%2Fc2dbc02c51adb8a60c360cb88706a2f1f6c64bd286f749d04a3f957a218bb283_181363?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789315200;1789920000&q-key-time=1789315200;1789920000&q-header-list=host&q-url-param-list=&q-signature=163dc9bf6ea9e975155102505de1d8f9df0db8a3)
 
 
 ## 6、邀请举手学生上台
@@ -179,16 +179,16 @@ iPhone
 当有学生举手时，老师视角中教室右下角的举手按钮会闪烁，老师可将鼠标悬停在举手按钮处然后邀请举手学生上台
 
 
-![](https://cofile.eeo.cn/res-store%2F1f645f12220abd0eebcf84fffda76534c5f87bf8e728143aa3c7b88766136ef8_311861?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=a2aa127daff633669584fa1dd1d0ff9169001c63)
+![](https://cofile.eeo.cn/res-store%2F1f645f12220abd0eebcf84fffda76534c5f87bf8e728143aa3c7b88766136ef8_311861?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789315200;1789920000&q-key-time=1789315200;1789920000&q-header-list=host&q-url-param-list=&q-signature=c0ca563df03e135b57c4ae64e5e82dd2a796859e)
 
 
-![](https://cofile.eeo.cn/res-store%2Fe6b649841fb2a1474bfe767e148d9c79b35f422151da7ca22fdae0c59bcbbbf1_156562?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=520d833834773ddb432d5e5c151a90fdaf23032f)
+![](https://cofile.eeo.cn/res-store%2Fe6b649841fb2a1474bfe767e148d9c79b35f422151da7ca22fdae0c59bcbbbf1_156562?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789315200;1789920000&q-key-time=1789315200;1789920000&q-header-list=host&q-url-param-list=&q-signature=d34946f479d8158458919fd95e5f31244525e179)
 
 
 当有学生举手时，老师视角中教室右侧的举手按钮会闪烁，老师点击举手按钮然后邀请举手学生上台
 
 
-![](https://cofile.eeo.cn/res-store%2Fd234f09678031b29812b103edc86ceb5a7a4bcc3dfd13988e940f88e494409de_348030?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=a874524f570f5e2dbd0ed7ef435c7b38a0136635)
+![](https://cofile.eeo.cn/res-store%2Fd234f09678031b29812b103edc86ceb5a7a4bcc3dfd13988e940f88e494409de_348030?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789315200;1789920000&q-key-time=1789315200;1789920000&q-header-list=host&q-url-param-list=&q-signature=f71e2445c78fc125884c67afe4d4e9f4f473ed81)
 
 
 ## 7、举手自动上台
@@ -206,10 +206,10 @@ iPhone/安卓手机/安卓平板没有“举手自动上台”功能。
 开启/关闭 举手自动上台 功能
 
 
-![](https://cofile.eeo.cn/res-store%2Fbf7e3cdf1049951c18dc30944ec7f84db1bc697ac83080958ecf20e1bf4edda2_199181?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=0b7033d30aa4a4f3e3f4f4ca9047d235d0a32a96)
+![](https://cofile.eeo.cn/res-store%2Fbf7e3cdf1049951c18dc30944ec7f84db1bc697ac83080958ecf20e1bf4edda2_199181?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789315200;1789920000&q-key-time=1789315200;1789920000&q-header-list=host&q-url-param-list=&q-signature=abcc141674409c325b5d92f2855a50205b563346)
 
 
-![](https://cofile.eeo.cn/res-store%2Fb6b447b55db01e90f39c9b973261a6fbb136892fd6413a8c51490859039fe175_339106?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=2274c69e724fa2a61f5cd16a88f366ce16d87423)
+![](https://cofile.eeo.cn/res-store%2Fb6b447b55db01e90f39c9b973261a6fbb136892fd6413a8c51490859039fe175_339106?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789315200;1789920000&q-key-time=1789315200;1789920000&q-header-list=host&q-url-param-list=&q-signature=71f7b800e8fbf49e9a2b5bcf16df1d36927c5d15)
 
 
 ## 8、老师与学生视频私聊
@@ -230,10 +230,10 @@ iPhone/安卓手机/安卓平板没有“举手自动上台”功能。
 在摄像头下方按键中，点击 私聊
 
 
-![](https://cofile.eeo.cn/res-store%2Ff7678f63a9fb8ad05468ed49d78bdee5e7a28526466a611e17be24ca9edc25e1_392649?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=12315a3c754a0359e23ae2a6bea993f77c35ecd5)
+![](https://cofile.eeo.cn/res-store%2Ff7678f63a9fb8ad05468ed49d78bdee5e7a28526466a611e17be24ca9edc25e1_392649?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789315200;1789920000&q-key-time=1789315200;1789920000&q-header-list=host&q-url-param-list=&q-signature=1d0ee73ed49fa946338f180d9e135aa27741e6af)
 
 
-![](https://cofile.eeo.cn/res-store%2Fe6da17c2aed0de616494e9afad7c62d91bdbc70ec49cc0baea78fd79a7a6f642_476386?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=dbc95aa17c154c39adcc64f19254d77aef16a429)
+![](https://cofile.eeo.cn/res-store%2Fe6da17c2aed0de616494e9afad7c62d91bdbc70ec49cc0baea78fd79a7a6f642_476386?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789315200;1789920000&q-key-time=1789315200;1789920000&q-header-list=host&q-url-param-list=&q-signature=43a6ee03ee9d729023593391285d15f789c680a3)
 
 
 # 二、麦克风
@@ -263,7 +263,7 @@ iPhone/安卓手机/安卓平板没有“举手自动上台”功能。
 在摄像头下方弹出的按键中，点击 全体静音 （再次点击则解除全体静音）
 
 
-![](https://cofile.eeo.cn/res-store%2F6338aa308b9da23df1dfde1891fb7f7d7cc7f7a113fbae99b2f43a27359dcbfb_145093?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=05fae38d1675029aaae3b0b0cdb4fa1aad376e09)
+![](https://cofile.eeo.cn/res-store%2F6338aa308b9da23df1dfde1891fb7f7d7cc7f7a113fbae99b2f43a27359dcbfb_145093?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789315200;1789920000&q-key-time=1789315200;1789920000&q-header-list=host&q-url-param-list=&q-signature=8998b9233762141f3d3bbe52156f69eb189d8f92)
 
 
 ## 2、静音学生麦克风
@@ -290,7 +290,7 @@ iPhone/安卓手机/安卓平板没有“举手自动上台”功能。
 在摄像头下方按键中，点击 静音 （再次点击则解除静音）
 
 
-![](https://cofile.eeo.cn/res-store%2F2c7f275c5089b9a94c734ecb52300279d882a9e8f715ecb9d3b895d612f7903f_218424?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=a919f7f2c6ed201d299a6334bd4cd418865f2abf)
+![](https://cofile.eeo.cn/res-store%2F2c7f275c5089b9a94c734ecb52300279d882a9e8f715ecb9d3b895d612f7903f_218424?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789315200;1789920000&q-key-time=1789315200;1789920000&q-header-list=host&q-url-param-list=&q-signature=c1535a5f9fef82aba0607750228e857bea083964)
 
 
 ## 3、花名册中静音学生麦克风
@@ -299,16 +299,16 @@ iPhone/安卓手机/安卓平板没有“举手自动上台”功能。
 点击 静音 （再次点击则取消静音）
 
 
-![](https://cofile.eeo.cn/res-store%2Fe32bf73c0239146ffbe81d883ef5f0258566ffc9b6f33ff46c3b0bb3d9109485_324064?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=1bf8a57a0857226f27a8d6d4ddf6382a7e254594)
+![](https://cofile.eeo.cn/res-store%2Fe32bf73c0239146ffbe81d883ef5f0258566ffc9b6f33ff46c3b0bb3d9109485_324064?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789315200;1789920000&q-key-time=1789315200;1789920000&q-header-list=host&q-url-param-list=&q-signature=cf2f6d445c5c134379367c226baddd3c8c19f68c)
 
 
 打开教室右下角的 花名册
 
 
-![](https://cofile.eeo.cn/res-store%2F38514b5389a2732428bfbc2c891d7899b186b446eac3f1e46f845d225e461c60_635501?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=24eaedb20a32b7f71bc451d39667922973444109)
+![](https://cofile.eeo.cn/res-store%2F38514b5389a2732428bfbc2c891d7899b186b446eac3f1e46f845d225e461c60_635501?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789315200;1789920000&q-key-time=1789315200;1789920000&q-header-list=host&q-url-param-list=&q-signature=d41081858d829649fb67358fabe2facd30d7c628)
 
 
 老师打开右侧 花名册
 
 
-![](https://cofile.eeo.cn/res-store%2F7a17e57409c3695f4d601ee013f3aa7ddd04fe2ce750678f75099c4ae35155d5_236280?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=d031333129924a2b414bfb9e82759d1349635fff)
+![](https://cofile.eeo.cn/res-store%2F7a17e57409c3695f4d601ee013f3aa7ddd04fe2ce750678f75099c4ae35155d5_236280?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789315200;1789920000&q-key-time=1789315200;1789920000&q-header-list=host&q-url-param-list=&q-signature=61bd1a89f41286988aa59276ef31c7075242432e)

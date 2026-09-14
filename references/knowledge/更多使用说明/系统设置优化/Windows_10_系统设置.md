@@ -11,112 +11,112 @@ section: "更多使用说明"
 ## 一、调整麦克风音量
 
 
-![](https://cofile.eeo.cn/res-store%2F9c15788af05c56d7772ad6f56f6ea03f4bf5559fb46f8517a15c11f9f9345d0d_2537086?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=1db85495ae9932660272ec8900ab0c299531c9cb)
+![](https://cofile.eeo.cn/res-store%2F9c15788af05c56d7772ad6f56f6ea03f4bf5559fb46f8517a15c11f9f9345d0d_2537086?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789315200;1789920000&q-key-time=1789315200;1789920000&q-header-list=host&q-url-param-list=&q-signature=87d6bad41a19fe32659fe6edeb4c7faff53a3a0c)
 
 
 ## 二、关闭麦克风增强
 
 
-![](https://cofile.eeo.cn/res-store%2F1b4e8180a3a18cc26ec1df21461f310dc421fbea3e0be5daaf158a5c015cba3d_1214566?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=c347158e7d33c372dbabd5d7615d576676327a7e)
+![](https://cofile.eeo.cn/res-store%2F1b4e8180a3a18cc26ec1df21461f310dc421fbea3e0be5daaf158a5c015cba3d_1214566?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789315200;1789920000&q-key-time=1789315200;1789920000&q-header-list=host&q-url-param-list=&q-signature=51117ca90f472aeb0282ba82aea6b30dec9f4e23)
 
 
 ## 三、修改扬声器
 
 
-![](https://cofile.eeo.cn/res-store%2F86286d9d661ed1fe55799a0b30f6d1f102fa68e21f528c1bf3f450a7a0d6f053_1596479?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=6dc39c95b9ff3d328bba04175b8a49b462957e66)
+![](https://cofile.eeo.cn/res-store%2F86286d9d661ed1fe55799a0b30f6d1f102fa68e21f528c1bf3f450a7a0d6f053_1596479?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789315200;1789920000&q-key-time=1789315200;1789920000&q-header-list=host&q-url-param-list=&q-signature=00fc4c5d315245d3199125a670f963dc3876e52b)
 
 
 ## 四、调整扬声器音量
 
 
-![](https://cofile.eeo.cn/res-store%2F1ab76c3673c88af0c171c38ae6455755c7a4a16f63de47b65c70b0cf4ffda4b2_1293490?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=6b137f174e4c993101232bc635ea009c501d4541)
+![](https://cofile.eeo.cn/res-store%2F1ab76c3673c88af0c171c38ae6455755c7a4a16f63de47b65c70b0cf4ffda4b2_1293490?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789315200;1789920000&q-key-time=1789315200;1789920000&q-header-list=host&q-url-param-list=&q-signature=b3a8ed5f24a1d158b7c7bd19170bc554be75e871)
 
 
 ## 五、防火墙白名单添加ClassIn
 
 
-![](https://cofile.eeo.cn/res-store%2Ff42c4113d1eed4c611babadbd05c9e9da50142849b3078aa1624c0e25046bdf6_3689357?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=4daaf31f70eae8a119fe1019bb9b5955de2560a1)
+![](https://cofile.eeo.cn/res-store%2Ff42c4113d1eed4c611babadbd05c9e9da50142849b3078aa1624c0e25046bdf6_3689357?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789315200;1789920000&q-key-time=1789315200;1789920000&q-header-list=host&q-url-param-list=&q-signature=a937cf0d7261365512ee5f0b9193a273c92d7a9a)
 
 
 ## 六、关闭防火墙
 
 
-![](https://cofile.eeo.cn/res-store%2F6d411238723a24d99c4c5c6cc42005951d62deb8a9e5783279a448630b28d659_2541757?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=178a8b8c84226b99fa548ff724c21043e50d7baa)
+![](https://cofile.eeo.cn/res-store%2F6d411238723a24d99c4c5c6cc42005951d62deb8a9e5783279a448630b28d659_2541757?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789315200;1789920000&q-key-time=1789315200;1789920000&q-header-list=host&q-url-param-list=&q-signature=9893d281a3ee6a4f2c5de9871a54b1b4766db7b1)
 
 
 ## 七、修改桌面分辨率
 
 
-![](https://cofile.eeo.cn/res-store%2F74cb25e882ecdd207480cbd6fc4166c5f5085114f9fec27ac44b970b087c4786_1390954?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=a82f76c5f3aea63d030b73eeff561380a47e9358)
+![](https://cofile.eeo.cn/res-store%2F74cb25e882ecdd207480cbd6fc4166c5f5085114f9fec27ac44b970b087c4786_1390954?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789315200;1789920000&q-key-time=1789315200;1789920000&q-header-list=host&q-url-param-list=&q-signature=4019461ceb1898ba5dd1f1b246a5ee616bf36d54)
 
 
 ## 八、关闭侦听
 
 
-![](https://cofile.eeo.cn/res-store%2F566a3f86da418c83982ecd5dbdf0f097f88801447be2e6ae6ae1784e41ee00ac_2530996?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=f2b406c8124024973f49cab888c69138d2256938)
+![](https://cofile.eeo.cn/res-store%2F566a3f86da418c83982ecd5dbdf0f097f88801447be2e6ae6ae1784e41ee00ac_2530996?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789315200;1789920000&q-key-time=1789315200;1789920000&q-header-list=host&q-url-param-list=&q-signature=c1ac9e228ea61007e0b27e6b9a81a9a9b17b49dc)
 
 
 ## 九、修改DNS
 
 
-![](https://cofile.eeo.cn/res-store%2F31b1a963fa1748de36e87575a07ab2dbb5b4c293aef8ca4fcd8b127d8bb64dc8_3531630?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=5fae61712cef65faf7acf50a44fd9be0a7c3f66f)
+![](https://cofile.eeo.cn/res-store%2F31b1a963fa1748de36e87575a07ab2dbb5b4c293aef8ca4fcd8b127d8bb64dc8_3531630?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789315200;1789920000&q-key-time=1789315200;1789920000&q-header-list=host&q-url-param-list=&q-signature=a235d4cda3757099de90985b520198499ca0ae3f)
 
 
 ## 十、修改时间/时区
 
 
-![](https://cofile.eeo.cn/res-store%2Fc545a4da60dc2984eb45780f71d184b7c928356b6329de724f76715bc81885b6_1078694?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=9f5998c54be0a44cdd58c5b1aeefa1d377a06980)
+![](https://cofile.eeo.cn/res-store%2Fc545a4da60dc2984eb45780f71d184b7c928356b6329de724f76715bc81885b6_1078694?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789315200;1789920000&q-key-time=1789315200;1789920000&q-header-list=host&q-url-param-list=&q-signature=0c04b0b36fab7b3d36c4bf6cc366ca38e40db908)
 
 
 ## 十一、卸载软件
 
 
-![](https://cofile.eeo.cn/res-store%2Ff2fbcb2cb1f1690f6c74eb0d6722213e0504b5f699418e3aa491939c59cc3e0a_2297391?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=fed58b4783edd4080b6d4ab5876c025f8dfa94c3)
+![](https://cofile.eeo.cn/res-store%2Ff2fbcb2cb1f1690f6c74eb0d6722213e0504b5f699418e3aa491939c59cc3e0a_2297391?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789315200;1789920000&q-key-time=1789315200;1789920000&q-header-list=host&q-url-param-list=&q-signature=1680fb09443f1cb9c9f1573eed38e3b3c5d08f09)
 
 
 ## 十二、桌面缩放与布局
 
 
-![](https://cofile.eeo.cn/res-store%2F17f691a9e03eba63965e652200fccced435b789b1f4f7f3f838eb9cdb1028b42_1392427?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=a2ac83438e25021c840f7c7dc8edcb7e9da8f608)
+![](https://cofile.eeo.cn/res-store%2F17f691a9e03eba63965e652200fccced435b789b1f4f7f3f838eb9cdb1028b42_1392427?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789315200;1789920000&q-key-time=1789315200;1789920000&q-header-list=host&q-url-param-list=&q-signature=02d0a89a0986f173392c61ae89c48f0d3fd748fd)
 
 
 ## 十三、关闭空间音效
 
 
-![](https://cofile.eeo.cn/res-store%2Fca432197ad67b96ea768bfe46f42d2fcc9521d1baebf27561de16fdb03ba7b0b_1427339?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=009edf0e110aec4cb243c6bcfc4ec98c477b8e5d)
+![](https://cofile.eeo.cn/res-store%2Fca432197ad67b96ea768bfe46f42d2fcc9521d1baebf27561de16fdb03ba7b0b_1427339?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789315200;1789920000&q-key-time=1789315200;1789920000&q-header-list=host&q-url-param-list=&q-signature=6a8cb698e110e8705e1ee2598262c1c7445186d9)
 
 
 ## 十四、卸载/禁用驱动
 
 
-![](https://cofile.eeo.cn/res-store%2F184381a446d1a66bf5adceebbe951a9da1bee6d6381fb774794fedd0f552e61f_1674714?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=7426531c867654c5c9733a0044168e90b70533d4)
+![](https://cofile.eeo.cn/res-store%2F184381a446d1a66bf5adceebbe951a9da1bee6d6381fb774794fedd0f552e61f_1674714?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789315200;1789920000&q-key-time=1789315200;1789920000&q-header-list=host&q-url-param-list=&q-signature=68db2d279f308a3d849db42c120d4fc63605a8b0)
 
 
 ## 十五、允许应用访问你的麦克风
 
 
-![](https://cofile.eeo.cn/res-store%2F031e114a15e3a96fdc8975114cc5b1039065f983f75f4de499decb18b8cac834_1366424?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=804506e143c1949bbe8e82c6cb18dd33a86ce29b)
+![](https://cofile.eeo.cn/res-store%2F031e114a15e3a96fdc8975114cc5b1039065f983f75f4de499decb18b8cac834_1366424?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789315200;1789920000&q-key-time=1789315200;1789920000&q-header-list=host&q-url-param-list=&q-signature=388fb6776ad772a41cce662b19a0c0eeb8b38f7b)
 
 
 ## 十六、允许应用访问你的相机
 
 
-![](https://cofile.eeo.cn/res-store%2F65747639505648711807c36687a22233aa13c3a6f7d566a4b2e9cd4963b876eb_1465142?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=b34f8312358dfd24ce62037a81d587ce7e406292)
+![](https://cofile.eeo.cn/res-store%2F65747639505648711807c36687a22233aa13c3a6f7d566a4b2e9cd4963b876eb_1465142?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789315200;1789920000&q-key-time=1789315200;1789920000&q-header-list=host&q-url-param-list=&q-signature=a405767998d93534a6a653e9eabadcbe47695738)
 
 
 ## 十七、禁止应用程序独占控制麦克风
 
 
-![](https://cofile.eeo.cn/res-store%2F4b9438c98cf38f30cfdc03fc8f1e78e1dc25cbdedc6c5bacad11d6c3101c19f5_1844626?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=9e15246cbc1db315d7fa6304b6f06f6f16d63c37)
+![](https://cofile.eeo.cn/res-store%2F4b9438c98cf38f30cfdc03fc8f1e78e1dc25cbdedc6c5bacad11d6c3101c19f5_1844626?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789315200;1789920000&q-key-time=1789315200;1789920000&q-header-list=host&q-url-param-list=&q-signature=a1f9fa18216b38b5ab42e4bddac7135f1002e345)
 
 
 ## 十八、设置默认麦克风
 
 
-![](https://cofile.eeo.cn/res-store%2F818c0827a1bfb80d8b52bd40682fd93d7ea7b6f7cd71eb20a621530810a48d60_1856299?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=4b4cc6c1486127e014cdc6fd59c14037f9e5c6ff)
+![](https://cofile.eeo.cn/res-store%2F818c0827a1bfb80d8b52bd40682fd93d7ea7b6f7cd71eb20a621530810a48d60_1856299?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789315200;1789920000&q-key-time=1789315200;1789920000&q-header-list=host&q-url-param-list=&q-signature=d2142d9516f332740dc836c2095085ddc25655cf)
 
 
 ## 十九、设置默认扬声器
 
 
-![](https://cofile.eeo.cn/res-store%2F9948f887abc66a279e908400e168daf60edfb8f71b50018691e2891e16c094be_1839335?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=8646f855544253a4ebfe077a59c26454bbac1021)
+![](https://cofile.eeo.cn/res-store%2F9948f887abc66a279e908400e168daf60edfb8f71b50018691e2891e16c094be_1839335?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789315200;1789920000&q-key-time=1789315200;1789920000&q-header-list=host&q-url-param-list=&q-signature=a56feb3d1c35cac5b24dbb5c292bc4999d16daae)

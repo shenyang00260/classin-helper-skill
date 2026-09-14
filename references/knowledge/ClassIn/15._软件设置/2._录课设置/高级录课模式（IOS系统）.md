@@ -47,7 +47,7 @@ section: "ClassIn"
 开关 高级录播模式
 
 
-![](https://cofile.eeo.cn/res-store%2Fd28ab6c2cfb5d0aabbff89170bfc530ff524e5d0d034fd69e2344619335c1be1_710607?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=88fc9a491c2e05ac9ec9769c1a4b2679e404cfbf)
+![](https://cofile.eeo.cn/res-store%2Fd28ab6c2cfb5d0aabbff89170bfc530ff524e5d0d034fd69e2344619335c1be1_710607?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789315200;1789920000&q-key-time=1789315200;1789920000&q-header-list=host&q-url-param-list=&q-signature=6fc313aff194ffe844b1e0d074b32691cde579ca)
 
 
 #### iPad
@@ -56,4 +56,4 @@ section: "ClassIn"
 点击左下角头像
 
 
-![](https://cofile.eeo.cn/res-store%2Ff9dbabe6e2da383855230a2b11f2241a7e8aebcf3dde618e202ab7dc6c36a62e_1134475?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1788710400;1789315200&q-key-time=1788710400;1789315200&q-header-list=host&q-url-param-list=&q-signature=ba92151a197ec30d864391532096fc29753c50b7)
+![](https://cofile.eeo.cn/res-store%2Ff9dbabe6e2da383855230a2b11f2241a7e8aebcf3dde618e202ab7dc6c36a62e_1134475?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789315200;1789920000&q-key-time=1789315200;1789920000&q-header-list=host&q-url-param-list=&q-signature=aa41bcbe6502e93d3adc6575a6b490096ec0d8ed)
