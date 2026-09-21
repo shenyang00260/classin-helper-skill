@@ -74,4 +74,4 @@ section: "管理后台"
 在 删除历史存储资源 中，创建删除任务
 
 
-![](https://cofile.eeo.cn/res-store%2Ffe5b8ba96c3035110ac8ed238c8df06cd06e6f74e62b5f55d339d5ce6b213047_957413?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789315200;1789920000&q-key-time=1789315200;1789920000&q-header-list=host&q-url-param-list=&q-signature=8528d5d7611c3e88bd6a067386c1d5fac777c95d)
+![](https://cofile.eeo.cn/res-store%2Ffe5b8ba96c3035110ac8ed238c8df06cd06e6f74e62b5f55d339d5ce6b213047_957413?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=4eb8e6e105c9ba7cfea56d5649ee11270460bc3d)

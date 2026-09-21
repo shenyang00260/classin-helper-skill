@@ -96,7 +96,7 @@ NVIDIA GTX 900 系列或以上型号  AMD RX560 或以上型号  Intel HD 5500 �
 打开电脑上的浏览器，在地址栏输入 www.camin.cn 并访问该网站，然后点击页面上的“立即下载”按钮。
 
 
-![](https://cofile.eeo.cn/res-store%2F5adbca0f67e5c599b950c78e7ba4aff3f8b9cc741611927e4c2be8b1cad75aab_211985?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789315200;1789920000&q-key-time=1789315200;1789920000&q-header-list=host&q-url-param-list=&q-signature=495ec88558aa88689183a7f568d9c6ca321f8f16)
+![](https://cofile.eeo.cn/res-store%2F5adbca0f67e5c599b950c78e7ba4aff3f8b9cc741611927e4c2be8b1cad75aab_211985?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=817253c161ef777a5b0e24308c9977f237f31475)
 
 
 （2）安装CamIn
@@ -105,7 +105,7 @@ NVIDIA GTX 900 系列或以上型号  AMD RX560 或以上型号  Intel HD 5500 �
 运行已下载完成的 Camin 安装包，在 Windows 电脑弹出安全提示时点击“是”。在语言选择页面，点击“确定”，勾选“阅读并同意”，然后点击“快速安装”。等待安装完成即可。
 
 
-![](https://cofile.eeo.cn/res-store%2Fde2635e12d68c156ff3a872524e5c4cca691b4a9ab5504c9f730e9ea24775a44_1192470?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789315200;1789920000&q-key-time=1789315200;1789920000&q-header-list=host&q-url-param-list=&q-signature=7d6e1eb0b9f0968879d7ae00ada08267d80dfd00)
+![](https://cofile.eeo.cn/res-store%2Fde2635e12d68c156ff3a872524e5c4cca691b4a9ab5504c9f730e9ea24775a44_1192470?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=9c791656987396b3dcaf385018432a94ff86d139)
 
 
 （3）登录CamIn
@@ -114,7 +114,7 @@ NVIDIA GTX 900 系列或以上型号  AMD RX560 或以上型号  Intel HD 5500 �
 如果您已经注册了ClassIn账号，可以直接使用ClassIn账号登录CamIn。此外，您还可以通过微信扫码或短信登录。同样，您也可以在手机上打开ClassIn软件并进行扫码登录。
 
 
-![](https://cofile.eeo.cn/res-store%2F05a448cb7fe0dca8aa530b11937f8229529fdeb9e59086e0ff81ce59929c6b25_124602?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789315200;1789920000&q-key-time=1789315200;1789920000&q-header-list=host&q-url-param-list=&q-signature=d19d9b4c1092a93f1e7d099b86067d6cf8a7c019)
+![](https://cofile.eeo.cn/res-store%2F05a448cb7fe0dca8aa530b11937f8229529fdeb9e59086e0ff81ce59929c6b25_124602?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=0ac2c53c14f87badcb04c87e97caab15d5208e57)
 
 
 #### 创建/设置场景
@@ -126,7 +126,7 @@ NVIDIA GTX 900 系列或以上型号  AMD RX560 或以上型号  Intel HD 5500 �
 Camin默认自带一个场景。用户可以创建最多5个场景，每个场景中可以插入多个视频或图片源。
 
 
-![](https://cofile.eeo.cn/res-store%2F043cc5f6fdd6c3275fbf717b34f9bf138dc8a7f84048b80847ea446b045692aa_214295?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789315200;1789920000&q-key-time=1789315200;1789920000&q-header-list=host&q-url-param-list=&q-signature=faa124be94db783775d77b0da8770b321662b078)
+![](https://cofile.eeo.cn/res-store%2F043cc5f6fdd6c3275fbf717b34f9bf138dc8a7f84048b80847ea446b045692aa_214295?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=5f931f65239c79c907a18f871d5e806bad6276e0)
 
 
 （2）设置背景
@@ -135,7 +135,7 @@ Camin默认自带一个场景。用户可以创建最多5个场景，每个场�
 在每个场景中，用户可以设置自己喜欢的背景图片。背景图片可以选择官方自带的，也可以使用电脑本地的图片。
 
 
-![](https://cofile.eeo.cn/res-store%2F3f74e679b8ab6df9752065fd23525ca8b107a469bf9fb555b8fca6de8f3310e3_210414?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789315200;1789920000&q-key-time=1789315200;1789920000&q-header-list=host&q-url-param-list=&q-signature=b2a8f77ee763ea1cc23a21a415b938b96dbea81a)
+![](https://cofile.eeo.cn/res-store%2F3f74e679b8ab6df9752065fd23525ca8b107a469bf9fb555b8fca6de8f3310e3_210414?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=8141f6221f56c484e1f2b95c38806bd2b2b70e85)
 
 
 #### 内容区域管理
@@ -165,7 +165,7 @@ CamIn也支持将照相机作为内容源添加到软件中。在使用照相机
 其他品牌相机请查看相应的官网推荐。
 
 
-![](https://cofile.eeo.cn/res-store%2Fbfe65a8e5e16e1797177606ab090cc4b7d8a9e2cbf955cb32cc988079b2ffcf0_288194?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789315200;1789920000&q-key-time=1789315200;1789920000&q-header-list=host&q-url-param-list=&q-signature=558b313b07c3575652dfc3a79dcb595982fbb031)
+![](https://cofile.eeo.cn/res-store%2Fbfe65a8e5e16e1797177606ab090cc4b7d8a9e2cbf955cb32cc988079b2ffcf0_288194?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=f09b0bcedfdd83eb9a075f72e9c8a76bf7b67ca4)
 
 
 #### **（2）**打开本地文件
@@ -174,7 +174,7 @@ CamIn也支持将照相机作为内容源添加到软件中。在使用照相机
 用户可以在每个场景中插入PPT课件，PDF课件，图片，视频等多种本地文件。
 
 
-![](https://cofile.eeo.cn/res-store%2F78df3a41303a44f09e2ccbf0521c17ad6802867c17e73964acce1cd2cb6d1be6_178035?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789315200;1789920000&q-key-time=1789315200;1789920000&q-header-list=host&q-url-param-list=&q-signature=52d32bf4df8dc8444737a390167245ecd252a2b1)
+![](https://cofile.eeo.cn/res-store%2F78df3a41303a44f09e2ccbf0521c17ad6802867c17e73964acce1cd2cb6d1be6_178035?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=5595e7214d96d9f71b44e62daf92ce148b961e7e)
 
 
 2.1 课件
@@ -183,7 +183,7 @@ CamIn也支持将照相机作为内容源添加到软件中。在使用照相机
 打开课件文件后，先选择下方的“鼠标模式”，这样就可以调整课件尺寸和翻页操作。此外还可以使用下方的画笔等教学工具在课件上进行标注或绘画。
 
 
-![](https://cofile.eeo.cn/res-store%2F0bbf42ef5cfab1aab60f2df0801e8cae4fab5039085c7c606d265cd6fafbfb19_203117?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789315200;1789920000&q-key-time=1789315200;1789920000&q-header-list=host&q-url-param-list=&q-signature=7c3fcad6bc1ae0acaeff211b0d6e5e869ceb1f61)
+![](https://cofile.eeo.cn/res-store%2F0bbf42ef5cfab1aab60f2df0801e8cae4fab5039085c7c606d265cd6fafbfb19_203117?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=691bb40a02f5b1e7962491f10702854d7a6435bc)
 
 
 2.2 视频
@@ -192,7 +192,7 @@ CamIn也支持将照相机作为内容源添加到软件中。在使用照相机
 打开视频文件后，先选择下方的“鼠标模式”，这样就可以调整课件尺寸和翻页，开关视频循环播放功能，调整视频播放倍速，以及调整视频音量。此外还可以使用下方的画笔等教学工具在视频上进行标注或绘画。
 
 
-![](https://cofile.eeo.cn/res-store%2F2d22aeacff6e760c102463c29eef509eb68e2e82c70901226d6fdeeca893570b_233334?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789315200;1789920000&q-key-time=1789315200;1789920000&q-header-list=host&q-url-param-list=&q-signature=36bcdcfad060f611822786303b38d120ca2aa6bf)
+![](https://cofile.eeo.cn/res-store%2F2d22aeacff6e760c102463c29eef509eb68e2e82c70901226d6fdeeca893570b_233334?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=a8f7949dd9f7c76d9bb013f8b59cb3a936e82c0a)
 
 
 #### **（3）**共享屏幕
@@ -201,7 +201,7 @@ CamIn也支持将照相机作为内容源添加到软件中。在使用照相机
 用户可以在每个场景中进行屏幕共享，支持共享整个桌面或某个特定软件的窗口，包括网站。屏幕共享还支持共享电脑中的声音，且共享窗口的尺寸可以随意调整。用户还可以使用下方的常用工具在共享窗口上进行标注或绘画。
 
 
-![](https://cofile.eeo.cn/res-store%2F4bb2cae9dae20b64d932710bf81a66876134546d43c2dcf5fa857130b081f063_372216?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789315200;1789920000&q-key-time=1789315200;1789920000&q-header-list=host&q-url-param-list=&q-signature=d0b85a622b8bf16135031c9086e2bc0da61de7cd)
+![](https://cofile.eeo.cn/res-store%2F4bb2cae9dae20b64d932710bf81a66876134546d43c2dcf5fa857130b081f063_372216?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=81560263f491c4fbc5c4c84ee8513a149ae0a93c)
 
 
 #### **（4）**手机投屏
@@ -210,7 +210,7 @@ CamIn也支持将照相机作为内容源添加到软件中。在使用照相机
 用户可以在每个场景中进行手机或平板的投屏操作。投屏模式分为“苹果投屏”和“ClassIn投屏”。如果您使用的是iPhone或iPad，并且不想下载任何投屏工具，可以选择“苹果投屏”模式；如果您使用的是安卓手机或安卓平板，可以选择“ClassIn投屏”模式。
 
 
-![](https://cofile.eeo.cn/res-store%2F7d368e83c016b2b2ae30fcfdc42f6d3095b01b7200dd30a6baf63810def23e32_187455?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789315200;1789920000&q-key-time=1789315200;1789920000&q-header-list=host&q-url-param-list=&q-signature=c0ef0e69b472b2249c8f7beed00ece66f12fe0bb)
+![](https://cofile.eeo.cn/res-store%2F7d368e83c016b2b2ae30fcfdc42f6d3095b01b7200dd30a6baf63810def23e32_187455?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=5fa1a19b6e0944ff1cd7311634d6d371f47467ee)
 
 
 #### **（5）**打开云盘文件
@@ -219,7 +219,7 @@ CamIn也支持将照相机作为内容源添加到软件中。在使用照相机
 用户可以将ClassIn云盘中的文件加载到Camin中打开
 
 
-![](https://cofile.eeo.cn/res-store%2Fc44bfc013bb26e8d0bc5b070d589fa3b040bb4a1855334437e3649d5f5e4a8db_141182?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789315200;1789920000&q-key-time=1789315200;1789920000&q-header-list=host&q-url-param-list=&q-signature=d049eb4f3d8ef6278cd5acf76a750dc3c5949f5a)
+![](https://cofile.eeo.cn/res-store%2Fc44bfc013bb26e8d0bc5b070d589fa3b040bb4a1855334437e3649d5f5e4a8db_141182?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=b91f2633c91b2dac10bb756a348944bf90c14c98)
 
 
 #### **（6）**添加在线媒体源
@@ -228,7 +228,7 @@ CamIn也支持将照相机作为内容源添加到软件中。在使用照相机
 用户可以添加官方提供的精美图片或动态视频
 
 
-![](https://cofile.eeo.cn/res-store%2Ffc9c5758be2271213a3d0cfcb60ee8f13a95a38e0212bc8de02e8d39798c77ab_257034?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789315200;1789920000&q-key-time=1789315200;1789920000&q-header-list=host&q-url-param-list=&q-signature=5de0bf92d83d4180ca0db4e366ccf306ad6ad4bb)
+![](https://cofile.eeo.cn/res-store%2Ffc9c5758be2271213a3d0cfcb60ee8f13a95a38e0212bc8de02e8d39798c77ab_257034?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=25507a3c0ae3c59c0d07798467557342e57c2b10)
 
 
 #### **（7）**调整内容的层级
@@ -237,7 +237,7 @@ CamIn也支持将照相机作为内容源添加到软件中。在使用照相机
 当有内容被遮挡时，用户可以调整内容与内容之间的层级
 
 
-![](https://cofile.eeo.cn/res-store%2F2f8556fe1161e4da519e3af7db47fa43aba3e6748618509ee99dcb4205d52191_185014?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789315200;1789920000&q-key-time=1789315200;1789920000&q-header-list=host&q-url-param-list=&q-signature=a7fa405084e5a84b3f93d7e8ee8b0d8b6a592896)
+![](https://cofile.eeo.cn/res-store%2F2f8556fe1161e4da519e3af7db47fa43aba3e6748618509ee99dcb4205d52191_185014?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=95bf20c93f1354c3097dea65765ccf0b9542d7e6)
 
 
 #### **（8）**删除内容
@@ -246,7 +246,7 @@ CamIn也支持将照相机作为内容源添加到软件中。在使用照相机
 删除已添加的内容（背景无法删除）
 
 
-![](https://cofile.eeo.cn/res-store%2F4b0fc26e9b7f608908f4227ca31851a1d360a181503e86746361d95a404cbf39_168085?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789315200;1789920000&q-key-time=1789315200;1789920000&q-header-list=host&q-url-param-list=&q-signature=cce91c09ecbf85634353478bb6f80a7106a90417)
+![](https://cofile.eeo.cn/res-store%2F4b0fc26e9b7f608908f4227ca31851a1d360a181503e86746361d95a404cbf39_168085?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=dcf2b74f9cf800232980d11df3b0f39c00b7d7d6)
 
 
 #### 提词器
@@ -255,7 +255,7 @@ CamIn也支持将照相机作为内容源添加到软件中。在使用照相机
 提词器只能自己看到，不会被其他人看到
 
 
-![](https://cofile.eeo.cn/res-store%2Fc9a6a4ddfa101e9d0c56454f733289046c2d741798adf0f20e670067789eae18_336974?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789315200;1789920000&q-key-time=1789315200;1789920000&q-header-list=host&q-url-param-list=&q-signature=249c3e98fad7d68a8fcb736c8beb23834891e667)
+![](https://cofile.eeo.cn/res-store%2Fc9a6a4ddfa101e9d0c56454f733289046c2d741798adf0f20e670067789eae18_336974?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=a4c06cabdc73e1c1a70148032fb0dfcf9ea5e1e1)
 
 
 #### 录制/剪辑/保存视频
@@ -264,7 +264,7 @@ CamIn也支持将照相机作为内容源添加到软件中。在使用照相机
 用户使用Camin录制完视频后可以直接对视频进行剪辑
 
 
-![](https://cofile.eeo.cn/res-store%2F180414b6cd7054811a03b362e83b4273336881def103321a09e402731e381a91_379874?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789315200;1789920000&q-key-time=1789315200;1789920000&q-header-list=host&q-url-param-list=&q-signature=2c68505c17e55b2c1802039fb13d0468be722ad9)
+![](https://cofile.eeo.cn/res-store%2F180414b6cd7054811a03b362e83b4273336881def103321a09e402731e381a91_379874?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=6728d42293dee0b754b6ecb940bcfe1f9b732747)
 
 
 #### 调整画质（分辨率）
@@ -273,7 +273,7 @@ CamIn也支持将照相机作为内容源添加到软件中。在使用照相机
 调整直播推流时的分辨率
 
 
-![](https://cofile.eeo.cn/res-store%2F6903c1d5c96db09ccc5e4d84e94c6b2a6497604723762cea4c7cf3173d2c41e2_151334?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789315200;1789920000&q-key-time=1789315200;1789920000&q-header-list=host&q-url-param-list=&q-signature=7e8fff85f715f26d4364db43a36e0de9da3e6212)
+![](https://cofile.eeo.cn/res-store%2F6903c1d5c96db09ccc5e4d84e94c6b2a6497604723762cea4c7cf3173d2c41e2_151334?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=315e30990d8054d8491c381cd088607f2a768b47)
 
 
 #### 开通CamIn会员服务
@@ -282,7 +282,7 @@ CamIn也支持将照相机作为内容源添加到软件中。在使用照相机
 开通Camin会员将获得更多个性化功能使用权限
 
 
-![](https://cofile.eeo.cn/res-store%2F35e523b89c0300acfeb7f3134c8db531300916c94de762088850eb28409d290d_146494?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789315200;1789920000&q-key-time=1789315200;1789920000&q-header-list=host&q-url-param-list=&q-signature=ec4b463ffda397e7b0067fcfba7af9ba0bfaf6f2)
+![](https://cofile.eeo.cn/res-store%2F35e523b89c0300acfeb7f3134c8db531300916c94de762088850eb28409d290d_146494?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=384c635d2396152350a5674a1dd1cd1d3bfeb667)
 
 
 #### 推流直播
@@ -297,4 +297,4 @@ CamIn也支持将照相机作为内容源添加到软件中。在使用照相机
 温馨提示：上方样式中，黄色部分为“推流地址”，红色部分为“推流密钥”
 
 
-![](https://cofile.eeo.cn/res-store%2F193bd0fc8ccb4e422559d5a7d0526d8094edf9e9c497f842a53dda3d292978b7_284596?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789315200;1789920000&q-key-time=1789315200;1789920000&q-header-list=host&q-url-param-list=&q-signature=a9a9c15743f1c7588ec7aa8ca4a1bca29e032446)
+![](https://cofile.eeo.cn/res-store%2F193bd0fc8ccb4e422559d5a7d0526d8094edf9e9c497f842a53dda3d292978b7_284596?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=52936c74850d483b299b772fe69a7d95667798ac)

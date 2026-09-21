@@ -20,7 +20,7 @@ section: "ClassInX"
 如需切换其他的音视频设备或调整音频音量，可以进入dock栏中最右侧的设置中操作。除此之外还可以进入更多设置-音频设置中操作。
 
 
-![](https://cofile.eeo.cn/res-store%2F719238fd7f852cb04ed4de68e4d298446843ffd16eaa4fc2c8f8dc4ed26c3c67_336778?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789315200;1789920000&q-key-time=1789315200;1789920000&q-header-list=host&q-url-param-list=&q-signature=3cf8125f755d3dc7ce0ed3e2f011a922fad7186e)
+![](https://cofile.eeo.cn/res-store%2F719238fd7f852cb04ed4de68e4d298446843ffd16eaa4fc2c8f8dc4ed26c3c67_336778?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=a78b56bc73122ee491fc1cea62dae424dd333a30)
 
 
 # 二、调整摄像头
@@ -35,7 +35,7 @@ section: "ClassInX"
 用户可以在屏幕中央底部点击或上滑进入dock栏，进入“设置”-“更多设置”-“视频”中切换摄像头设备。
 
 
-![](https://cofile.eeo.cn/res-store%2F3b98a22157c413d9171e13b72f060b2912cfe843fc00dc9cfe34064be9385860_376541?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789315200;1789920000&q-key-time=1789315200;1789920000&q-header-list=host&q-url-param-list=&q-signature=9d87a00273449af0bc25302b0dc1025713a13304)
+![](https://cofile.eeo.cn/res-store%2F3b98a22157c413d9171e13b72f060b2912cfe843fc00dc9cfe34064be9385860_376541?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=a5fc42a671bdb75b0ad5a1679e97a8f2219b7b30)
 
 
 ## 2.添加网络摄像头
@@ -44,7 +44,7 @@ section: "ClassInX"
 用户可以在屏幕中央底部点击或上滑进入dock栏，进入“设置”-“更多设置”-“视频”中添加网络摄像头。在添加网络摄像头窗口中填写网络摄像头的名称和网址即可。另外也支持对已添加的网络摄像头编辑或删除。
 
 
-![](https://cofile.eeo.cn/res-store%2F6fff739e9831510495d3d6ecb7ffee98aec8b589a4d746c04a23791ac7adf6d6_443991?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789315200;1789920000&q-key-time=1789315200;1789920000&q-header-list=host&q-url-param-list=&q-signature=275e13e5ddbc225b7bea09fd4db8d96eda586ba8)
+![](https://cofile.eeo.cn/res-store%2F6fff739e9831510495d3d6ecb7ffee98aec8b589a4d746c04a23791ac7adf6d6_443991?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=406ed91e3450ea4ec007e35209e79e5b84d01de7)
 
 
 ## 3.调整网络摄像头音量
@@ -53,7 +53,7 @@ section: "ClassInX"
 用户可以在屏幕中央底部点击或上滑进入dock栏，进入“设置”-“更多设置”-“视频”中调整网络摄像头的音量。用户自己无法听到该网络摄像头声音，此处调节的是教室其他用户听到的音量。
 
 
-![](https://cofile.eeo.cn/res-store%2Ff81e2417e5cdc74222412d57390cbab8a5ed9d1253d648be733b0c6e90866d15_362179?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789315200;1789920000&q-key-time=1789315200;1789920000&q-header-list=host&q-url-param-list=&q-signature=f7120fe2ce09d1f0a2c5562c892dfeef393c321b)
+![](https://cofile.eeo.cn/res-store%2Ff81e2417e5cdc74222412d57390cbab8a5ed9d1253d648be733b0c6e90866d15_362179?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=d7bc4a9f238c399d7407c56c1238f8d9ce982913)
 
 
 ## 4.旋转摄像头
@@ -62,7 +62,7 @@ section: "ClassInX"
 用户可以在屏幕中央底部点击或上滑进入dock栏，进入“设置”-“更多设置”-“视频”中旋转摄像头。点击一次旋转按钮可将摄像头画面向右旋转90度。网络摄像头不支持旋转和镜像。
 
 
-![](https://cofile.eeo.cn/res-store%2F36a5ca0058bc34fa3aac74aa42c42c6346b5bf7b550615c07b818fcd0663e3e1_363864?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789315200;1789920000&q-key-time=1789315200;1789920000&q-header-list=host&q-url-param-list=&q-signature=48072cf5657cb94cbe01504b7628e839860d6fc2)
+![](https://cofile.eeo.cn/res-store%2F36a5ca0058bc34fa3aac74aa42c42c6346b5bf7b550615c07b818fcd0663e3e1_363864?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=65bdf863eb2513fae78c1d31e0ce8cc1f1123920)
 
 
 ## 5.摄像头镜像
@@ -77,7 +77,7 @@ section: "ClassInX"
 网络摄像头不支持旋转和镜像。
 
 
-![](https://cofile.eeo.cn/res-store%2F493609a64de24c3704dca38b8ec2a78020ef3fb5daa6be2b72e9d64f33dd33b4_362126?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789315200;1789920000&q-key-time=1789315200;1789920000&q-header-list=host&q-url-param-list=&q-signature=647cb922d64aa7682fafb3861cc3bce2ffd6f94c)
+![](https://cofile.eeo.cn/res-store%2F493609a64de24c3704dca38b8ec2a78020ef3fb5daa6be2b72e9d64f33dd33b4_362126?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=91718dc3b610cab6e5456fb136dd3d6f0384fec9)
 
 
 ## 6.摄像头虚拟背景
@@ -89,7 +89,7 @@ Windows 10 及以上系统支持在ClassInX软件中设置摄像头的虚拟背�
 用户可以选择系统自带的虚拟背景，也可以上传本地图片作为虚拟背景。 上传的图片需为 PNG 格式，最多可同时上传 10 张。图片尺寸无限制，但单张图片若超过 2 MB，系统会自动将其分辨率压缩至原图的 60%。
 
 
-![](https://cofile.eeo.cn/res-store%2Fdcf81047ba1861b74b9ee917fde23c6f3ce8bda39b9c71c1a5159310923ec431_434552?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789315200;1789920000&q-key-time=1789315200;1789920000&q-header-list=host&q-url-param-list=&q-signature=72314c63636a1c30e412dc26d801dbf61962286a)
+![](https://cofile.eeo.cn/res-store%2Fdcf81047ba1861b74b9ee917fde23c6f3ce8bda39b9c71c1a5159310923ec431_434552?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=7e15f116f881578e0b3e91b7fb60d07933487ff3)
 
 
 # 三、调整麦克风
@@ -101,7 +101,7 @@ Windows 10 及以上系统支持在ClassInX软件中设置摄像头的虚拟背�
 用户可以在屏幕中央底部点击或上滑进入dock栏，进入“设置”-“更多设置”-“音频”中切换麦克风设备。
 
 
-![](https://cofile.eeo.cn/res-store%2F61354c38f314e5f5e5b845ba12767c04a6a579a9b90311d4164f1d42e0b3814a_383935?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789315200;1789920000&q-key-time=1789315200;1789920000&q-header-list=host&q-url-param-list=&q-signature=3ca995ace883a332a2c610eb369a3c9d614b2830)
+![](https://cofile.eeo.cn/res-store%2F61354c38f314e5f5e5b845ba12767c04a6a579a9b90311d4164f1d42e0b3814a_383935?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=b757985197167e32315e5672e8eb46d482de7ad8)
 
 
 ## 2.测试麦克风
@@ -113,7 +113,7 @@ Windows 10 及以上系统支持在ClassInX软件中设置摄像头的虚拟背�
 点击麦克风设备旁的【测试】按钮后，会开始10秒倒计时。倒计时期间，用户可以说话，比如说数字1-10，说话时如果查看麦克风呈现绿条波动，且用户可以听到自己说话的声音，则表明麦克风正常。如果麦克风呈现黄色波动，说明麦克风音量过小，用户可以靠近麦克风设备说话，或调大麦克风音量使用。如果在说话时麦克风没有波动，可以尝试切换其他的麦克风设备或修复麦克风完成后重启电脑/大屏。
 
 
-![](https://cofile.eeo.cn/res-store%2Fc2690665048d8608041e6d960e675687883e5dce6eb441dc98e3f95e1441f18e_502870?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789315200;1789920000&q-key-time=1789315200;1789920000&q-header-list=host&q-url-param-list=&q-signature=e124a36392dd6aab0af7a4518e68b054c5d7503f)
+![](https://cofile.eeo.cn/res-store%2Fc2690665048d8608041e6d960e675687883e5dce6eb441dc98e3f95e1441f18e_502870?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=7958abbc81033f0e3173d353dc42dd2bd76b8faa)
 
 
 ## 3.调整麦克风音量
@@ -131,10 +131,10 @@ Windows 10 及以上系统支持在ClassInX软件中设置摄像头的虚拟背�
 另外，【自动调整麦克风音量】功能开启后，【背景音降噪】默认也会跟随其开启，【音乐模式】默认会关闭。相反【自动调整麦克风音量】功能关闭后，【背景音降噪】仍保持开启状态，【音乐模式】仍是关闭状态，如果需要调整，自行设置即可。
 
 
-![](https://cofile.eeo.cn/res-store%2Ff044c4f1514030903fce52c06c7ac3696fc3b282add576b844a17f8dc03cd413_400001?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789315200;1789920000&q-key-time=1789315200;1789920000&q-header-list=host&q-url-param-list=&q-signature=27d728bf65bdefbba701fa340387c90b1b351adc)
+![](https://cofile.eeo.cn/res-store%2Ff044c4f1514030903fce52c06c7ac3696fc3b282add576b844a17f8dc03cd413_400001?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=c4e84ff05b5495d908fae64dbf6bcce2d5ac13e6)
 
 
-![](https://cofile.eeo.cn/res-store%2F2fccdcb6c9dc78ae37f65c102f1f47caed74a2c0b8a28005c9bb952aefc31312_400127?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789315200;1789920000&q-key-time=1789315200;1789920000&q-header-list=host&q-url-param-list=&q-signature=769b3192527c1fbe616c59ad6313f8570f6fc6e3)
+![](https://cofile.eeo.cn/res-store%2F2fccdcb6c9dc78ae37f65c102f1f47caed74a2c0b8a28005c9bb952aefc31312_400127?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=877fd9dde6c20ab4293ab2a3f8178eda0175235c)
 
 
 ## 4.背景音降噪
@@ -152,7 +152,7 @@ Windows 10 及以上系统支持在ClassInX软件中设置摄像头的虚拟背�
 在音乐场景下，教师开启教室【音乐模式】后，教室内所有用户的【AI 降噪】或【背景降噪】功能均无法生效，此设计是为了确保音乐乐器声音的流畅传输。
 
 
-![](https://cofile.eeo.cn/res-store%2F7443b24c7f5b8345c529364bd57839b80a25997ab6069a442861b1250b5333f6_392124?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789315200;1789920000&q-key-time=1789315200;1789920000&q-header-list=host&q-url-param-list=&q-signature=39ebc58c67112eea23f2830a54a8b09fced56c5b)
+![](https://cofile.eeo.cn/res-store%2F7443b24c7f5b8345c529364bd57839b80a25997ab6069a442861b1250b5333f6_392124?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=b338c59124af4f4ceb3005c0a21e2fc40cd9dc39)
 
 
 ## 5.音乐模式
@@ -164,7 +164,7 @@ Windows 10 及以上系统支持在ClassInX软件中设置摄像头的虚拟背�
 【背景音降噪】和【自动调整麦克风音量】关闭的前提下，【音乐模式】才可以开启。开启【音乐模式】后，系统对人声及环境噪音的降噪效果将减弱。
 
 
-![](https://cofile.eeo.cn/res-store%2Fd284fb35d71a6acba3f2b0be7ca9ffaf3131b6edc09555ae84a16970a30fd233_393309?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789315200;1789920000&q-key-time=1789315200;1789920000&q-header-list=host&q-url-param-list=&q-signature=cecddd2ac4e460735ced4749d9d3d2ec07ca5268)
+![](https://cofile.eeo.cn/res-store%2Fd284fb35d71a6acba3f2b0be7ca9ffaf3131b6edc09555ae84a16970a30fd233_393309?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=325789df102cbee8094dfa088b737dbe3d68832d)
 
 
 ## 6.进教室自动开启麦克风
@@ -173,7 +173,7 @@ Windows 10 及以上系统支持在ClassInX软件中设置摄像头的虚拟背�
 如果用户希望每次使用电脑/大屏进入ClassInX的教室时都开启麦克风，那么可以在屏幕中央底部点击或上滑进入dock栏，进入“设置”-“更多设置”-“音频”中开启【进教室自动开启麦克风】功能。
 
 
-![](https://cofile.eeo.cn/res-store%2F1a0ca1cbc007bd304d743677b99552a4fdc6e729a428f952f0955c7fa356a0ff_399522?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789315200;1789920000&q-key-time=1789315200;1789920000&q-header-list=host&q-url-param-list=&q-signature=ed2292af249ee317047c1e14ecee40c023074a65)
+![](https://cofile.eeo.cn/res-store%2F1a0ca1cbc007bd304d743677b99552a4fdc6e729a428f952f0955c7fa356a0ff_399522?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=4634517294d77cf088c187a8f3bb10e48f906b1c)
 
 
 # 四、调整扬声器
@@ -185,7 +185,7 @@ Windows 10 及以上系统支持在ClassInX软件中设置摄像头的虚拟背�
 用户可以在屏幕中央底部点击或上滑进入dock栏，进入“设置”-“更多设置”-“音频”中切换扬声器设备。
 
 
-![](https://cofile.eeo.cn/res-store%2Fec0e81e43cdbe66bf8d6f1c480eaa8138443b7364c148999ed9573580b555893_381439?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789315200;1789920000&q-key-time=1789315200;1789920000&q-header-list=host&q-url-param-list=&q-signature=1aca33148979d4000c39192161e22c2a5541418e)
+![](https://cofile.eeo.cn/res-store%2Fec0e81e43cdbe66bf8d6f1c480eaa8138443b7364c148999ed9573580b555893_381439?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=54d1dac837350d135a80b6a39bb44f3729119954)
 
 
 ## 2.测试扬声器
@@ -197,7 +197,7 @@ Windows 10 及以上系统支持在ClassInX软件中设置摄像头的虚拟背�
 点击扬声器设备旁的【测试】按钮后，会播放声音。如果用户可以听到鼓声，则说明扬声器正常。如果没有听到声音，可以尝试调大扬声器音量，切换其他的扬声器设备或修复扬声器完成后重启电脑/大屏。
 
 
-![](https://cofile.eeo.cn/res-store%2Fa7543d843c3b05ccfcfa182691840877132e1425669a5d1758b7484c15b6e735_396257?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789315200;1789920000&q-key-time=1789315200;1789920000&q-header-list=host&q-url-param-list=&q-signature=cbacaf81f8356d692ba41bcb1b74f0f64c26aabd)
+![](https://cofile.eeo.cn/res-store%2Fa7543d843c3b05ccfcfa182691840877132e1425669a5d1758b7484c15b6e735_396257?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=7630087174f3799f716d4446890325c2ecc98728)
 
 
 ## 3.调整扬声器音量
@@ -206,7 +206,7 @@ Windows 10 及以上系统支持在ClassInX软件中设置摄像头的虚拟背�
 如果用户听到的声音过低或过高，可以在屏幕中央底部点击或上滑进入dock栏，进入“设置”-“更多设置”-“音频”中调整扬声器音量。
 
 
-![](https://cofile.eeo.cn/res-store%2F737c0c8bce038e46f79846a35b0b694cf8510d1dba27846a4d8ade781be16cd5_399723?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789315200;1789920000&q-key-time=1789315200;1789920000&q-header-list=host&q-url-param-list=&q-signature=e94de20e45494504f1c9f898b1a75cc86097f4d4)
+![](https://cofile.eeo.cn/res-store%2F737c0c8bce038e46f79846a35b0b694cf8510d1dba27846a4d8ade781be16cd5_399723?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=4d41d83c8634a8f93f842b439d68329eb35a3dce)
 
 
 # 五、硬件修复（摄像头/麦克风/扬声器）
@@ -221,4 +221,4 @@ Windows 10 及以上系统支持在ClassInX软件中设置摄像头的虚拟背�
 修复扬声器：如果Windows系统本地的播放声音正常，但在 ClassIn X已选择扬声器后，点击扬声器设备旁的【测试】按钮仍听不到声音，那么可以在屏幕中央底部点击或上滑进入dock栏，进入“设置”-“更多设置”-左下角的“硬件修复”中，修复扬声器，修复完成后建议重启电脑/大屏。
 
 
-![](https://cofile.eeo.cn/res-store%2Fa8ea2e0723807078c42fd7b5598e06ae1bf22cb40587012b783baa88297d0e02_454708?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789315200;1789920000&q-key-time=1789315200;1789920000&q-header-list=host&q-url-param-list=&q-signature=1b93e03ba56a3e912cba9b23cd704139c3199d23)
+![](https://cofile.eeo.cn/res-store%2Fa8ea2e0723807078c42fd7b5598e06ae1bf22cb40587012b783baa88297d0e02_454708?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=1593713ef5f3c124e51f2bb2e410bd1a82033e2e)
