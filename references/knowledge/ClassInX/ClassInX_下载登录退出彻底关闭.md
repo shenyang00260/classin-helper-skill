@@ -47,7 +47,7 @@ ClassInX 软件可在官方网站www.eeo.cn下载，支持 Windows 7 及以上�
 安装进度完成后，系统会自动进入ClassInX软件中
 
 
-![](https://cofile.eeo.cn/res-store%2Fb9fc19fb2bbd38a95e3315ef5f6b50acf2896be8833a9f04fb31e6147f6cea5c_2227404?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=b4fa98aec51b1daba1bdad7d0b4a89a537e5870c)
+![](https://cofile.eeo.cn/res-store%2Fb9fc19fb2bbd38a95e3315ef5f6b50acf2896be8833a9f04fb31e6147f6cea5c_2227404?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=39ff97d6472facd44d8240cc831b48af9f0be517)
 
 
 # 二、登录ClassInX 账号
@@ -71,7 +71,7 @@ ClassInX 软件可在官方网站www.eeo.cn下载，支持 Windows 7 及以上�
 扫码或输入ClassIn账号密码 登录
 
 
-![](https://cofile.eeo.cn/res-store%2F414f2ca6eb6b7623ae669f3f531021226994f7d7ba62a2ca34bb0b563898f887_274886?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=23a67d977375ead6abf6f838632260b6d421b1c5)
+![](https://cofile.eeo.cn/res-store%2F414f2ca6eb6b7623ae669f3f531021226994f7d7ba62a2ca34bb0b563898f887_274886?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=cb433c2aa3ad331f1fd10ab893af5c30751b9cf0)
 
 
 # 三、退出ClassInX 账号
@@ -86,7 +86,7 @@ ClassInX 软件可在官方网站www.eeo.cn下载，支持 Windows 7 及以上�
 点击 退出
 
 
-![](https://cofile.eeo.cn/res-store%2Fbee556524bab8729b37877fda231dc70a39d0af46a322a7b4d26c6586f91f9cd_204398?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=1e10db8d87dfcc88d320285f50a6139fd564427d)
+![](https://cofile.eeo.cn/res-store%2Fbee556524bab8729b37877fda231dc70a39d0af46a322a7b4d26c6586f91f9cd_204398?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=cca6366abbc08203806b8fc093006624e5d6408c)
 
 
 # 四、切换ClassInX 账号
@@ -98,7 +98,7 @@ ClassInX 软件可在官方网站www.eeo.cn下载，支持 Windows 7 及以上�
 点击 切换账号
 
 
-![](https://cofile.eeo.cn/res-store%2Fd6359f16b7dc665248978341d317e62eb8d7e3f917cb4ac8477eab3598a3d9e3_205195?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=584138c036324417299428f575efa8d3760c5476)
+![](https://cofile.eeo.cn/res-store%2Fd6359f16b7dc665248978341d317e62eb8d7e3f917cb4ac8477eab3598a3d9e3_205195?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=0c079e7d6d1df5af8ba707a069527e327e91eff5)
 
 
 # 五、彻底关闭ClassInX 软件
@@ -113,4 +113,4 @@ ClassInX 软件可在官方网站www.eeo.cn下载，支持 Windows 7 及以上�
 在桌面的下方任务栏中长按ClassInX窗口，点击 关闭窗口
 
 
-![](https://cofile.eeo.cn/res-store%2F78dcd48e268f8808dafd96f679972dbcb1a9da08e032200055dea1a51aea11c8_988261?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=1c0492f5db857910b1df88f8631f1f8fb14c816e)
+![](https://cofile.eeo.cn/res-store%2F78dcd48e268f8808dafd96f679972dbcb1a9da08e032200055dea1a51aea11c8_988261?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=c5e67f44c86dcab9f80fe8a97b121b2f607fd192)

@@ -59,13 +59,13 @@ AI 学情分析：动态分析课堂互动、作业完成度等学情数据，�
 开始对话
 
 
-![](https://cofile.eeo.cn/res-store%2Ffde827394fafe3d23a4c6dc872fea1628bbd32f7eabf10508c66ce0f0b7846e2_397205?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=cc68d1a64d9cfb07882bcfbd5fa04268284c91f7)
+![](https://cofile.eeo.cn/res-store%2Ffde827394fafe3d23a4c6dc872fea1628bbd32f7eabf10508c66ce0f0b7846e2_397205?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=a34637f5f9caf79a506fd10cb3a3717ee8c42e0e)
 
 
 #### 手机
 
 
-![](https://cofile.eeo.cn/res-store%2F47ee321b7eec644d0138bf89bdeec41df7871bc019b3290c625edf440c267baa_1278620?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=a921636ca8b6fd5a6a6d43221ff68aa9a046b57b)
+![](https://cofile.eeo.cn/res-store%2F47ee321b7eec644d0138bf89bdeec41df7871bc019b3290c625edf440c267baa_1278620?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=264c2462a938b9bf7173bd295430b2836331e556)
 
 
 # 二、班级创建AI智能体
@@ -113,7 +113,7 @@ AI 学情分析：动态分析课堂互动、作业完成度等学情数据，�
 进入 我创建的 查看创建的AI智能体
 
 
-![](https://cofile.eeo.cn/res-store%2Fa8201e850aec768fb4787ec2848697f46e9a10ed2543696850483c039b11be76_1476655?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=fb6404d660089c802b2f6e7c51bc85a1ad838920)
+![](https://cofile.eeo.cn/res-store%2Fa8201e850aec768fb4787ec2848697f46e9a10ed2543696850483c039b11be76_1476655?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=0f5ebed6c9e9c6890ba1bdeff318765a10fc93a1)
 
 
 ### 2.导入AI智能体
@@ -125,7 +125,7 @@ AI 学情分析：动态分析课堂互动、作业完成度等学情数据，�
 填写智能体的ID和个人访问令牌后，点击 导入
 
 
-![](https://cofile.eeo.cn/res-store%2F206671f478146b99aa94f08a9ebb2d6fb101d400fb0e0be2f607404fbf6acd69_539655?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=0b0863591dc4df4f2e12373f50def368a272e6a5)
+![](https://cofile.eeo.cn/res-store%2F206671f478146b99aa94f08a9ebb2d6fb101d400fb0e0be2f607404fbf6acd69_539655?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=e9142931d97fc70134d0535d0a64f78196ed1290)
 
 
 # 三、班级添加AI智能体
@@ -149,7 +149,7 @@ AI 学情分析：动态分析课堂互动、作业完成度等学情数据，�
 查找并点击智能体后，点击 添加
 
 
-![](https://cofile.eeo.cn/res-store%2F18679be3bbacbeb0628504df96e3474890bbebf62233a9b05666f689a9cc7cc5_953538?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=71ae087aa1b031b4b31f468c6523f3ad35380e8b)
+![](https://cofile.eeo.cn/res-store%2F18679be3bbacbeb0628504df96e3474890bbebf62233a9b05666f689a9cc7cc5_953538?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=98319a97ea61dcecf33fbce56cc8c74112b5bf97)
 
 
 # 四、班级删除AI智能体
@@ -161,7 +161,7 @@ AI 学情分析：动态分析课堂互动、作业完成度等学情数据，�
 找到AI应用，点击 ··· 后，点击 删除
 
 
-![](https://cofile.eeo.cn/res-store%2F620c37d8ab0a357daaa0d01b0b81d1640cb407f015368365044ccb4f37372ba2_392464?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=beb68f2774c9403c239756ff994a2187658d7e4f)
+![](https://cofile.eeo.cn/res-store%2F620c37d8ab0a357daaa0d01b0b81d1640cb407f015368365044ccb4f37372ba2_392464?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=8b94e7e3f2067fb0945a192cec250e9804d4d6b0)
 
 
 找到AI智能体后，点击 ···
@@ -170,7 +170,7 @@ AI 学情分析：动态分析课堂互动、作业完成度等学情数据，�
 点击 删除
 
 
-![](https://cofile.eeo.cn/res-store%2F4a16f32aaf3f619c5a3609c3c9623cad4872c074a34447657ccb9c24a0f52fd6_1447482?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=d9ea6e6a81a375d6b76204e140d48c0b051f72f2)
+![](https://cofile.eeo.cn/res-store%2F4a16f32aaf3f619c5a3609c3c9623cad4872c074a34447657ccb9c24a0f52fd6_1447482?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=bb9f1afd99e1e4a08a15385ffc857d899ede3198)
 
 
 # 五、班级查看学生对话历史
@@ -191,7 +191,7 @@ AI 学情分析：动态分析课堂互动、作业完成度等学情数据，�
 查看学生对话内容
 
 
-![](https://cofile.eeo.cn/res-store%2F8f38c24513601542e2376c2a2e20afb27452b3ea3ee59824b793b6c3e0e3f540_446263?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=068e8c345bb6e03028bb63240a6b86245d606923)
+![](https://cofile.eeo.cn/res-store%2F8f38c24513601542e2376c2a2e20afb27452b3ea3ee59824b793b6c3e0e3f540_446263?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=c25c1707c904bcf9754cd790d27c5c60086e98f4)
 
 
 进入 AI智能体
@@ -200,7 +200,7 @@ AI 学情分析：动态分析课堂互动、作业完成度等学情数据，�
 切换学生，查看其对话内容
 
 
-![](https://cofile.eeo.cn/res-store%2Fb277c76fad63d5a3ca7df2c6aceec853176e85b0cd3447b4dafc2de515ccc162_1394000?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=535ac9df7288501b77a4267cbf2f5f2efc1a3e28)
+![](https://cofile.eeo.cn/res-store%2Fb277c76fad63d5a3ca7df2c6aceec853176e85b0cd3447b4dafc2de515ccc162_1394000?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=8ec3dbf1c21b427ff6b8bce8bdf15cdf03761b5d)
 
 
 # 六、班级查看或删除自己历史对话
@@ -218,10 +218,10 @@ AI 学情分析：动态分析课堂互动、作业完成度等学情数据，�
 点击 查看 或 删除 自己的历史对话
 
 
-![](https://cofile.eeo.cn/res-store%2Fd8cba8cbb1d3f34768e7675f3ea4faba66f2db9521789b157299c8564e62f080_593132?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=9f879d4ef7130c6558860440944b22098fd73878)
+![](https://cofile.eeo.cn/res-store%2Fd8cba8cbb1d3f34768e7675f3ea4faba66f2db9521789b157299c8564e62f080_593132?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=95ae526e9c0ce7e70b7f3120289c62e9a61418b1)
 
 
-![](https://cofile.eeo.cn/res-store%2F5aa29b92d90e777645290e5dfb0fe933b84fdd656a4a14276a4818f75e7f0b4c_1425683?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=475af3b50acae52532c959aa051daaf7e69c5c6f)
+![](https://cofile.eeo.cn/res-store%2F5aa29b92d90e777645290e5dfb0fe933b84fdd656a4a14276a4818f75e7f0b4c_1425683?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=47e94c25146d6208b2964fd4238f53a56fa8dd7f)
 
 
 # 七、AI应用设置
@@ -242,7 +242,7 @@ AI 学情分析：动态分析课堂互动、作业完成度等学情数据，�
 开启/关闭：学生可使用AI应用
 
 
-![](https://cofile.eeo.cn/res-store%2Ff17209aca5a675e37f292c0789ce97f6c50ba2729b4e12f22f50691301d26c6b_410796?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=ee29161acfc4f263d6e2cc1579b715d397ac00fb)
+![](https://cofile.eeo.cn/res-store%2Ff17209aca5a675e37f292c0789ce97f6c50ba2729b4e12f22f50691301d26c6b_410796?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=cc5817d0134f4ff85493c16a669ef72dd99d6cff)
 
 
 点击 X
@@ -254,4 +254,4 @@ AI 学情分析：动态分析课堂互动、作业完成度等学情数据，�
 开启/关闭：学生可使用AI功能
 
 
-![](https://cofile.eeo.cn/res-store%2F95c85c70952dbfc7bff0ea23b08b2da9a71294076135a80baa7d7c9ff15073ca_1479861?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=972088b2c076423a8ead4e82b252321a86edbb6a)
+![](https://cofile.eeo.cn/res-store%2F95c85c70952dbfc7bff0ea23b08b2da9a71294076135a80baa7d7c9ff15073ca_1479861?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=9390463746ca595d0b4e30278f3c2ef5dc9baeb2)

@@ -35,7 +35,7 @@ section: "ClassIn"
 点击教室右上角 摄像头 快速开/关自己的摄像头
 
 
-![](https://cofile.eeo.cn/res-store%2Ff44fb4ad389e1bb1ca0720a06387bc62378d8140c12ca4a8f212afcc92fe417f_121465?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=f6d004faffd882e4d5fd58060501cf2aa84bb001)
+![](https://cofile.eeo.cn/res-store%2Ff44fb4ad389e1bb1ca0720a06387bc62378d8140c12ca4a8f212afcc92fe417f_121465?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=8fb5c454d6026c835fbc27500d8db6f67ed105a8)
 
 
 #### iPad
@@ -44,7 +44,7 @@ section: "ClassIn"
 点击教室右下角 设置 在摄像头一栏 开/关 自己的摄像头
 
 
-![](https://cofile.eeo.cn/res-store%2Fadf415e6b94c50461a393966418eaf134a83a75b2d599790fb368242b0f7e5f7_180277?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=b063211e0428c3785107bb589f9e1b0a9b2d1407)
+![](https://cofile.eeo.cn/res-store%2Fadf415e6b94c50461a393966418eaf134a83a75b2d599790fb368242b0f7e5f7_180277?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=24b9bbe80e4e27bfdf3581eccd0b0330c80dde91)
 
 
 #### 手机/安卓平板
@@ -53,7 +53,7 @@ section: "ClassIn"
 点击教室右侧 齿轮 在摄像头一栏 开/关 自己的摄像头
 
 
-![](https://cofile.eeo.cn/res-store%2Fd3e16990b5ad13ecf6ba84bde5c92aba1e09fb0c1270d2d58f086581a2990591_293496?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=810d5097e2cf339ce620e67ba16e160383521321)
+![](https://cofile.eeo.cn/res-store%2Fd3e16990b5ad13ecf6ba84bde5c92aba1e09fb0c1270d2d58f086581a2990591_293496?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=1254b8e1ffaa19ab807920a5e84a470238c2343d)
 
 
 ## 2、开/关：双摄像头
@@ -89,7 +89,7 @@ section: "ClassIn"
 进入 辅设置 中 开/关 第二个摄像头
 
 
-![](https://cofile.eeo.cn/res-store%2Fea652ccb5743df6c1582508944c398d56057715d5180039fbb5247f7cf6c0d47_302505?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=926216d60dc5317aa0fb2efe59906bc7abc29494)
+![](https://cofile.eeo.cn/res-store%2Fea652ccb5743df6c1582508944c398d56057715d5180039fbb5247f7cf6c0d47_302505?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=adac50dc931c77b33fdc6846babaafa81b48aafc)
 
 
 ## 3、显示/隐藏：联席教师摄像头
@@ -110,19 +110,19 @@ section: "ClassIn"
 点击 上台 即可操控联席教师上台或回到台下
 
 
-![](https://cofile.eeo.cn/res-store%2F7453621f7e4a931b2064449d5d1495b3d9d9cbd52a4daf94674529fb3863fff3_262693?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=58565d32446581bb60f33580c622272a03f0e38f)
+![](https://cofile.eeo.cn/res-store%2F7453621f7e4a931b2064449d5d1495b3d9d9cbd52a4daf94674529fb3863fff3_262693?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=e16ba65351dcb086f2fe20ab315161bd72a13e45)
 
 
 打开教室右下角 花名册
 
 
-![](https://cofile.eeo.cn/res-store%2F4c5f7e07608d5a61b8a8c603f220d3fdc30fbc01711f06f16ad96feaed068206_434327?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=029979f2b2e17f581c7868daa1927c770eaf041e)
+![](https://cofile.eeo.cn/res-store%2F4c5f7e07608d5a61b8a8c603f220d3fdc30fbc01711f06f16ad96feaed068206_434327?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=4fce02eeb6231080a29ea9b9ae49afea24d92ea9)
 
 
 点击 上台 按钮操控联席教师上台或回到台下
 
 
-![](https://cofile.eeo.cn/res-store%2F6f44eb881dc8da81c70b81fbe774b929254c077c21b65a1cbf05635a43edcb8c_191468?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=586ce416b94473b5a807dce1e884dc30c94d0977)
+![](https://cofile.eeo.cn/res-store%2F6f44eb881dc8da81c70b81fbe774b929254c077c21b65a1cbf05635a43edcb8c_191468?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=d5ea4702bc4f1ea3f1c2c1cfe34eca5a3f6058b6)
 
 
 ## 4、切换摄像头
@@ -143,7 +143,7 @@ section: "ClassIn"
 选择要切换的摄像头
 
 
-![](https://cofile.eeo.cn/res-store%2Ffbb4104666b214bfb4b9ad6983b4d54589ce169a7aed060d8a0f286e1061422c_335742?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=22e9a6b19ede0a305937e1bd8cb7504e6535350d)
+![](https://cofile.eeo.cn/res-store%2Ffbb4104666b214bfb4b9ad6983b4d54589ce169a7aed060d8a0f286e1061422c_335742?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=3d56fd831ce0fa97dea1242cc18c737a1fa86e53)
 
 
 点击教室右下角 齿轮
@@ -152,13 +152,13 @@ section: "ClassIn"
 在方向一栏，切换前后摄像头
 
 
-![](https://cofile.eeo.cn/res-store%2F866845cec8262b092337e5ffeee837c72b536fa41e78fbbbac09a5b757e2e25a_369104?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=2d5ad4c8ff5b1e18934e9a8b75670c4afc455c3c)
+![](https://cofile.eeo.cn/res-store%2F866845cec8262b092337e5ffeee837c72b536fa41e78fbbbac09a5b757e2e25a_369104?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=88e3aca9a66814e6575fed05e955f17be9a9cbf3)
 
 
 点击教室右侧 齿轮
 
 
-![](https://cofile.eeo.cn/res-store%2F05cc589f8ff87b2bc479cab15cd9f3498e25bc4e19010fdf3639732a09139495_438187?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=9c6ba389fcc2d4663bd5981bc60c77d4769c7a0e)
+![](https://cofile.eeo.cn/res-store%2F05cc589f8ff87b2bc479cab15cd9f3498e25bc4e19010fdf3639732a09139495_438187?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=477e7d1f5f8250db09ea9341310a6091072cf29c)
 
 
 ## 5、旋转摄像头
@@ -179,7 +179,7 @@ section: "ClassIn"
 右上角旋转摄像头角度（支持旋转的选项有：不旋转；旋转90度；旋转180度；旋转270度）
 
 
-![](https://cofile.eeo.cn/res-store%2F108cc8f0b6f80e1efc9ecdec27ffd2af3105187ec8c7831392e48b4c077f375e_96265?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=eca7e87c4bf07cd482182251e9ad9d86c0084251)
+![](https://cofile.eeo.cn/res-store%2F108cc8f0b6f80e1efc9ecdec27ffd2af3105187ec8c7831392e48b4c077f375e_96265?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=f8949d07f86ee1c6dafdb3272789c4a2ebce0283)
 
 
 ## 6、摄像头镜像
@@ -197,16 +197,16 @@ section: "ClassIn"
 右上角 开启/关闭 镜像模式
 
 
-![](https://cofile.eeo.cn/res-store%2Ff065199adeab41e83b0be49d24dcb19419039b69086d2366bae240b404cd20f4_142558?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=4c2047ed0c82a433f524e1c5c625466ecf8744e1)
+![](https://cofile.eeo.cn/res-store%2Ff065199adeab41e83b0be49d24dcb19419039b69086d2366bae240b404cd20f4_142558?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=c2fdc4a77f23aa796707bffc01723e3e19b03be4)
 
 
 在镜像一栏，打开/关闭 镜像模式
 
 
-![](https://cofile.eeo.cn/res-store%2F00ffbb927101aa7a69a291bf04b0c4928e1ed5ae1c0f05a4b1c1042a10e98fca_274561?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=10671aa53676304131e64cb0931309ebab7d0935)
+![](https://cofile.eeo.cn/res-store%2F00ffbb927101aa7a69a291bf04b0c4928e1ed5ae1c0f05a4b1c1042a10e98fca_274561?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=33c7fae550518becee00c67eef9c85987eb78223)
 
 
-![](https://cofile.eeo.cn/res-store%2F5294d95c2690579251ba6e01a2311a69c6ea4a5461d6f18ea1c87d1cce5b0ac6_286091?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=04e530338b6b0dcf35e28ef82f603757bf72b230)
+![](https://cofile.eeo.cn/res-store%2F5294d95c2690579251ba6e01a2311a69c6ea4a5461d6f18ea1c87d1cce5b0ac6_286091?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=ac7b5a5ce335c7f468b325172cfaf937bbca5def)
 
 
 ## 7、摄像头虚拟背景
@@ -233,7 +233,7 @@ section: "ClassIn"
 设置摄像头背景
 
 
-![](https://cofile.eeo.cn/res-store%2F6fd1e54bacb88a2c3a6b6c67d538dea7dbac1cc9f2e517a447dada85847b5025_149813?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=0855c5a215c245be6dffbcca443816a01150cabc)
+![](https://cofile.eeo.cn/res-store%2F6fd1e54bacb88a2c3a6b6c67d538dea7dbac1cc9f2e517a447dada85847b5025_149813?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=97759cc2657c3c55dbd185126fa47a77660bdf40)
 
 
 ## 8、移动摄像头窗口
@@ -254,7 +254,7 @@ section: "ClassIn"
 教师双击或拖拽自己或学生摄像头到大黑板中
 
 
-![](https://cofile.eeo.cn/res-store%2F4ae0fb182e5996a732a65c9f61d087ab9a53aaeba4890e0cb0a6eac9a381b3c2_244330?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=0d78da88f9724c0810603dc6fac09113f4f20c26)
+![](https://cofile.eeo.cn/res-store%2F4ae0fb182e5996a732a65c9f61d087ab9a53aaeba4890e0cb0a6eac9a381b3c2_244330?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=9977204f949be2c955588783eff8e73809f773e6)
 
 
 ## 9、调整摄像头窗口尺寸
@@ -272,7 +272,7 @@ section: "ClassIn"
 拖拽大黑板上的摄像头边缘来调整摄像头大小
 
 
-![](https://cofile.eeo.cn/res-store%2Fb81b6a47e6f1f6f940c71ec61df51b4d2e3534a6893046c5a1ecc9f50ddf59c3_153499?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=fc8bc7294384ba8def9d9c1e076640a5f7358ab9)
+![](https://cofile.eeo.cn/res-store%2Fb81b6a47e6f1f6f940c71ec61df51b4d2e3534a6893046c5a1ecc9f50ddf59c3_153499?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=9a4212114822b17f758630a9aa760cb494bdab10)
 
 
 ## 10、平铺摄像头窗口
@@ -296,7 +296,7 @@ section: "ClassIn"
 在摄像头下方按键中，点击 平铺摄像头
 
 
-![](https://cofile.eeo.cn/res-store%2F362422b673023f76a87737a1db1a5de6975be5b4682de494342817f1d7e26788_253238?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=82ac7e26ab6c837d3c14fbb431cbb3086cb92740)
+![](https://cofile.eeo.cn/res-store%2F362422b673023f76a87737a1db1a5de6975be5b4682de494342817f1d7e26788_253238?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=defd164e1c72247cc5749bc8a315846b7b57b203)
 
 
 ## 11、摄像头窗口复位
@@ -314,7 +314,7 @@ section: "ClassIn"
 在下方弹出的按钮中，点击 摄像头复位
 
 
-![](https://cofile.eeo.cn/res-store%2F5071894b0f3578a16f3ccabd0dade963a5bba039360fa72049abeb1feae298d7_387979?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=f95994020a5722b91e53dd78ac3b6bc431784b62)
+![](https://cofile.eeo.cn/res-store%2F5071894b0f3578a16f3ccabd0dade963a5bba039360fa72049abeb1feae298d7_387979?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=3c6415af42f13b99011b0bd2cf81e6151c6aac20)
 
 
 ## 12、网络摄像头
@@ -338,7 +338,7 @@ section: "ClassIn"
 最后输入拉流地址
 
 
-![](https://cofile.eeo.cn/res-store%2F8fae1985a814dcaf62c5def8ff0a9734b136918d61f787e72f6b950a55d80ff2_406724?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=5330a6991460659c44bdf1f612efcdba843e4514)
+![](https://cofile.eeo.cn/res-store%2F8fae1985a814dcaf62c5def8ff0a9734b136918d61f787e72f6b950a55d80ff2_406724?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=2cf4245bbfd797ef1e8537c1e893254aaff242a1)
 
 
 # 二、麦克风
@@ -350,19 +350,19 @@ section: "ClassIn"
 点击教室右上角 麦克风 快速开/关自己的麦克风
 
 
-![](https://cofile.eeo.cn/res-store%2F4dda6632b253f2a355dcf0bc8e44ab2951e420c06598269754c393805c16d86a_218965?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=bd7c092471da39af0126b555ba277e2be804f9d3)
+![](https://cofile.eeo.cn/res-store%2F4dda6632b253f2a355dcf0bc8e44ab2951e420c06598269754c393805c16d86a_218965?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=2e83494ed0c076ad03167d487657c22ccc0e342a)
 
 
 在麦克风一栏位，开/关 自己的麦克风
 
 
-![](https://cofile.eeo.cn/res-store%2Fb94b6ed583fcad2d5ae9af52dc2fcf21549bb6c8282c98ca1450f383f2be8a0c_351839?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=6d513ea6c78cb889ae6d5e115a759d07876691bf)
+![](https://cofile.eeo.cn/res-store%2Fb94b6ed583fcad2d5ae9af52dc2fcf21549bb6c8282c98ca1450f383f2be8a0c_351839?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=5100040e6c61db41c8de3f20db52ecb574bf460f)
 
 
 在麦克风一栏，开/关 自己的麦克风
 
 
-![](https://cofile.eeo.cn/res-store%2F834b43e021897a127a7364af95c7efdaba3506b245e94b67b3a9682440b7557d_148456?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=ab447363837778876a37b79e69e355e8b4f813ec)
+![](https://cofile.eeo.cn/res-store%2F834b43e021897a127a7364af95c7efdaba3506b245e94b67b3a9682440b7557d_148456?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=8c656d0c67cb379eeaf39f099e9fe1b58aa53876)
 
 
 ## 2、切换麦克风
@@ -377,7 +377,7 @@ section: "ClassIn"
 选择要切换的麦克风
 
 
-![](https://cofile.eeo.cn/res-store%2Fcb5761a8645da40ec12dfe76e81f886392eae06ba3c50eecb78c31daecb7d59b_237225?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=fe41119adb4e417a86a31daaaa781fa81ffdb3be)
+![](https://cofile.eeo.cn/res-store%2Fcb5761a8645da40ec12dfe76e81f886392eae06ba3c50eecb78c31daecb7d59b_237225?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=1efd178ad722ab4a6f26ffb7004c79814bb00487)
 
 
 ## 3、麦克风音量
@@ -410,7 +410,7 @@ section: "ClassIn"
 上方手动调整麦克风音量
 
 
-![](https://cofile.eeo.cn/res-store%2Fa5d56ce9123419ab87edfca094c5712c77a04293f8afb86dd40fd8684e902c4f_205704?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=eab20a7779763fb5298c74db92340f2f937c33fa)
+![](https://cofile.eeo.cn/res-store%2Fa5d56ce9123419ab87edfca094c5712c77a04293f8afb86dd40fd8684e902c4f_205704?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=2159dea9c24c1f38075ec68df4a58b39927dfe01)
 
 
 #### （2）自动调整
@@ -419,7 +419,7 @@ section: "ClassIn"
 开启 自动调整麦克风音量
 
 
-![](https://cofile.eeo.cn/res-store%2Fdd3651d8a15a08d8d581495db8d1be579bb3d928e34ccb9201ecff110d08b3ce_325359?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=f01e188dc46fea7a57f060a5c8a040e0c863263a)
+![](https://cofile.eeo.cn/res-store%2Fdd3651d8a15a08d8d581495db8d1be579bb3d928e34ccb9201ecff110d08b3ce_325359?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=f0fd75bd6f504f6fef1f5f1935fbe9abd615a45a)
 
 
 ## 4、背景音降噪
@@ -434,7 +434,7 @@ section: "ClassIn"
 开启/关闭 背景音降噪
 
 
-![](https://cofile.eeo.cn/res-store%2Fed1251c8c2aa1f672adae03e6dd197ea7e36a3513e9fbc8f25c50cee8cadd269_1136359?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=189e12406714da86201ba8c8d5554e9ad3a9b6e8)
+![](https://cofile.eeo.cn/res-store%2Fed1251c8c2aa1f672adae03e6dd197ea7e36a3513e9fbc8f25c50cee8cadd269_1136359?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=c0b6357284c3f76fafea2813945a198a80936f62)
 
 
 ## 5、音乐模式
@@ -455,7 +455,7 @@ section: "ClassIn"
 开启/关闭 音乐模式
 
 
-![](https://cofile.eeo.cn/res-store%2Fa49242bfa03c5971152b54b96415161666e43d5282f79e602e82a178e937e96a_699422?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=bcf54e681d0bb4d53d4d49eb712d43dcb0156fe0)
+![](https://cofile.eeo.cn/res-store%2Fa49242bfa03c5971152b54b96415161666e43d5282f79e602e82a178e937e96a_699422?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=0a249871c934858d21d279ae3b8c5afefe22397b)
 
 
 # 三、扬声器
@@ -470,10 +470,10 @@ section: "ClassIn"
 开启/关闭 扬声器
 
 
-![](https://cofile.eeo.cn/res-store%2Fc249902cfe0780046853481ab1125a5784687981edd1b828539d74c7af9b2794_59249?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=d857d33a16ab0475bdd94942da2fe5c6c8a64901)
+![](https://cofile.eeo.cn/res-store%2Fc249902cfe0780046853481ab1125a5784687981edd1b828539d74c7af9b2794_59249?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=6017db45454143a0dc6420c08a9c8c125c23de2a)
 
 
-![](https://cofile.eeo.cn/res-store%2F76485da6c52acd9e31e74799e1769df41629fbba00914d8f6031f84365d03a55_99801?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=9b98768e001157e44a8689775f780238e255a8e8)
+![](https://cofile.eeo.cn/res-store%2F76485da6c52acd9e31e74799e1769df41629fbba00914d8f6031f84365d03a55_99801?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=3314b3e8ad400724f097ea98d131813c54aadf6d)
 
 
 ## 2、扬声器音量
@@ -491,7 +491,7 @@ section: "ClassIn"
 调整教室扬声器音量
 
 
-![](https://cofile.eeo.cn/res-store%2F634e00ca32a5b39d3e20f2efbfcb5ce7d21ad9b5a457ae85b11fce48a0c6e808_132350?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=b0cf7d92bb1ea0a6c9213fed7966c25a5cd11506)
+![](https://cofile.eeo.cn/res-store%2F634e00ca32a5b39d3e20f2efbfcb5ce7d21ad9b5a457ae85b11fce48a0c6e808_132350?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=e7bd2d2f1c7c6dd8450c37adce01bbc239a8c8c6)
 
 
 #### 手机/平板
@@ -500,7 +500,7 @@ section: "ClassIn"
 通过调整手机或平板侧面的 实体音量按键 来实现调整扬声器音量
 
 
-![](https://cofile.eeo.cn/res-store%2F71f407dad0c2aed382fa0a23f90bc09b69d4cd22ab46c3410bd7567339f4764d_198821?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=fc83588948a9cba352f9184f0710874128138d30)
+![](https://cofile.eeo.cn/res-store%2F71f407dad0c2aed382fa0a23f90bc09b69d4cd22ab46c3410bd7567339f4764d_198821?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=c53e9305cf0b7347204354c055728789a7d74831)
 
 
 ## 3、切换扬声器
@@ -527,7 +527,7 @@ Mac电脑不支持切换教室扬声器，教室中默认的扬声器是电脑�
 在 选择扬声器 一栏，选择要使用的扬声器
 
 
-![](https://cofile.eeo.cn/res-store%2Fb8815122303dd3f9c32e0f944db27580bf8d83e59c345a55f83be88bae807fdd_301147?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=64232112e6252fe8c1e0f80779284ee5fa523684)
+![](https://cofile.eeo.cn/res-store%2Fb8815122303dd3f9c32e0f944db27580bf8d83e59c345a55f83be88bae807fdd_301147?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=4ca9a9829de493d24a7ec363917c52171e5f0020)
 
 
 # 四、检测及修复音视频
@@ -554,7 +554,7 @@ Mac电脑不支持切换教室扬声器，教室中默认的扬声器是电脑�
 点击右侧 测试 按钮
 
 
-![](https://cofile.eeo.cn/res-store%2F7476d5be1a9c7f517508847f5152908e8d3e7bd1b0563bd5fba048ed17de724e_319598?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=1a4a9f24cf2222ed5c55184e575191b282179183)
+![](https://cofile.eeo.cn/res-store%2F7476d5be1a9c7f517508847f5152908e8d3e7bd1b0563bd5fba048ed17de724e_319598?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=009c8bb9efa13600a5feb5552693ba30ad13fe8e)
 
 
 点击上课后，进入 自检 页面
@@ -563,7 +563,7 @@ Mac电脑不支持切换教室扬声器，教室中默认的扬声器是电脑�
 开启麦克风 后，开始说话，有 绿色波动 则表示麦克风正常
 
 
-![](https://cofile.eeo.cn/res-store%2Fdbc818ff647cc66961c20236638876261651f44c96a720fd3ebda6b583a7ca2a_118031?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=a69789eac610a34dbd21bddf82f4e7489f48bf53)
+![](https://cofile.eeo.cn/res-store%2Fdbc818ff647cc66961c20236638876261651f44c96a720fd3ebda6b583a7ca2a_118031?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=cf006a921209f3e186aa8178d6f63813ccb8dc92)
 
 
 ## 2、检测扬声器
@@ -581,13 +581,13 @@ Mac电脑不支持切换教室扬声器，教室中默认的扬声器是电脑�
 点击 检测
 
 
-![](https://cofile.eeo.cn/res-store%2F8b5531709c520e9cc97264358f0bd89a725bb72dde6b11c70d8f7ed065505369_174873?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=535836a5ab0d0b288ab0345ec71e60d2f3a1c920)
+![](https://cofile.eeo.cn/res-store%2F8b5531709c520e9cc97264358f0bd89a725bb72dde6b11c70d8f7ed065505369_174873?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=dbc9925d1650279bcdeadba0b5c1ca41feda540f)
 
 
 开启扬声器 后，点击 测试 ，可以听到声音则表示扬声器正常
 
 
-![](https://cofile.eeo.cn/res-store%2F10ce51f35d97610c064a5d89783db79ccd11b589ddaa18ef293a3222ccf351c5_280820?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=c5e66600ed5511cf1aa394a6063431b28bb8744f)
+![](https://cofile.eeo.cn/res-store%2F10ce51f35d97610c064a5d89783db79ccd11b589ddaa18ef293a3222ccf351c5_280820?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=cc3d63c1292d7dc25f5720f75cbb8c607158c492)
 
 
 ## 3、修复音视频
@@ -623,4 +623,4 @@ Mac电脑没有“硬件修复”功能。
 根据现象，修复对应功能
 
 
-![](https://cofile.eeo.cn/res-store%2F6f60df9ca8e5e2a1a661cc430ee32ef4e6cfbe59627cc9461d6dcb78fa5dd233_457502?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=312dc925ea8a1f5282161b9ec8c4186cb1414e7d)
+![](https://cofile.eeo.cn/res-store%2F6f60df9ca8e5e2a1a661cc430ee32ef4e6cfbe59627cc9461d6dcb78fa5dd233_457502?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=f2a826ddd8dd3f47dbbf76e7b8378519b864d367)

@@ -56,4 +56,4 @@ section: "管理后台"
 点击 课堂考勤 右侧 下载 ，等待下载任务生成后，在新的弹窗中点击 去查看
 
 
-![](https://cofile.eeo.cn/res-store%2F560a669e759b5d7ae7a91bb179fc56977211580efe2ab7822477dc3a688bdb92_256268?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=3f6fa83022be947f51ef2661f4a3ccdbd4e04054)
+![](https://cofile.eeo.cn/res-store%2F560a669e759b5d7ae7a91bb179fc56977211580efe2ab7822477dc3a688bdb92_256268?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=6a17cb927c04318d72b974141ca03f6c9cd26cf1)

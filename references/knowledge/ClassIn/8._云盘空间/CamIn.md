@@ -59,7 +59,7 @@ CamIn官网
 选择视频或文件夹操作
 
 
-![](https://cofile.eeo.cn/res-store%2F84a0c0b9a69cd8be622e1e400cf547fd1112b5712a3a60340817d65983838d4c_521714?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=7df91329d9f62c00130539e2ebe4bac8e50c58db)
+![](https://cofile.eeo.cn/res-store%2F84a0c0b9a69cd8be622e1e400cf547fd1112b5712a3a60340817d65983838d4c_521714?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=24745947913db53df65d17d4fab06019a7e30159)
 
 
 # 三、团队空间
@@ -83,4 +83,4 @@ CamIn 云空间支持团队空间创建与管理，其团队版是适配多人�
 进入 空间管理 和 空间设置
 
 
-![](https://cofile.eeo.cn/res-store%2F9504f2d2100652f9ce07c3afc44fa3673747783c0e6a21302baf5f8ca5ac0094_859272?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=c6c1da0d8adc0b9b130caf8070d79f0d8d48c678)
+![](https://cofile.eeo.cn/res-store%2F9504f2d2100652f9ce07c3afc44fa3673747783c0e6a21302baf5f8ca5ac0094_859272?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=dbae69f007889dffb1517942f739507adf372fd7)
