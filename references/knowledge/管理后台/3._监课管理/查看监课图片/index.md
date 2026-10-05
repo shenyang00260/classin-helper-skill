@@ -53,4 +53,4 @@ section: "管理后台"
 点击图片进入详情中查看 监课图片
 
 
-![](https://cofile.eeo.cn/res-store%2F86e34a6f8af99e434f1bb3c9e76a41c6008b96b116837ba14daeecea23ab7b48_217727?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=49ea140daa8faeb0caec57bcae339cbc6b78a2a6)
+![](https://cofile.eeo.cn/res-store%2F86e34a6f8af99e434f1bb3c9e76a41c6008b96b116837ba14daeecea23ab7b48_217727?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=bb6f32d4ebc59dff624d767783c2401429f51cb5)

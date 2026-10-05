@@ -44,10 +44,10 @@ section: "新版特性"
 智能体生成的内容以当前系统语言输出，确保课堂展示与教学沟通的一致性与专业性。
 
 
-![](https://cofile.eeo.cn/res-store%2F378957c45677a92b18c050c7f79982f2a183eafa9c86a0b7368b9dc7ae3c3523_667687?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=59e3a8f19db5a3655240830bab7e8cbdea70e7b6)
+![](https://cofile.eeo.cn/res-store%2F378957c45677a92b18c050c7f79982f2a183eafa9c86a0b7368b9dc7ae3c3523_667687?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=1803648dbcbf56e2a4eb82d3475b37c52e605af1)
 
 
-![](https://cofile.eeo.cn/res-store%2F816253c5750c9aaad31fe80320ccfc609b5ed8612b73e86bd7dc365747155cea_207132?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=3c927eb9eb8921c864a45a46132691b3b85ea195)
+![](https://cofile.eeo.cn/res-store%2F816253c5750c9aaad31fe80320ccfc609b5ed8612b73e86bd7dc365747155cea_207132?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=d832bd5a0300459eb9ad1d0a5778bcdb7927e85e)
 
 
 ### 2. 新增AI授课分析
@@ -62,7 +62,7 @@ Classin AI授课分析基于课堂的录课视频，分析老师的表达及互
 首先，在机构后台“学校设置-增值服务”中打开AI授课分析开关。
 
 
-![](https://cofile.eeo.cn/res-store%2Fd5c116777b4b68f22aeb40e2cabe06f18dbb9f6cc051824d406793705af84eeb_1259252?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=0795797029ffbc1bb97123f3c2e09b11f00d646f)
+![](https://cofile.eeo.cn/res-store%2Fd5c116777b4b68f22aeb40e2cabe06f18dbb9f6cc051824d406793705af84eeb_1259252?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=c7dc1d1485fda00cc3c36a519549e7eaf42255bf)
 
 
 注：除专业版&月享版不可使用外，其他付费版本可自助开启
@@ -74,7 +74,7 @@ Classin AI授课分析基于课堂的录课视频，分析老师的表达及互
 注：分析仅针对课堂实时产生的回放，不包括手动上传的视频
 
 
-![](https://cofile.eeo.cn/res-store%2F368455b721338fcf2b68ad9335f4dbd0d185f9694f0aa7ea89a20e1cdc4937bf_1399957?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=394243b46e0f1471d7a0a33e8e026813c90ea1e8)
+![](https://cofile.eeo.cn/res-store%2F368455b721338fcf2b68ad9335f4dbd0d185f9694f0aa7ea89a20e1cdc4937bf_1399957?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=75217f9519446bfde4387999f0d1c1c6635bb53b)
 
 
 开启AI授课分析的课堂，在下课后，即可在机构后台“教师发展”模块，或客户端“录课回放”页面查看报告。
@@ -83,19 +83,19 @@ Classin AI授课分析基于课堂的录课视频，分析老师的表达及互
 在后台的“教师发展”模块，管理者可浏览近期所有课堂表现情况（包括总得分和需要关注的问题），并查看和下载每节课详细报告。
 
 
-![](https://cofile.eeo.cn/res-store%2F01108dfabaed5f8f4164c6dc661b369390be79201d3dcf58e7430a3db2ab7d33_1423582?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=48c26cb44fe7696be69f4a25ab92d84154de8145)
+![](https://cofile.eeo.cn/res-store%2F01108dfabaed5f8f4164c6dc661b369390be79201d3dcf58e7430a3db2ab7d33_1423582?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=47322c4a173209cb5d5e26fad4a30b72b51472de)
 
 
 仅本节课授课老师，可以在下课后，在客户端查看并下载报告，其他人在客户端无法查看。
 
 
-![](https://cofile.eeo.cn/res-store%2Fd13a3afab7ac349c8bca65864296d627f86c92a9602bba95a8e4486f6212cfce_1370263?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=11798015b333cc6ee54d69b78132d52f34d40cde)
+![](https://cofile.eeo.cn/res-store%2Fd13a3afab7ac349c8bca65864296d627f86c92a9602bba95a8e4486f6212cfce_1370263?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=1ce386d8f20963199d33476779ea55c3bc59662d)
 
 
 完整的AI授课分析报告如下：
 
 
-![](https://cofile.eeo.cn/res-store%2F27ae15c045aa5fe512955cefb432c093ad77c4e9cd12b7700d26bf2385d60907_1373204?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=9f5efa5a48bfcbb96eb53afd078c49fc2d9ccefd)
+![](https://cofile.eeo.cn/res-store%2F27ae15c045aa5fe512955cefb432c093ad77c4e9cd12b7700d26bf2385d60907_1373204?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=84c8ee25c4fa9231ca259895f098e3230e6e304d)
 
 
 ## ClassIn X 6.0.4
@@ -113,13 +113,13 @@ Classin AI授课分析基于课堂的录课视频，分析老师的表达及互
 注：该功能仅限ClassIn X品牌的电子交互大屏
 
 
-![](https://cofile.eeo.cn/res-store%2Fa597a940a8ec591560af9fa9328ff36f117df0d4883a816ff0c730e7085d3459_2416777?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=b929d4770e20ea4efc3c711876e936b625a721a3)
+![](https://cofile.eeo.cn/res-store%2Fa597a940a8ec591560af9fa9328ff36f117df0d4883a816ff0c730e7085d3459_2416777?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=97441ca0028ca7adc0129191026ba41706a8ca0f)
 
 
 使用智能体时，输入方式默认语音输入，可以通过点击或长按开始语音输入。同时点击加号“+”可选择上传本地文件和图片，课堂交互更智能。
 
 
-![](https://cofile.eeo.cn/res-store%2F1850c45ebdc14d4df61048d679362f2a6735836c0ab174924028531e56954d35_1664293?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=ec2f7b984e74ed00a88f332ae15b5aeb8d1fc2c4)
+![](https://cofile.eeo.cn/res-store%2F1850c45ebdc14d4df61048d679362f2a6735836c0ab174924028531e56954d35_1664293?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=a369ff2addeb8229ab2f5a30ce45daa88dfb845b)
 
 
 ### 2. 引入三款课堂智能体，丰富教学场景
@@ -140,19 +140,19 @@ ClassIn X课堂智能体【AI搜图】融合 AI 语义理解、多模态识别�
 高质量资源聚合：整合 ClassIn 官方精选库。
 
 
-![](https://cofile.eeo.cn/res-store%2F0252e1750a6bc5f014f883b830ed94cf3811afa9b04ca8e3a219fe5720d5b4cf_499038?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=f498cd8c541ea5b7614ff99fdb95201cf2fe1364)
+![](https://cofile.eeo.cn/res-store%2F0252e1750a6bc5f014f883b830ed94cf3811afa9b04ca8e3a219fe5720d5b4cf_499038?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=a10dd6cf675741ba4fd3deaee0fef688af55ac8f)
 
 
 ClassIn X课堂智能体【AI函数】，教师可在授课过程中直接生成函数图，插入黑板。
 
 
-![](https://cofile.eeo.cn/res-store%2F6f931f7f9bbbedb82d530d7fca685019efc4671d44f7af5d527a653f26180a20_666342?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=78c3f7042354dd7e3261f52972025fb3d7f95ae0)
+![](https://cofile.eeo.cn/res-store%2F6f931f7f9bbbedb82d530d7fca685019efc4671d44f7af5d527a653f26180a20_666342?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=a743585209fcb5650a18662fdf57e854936588f1)
 
 
 ClassIn X课堂智能体【AI笔顺】，教师可在授课过程中调用所需笔顺素材，实时展示生字笔顺，辅助语文教学。
 
 
-![](https://cofile.eeo.cn/res-store%2F924509d5182714901174cd40119dd6e8f4b757137f6b02cd5920c08a9a7a8f36_538576?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=dff52ce055fab90ce5f8811abc00d834f6a6d12e)
+![](https://cofile.eeo.cn/res-store%2F924509d5182714901174cd40119dd6e8f4b757137f6b02cd5920c08a9a7a8f36_538576?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=5c31ec6fb0757b709efa6e824f2d0df65184d8ed)
 
 
 ### 3. 圆盘操作优化，书写更流畅
@@ -161,7 +161,7 @@ ClassIn X课堂智能体【AI笔顺】，教师可在授课过程中调用所需
 圆盘由3圈简化为2圈，文本与画笔操作优化，图形与虚线切换更便捷，书写操作更流畅丝滑。
 
 
-![](https://cofile.eeo.cn/res-store%2F5fe3e6fadfdde742cc0c98ff1ad4757b45eac4cc97b852907c32556bc0d81c2d_573002?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=dffdf4269a6b7e436734261c539a4b55735c9446)
+![](https://cofile.eeo.cn/res-store%2F5fe3e6fadfdde742cc0c98ff1ad4757b45eac4cc97b852907c32556bc0d81c2d_573002?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=b124ed659412ad6a78c4a10386bc89bef08cf246)
 
 
 ## ClassIn X 6.0.3
@@ -176,7 +176,7 @@ ClassIn X课堂智能体【AI笔顺】，教师可在授课过程中调用所需
 满足只看课堂的用户的使用习惯，更加方便的查看课堂顺序。
 
 
-![](https://cofile.eeo.cn/res-store%2Fec2006e510879034e3a7e32c7473a6ed1056015e4a0d4da6eec166fa363d6c54_511467?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=3714770851cf4cb2c8dd5299075ac97f2d873b8c)
+![](https://cofile.eeo.cn/res-store%2Fec2006e510879034e3a7e32c7473a6ed1056015e4a0d4da6eec166fa363d6c54_511467?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=5c7d3c69d6108549ce915aa787cf44e3ccc4692d)
 
 
 ### 二、 共创页面支持导出到其他班级
@@ -200,7 +200,7 @@ ClassIn X课堂智能体【AI笔顺】，教师可在授课过程中调用所需
 被导出页面所在班级和目标班级需要在同一个学校下
 
 
-![](https://cofile.eeo.cn/res-store%2F52a337b26e21878badc5a16b0e83c300f95850b74f6695b9dd2476e72a714c85_9388547?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=1015b88dfa2bad604389b413a20ba541bdb47304)
+![](https://cofile.eeo.cn/res-store%2F52a337b26e21878badc5a16b0e83c300f95850b74f6695b9dd2476e72a714c85_9388547?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=2e952ca5e4549ee185f8aec0f06077eeb9535e00)
 
 
 ### 三、课程列表新增支持从TeacherIn或者其他班级，直接导入和导出课程 （上线时间为7月30日）
@@ -209,7 +209,7 @@ ClassIn X课堂智能体【AI笔顺】，教师可在授课过程中调用所需
 更加方便教师可以直接复用课程内容，无需反复创建。
 
 
-![](https://cofile.eeo.cn/res-store%2F325de4162bce34aacc6dba1990524586e461d0abea03b7edcceab037af151517_9482110?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=e4f6d8db10b81e5662fae626453e59ee0ae15c97)
+![](https://cofile.eeo.cn/res-store%2F325de4162bce34aacc6dba1990524586e461d0abea03b7edcceab037af151517_9482110?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=0284b3c314fef7b25fcea3a45568b0d17699e67e)
 
 
 ### 四、 优化消息页面的布局
@@ -218,7 +218,7 @@ ClassIn X课堂智能体【AI笔顺】，教师可在授课过程中调用所需
 在消息页面，“进入班级”的入口调整至tab切换，右上角的位置改为三个点的“更多”。用户点击“更多”时，显示班级成员、班级介绍等班级信息。
 
 
-![](https://cofile.eeo.cn/res-store%2Ff6d0d12964536ed38c0682e3512b515dbce1eab88d55c3a4e586cff3e2b1d69a_781498?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=6a634bac57cc6ac7c7711627aa8db05132dd12d8)
+![](https://cofile.eeo.cn/res-store%2Ff6d0d12964536ed38c0682e3512b515dbce1eab88d55c3a4e586cff3e2b1d69a_781498?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=f73fc5360ed06737278247522caa4b5b89c52dfc)
 
 
 ### 五、 个人导入的 Coze 智能体，支持修改个人访问令牌
@@ -227,7 +227,7 @@ ClassIn X课堂智能体【AI笔顺】，教师可在授课过程中调用所需
 为避免旧的个人访问令牌超时失效，用户可以进行更新（智能体ID不可修改）。
 
 
-![](https://cofile.eeo.cn/res-store%2F454dafeba2eea2ced2e9c8bfd1e4c88e699bce9e3d769e15080bb92ab5263605_425908?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=6ba1d87e786b17f74ed1650676ce40e7cae0aaca)
+![](https://cofile.eeo.cn/res-store%2F454dafeba2eea2ced2e9c8bfd1e4c88e699bce9e3d769e15080bb92ab5263605_425908?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=598bf3b61e497a73de86395d565b6f392c776977)
 
 
 ### 六、教学方案和学习方案支持子级文档页面
@@ -236,7 +236,7 @@ ClassIn X课堂智能体【AI笔顺】，教师可在授课过程中调用所需
 支持教师使用“文档”功能来添加子文档页面，可以更加结构化的创建教学方案和学习方案。
 
 
-![](https://cofile.eeo.cn/res-store%2Ffb3107d02f4c190058468f6dbe58db5c3be68a5bbb3d51c651913746f9be8481_739613?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=51aa2b76908c07a13aaa141c3163685e60dee5b4)
+![](https://cofile.eeo.cn/res-store%2Ffb3107d02f4c190058468f6dbe58db5c3be68a5bbb3d51c651913746f9be8481_739613?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=24407cf8a65ca27bf0f441eaeb111847c615970e)
 
 
 ### 七、新建共创的空白页时，系统弹出从模板中心选择模板
@@ -245,7 +245,7 @@ ClassIn X课堂智能体【AI笔顺】，教师可在授课过程中调用所需
 方便用户从“公开模板”和“最近使用”中，直接选择合适的模板，提高新建页面的效率
 
 
-![](https://cofile.eeo.cn/res-store%2F5baeef729c3b69b01a115de2f132e460b307fb703fb55b99e832a3f71566e6d2_1028349?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=c12b45629edd3ad2e3e6b60278129c86ac0367be)
+![](https://cofile.eeo.cn/res-store%2F5baeef729c3b69b01a115de2f132e460b307fb703fb55b99e832a3f71566e6d2_1028349?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=bf9279081f7f753d0734c06f9fd3730d1836b74d)
 
 
 ### 八、增加AI口语卡的最大朗读时长
@@ -266,7 +266,7 @@ ClassIn X课堂智能体【AI笔顺】，教师可在授课过程中调用所需
 用户打开组织云盘后，如果有上传的权限，可以直接拖拽文件和文件夹进行上传。
 
 
-![](https://cofile.eeo.cn/res-store%2F06a7b5072a5f558e2a9c02f96254b7d573a31d05c93e059ee6e059cbfdb58647_295717?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=3e1a22d272c10dc249dacc1d6ac34e454487a8b5)
+![](https://cofile.eeo.cn/res-store%2F5f562b5fa0ac7cf35cec41e419657d031ca5cd7a851b1a911249bdd1b4a5c987_254103?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=53123fda3c82cbc63b88d7125fb814bfdf77edae)
 
 
 ### 十一、教室内浏览器工具支持搜索功能
@@ -278,7 +278,7 @@ ClassIn X课堂智能体【AI笔顺】，教师可在授课过程中调用所需
 对于多向浏览器，仅当老师看自己页面时支持搜索功能。当学生操作或者教师看学生时，教师无法搜索。
 
 
-![](https://cofile.eeo.cn/res-store%2F41fee9e13f6c3fe77c06dcfd9cbae173199278db966bc54e877266a64754266e_37813?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=cf8203717ede81903cf2a04bbe3d2597d838a5e9)
+![](https://cofile.eeo.cn/res-store%2Ff6205f16a3079c124c032df2160e9f177a6f6380ad2801d601f8bed075e5035b_422416?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=736b41aa7b4d3f5ec3baa34ed401f269372220c8)
 
 
 ## ClassIn X 6.0.2
@@ -293,7 +293,7 @@ ClassIn X课堂智能体【AI笔顺】，教师可在授课过程中调用所需
 该功能可以方便“只关注课堂”的用户，直观的查看授课的进度，快速找到后续的课程安排，保留部分原有ClassIn5.0的用户习惯。
 
 
-![](https://cofile.eeo.cn/res-store%2Fdd60f6f594681236185e3ce67f4f3975eb1bd603dc46a2679286e4cbd8c495ab_101644?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=43c59fa42211490c731f307640c7fb1d88ce54d8)
+![](https://cofile.eeo.cn/res-store%2F3d2ac04c660f63efff4e6ee844e62ee9ce642ae2d987b491d6c54765016fdc43_691661?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=824104f1a029b4f71159a04019f27ca83545d5ca)
 
 
 ### 二、优化待办的分类和排序
@@ -302,13 +302,13 @@ ClassIn X课堂智能体【AI笔顺】，教师可在授课过程中调用所需
 优化“待处理”分类的数据，快速清晰展示用户需要处理的教学活动。将用户“未开始”或“老师暂时不需要批阅的活动”，移到了增加的“预计待办”分类中，方便用户查看未来要处理的教学活动，合理安排时间
 
 
-![](https://cofile.eeo.cn/res-store%2F6751208babb6be12a066c25f8702b2050338eee65f6a0f14d603d495e7feed45_88459?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=6fc2dce98b2698165546676aee1ac6493d13dbde)
+![](https://cofile.eeo.cn/res-store%2F06a7b5072a5f558e2a9c02f96254b7d573a31d05c93e059ee6e059cbfdb58647_295717?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=002cd7d874d21adb1f5177c9ecb6161548424890)
 
 
 在首页“近期待办”内的“一天内待办”中，会优先显示其中的课堂活动，避免错过直播课，其余的教学活动作为次优显示
 
 
-![](https://cofile.eeo.cn/res-store%2F171fb215fc71d540ad11831c5dad224027df9e17221396af6c1ad313e0c17b3a_188706?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=81bc0c9dc9c78f925167d664997b4477ff596494)
+![](https://cofile.eeo.cn/res-store%2F41fee9e13f6c3fe77c06dcfd9cbae173199278db966bc54e877266a64754266e_37813?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=27b7fa4a2db4841e2fd27db1841e48530c8b579b)
 
 
 ### 三、聊天页面点击上课活动的卡片，可查看课堂详情页
@@ -317,7 +317,7 @@ ClassIn X课堂智能体【AI笔顺】，教师可在授课过程中调用所需
 用户在聊天时也能查看到完整的课堂信息，方便用户安排学习和教学计划
 
 
-![](https://cofile.eeo.cn/res-store%2Fe01b65a1c52f2e91965d6980c8b8373bb3c0e24d1c7e3b5ee1ecc50dfe150209_123173?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=c1562d5575ed2df313e8726671027348ecd644c5)
+![](https://cofile.eeo.cn/res-store%2Fdd60f6f594681236185e3ce67f4f3975eb1bd603dc46a2679286e4cbd8c495ab_101644?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=bd1193f2b182ce914f1c1b01c67b99e3d81fb915)
 
 
 ## ClassIn X 6.0.1
@@ -332,19 +332,19 @@ ClassIn X课堂智能体【AI笔顺】，教师可在授课过程中调用所需
 教学方案和学习方案UI调整，显示更加简洁
 
 
-![](https://cofile.eeo.cn/res-store%2Fbb63b91f31d4e29ae323b9da88d462045b46f4ea9156fe26487647fe4728858b_113187?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=3da768251c8a3941c7f6b97d5e63c5cf8b4d30bb)
+![](https://cofile.eeo.cn/res-store%2F6751208babb6be12a066c25f8702b2050338eee65f6a0f14d603d495e7feed45_88459?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=e40dee60910c1efecca443f4bde000f63506a912)
 
 
 在课程详情页，增加“正序/倒序”的排序功能。
 
 
-![](https://cofile.eeo.cn/res-store%2F1ede0aee394ce722f714e831c3c8cce0956b6ab60015611a1110b3be7da04b91_110366?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=18f1fcd3bb7c5933df4cf7daf844d38326f561b4)
+![](https://cofile.eeo.cn/res-store%2F171fb215fc71d540ad11831c5dad224027df9e17221396af6c1ad313e0c17b3a_188706?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=e69584afebaf558bc91eaa9eae2b56a467291330)
 
 
 在课程详情页，教学活动的信息中增加显示“星期”和“老师”。
 
 
-![](https://cofile.eeo.cn/res-store%2F90b24588f6f9df3ae8c112dace90a7d1c1c3c9316f723e3ed1737b59dec3e46a_171072?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=ce0d20c83f0f9b825ce5e2c1336ac9e99dd46095)
+![](https://cofile.eeo.cn/res-store%2Fe01b65a1c52f2e91965d6980c8b8373bb3c0e24d1c7e3b5ee1ecc50dfe150209_123173?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=ca5f71d6371b02849d5c4553883e2be9c5c841eb)
 
 
 ### 二、 首页非置顶区的班级排序优化
@@ -353,13 +353,13 @@ ClassIn X课堂智能体【AI笔顺】，教师可在授课过程中调用所需
 对于首页班级卡片的非置顶区，新加入的班级在最前面；当某个班级里有新增的课堂等LMS活动时，系统将该班级移到最前面。
 
 
-![](https://cofile.eeo.cn/res-store%2Fefc9dc182f812055cbfe07b2fd736bb402584691155184240f045d3c92814e7c_200086?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=61306d7f41b622cf09618a25d15cb9fd1c5c2e04)
+![](https://cofile.eeo.cn/res-store%2Fbb63b91f31d4e29ae323b9da88d462045b46f4ea9156fe26487647fe4728858b_113187?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=da64d7ebb62f9c0887e5dfc8a3df3f9a2208bcfb)
 
 
 ### 三、消息页增加支持搜索功能
 
 
-![](https://cofile.eeo.cn/res-store%2F3a7b5b51b2eab54f0a0af97347aef87a97b68918d8e9f234f99f883fd4c80acb_624215?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=376d4e4ac1a0a7115cc6e1b2b582ce8c58950fb1)
+![](https://cofile.eeo.cn/res-store%2F1ede0aee394ce722f714e831c3c8cce0956b6ab60015611a1110b3be7da04b91_110366?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=176a5d11522fc40cb5e9d582e12d90c6669f6270)
 
 
 ### 四、联系人的个人信息卡片，增加显示当前用户的账号信息
@@ -368,7 +368,7 @@ ClassIn X课堂智能体【AI笔顺】，教师可在授课过程中调用所需
 采用打码的方式，增加显示用户的手机和邮箱的信息
 
 
-![](https://cofile.eeo.cn/res-store%2F864994a19142efbcfe982006762f80d7fc380b6c4a925fe1be8d25d382374494_1101486?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=acd1079fa24735f80dfa49bf46d05b632bb26752)
+![](https://cofile.eeo.cn/res-store%2F90b24588f6f9df3ae8c112dace90a7d1c1c3c9316f723e3ed1737b59dec3e46a_171072?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=0ce0fce911f32a5141bd469f6759421c75f1b396)
 
 
 ### 五、 支持用户自定义更换班级封面
@@ -377,13 +377,13 @@ ClassIn X课堂智能体【AI笔顺】，教师可在授课过程中调用所需
 在班级详情页，教师可以自定义更换班级封面，更换后的图片将显示在ClassIn首页的班级卡片中
 
 
-![](https://cofile.eeo.cn/res-store%2F3bad13a9c5c8a650470c00833a25dba63bfa2aeae72322b09e6c50ed270fc90b_939241?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=d833a95f4fadf0e341e6031b70ccc7e18496dc59)
+![](https://cofile.eeo.cn/res-store%2Fefc9dc182f812055cbfe07b2fd736bb402584691155184240f045d3c92814e7c_200086?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=42be52fc15b640fe684da987a7730fc3d927acbf)
 
 
 ### 六、班级设置增加“分享班级”的入口
 
 
-![](https://cofile.eeo.cn/res-store%2Fb8c02337f8f1ec28e7a98e33bc43c375770c6dd60f2520db9e3e2bf523c63443_482193?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=4338071f58c9e83754ac94492e926c91dcf8b71b)
+![](https://cofile.eeo.cn/res-store%2F3a7b5b51b2eab54f0a0af97347aef87a97b68918d8e9f234f99f883fd4c80acb_624215?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=388b24c55d5adea5d2035b18bb1e483e31a751e8)
 
 
 ### 七、课程的返回功能优化
@@ -392,13 +392,13 @@ ClassIn X课堂智能体【AI笔顺】，教师可在授课过程中调用所需
 当用户从其他页面（包含首页、消息、待办和课程表），进入到班级详情页后，点击左上方的“返回”按钮，将会返回到原页面
 
 
-![](https://cofile.eeo.cn/res-store%2F192f690739b0269cb926fa67428e3994de67bac9973964890dfe1dc4e8afe380_488712?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=d192d99e02bb26e1a7df2f42131a63713d11aef0)
+![](https://cofile.eeo.cn/res-store%2F864994a19142efbcfe982006762f80d7fc380b6c4a925fe1be8d25d382374494_1101486?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=c94c8cbf3dd420733d841ec7a00f5bb36cd97e61)
 
 
 ### 八、灵动岛的上课卡片显示实时上课人数
 
 
-![](https://cofile.eeo.cn/res-store%2F0097067a6c3f40702dd539cc8d8d66ea0bcfd10afdd2d44d02724b314de5b3d0_938350?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=c24427c5e7441733e154f0ada97e86bb6595ef54)
+![](https://cofile.eeo.cn/res-store%2F3bad13a9c5c8a650470c00833a25dba63bfa2aeae72322b09e6c50ed270fc90b_939241?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=b2c539f82caa66b57ac80f3131564ff6e6edd9a7)
 
 
 ## ClassIn 6.0：智启未来教育，构建以学习者为中心的多元化教学生态
@@ -449,13 +449,13 @@ ClassIn 6.0 创新性地引入“多课程教学”体系，彻底颠覆了以�
 “多课程教学”的创新设计，赋予教师前所未有的教学组织灵活性和创新空间，使其能够更精细化地管理教学内容和活动，满足多样化的教学需求。
 
 
-![](https://cofile.eeo.cn/res-store%2F68d80ec04eaa13e3da4d29f7ba03ddf572f70bf8a69005ebd7563ea657526b76_301926?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=e3c029c1c67c2c7d7bbeb712c2bc1a1556a9ba2c)
+![](https://cofile.eeo.cn/res-store%2Fb8c02337f8f1ec28e7a98e33bc43c375770c6dd60f2520db9e3e2bf523c63443_482193?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=94d35edcc9db380b1f4594b923eb248f761a8ad7)
 
 
 #### 【共创文档】从单向知识传递到深度协作共创，培养学生合作与创新能力
 
 
-![](https://cofile.eeo.cn/res-store%2F850eb5b0b53948b8011c834447eb2c2a09c016bba4585624c2e2a3121570a505_4104041?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=2c285dad8a018b724af3fa47f178cfece891cd58)
+![](https://cofile.eeo.cn/res-store%2F192f690739b0269cb926fa67428e3994de67bac9973964890dfe1dc4e8afe380_488712?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=c213a63f527d4fc626b8dea0e56e745ee0732371)
 
 
 ClassIn 6.0 隆重推出强大的“共创文档”功能，标志着我们向深度学习迈出了坚实的一步，旨在激发学生的协作精神和创新能力。教师可以便捷地创建、命名和管理多个独立的协作文档，支持多样化的协作活动，广泛应用于：
@@ -491,7 +491,7 @@ ClassIn 6.0 深度整合了先进的 AI 技术，构建了强大的“AI 智能�
 AI 助教：能够深刻理解学生基于班级内教学资源（如课件、文档）提出的问题，并智能推荐相关内容或提供精准的答案线索。这为学生提供了全天候的个性化答疑和即时资源导航，有效支持学生的自主学习，并显著减轻教师解答重复性问题的负担。
 
 
-![](https://cofile.eeo.cn/res-store%2F74b6e78853ea409285e8017eff8c7b25efb8cc1ee77ec091acff51cca604a580_104190?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=4d92284e010c3c4a9d0c18040b7813ae4f81437e)
+![](https://cofile.eeo.cn/res-store%2F0097067a6c3f40702dd539cc8d8d66ea0bcfd10afdd2d44d02724b314de5b3d0_938350?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=af2d40ddae0bef3966bce18c0f83bdb430114fd5)
 
 
 AI 学情分析：动态分析课堂互动数据、作业完成度等多维度学情信息，并生成关于知识点掌握程度、个体学习进度、课堂参与度等方面的可视化报告。这些基于数据驱动的洞察，将帮助教师更精准地了解每位学生的学习状况，为真正实现个性化、差异化教学提供强有力的决策依据。
@@ -506,31 +506,31 @@ ClassIn 6.0 将 AI 的强大能力融入到各项教学活动中，旨在帮助�
 作业AI批改：AI 能够辅助教师进行作业批改，提供智能化的评价建议和文本内容的 AI 润色，从而大幅减轻教师的批改工作量，同时为学生提供更及时、更全面的反馈，促进其学习提升。
 
 
-![](https://cofile.eeo.cn/res-store%2Ff3554ea93e52c99e0246efcf44e73f631dd6d5dfbe826f3cea42a331093b81b8_531635?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=72a749b8be7481ef0dc8239c8b64063d5c1c4217)
+![](https://cofile.eeo.cn/res-store%2F68d80ec04eaa13e3da4d29f7ba03ddf572f70bf8a69005ebd7563ea657526b76_301926?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=f7857db4ccbbc245ed9aa1239f01a23a7d38eed2)
 
 
 测验AI出题：教师可以根据教学目标或特定的知识点，由 AI 智能生成不同难度和题型的测验题目，极大地提升了出题效率，并确保题目的质量和多样性。
 
 
-![](https://cofile.eeo.cn/res-store%2F4dccc69218180470e92f1deda743edb2bc581d18a11e053a41ae9d7a7b999259_448665?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=659e5621c455ebea99d7ae5f465aeb472ac1df99)
+![](https://cofile.eeo.cn/res-store%2F850eb5b0b53948b8011c834447eb2c2a09c016bba4585624c2e2a3121570a505_4104041?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=3e8584a309c0febbc0e7aed7f2044995594f788f)
 
 
 录课回放与录播课AI总结：AI 能够自动为录制的课程回放和录播视频生成清晰的章节标记、详细的内容描述以及精准的摘要，方便学生高效地回顾和掌握学习内容。
 
 
-![](https://cofile.eeo.cn/res-store%2F6819696e6f62f1d15d78303e7c61375b56878c342e7d7ec9a4e22a661a739dd0_99772?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=1ebf2ab3b842689a6a2a28c2cd2cef1e696f0703)
+![](https://cofile.eeo.cn/res-store%2F74b6e78853ea409285e8017eff8c7b25efb8cc1ee77ec091acff51cca604a580_104190?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=7b4ab3241be5c826eb1c641c0a5afd41868834b5)
 
 
 口语卡AI出题：教师可以基于教学目标或特定的知识点，由 AI 轻松生成高质量的英文单词和句子，有效丰富口语教学内容。
 
 
-![](https://cofile.eeo.cn/res-store%2F97c1c9af59c895abcfd9d4994b9be02e5cb713013fd347976d0d31df1d6292f5_174786?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=9284003c223817ab83687652b134964ac491e0b5)
+![](https://cofile.eeo.cn/res-store%2Ff3554ea93e52c99e0246efcf44e73f631dd6d5dfbe826f3cea42a331093b81b8_531635?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=085a7238a118a365ecbf60f29762a5c4a4d183aa)
 
 
 答题卡AI解析：AI 能够自动识别附件中答题区域的选项，并自动完成数据录入和分析，显著简化了数据处理的流程，提升效率。
 
 
-![](https://cofile.eeo.cn/res-store%2F7130267fcd07a6e73cb5ed709bfb47098c0ce01187896fb11b63cd585855a3f7_452807?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=53964d5cf92b095494934172c840d424be17a420)
+![](https://cofile.eeo.cn/res-store%2F4dccc69218180470e92f1deda743edb2bc581d18a11e053a41ae9d7a7b999259_448665?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=1c79bc4edf9828819b2aadf16a68ee9336588f80)
 
 
 ### 管理与体验升级，化繁为简，聚焦核心教学流程
@@ -542,7 +542,7 @@ ClassIn 6.0 将 AI 的强大能力融入到各项教学活动中，旨在帮助�
 全新的首页以支持自定义头图的网格视图呈现班级列表，每张班级卡片都清晰直观地展示了待办事项、最新公告和共创文档的动态提醒。同时，我们新增了全局性的“待办列表”，并创新推出了便捷的“灵动岛”全局上课快捷入口，助力您更加快速、高效地进入课堂。
 
 
-![](https://cofile.eeo.cn/res-store%2Ff3d399faa7a0a1b2c4b9770abb66ae15d300e5d9187a170aab670f53d5b67d77_392282?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=4a0ca119009525a45e0eee487cb75000eb180339)
+![](https://cofile.eeo.cn/res-store%2F6819696e6f62f1d15d78303e7c61375b56878c342e7d7ec9a4e22a661a739dd0_99772?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=3f93a5e092681014c36e05a3a25149e9f3d46b4d)
 
 
 #### 【待办优化】核心任务聚焦，重要事项高效触达
@@ -551,7 +551,7 @@ ClassIn 6.0 将 AI 的强大能力融入到各项教学活动中，旨在帮助�
 全新的全局“待办”功能更加聚焦核心教学任务，默认展示所有需要处理的待办事项，精简了易被忽略的提醒时段设置，并新增了“一天内”的快速筛选功能，确保您不会遗漏任何重要的教学任务，从而显著提升教学效率和任务管理能力。
 
 
-![](https://cofile.eeo.cn/res-store%2Fd4594911ed96c282c51cfffd4cd93670ecbea9d6322399e1ab435a971624984e_318480?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1789920000;1790524800&q-key-time=1789920000;1790524800&q-header-list=host&q-url-param-list=&q-signature=df5197d6a797e711e5a92b08b1faa331b59cb24f)
+![](https://cofile.eeo.cn/res-store%2F97c1c9af59c895abcfd9d4994b9be02e5cb713013fd347976d0d31df1d6292f5_174786?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=3bc122c1241cc9494512a8b98c48a0fa4d69876c)
 
 
 #### 【界面与交互】现代设计语言，极致流畅操作体验

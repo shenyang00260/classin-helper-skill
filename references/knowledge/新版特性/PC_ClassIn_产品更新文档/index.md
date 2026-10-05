@@ -29,7 +29,7 @@ Classin AI授课分析基于课堂的录课视频，分析老师的表达及互
 首先，在机构后台“学校设置-增值服务”中打开AI授课分析开关。
 
 
-![](https://cofile.eeo.cn/res-store%2F378957c45677a92b18c050c7f79982f2a183eafa9c86a0b7368b9dc7ae3c3523_667687?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=2685eb634c3a4bcf6e9c8e469b44e46775fdb7d4)
+![](https://cofile.eeo.cn/res-store%2F378957c45677a92b18c050c7f79982f2a183eafa9c86a0b7368b9dc7ae3c3523_667687?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=1803648dbcbf56e2a4eb82d3475b37c52e605af1)
 
 
 注：除专业版&月享版不可使用外，其他付费版本可自助开启
@@ -41,7 +41,7 @@ Classin AI授课分析基于课堂的录课视频，分析老师的表达及互
 注：分析仅针对课堂实时产生的回放，不包括手动上传的课堂回放视频和LMS录播课
 
 
-![](https://cofile.eeo.cn/res-store%2F816253c5750c9aaad31fe80320ccfc609b5ed8612b73e86bd7dc365747155cea_207132?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=b0fb492e5e72e69c387f16dfc373bd8f5f243f85)
+![](https://cofile.eeo.cn/res-store%2F816253c5750c9aaad31fe80320ccfc609b5ed8612b73e86bd7dc365747155cea_207132?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=d832bd5a0300459eb9ad1d0a5778bcdb7927e85e)
 
 
 开启AI授课分析的课堂，在下课后，即可在机构后台“教师发展”模块，或客户端“录课回放”页面查看报告。
@@ -50,19 +50,19 @@ Classin AI授课分析基于课堂的录课视频，分析老师的表达及互
 在后台的“教师发展”模块，管理者可浏览近期所有课堂表现情况（包括总得分和需要关注的问题），并查看和下载每节课详细报告。
 
 
-![](https://cofile.eeo.cn/res-store%2Fd5c116777b4b68f22aeb40e2cabe06f18dbb9f6cc051824d406793705af84eeb_1259252?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=a5a47107a930f5207cdadc0cf154ee3ec9d2e542)
+![](https://cofile.eeo.cn/res-store%2Fd5c116777b4b68f22aeb40e2cabe06f18dbb9f6cc051824d406793705af84eeb_1259252?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=c7dc1d1485fda00cc3c36a519549e7eaf42255bf)
 
 
 仅本节课授课老师，可以在下课后，在客户端查看并下载报告，其他人在客户端无法查看。
 
 
-![](https://cofile.eeo.cn/res-store%2F368455b721338fcf2b68ad9335f4dbd0d185f9694f0aa7ea89a20e1cdc4937bf_1399957?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=b9883d08c5f3a958f842ac1e665a4d93291fa5c3)
+![](https://cofile.eeo.cn/res-store%2F368455b721338fcf2b68ad9335f4dbd0d185f9694f0aa7ea89a20e1cdc4937bf_1399957?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=75217f9519446bfde4387999f0d1c1c6635bb53b)
 
 
 完整的AI授课分析报告如下：
 
 
-![](https://cofile.eeo.cn/res-store%2F01108dfabaed5f8f4164c6dc661b369390be79201d3dcf58e7430a3db2ab7d33_1423582?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=0207d8be85e4332e165a2e57f56d6b5317f1bced)
+![](https://cofile.eeo.cn/res-store%2F01108dfabaed5f8f4164c6dc661b369390be79201d3dcf58e7430a3db2ab7d33_1423582?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=47322c4a173209cb5d5e26fad4a30b72b51472de)
 
 
 ### 2. 全新AgentIn智能体商店
@@ -71,7 +71,7 @@ Classin AI授课分析基于课堂的录课视频，分析老师的表达及互
 AgentIn智能体商店，是赋能每一位教育者的AI智能体伙伴。在各种真实的教学场景和流程中，教师可以直接调用AgentIn提供的智能体，来提高工作效率，还可以根据自身的需求来创造智能体，让AgentIn成为真正懂教育的伙伴。
 
 
-![](https://cofile.eeo.cn/res-store%2Fd13a3afab7ac349c8bca65864296d627f86c92a9602bba95a8e4486f6212cfce_1370263?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=d082feca789d5a2354397ab84c2f406166015198)
+![](https://cofile.eeo.cn/res-store%2Fd13a3afab7ac349c8bca65864296d627f86c92a9602bba95a8e4486f6212cfce_1370263?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=1ce386d8f20963199d33476779ea55c3bc59662d)
 
 
 #### 2.1  官方智能体使用流程
@@ -83,7 +83,7 @@ AgentIn智能体商店，是赋能每一位教育者的AI智能体伙伴。在�
 教师进入班级去“新建测验”，在添加题目时进入“AgentIn智能体”
 
 
-![](https://cofile.eeo.cn/res-store%2F27ae15c045aa5fe512955cefb432c093ad77c4e9cd12b7700d26bf2385d60907_1373204?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=30523b9df40cc9d339fe980312fff008f6ee52ef)
+![](https://cofile.eeo.cn/res-store%2F27ae15c045aa5fe512955cefb432c093ad77c4e9cd12b7700d26bf2385d60907_1373204?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=84c8ee25c4fa9231ca259895f098e3230e6e304d)
 
 
 第一次进入AgentIn智能体商店时，用户需要选择身份、年级和学科，系统会根据用户的选择推荐适合的智能体。
@@ -92,10 +92,10 @@ AgentIn智能体商店，是赋能每一位教育者的AI智能体伙伴。在�
 注：这些选择项可以随时在AgentIn智能体商店顶部进行修改
 
 
-![](https://cofile.eeo.cn/res-store%2Fa597a940a8ec591560af9fa9328ff36f117df0d4883a816ff0c730e7085d3459_2416777?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=129070e40d4ae1ac5e47c35ddef5710e26bd81e0)
+![](https://cofile.eeo.cn/res-store%2Fa597a940a8ec591560af9fa9328ff36f117df0d4883a816ff0c730e7085d3459_2416777?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=97441ca0028ca7adc0129191026ba41706a8ca0f)
 
 
-![](https://cofile.eeo.cn/res-store%2F1850c45ebdc14d4df61048d679362f2a6735836c0ab174924028531e56954d35_1664293?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=830bf86a88a061e9f250dcb2f8747b5405f721b6)
+![](https://cofile.eeo.cn/res-store%2F1850c45ebdc14d4df61048d679362f2a6735836c0ab174924028531e56954d35_1664293?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=a369ff2addeb8229ab2f5a30ce45daa88dfb845b)
 
 
 在AgentIn智能体商店中，在“猜你喜欢”中有系统推荐的智能体；在“全部场景”中可以选择适合的场景标签（例如：批作业、出题、上课等），即可看到该场景下的全部智能体，方便快速寻找。
@@ -104,13 +104,13 @@ AgentIn智能体商店，是赋能每一位教育者的AI智能体伙伴。在�
 选择“出题”场景，可快速找到“初中英语智能出题”智能体。先通过对话，体验该智能体的出题效果，如果满足教学需求，点击“添加” ，即可将该智能体添加到班级的教学活动中。
 
 
-![](https://cofile.eeo.cn/res-store%2Fd13a3afab7ac349c8bca65864296d627f86c92a9602bba95a8e4486f6212cfce_1370263?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=d082feca789d5a2354397ab84c2f406166015198)
+![](https://cofile.eeo.cn/res-store%2Fd13a3afab7ac349c8bca65864296d627f86c92a9602bba95a8e4486f6212cfce_1370263?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=1ce386d8f20963199d33476779ea55c3bc59662d)
 
 
 添加完成后，回到班级，教师在该班级里创建测验时，可以随时使用“初中英语智能出题”智能体，既不影响原有的教学习惯，也通过AI显著提升出题的效率 。
 
 
-![](https://cofile.eeo.cn/res-store%2F6f931f7f9bbbedb82d530d7fca685019efc4671d44f7af5d527a653f26180a20_666342?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=517823c34ddc3a97006439b97541d3a343ece992)
+![](https://cofile.eeo.cn/res-store%2F6f931f7f9bbbedb82d530d7fca685019efc4671d44f7af5d527a653f26180a20_666342?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=a743585209fcb5650a18662fdf57e854936588f1)
 
 
 #### 2.2 创建自定义的智能体
@@ -122,7 +122,7 @@ AgentIn智能体商店，是赋能每一位教育者的AI智能体伙伴。在�
 注：如需开通新版AgentIn智能体商店功能，请联系您的专属客户经理
 
 
-![](https://cofile.eeo.cn/res-store%2F924509d5182714901174cd40119dd6e8f4b757137f6b02cd5920c08a9a7a8f36_538576?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=1517925a6a4e07fc20af3b1c5b65e6ea4a3f0a53)
+![](https://cofile.eeo.cn/res-store%2F924509d5182714901174cd40119dd6e8f4b757137f6b02cd5920c08a9a7a8f36_538576?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=5c31ec6fb0757b709efa6e824f2d0df65184d8ed)
 
 
 下面以“创建一个作文批阅专家智能体”为例，展示整个使用过程：
@@ -134,19 +134,19 @@ AgentIn智能体商店，是赋能每一位教育者的AI智能体伙伴。在�
 说明：ClassIn提供各种常用教学智能体的模板，方便教师们直接使用，也可以使用“自定义”的方式，制作特定类型的智能体。
 
 
-![](https://cofile.eeo.cn/res-store%2F5fe3e6fadfdde742cc0c98ff1ad4757b45eac4cc97b852907c32556bc0d81c2d_573002?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=279aaacb54ebbae87b03dafb10e757435b7a472e)
+![](https://cofile.eeo.cn/res-store%2F5fe3e6fadfdde742cc0c98ff1ad4757b45eac4cc97b852907c32556bc0d81c2d_573002?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=b124ed659412ad6a78c4a10386bc89bef08cf246)
 
 
 在页面左侧填写个性化的“人设与回复逻辑”，让智能体的批改符合教师的需求，同时也有一些高级设置可供选择。之后，在页面右侧就可以测试该智能体的效果，如果测试通过，点击“发布”，进入发布流程。
 
 
-![](https://cofile.eeo.cn/res-store%2Fec2006e510879034e3a7e32c7473a6ed1056015e4a0d4da6eec166fa363d6c54_511467?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=9ce28b2354f3adc7c3db18b6d499e927f30034c0)
+![](https://cofile.eeo.cn/res-store%2Fec2006e510879034e3a7e32c7473a6ed1056015e4a0d4da6eec166fa363d6c54_511467?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=5c7d3c69d6108549ce915aa787cf44e3ccc4692d)
 
 
 发布智能体时，如果选择“仅我可见”，则只有创建的用户可以使用该智能体；如果选择“上架到智能体商店”，则对ClassIn全体公开，可以分享给其他教师使用。
 
 
-![](https://cofile.eeo.cn/res-store%2F52a337b26e21878badc5a16b0e83c300f95850b74f6695b9dd2476e72a714c85_9388547?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=4a65dcf02c350a5ab9ef902b2d3d6ce93aa58ae2)
+![](https://cofile.eeo.cn/res-store%2F52a337b26e21878badc5a16b0e83c300f95850b74f6695b9dd2476e72a714c85_9388547?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=2e952ca5e4549ee185f8aec0f06077eeb9535e00)
 
 
 ### 3. Classin小店全面升级
@@ -161,19 +161,19 @@ Classin小店是专为教育机构打造的一站式知识交易与交付平台�
 教师在教学工具中，打开“ClassIn小店”，可以进行商品售卖。该课堂可售卖的商品范围，在机构后台进行设置。课堂中，教师可以操作“售卖中”和“待售卖”两类商品，单个商品的售卖状态在ClassIn教室、网页大直播和小程序中保持一致。
 
 
-![](https://cofile.eeo.cn/res-store%2F325de4162bce34aacc6dba1990524586e461d0abea03b7edcceab037af151517_9482110?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=75430554ed3d21ceeca0edea7a7ff692bbb7f3d1)
+![](https://cofile.eeo.cn/res-store%2F325de4162bce34aacc6dba1990524586e461d0abea03b7edcceab037af151517_9482110?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=0284b3c314fef7b25fcea3a45568b0d17699e67e)
 
 
 处于“售卖中”状态的商品，学生可以看到并购买。教师将商品进行“停售”操作后，学生将无法看到和购买该商品。
 
 
-![](https://cofile.eeo.cn/res-store%2Ff6d0d12964536ed38c0682e3512b515dbce1eab88d55c3a4e586cff3e2b1d69a_781498?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=28b6f67addd33b4eb7833deebee14ff0c6371c33)
+![](https://cofile.eeo.cn/res-store%2Ff6d0d12964536ed38c0682e3512b515dbce1eab88d55c3a4e586cff3e2b1d69a_781498?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=f73fc5360ed06737278247522caa4b5b89c52dfc)
 
 
 教师将商品进行“出售”操作后，学生可以看到并购买该商品。处于“待售卖”状态的商品，学生无法看到该商品。
 
 
-![](https://cofile.eeo.cn/res-store%2F454dafeba2eea2ced2e9c8bfd1e4c88e699bce9e3d769e15080bb92ab5263605_425908?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=965582bd69e3e79b0404e7fa73f58f8c7d577292)
+![](https://cofile.eeo.cn/res-store%2F454dafeba2eea2ced2e9c8bfd1e4c88e699bce9e3d769e15080bb92ab5263605_425908?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=598bf3b61e497a73de86395d565b6f392c776977)
 
 
 当课堂中有商品处于“售卖中”的状态时，学生可以随时手动打开Classin小店去查看和购买“售卖中”的商品，也可以手动关闭Classin小店，不影响观看屏幕的内容。当有商品从“待出售”变为“售卖中”后，Classin小店会自动在学生端弹出显示，提醒学生直接购买。
@@ -182,19 +182,19 @@ Classin小店是专为教育机构打造的一站式知识交易与交付平台�
 如果没有任何商品处于“售卖中”的状态，则学生无法查看Classin小店的入口。
 
 
-![](https://cofile.eeo.cn/res-store%2Ffb3107d02f4c190058468f6dbe58db5c3be68a5bbb3d51c651913746f9be8481_739613?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=ea480f4137a06466cddd87b809c2446a5bca5f5c)
+![](https://cofile.eeo.cn/res-store%2Ffb3107d02f4c190058468f6dbe58db5c3be68a5bbb3d51c651913746f9be8481_739613?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=24407cf8a65ca27bf0f441eaeb111847c615970e)
 
 
 在上课期间，当机构后台和教师都对一个商品进行出售或者停售的操作时，以最后一次操作的结果为准。
 
 
-![](https://cofile.eeo.cn/res-store%2F5baeef729c3b69b01a115de2f132e460b307fb703fb55b99e832a3f71566e6d2_1028349?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=773b20d02d23723893ef9f2eef2b7b44c7c42ba9)
+![](https://cofile.eeo.cn/res-store%2F5baeef729c3b69b01a115de2f132e460b307fb703fb55b99e832a3f71566e6d2_1028349?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=bf9279081f7f753d0734c06f9fd3730d1836b74d)
 
 
 机构后台新增班级的Classin小店。所有添加到班级Classin小店的商品，会出现在该班级下的每节课堂的商品里，方便教师定期售卖这些商品。
 
 
-![](https://cofile.eeo.cn/res-store%2F5f562b5fa0ac7cf35cec41e419657d031ca5cd7a851b1a911249bdd1b4a5c987_254103?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=1fd7eb349eb3ceb4174bea904850ec1683ef8314)
+![](https://cofile.eeo.cn/res-store%2F5f562b5fa0ac7cf35cec41e419657d031ca5cd7a851b1a911249bdd1b4a5c987_254103?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=53123fda3c82cbc63b88d7125fb814bfdf77edae)
 
 
 注：商品库功能下线，为方便机构更好的管理商品，后续预计将打通TeacherIn和ClassIn，用户在ClassIn里可以直接调取TeacherIn里的商品
@@ -218,19 +218,19 @@ Classin小店是专为教育机构打造的一站式知识交易与交付平台�
 新建作业时，可以选择相应的智能体开启“AI批阅”功能。 对于开启该功能的作业，当学生提交作业后，AI自动结合作业的要求进行预批阅，并且把生成结果作为草稿进行保存，教师确认后可直接发布，完成最终的批阅，解决AI批阅等候时长问题，提高效率。
 
 
-![](https://cofile.eeo.cn/res-store%2Ff6205f16a3079c124c032df2160e9f177a6f6380ad2801d601f8bed075e5035b_422416?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=fe2db355022f160fba1217e3d521c9522dd70d18)
+![](https://cofile.eeo.cn/res-store%2Ff6205f16a3079c124c032df2160e9f177a6f6380ad2801d601f8bed075e5035b_422416?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=736b41aa7b4d3f5ec3baa34ed401f269372220c8)
 
 
 AI作业预处理进度查看。
 
 
-![](https://cofile.eeo.cn/res-store%2F3d2ac04c660f63efff4e6ee844e62ee9ce642ae2d987b491d6c54765016fdc43_691661?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=d2da4f565c32d2f48479db131078c77e316da515)
+![](https://cofile.eeo.cn/res-store%2F3d2ac04c660f63efff4e6ee844e62ee9ce642ae2d987b491d6c54765016fdc43_691661?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=824104f1a029b4f71159a04019f27ca83545d5ca)
 
 
 作业内容与AI评语改为左右视图布局，对照查看更直观。
 
 
-![](https://cofile.eeo.cn/res-store%2F06a7b5072a5f558e2a9c02f96254b7d573a31d05c93e059ee6e059cbfdb58647_295717?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=8c28ab7131206be56e09caee4c8ed2603c841600)
+![](https://cofile.eeo.cn/res-store%2F06a7b5072a5f558e2a9c02f96254b7d573a31d05c93e059ee6e059cbfdb58647_295717?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=002cd7d874d21adb1f5177c9ecb6161548424890)
 
 
 #### b. 测验的AI出题功能，支持选择智能体
@@ -239,7 +239,7 @@ AI作业预处理进度查看。
 在ClassIn创建测验时，可以选择不同的智能体进行出题，满足个性化测验需求。
 
 
-![](https://cofile.eeo.cn/res-store%2F41fee9e13f6c3fe77c06dcfd9cbae173199278db966bc54e877266a64754266e_37813?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=32ae804b731fc3b3f4d5a3acb89cc6e09e127e77)
+![](https://cofile.eeo.cn/res-store%2F41fee9e13f6c3fe77c06dcfd9cbae173199278db966bc54e877266a64754266e_37813?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=27b7fa4a2db4841e2fd27db1841e48530c8b579b)
 
 
 #### c. 多个LMS活动中支持使用第三方导入的Agent
@@ -251,7 +251,7 @@ AI作业预处理进度查看。
 用户可将已在 Coze 或 Flowin 平台创建的 Agent 导入 ClassIn，在上述教学环节中直接使用。在不改变原有使用习惯的前提下，有效提升教学效率。
 
 
-![](https://cofile.eeo.cn/res-store%2Fdd60f6f594681236185e3ce67f4f3975eb1bd603dc46a2679286e4cbd8c495ab_101644?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=7ee0f981ba777e14aca4ffab8e692d25149fadd5)
+![](https://cofile.eeo.cn/res-store%2Fdd60f6f594681236185e3ce67f4f3975eb1bd603dc46a2679286e4cbd8c495ab_101644?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=bd1193f2b182ce914f1c1b01c67b99e3d81fb915)
 
 
 #### d. 录播课和课堂支持AI生成字幕列表
@@ -263,16 +263,16 @@ AI作业预处理进度查看。
 支持点击某条字幕，直接跳转到视频的对应时刻。
 
 
-![](https://cofile.eeo.cn/res-store%2F6751208babb6be12a066c25f8702b2050338eee65f6a0f14d603d495e7feed45_88459?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=f295571476d4189283a37318145f2afb1ed51102)
+![](https://cofile.eeo.cn/res-store%2F6751208babb6be12a066c25f8702b2050338eee65f6a0f14d603d495e7feed45_88459?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=e40dee60910c1efecca443f4bde000f63506a912)
 
 
 在创建课堂或者录播课时，可以选择是否生成字幕列表和章节总结。
 
 
-![](https://cofile.eeo.cn/res-store%2F171fb215fc71d540ad11831c5dad224027df9e17221396af6c1ad313e0c17b3a_188706?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=0f2f5a884f94b87709eac9d76c6cd4bd44422c75)
+![](https://cofile.eeo.cn/res-store%2F171fb215fc71d540ad11831c5dad224027df9e17221396af6c1ad313e0c17b3a_188706?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=e69584afebaf558bc91eaa9eae2b56a467291330)
 
 
-![](https://cofile.eeo.cn/res-store%2Fe01b65a1c52f2e91965d6980c8b8373bb3c0e24d1c7e3b5ee1ecc50dfe150209_123173?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=34538ca6bcf27e30b99c7c4e4f4f94234c1c4a83)
+![](https://cofile.eeo.cn/res-store%2Fe01b65a1c52f2e91965d6980c8b8373bb3c0e24d1c7e3b5ee1ecc50dfe150209_123173?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=ca5f71d6371b02849d5c4553883e2be9c5c841eb)
 
 
 #### e. 网页回放支持AI的章节总结和字幕列表
@@ -281,7 +281,7 @@ AI作业预处理进度查看。
 在PC端、移动端和千班优课小程序观看网页回放时，用户可以查看AI提供的章节总结和字幕列表功能，方便用户高效观看。
 
 
-![](https://cofile.eeo.cn/res-store%2Fbb63b91f31d4e29ae323b9da88d462045b46f4ea9156fe26487647fe4728858b_113187?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=94d77874fc19f8c1f47a5b2faf02a1aa484508c7)
+![](https://cofile.eeo.cn/res-store%2Fbb63b91f31d4e29ae323b9da88d462045b46f4ea9156fe26487647fe4728858b_113187?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=da64d7ebb62f9c0887e5dfc8a3df3f9a2208bcfb)
 
 
 #### f. 与Agent对话时支持上传多个图片和文件
@@ -293,7 +293,7 @@ AI作业预处理进度查看。
 注：单次上传的图片和文件数量之和最多为15个，单个图片不超过10MB，单个文件不超过100MB。一部分不适合上传图片和文件的Agent，将不开放该功能。
 
 
-![](https://cofile.eeo.cn/res-store%2F1ede0aee394ce722f714e831c3c8cce0956b6ab60015611a1110b3be7da04b91_110366?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=7173313949b892b75febf29b14824d8ddeb024fa)
+![](https://cofile.eeo.cn/res-store%2F1ede0aee394ce722f714e831c3c8cce0956b6ab60015611a1110b3be7da04b91_110366?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=176a5d11522fc40cb5e9d582e12d90c6669f6270)
 
 
 ### 2. 在线双师课堂优化，有效减轻教师负担
@@ -311,10 +311,10 @@ AI作业预处理进度查看。
 注：本功能不影响联席教师在聊天区、花名册、视频窗口下方工具等权限，依然可以维持课堂秩序。
 
 
-![](https://cofile.eeo.cn/res-store%2F90b24588f6f9df3ae8c112dace90a7d1c1c3c9316f723e3ed1737b59dec3e46a_171072?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=7dedac713c230311eae7564782db764f93f83595)
+![](https://cofile.eeo.cn/res-store%2F90b24588f6f9df3ae8c112dace90a7d1c1c3c9316f723e3ed1737b59dec3e46a_171072?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=0ce0fce911f32a5141bd469f6759421c75f1b396)
 
 
-![](https://cofile.eeo.cn/res-store%2Fefc9dc182f812055cbfe07b2fd736bb402584691155184240f045d3c92814e7c_200086?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=b3220ae5ca2cef67c8fed90ffe4fc6a3c3fbb667)
+![](https://cofile.eeo.cn/res-store%2Fefc9dc182f812055cbfe07b2fd736bb402584691155184240f045d3c92814e7c_200086?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=42be52fc15b640fe684da987a7730fc3d927acbf)
 
 
 #### b. 主课堂的主讲教师和联席教师，可以管理所有子课堂的聊天消息
@@ -326,7 +326,7 @@ AI作业预处理进度查看。
 注：联席教师需要同时设置为子课堂的联席教师，才允许在主课堂对该学生进行操作。如果教师重新进入主教室，则无法对以前的子班聊天消息进行禁言或者删除操作，只能去子班操作。
 
 
-![](https://cofile.eeo.cn/res-store%2F3a7b5b51b2eab54f0a0af97347aef87a97b68918d8e9f234f99f883fd4c80acb_624215?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=f1ade0e44925c81437a07308f94b152c266aba81)
+![](https://cofile.eeo.cn/res-store%2F3a7b5b51b2eab54f0a0af97347aef87a97b68918d8e9f234f99f883fd4c80acb_624215?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=388b24c55d5adea5d2035b18bb1e483e31a751e8)
 
 
 #### c. 支持设置课堂为默认“全体静音”状态
@@ -341,10 +341,10 @@ AI作业预处理进度查看。
 注： 主讲发起的跨班连麦不受影响。
 
 
-![](https://cofile.eeo.cn/res-store%2F864994a19142efbcfe982006762f80d7fc380b6c4a925fe1be8d25d382374494_1101486?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=0f7f7dd8deb6c970f6a7b27e3b76f5b5fe0794c7)
+![](https://cofile.eeo.cn/res-store%2F864994a19142efbcfe982006762f80d7fc380b6c4a925fe1be8d25d382374494_1101486?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=c94c8cbf3dd420733d841ec7a00f5bb36cd97e61)
 
 
-![](https://cofile.eeo.cn/res-store%2F3bad13a9c5c8a650470c00833a25dba63bfa2aeae72322b09e6c50ed270fc90b_939241?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=4545305b0b69ec6c3c0dcb1f6cdad9b89d67733a)
+![](https://cofile.eeo.cn/res-store%2F3bad13a9c5c8a650470c00833a25dba63bfa2aeae72322b09e6c50ed270fc90b_939241?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=b2c539f82caa66b57ac80f3131564ff6e6edd9a7)
 
 
 ### 3. 作业支持公式显示，提升公式编写与理解体验
@@ -362,7 +362,7 @@ AI作业预处理进度查看。
 适用范围包括教师的作业发布页面、AI帮我写页面、AI润色页面、AI批阅页面、图片批阅页面，以及学生的作答页面。
 
 
-![](https://cofile.eeo.cn/res-store%2Fb8c02337f8f1ec28e7a98e33bc43c375770c6dd60f2520db9e3e2bf523c63443_482193?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=b2d7cf53dee711a63cd82d4bcbaf9dc082794814)
+![](https://cofile.eeo.cn/res-store%2Fb8c02337f8f1ec28e7a98e33bc43c375770c6dd60f2520db9e3e2bf523c63443_482193?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=94d35edcc9db380b1f4594b923eb248f761a8ad7)
 
 
 ### 4. 云盘支持EDX文件，课堂交互更便捷
@@ -374,7 +374,7 @@ AI作业预处理进度查看。
 EDX文件只能在教室内由老师通过多向浏览器打开，其他身份无法打开。
 
 
-![](https://cofile.eeo.cn/res-store%2F192f690739b0269cb926fa67428e3994de67bac9973964890dfe1dc4e8afe380_488712?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=dccfbec6257245b691dc9edf5c97da8d047d4154)
+![](https://cofile.eeo.cn/res-store%2F192f690739b0269cb926fa67428e3994de67bac9973964890dfe1dc4e8afe380_488712?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=c213a63f527d4fc626b8dea0e56e745ee0732371)
 
 
 ### 5. 板中板支持接收端操作，协作更灵活
@@ -383,7 +383,7 @@ EDX文件只能在教室内由老师通过多向浏览器打开，其他身份�
 支持接收端显示板中板及内容。除教师外，助教与授权学生也可参与操作，课堂协作更灵活高效。
 
 
-![](https://cofile.eeo.cn/res-store%2F00aa4ac4e05b7a609a7866d63264a717c7892d0c4e8817ec63c702d8d3d48b2a_118541?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=ac1cbde46b098c0e44363c43023b83f9502ca29c)
+![](https://cofile.eeo.cn/res-store%2F00aa4ac4e05b7a609a7866d63264a717c7892d0c4e8817ec63c702d8d3d48b2a_118541?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=d657f5dd327bc64c27ee241c5069dc8b7848a5fa)
 
 
 ### 6. 班级回放链接支持在客户端获取，便于课后复习
@@ -392,13 +392,13 @@ EDX文件只能在教室内由老师通过多向浏览器打开，其他身份�
 课节详情页底部新增“班级直播回放”入口，班主任、教师和联席教师可直接获取整个班级的直播回放链接，并支持复制、分享给学生。
 
 
-![](https://cofile.eeo.cn/res-store%2F3b2209a273351d64c8555c71786d8c1509618a68b935c1e20ce5d7300ac24b9a_1478090?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=4a44dd130c07c6e94cb02f67d9234960ef66e761)
+![](https://cofile.eeo.cn/res-store%2F3b2209a273351d64c8555c71786d8c1509618a68b935c1e20ce5d7300ac24b9a_1478090?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=ebbf31cce3701c4f4262f5302f0ed93786c85e60)
 
 
 如需获取“班级直播回放”的链接，需要在后台“学校设置-网页直播回放”中开启允许老师在客户端获取班级网页直播回放链接。
 
 
-![](https://cofile.eeo.cn/res-store%2F0097067a6c3f40702dd539cc8d8d66ea0bcfd10afdd2d44d02724b314de5b3d0_938350?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=c3c4f2053030471d34f8ca0330fbff8392782dee)
+![](https://cofile.eeo.cn/res-store%2F0097067a6c3f40702dd539cc8d8d66ea0bcfd10afdd2d44d02724b314de5b3d0_938350?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=af2d40ddae0bef3966bce18c0f83bdb430114fd5)
 
 
 ### 7. 课堂回放与课堂详情页显示优化，页面更清晰
@@ -407,7 +407,7 @@ EDX文件只能在教室内由老师通过多向浏览器打开，其他身份�
 课堂回放与详情页显示布局优化，支持切换查看课堂回放、课堂信息、课后评价、教学报告、板书课件，页面信息更清晰，切换更便捷。
 
 
-![](https://cofile.eeo.cn/res-store%2F5446a96b293beaeee67828b93fbfe4cd5db7ef9ca005d3527a856198b3a09c67_89173?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=97383ce1a9c762e373892f86052a70129dce0cea)
+![](https://cofile.eeo.cn/res-store%2F5446a96b293beaeee67828b93fbfe4cd5db7ef9ca005d3527a856198b3a09c67_89173?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=567982b8068fa9f3f90233c1c2f9bee6c47ee99b)
 
 
 ### 8. 教室设置新增 Camin入口，美颜贴纸轻松实现
@@ -416,7 +416,7 @@ EDX文件只能在教室内由老师通过多向浏览器打开，其他身份�
 在教室的视频设置和虚拟背景设置中增加Camin的下载入口，教师可便捷开启美颜、贴纸等效果，课堂形象更自然。
 
 
-![](https://cofile.eeo.cn/res-store%2F3a308c7e94a71445095b84d0da7bff7c1d960ebc4e25651d9b0456777d638037_217669?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=8414ba65317fc6aa98f3c44b338f7b6d4c6000a0)
+![](https://cofile.eeo.cn/res-store%2F3a308c7e94a71445095b84d0da7bff7c1d960ebc4e25651d9b0456777d638037_217669?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=5975ede9a042ab7f1643fd72d50ecf5a868ed9b0)
 
 
 ## PC ClassIn 6.0.3
@@ -431,7 +431,7 @@ EDX文件只能在教室内由老师通过多向浏览器打开，其他身份�
 满足只看课堂的用户的使用习惯，更加方便的查看课堂顺序。
 
 
-![](https://cofile.eeo.cn/res-store%2Fd1c2a6d81b5e9f36c8aa5a11b9a65957f357975cb00ac411aeb20b44e653c278_59903?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=cd6f07e2df35853678146894f4593ef471eddec0)
+![](https://cofile.eeo.cn/res-store%2Fd1c2a6d81b5e9f36c8aa5a11b9a65957f357975cb00ac411aeb20b44e653c278_59903?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=08aa901125f1062a73820a453dc1a1407df7a216)
 
 
 ### 二、 共创页面支持导出到其他班级
@@ -455,7 +455,7 @@ EDX文件只能在教室内由老师通过多向浏览器打开，其他身份�
 被导出页面所在班级和目标班级需要在同一个学校下
 
 
-![](https://cofile.eeo.cn/res-store%2Fd4a5767bb7c53e4ea26ff18c856bdf6df939c000ecefc9bbc72810fb411cb66e_218804?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=d9cc067311075455cf5a60ac1049d482917b5d6c)
+![](https://cofile.eeo.cn/res-store%2Fd4a5767bb7c53e4ea26ff18c856bdf6df939c000ecefc9bbc72810fb411cb66e_218804?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=22dffa83cd436f0f40a8c8fde73f85fa9bd5acef)
 
 
 ### 三、课程列表新增支持从TeacherIn或者其他班级，直接导入和导出课程 （上线时间为7月30日）
@@ -464,7 +464,7 @@ EDX文件只能在教室内由老师通过多向浏览器打开，其他身份�
 更加方便教师可以直接复用课程内容，无需反复创建。
 
 
-![](https://cofile.eeo.cn/res-store%2Fda0f58971812866f48b98e939fb2f72e41645ffcd490ff782fcc76538b31cf86_182972?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=1dfafd427bb8171bba49b4e9865a88eaa52ecb14)
+![](https://cofile.eeo.cn/res-store%2Fda0f58971812866f48b98e939fb2f72e41645ffcd490ff782fcc76538b31cf86_182972?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=5852f3b0c46fe301df50cb06a65a27662ed5eb71)
 
 
 ### 四、 优化消息页面的布局
@@ -473,7 +473,7 @@ EDX文件只能在教室内由老师通过多向浏览器打开，其他身份�
 在消息页面，“进入班级”的入口调整至tab切换，右上角的位置改为三个点的“更多”。用户点击“更多”时，显示班级成员、班级介绍等班级信息。
 
 
-![](https://cofile.eeo.cn/res-store%2Fe63a6e056cbea84a2c47884cb68b30cc9bb7d0bfb7a0c9601028fdd81f956bbf_288535?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=ff77fb9b8536d7b504b800e1ab30a09dde79cff6)
+![](https://cofile.eeo.cn/res-store%2Fe63a6e056cbea84a2c47884cb68b30cc9bb7d0bfb7a0c9601028fdd81f956bbf_288535?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=c0ce4bb1f7b9353b1a3cba4b2dea5c0f11175bfa)
 
 
 ### 五、 个人导入的 Coze 智能体，支持修改个人访问令牌
@@ -482,7 +482,7 @@ EDX文件只能在教室内由老师通过多向浏览器打开，其他身份�
 为避免旧的个人访问令牌超时失效，用户可以进行更新（智能体ID不可修改）。
 
 
-![](https://cofile.eeo.cn/res-store%2Fcfaab089928743ec06d9b55507ecf5b524460ae1af196cf10ec5cc2ff025a48b_286807?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=fd05eca9fcd0761199290e435296868124ad7955)
+![](https://cofile.eeo.cn/res-store%2Fcfaab089928743ec06d9b55507ecf5b524460ae1af196cf10ec5cc2ff025a48b_286807?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=c8057a4834b10cbf282c49e223a87857551538d5)
 
 
 ### 六、教学方案和学习方案支持子级文档页面
@@ -491,7 +491,7 @@ EDX文件只能在教室内由老师通过多向浏览器打开，其他身份�
 支持教师使用“文档”功能来添加子文档页面，可以更加结构化的创建教学方案和学习方案。
 
 
-![](https://cofile.eeo.cn/res-store%2F6995545c7f0dfa1f84cd079d4407a3916563b58483d4b68f2b7342ab77dce9c1_287995?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=3b8c2ff61dff6d56a14a3bbc2e0c0eeabfb90744)
+![](https://cofile.eeo.cn/res-store%2F6995545c7f0dfa1f84cd079d4407a3916563b58483d4b68f2b7342ab77dce9c1_287995?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=01379d9a6820de6bad39c468bc95dcfcb4f0e8b1)
 
 
 ### 七、新建共创的空白页时，系统弹出从模板中心选择模板
@@ -500,7 +500,7 @@ EDX文件只能在教室内由老师通过多向浏览器打开，其他身份�
 方便用户从“公开模板”和“最近使用”中，直接选择合适的模板，提高新建页面的效率
 
 
-![](https://cofile.eeo.cn/res-store%2Fe75848e3eeb3f75675da7e7ad04a4c9065b367f575e4fcf24c3d1a07527eaf5b_148294?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=766228bac96e722f612b7ec19248e18245fecb6d)
+![](https://cofile.eeo.cn/res-store%2Fe75848e3eeb3f75675da7e7ad04a4c9065b367f575e4fcf24c3d1a07527eaf5b_148294?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=7cab8c330e2124f5aec809c8ef6cfab15ae395b7)
 
 
 ### 八、增加AI口语卡的最大朗读时长
@@ -521,7 +521,7 @@ EDX文件只能在教室内由老师通过多向浏览器打开，其他身份�
 用户打开组织云盘后，如果有上传的权限，可以直接拖拽文件和文件夹进行上传。
 
 
-![](https://cofile.eeo.cn/res-store%2F850eb5b0b53948b8011c834447eb2c2a09c016bba4585624c2e2a3121570a505_4104041?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=65b9abff255446f25d7e212f7453337d71f3252d)
+![](https://cofile.eeo.cn/res-store%2F850eb5b0b53948b8011c834447eb2c2a09c016bba4585624c2e2a3121570a505_4104041?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=3e8584a309c0febbc0e7aed7f2044995594f788f)
 
 
 ### 十一、教室内浏览器工具支持搜索功能
@@ -533,7 +533,7 @@ EDX文件只能在教室内由老师通过多向浏览器打开，其他身份�
 对于多向浏览器，仅当老师看自己页面时支持搜索功能。当学生操作或者教师看学生时，教师无法搜索。
 
 
-![](https://cofile.eeo.cn/res-store%2F9d1fa4cf54ab58fe6c1c44aed692b8f5e1577a5407a4bdc6677e9a4e18db79ec_67156?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=83b0ac77840aa27b8f16ce31097a9fedc178ea41)
+![](https://cofile.eeo.cn/res-store%2F9d1fa4cf54ab58fe6c1c44aed692b8f5e1577a5407a4bdc6677e9a4e18db79ec_67156?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=b4222dabb98d701bd74a6051332344c625592d3f)
 
 
 ## PC ClassIn 6.0.2
@@ -548,7 +548,7 @@ EDX文件只能在教室内由老师通过多向浏览器打开，其他身份�
 该功能可以方便“只关注课堂”的用户，直观的查看授课的进度，快速找到后续的课程安排，保留部分原有ClassIn5.0的用户习惯。
 
 
-![](https://cofile.eeo.cn/res-store%2Fd0be816aa0a5d068e342504111351c6dfb63bf3cb0accf39e4753e97a72f272d_82588?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=d6043ab52f74941e06b931220fd1f9a27aa57865)
+![](https://cofile.eeo.cn/res-store%2Fd0be816aa0a5d068e342504111351c6dfb63bf3cb0accf39e4753e97a72f272d_82588?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=fe2d7d6e72f937e7b00ea6cc0a7f2e94a4accbd9)
 
 
 ### 二、优化待办的分类和排序
@@ -557,13 +557,13 @@ EDX文件只能在教室内由老师通过多向浏览器打开，其他身份�
 优化“待处理”分类的数据，快速清晰展示用户需要处理的教学活动。将用户“未开始”或“老师暂时不需要批阅的活动”，移到了增加的“预计待办”分类中，方便用户查看未来要处理的教学活动，合理安排时间
 
 
-![](https://cofile.eeo.cn/res-store%2F42c9449eaa68aca37077b1b9298a5df8100ee0f6c7d4d9a9bf98f4575b04eaf2_94593?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=0ff6934c75c82f71ff2606b0caa5ef5e1d21e94f)
+![](https://cofile.eeo.cn/res-store%2F42c9449eaa68aca37077b1b9298a5df8100ee0f6c7d4d9a9bf98f4575b04eaf2_94593?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=be1c1d8c36d552de3a0237255fe842f17ee4f153)
 
 
 在首页“近期待办”内的“一天内待办”中，会优先显示其中的课堂活动，避免错过直播课，其余的教学活动作为次优显示
 
 
-![](https://cofile.eeo.cn/res-store%2F02ad8fc99bd5c1fa3f712e0c0719e3b0178303d09c65a0daa0942f80b4717986_94477?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=051b137da5e87396602fdfb5a0cf4776b4eb045b)
+![](https://cofile.eeo.cn/res-store%2F02ad8fc99bd5c1fa3f712e0c0719e3b0178303d09c65a0daa0942f80b4717986_94477?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=994edde063a834f5739d3bb525ba1b1c038ea52c)
 
 
 ### 三、聊天页面点击上课活动的卡片，可查看课堂详情页
@@ -572,7 +572,7 @@ EDX文件只能在教室内由老师通过多向浏览器打开，其他身份�
 用户在聊天时也能查看到完整的课堂信息，方便用户安排学习和教学计划
 
 
-![](https://cofile.eeo.cn/res-store%2F787696867aae54d761762e40e62c74435a19b08bd7640ce992fd38fde344938f_43601?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=0663260220f7a5e061065629f32d3a870efa7d9e)
+![](https://cofile.eeo.cn/res-store%2F787696867aae54d761762e40e62c74435a19b08bd7640ce992fd38fde344938f_43601?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=e7af3cc9f0e5bc3d66249c095f70e8d0c567089f)
 
 
 ## PC ClassIn 6.0.1
@@ -587,19 +587,19 @@ EDX文件只能在教室内由老师通过多向浏览器打开，其他身份�
 教学方案和学习方案UI调整，显示更加简洁
 
 
-![](https://cofile.eeo.cn/res-store%2Ff8c62e18ba2c22e2eb6453309fc94fef6eec4dffc668e2834fe6deaa152fb900_71324?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=823513aea65040d33da8c3b56d2031286d6652a3)
+![](https://cofile.eeo.cn/res-store%2Ff8c62e18ba2c22e2eb6453309fc94fef6eec4dffc668e2834fe6deaa152fb900_71324?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=11be3d745e08606fa2ff7348ed712b0cf2c043a4)
 
 
 在课程详情页，增加“正序/倒序”的排序功能。
 
 
-![](https://cofile.eeo.cn/res-store%2F3fd7ad4b24bf5424ac130035debe1b2fd269f0be736c2f0de9078a6d234400c9_67010?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=c1ff63390c917ae13c2c2ca092512b0f7ecfa1e4)
+![](https://cofile.eeo.cn/res-store%2F3fd7ad4b24bf5424ac130035debe1b2fd269f0be736c2f0de9078a6d234400c9_67010?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=bb4fd87dc7b8f2631b738d7251a71f8c28ebf125)
 
 
 在课程详情页，教学活动的信息中增加显示“星期”和“老师”。
 
 
-![](https://cofile.eeo.cn/res-store%2F6be699d122c89a77c41a7b9348d494eb3a169487b7c8003b9a4872140e996f08_94458?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=f173cd3cfbf324c7ace11c3a4f333022abe00ea2)
+![](https://cofile.eeo.cn/res-store%2F6be699d122c89a77c41a7b9348d494eb3a169487b7c8003b9a4872140e996f08_94458?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=fc60ed48d2d9534a6146082ea9952babc788df29)
 
 
 ### 二、 首页非置顶区的班级排序优化
@@ -608,13 +608,13 @@ EDX文件只能在教室内由老师通过多向浏览器打开，其他身份�
 对于首页班级卡片的非置顶区，新加入的班级在最前面；当某个班级里有新增的课堂等LMS活动时，系统将该班级移到最前面。
 
 
-![](https://cofile.eeo.cn/res-store%2F74c7139bb9c2e150a230671b613b85f6477d05c8e847588116b6b117164b1afd_54009?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=30ec2c313b54c09ece984c65ed9e825e1d3e9d06)
+![](https://cofile.eeo.cn/res-store%2F74c7139bb9c2e150a230671b613b85f6477d05c8e847588116b6b117164b1afd_54009?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=44311fe8fd38df485b41520097ca2c3811bd03ac)
 
 
 ### 三、消息页增加支持搜索功能
 
 
-![](https://cofile.eeo.cn/res-store%2Fbc7fa6de90d79ab02902f67545c952f42cd2bce0e4ce74d0a6082909c07a232e_768309?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=87b197f9cb44cd282c9b865a77bdb175dea5eea3)
+![](https://cofile.eeo.cn/res-store%2Fbc7fa6de90d79ab02902f67545c952f42cd2bce0e4ce74d0a6082909c07a232e_768309?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=f6991e3ff6fb4b629ed7bc8072999b39ed7968da)
 
 
 ### 四、联系人的个人信息卡片，增加显示当前用户的账号信息
@@ -623,7 +623,7 @@ EDX文件只能在教室内由老师通过多向浏览器打开，其他身份�
 采用打码的方式，增加显示用户的手机和邮箱的信息
 
 
-![](https://cofile.eeo.cn/res-store%2Fe032f6b8cd8abab931c2233aa157ba62d8d67389219f4c99ccaa0f82482cd0a6_863350?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=b3cf547297b502b255acd5ec9ca551f99a72f0c7)
+![](https://cofile.eeo.cn/res-store%2Fe032f6b8cd8abab931c2233aa157ba62d8d67389219f4c99ccaa0f82482cd0a6_863350?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=267e359053cd957de8ef0bfb900c42e7a76fb347)
 
 
 ### 五、 支持用户自定义更换班级封面
@@ -632,13 +632,13 @@ EDX文件只能在教室内由老师通过多向浏览器打开，其他身份�
 在班级详情页，教师可以自定义更换班级封面，更换后的图片将显示在ClassIn首页的班级卡片中
 
 
-![](https://cofile.eeo.cn/res-store%2Fd87c602ff4f8d54240050b5102ab15e60db3ba879484a117c76ec25cce280c33_934662?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=696c84503d54406007ace641a5b38e134be364d6)
+![](https://cofile.eeo.cn/res-store%2Fd87c602ff4f8d54240050b5102ab15e60db3ba879484a117c76ec25cce280c33_934662?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=0f5224b2c93d7e5f29273992f7ab6582a3ea9f8a)
 
 
 ### 六、班级设置增加“分享班级”的入口
 
 
-![](https://cofile.eeo.cn/res-store%2F6e8715d0f50a72e4dd6c41c9bce82f1f0c4687ea516939b3c494921df60603e2_957913?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=3441ead2429cac57c3535bb96bef1b2631906834)
+![](https://cofile.eeo.cn/res-store%2F6e8715d0f50a72e4dd6c41c9bce82f1f0c4687ea516939b3c494921df60603e2_957913?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=09c61caf8d0be33d816e7f04fae73a7c91b28962)
 
 
 ### 七、课程的返回功能优化
@@ -647,13 +647,13 @@ EDX文件只能在教室内由老师通过多向浏览器打开，其他身份�
 当用户从其他页面（包含首页、消息、待办和课程表），进入到班级详情页后，点击左上方的“返回”按钮，将会返回到原页面
 
 
-![](https://cofile.eeo.cn/res-store%2Fbfbae9a8f5db6bbb221eddfef0fe7c03ca2081565e8f4f917619c257cf9480f7_89443?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=a90935bdb967ed9bc40f22ca8522118609ba2001)
+![](https://cofile.eeo.cn/res-store%2Fbfbae9a8f5db6bbb221eddfef0fe7c03ca2081565e8f4f917619c257cf9480f7_89443?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=63a158a446cc16bf8b8da45761c3f49f1487aceb)
 
 
 ### 八、灵动岛的上课卡片显示实时上课人数
 
 
-![](https://cofile.eeo.cn/res-store%2F76a02ba90a6199d689e180363a0a157cf8e8a10af82aa6422264ed4ad46a0de4_107505?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=35229c2332252d9fada1f2f910a6f75ba3d4f65d)
+![](https://cofile.eeo.cn/res-store%2F76a02ba90a6199d689e180363a0a157cf8e8a10af82aa6422264ed4ad46a0de4_107505?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=499c007fa56bf1920dabf56fe8d94ef49bf6893a)
 
 
 ## ClassIn 6.0：智启未来教育，构建以学习者为中心的多元化教学生态
@@ -704,13 +704,13 @@ ClassIn 6.0 创新性地引入“多课程教学”体系，彻底颠覆了以�
 “多课程教学”的创新设计，赋予教师前所未有的教学组织灵活性和创新空间，使其能够更精细化地管理教学内容和活动，满足多样化的教学需求。
 
 
-![](https://cofile.eeo.cn/res-store%2Ff2467b1c6812dd814750c107c067d158e9a1a665e83cfe0a94a3a44cc5a62108_75715?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=28201e0d9d9f706ae673ab8c18ae95df830541ad)
+![](https://cofile.eeo.cn/res-store%2Ff2467b1c6812dd814750c107c067d158e9a1a665e83cfe0a94a3a44cc5a62108_75715?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=466d6a46285e8bd526351efe55a43a60b758c145)
 
 
 #### 【共创文档】从单向知识传递到深度协作共创，培养学生合作与创新能力
 
 
-![](https://cofile.eeo.cn/res-store%2Fb7eba935af9a9be21751cc5bdba6adbc9b0afec3eefa11d0ee6f78ee29bda232_1040605?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=62d0a3cdce8f709c3d0508c1d8acb468bea49c24)
+![](https://cofile.eeo.cn/res-store%2Fb7eba935af9a9be21751cc5bdba6adbc9b0afec3eefa11d0ee6f78ee29bda232_1040605?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=90f3c0bd66165eb030f149f5602e55c172068eb4)
 
 
 ClassIn 6.0 隆重推出强大的“共创文档”功能，标志着我们向深度学习迈出了坚实的一步，旨在激发学生的协作精神和创新能力。教师可以便捷地创建、命名和管理多个独立的协作文档，支持多样化的协作活动，广泛应用于：
@@ -746,7 +746,7 @@ ClassIn 6.0 深度整合了先进的 AI 技术，构建了强大的“AI 智能�
 AI 助教：能够深刻理解学生基于班级内教学资源（如课件、文档）提出的问题，并智能推荐相关内容或提供精准的答案线索。这为学生提供了全天候的个性化答疑和即时资源导航，有效支持学生的自主学习，并显著减轻教师解答重复性问题的负担。
 
 
-![](https://cofile.eeo.cn/res-store%2F138c712819957b7d449a6854144c25ad91d03b84f2a83850fa37a59d9fb50eb9_939845?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=e1cab5f37999a7bf94fdcbd847b8f9fa00ebb2e1)
+![](https://cofile.eeo.cn/res-store%2F138c712819957b7d449a6854144c25ad91d03b84f2a83850fa37a59d9fb50eb9_939845?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=96c845fb2ccf36b781e0cb8b1dcd089e17023674)
 
 
 AI 学情分析：动态分析课堂互动数据、作业完成度等多维度学情信息，并生成关于知识点掌握程度、个体学习进度、课堂参与度等方面的可视化报告。这些基于数据驱动的洞察，将帮助教师更精准地了解每位学生的学习状况，为真正实现个性化、差异化教学提供强有力的决策依据。
@@ -761,31 +761,31 @@ ClassIn 6.0 将 AI 的强大能力融入到各项教学活动中，旨在帮助�
 作业AI批改：AI 能够辅助教师进行作业批改，提供智能化的评价建议和文本内容的 AI 润色，从而大幅减轻教师的批改工作量，同时为学生提供更及时、更全面的反馈，促进其学习提升。
 
 
-![](https://cofile.eeo.cn/res-store%2F76a02ba90a6199d689e180363a0a157cf8e8a10af82aa6422264ed4ad46a0de4_107505?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=35229c2332252d9fada1f2f910a6f75ba3d4f65d)
+![](https://cofile.eeo.cn/res-store%2F76a02ba90a6199d689e180363a0a157cf8e8a10af82aa6422264ed4ad46a0de4_107505?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=499c007fa56bf1920dabf56fe8d94ef49bf6893a)
 
 
 测验AI出题：教师可以根据教学目标或特定的知识点，由 AI 智能生成不同难度和题型的测验题目，极大地提升了出题效率，并确保题目的质量和多样性。
 
 
-![](https://cofile.eeo.cn/res-store%2Fc0590253d26291376450104a223b2043825135e7184c19ecde021eae8b998169_2114950?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=4a9de9d4e2b11c373cef3c1061a3e4bc314ae168)
+![](https://cofile.eeo.cn/res-store%2Fc0590253d26291376450104a223b2043825135e7184c19ecde021eae8b998169_2114950?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=a4ad6de82e9d6a814bbcd780c14759ddd8322b84)
 
 
 录课回放与录播课AI总结：AI 能够自动为录制的课程回放和录播视频生成清晰的章节标记、详细的内容描述以及精准的摘要，方便学生高效地回顾和掌握学习内容。
 
 
-![](https://cofile.eeo.cn/res-store%2F87f1a2102459373991530b424c797a3f82206d2d4eb6f094411608be1de261ec_931480?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=9899a540be62d5756fa43eeadacb041f71bf34dd)
+![](https://cofile.eeo.cn/res-store%2F87f1a2102459373991530b424c797a3f82206d2d4eb6f094411608be1de261ec_931480?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=4a8c559b3e7b59834975fa4bf2cf275517f58dbd)
 
 
 口语卡AI出题：教师可以基于教学目标或特定的知识点，由 AI 轻松生成高质量的英文单词和句子，有效丰富口语教学内容。
 
 
-![](https://cofile.eeo.cn/res-store%2Fb0be6de73586d0e0ea2f52cd65bd4b9b60ab56529e2a544b14a6b240f3318763_89700?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=ce06d9c9358e97ebf43b0fd540cbd517b7ee0066)
+![](https://cofile.eeo.cn/res-store%2Fb0be6de73586d0e0ea2f52cd65bd4b9b60ab56529e2a544b14a6b240f3318763_89700?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=6a790b1bc4fd70856f7fcf66893dee6a7852ba56)
 
 
 答题卡AI解析：AI 能够自动识别附件中答题区域的选项，并自动完成数据录入和分析，显著简化了数据处理的流程，提升效率。
 
 
-![](https://cofile.eeo.cn/res-store%2F35803de047ca611a945cf6fd5216c97a947231d73849ea6def21f689d613e5c0_58235?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=f47f1b0da2a0d03b50f347173394349300213e25)
+![](https://cofile.eeo.cn/res-store%2F35803de047ca611a945cf6fd5216c97a947231d73849ea6def21f689d613e5c0_58235?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=5bbb5a98e73d646ee72b86796f8500bcccb5347e)
 
 
 ### 管理与体验升级，化繁为简，聚焦核心教学流程
@@ -797,7 +797,7 @@ ClassIn 6.0 将 AI 的强大能力融入到各项教学活动中，旨在帮助�
 全新的首页以支持自定义头图的网格视图呈现班级列表，每张班级卡片都清晰直观地展示了待办事项、最新公告和共创文档的动态提醒。同时，我们新增了全局性的“待办列表”，并创新推出了便捷的“灵动岛”全局上课快捷入口，助力您更加快速、高效地进入课堂。
 
 
-![](https://cofile.eeo.cn/res-store%2F12cc3898282c4f705591e4c611f63d2cc258b4a3aba532cace810bdf227e364c_168168?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=71953fda4065a60a6c5b95754dfec13ca553fdb4)
+![](https://cofile.eeo.cn/res-store%2F12cc3898282c4f705591e4c611f63d2cc258b4a3aba532cace810bdf227e364c_168168?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=0cd758c7cae47d3ed262b75d955d8990fda60bad)
 
 
 #### 【待办优化】核心任务聚焦，重要事项高效触达
@@ -806,7 +806,7 @@ ClassIn 6.0 将 AI 的强大能力融入到各项教学活动中，旨在帮助�
 全新的全局“待办”功能更加聚焦核心教学任务，默认展示所有需要处理的待办事项，精简了易被忽略的提醒时段设置，并新增了“一天内”的快速筛选功能，确保您不会遗漏任何重要的教学任务，从而显著提升教学效率和任务管理能力。
 
 
-![](https://cofile.eeo.cn/res-store%2F40d8e2be5a5f5877fd41f46f9f2d167a9998da50155f652a827b16cb813219ec_710346?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=b60c524e1ddaac27d7a80e2bc191e1bb9004f821)
+![](https://cofile.eeo.cn/res-store%2F40d8e2be5a5f5877fd41f46f9f2d167a9998da50155f652a827b16cb813219ec_710346?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=5a846ddceb9b3f1b3a3c6779aa81c88a6ce8ab03)
 
 
 #### 【界面与交互】现代设计语言，极致流畅操作体验
@@ -1265,7 +1265,7 @@ ClassIn空间中，原“ClassIn题库”、“ClassIn试卷库”、“我的�
 旧版本5.3.0的试题/试卷数据，按照下图的逻辑迁移到5.4.0新版本的题库中心
 
 
-![](https://cofile.eeo.cn/res-store%2F390abc4fe5e9290d25488b3e1e785b129b4fe4d0876fe69e1fc4e205420768a3_1309931?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=7cf15966a54379b2da56e2390a9b0e780dedb7cc)
+![](https://cofile.eeo.cn/res-store%2F390abc4fe5e9290d25488b3e1e785b129b4fe4d0876fe69e1fc4e205420768a3_1309931?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=9072bccb68fb9e2f9e19bacc1451aa4ae49450b1)
 
 
 五、画笔自定义颜色、荧光笔、填充半透明色......你想要的我都有！

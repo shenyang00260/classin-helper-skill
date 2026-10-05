@@ -53,4 +53,4 @@ section: "管理后台"
 在 客户端获取班级直播回放链接设置 中，开启或关闭 允许老师在客户端获取班级直播回放链接
 
 
-![](https://cofile.eeo.cn/res-store%2F765ae9e01640051ebe654500a42ec5e8824451f6fa4c2e64da42c48079782374_1249312?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=ea89c7d52e960a7b5b074d90d92d30299cae564d)
+![](https://cofile.eeo.cn/res-store%2F765ae9e01640051ebe654500a42ec5e8824451f6fa4c2e64da42c48079782374_1249312?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=0367631523620e51c2ece29222e7df8d9bed745c)

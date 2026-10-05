@@ -26,7 +26,7 @@ section: "常见问题"
 现象图：
 
 
-![](https://cofile.eeo.cn/res-store%2F13199edda8e20f893eef14aabddef3ce56d5aa3dc7c743f454ce43c0bd6f0e8d_38269?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1790524800;1791129600&q-key-time=1790524800;1791129600&q-header-list=host&q-url-param-list=&q-signature=37c96417d7a384b0746754a361d535a0bdd2e0a2)
+![](https://cofile.eeo.cn/res-store%2F13199edda8e20f893eef14aabddef3ce56d5aa3dc7c743f454ce43c0bd6f0e8d_38269?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=76f60acf5566ad79bb09a28eb58fc8dfc62190b9)
 
 
 # 2. 课件显示叹号
