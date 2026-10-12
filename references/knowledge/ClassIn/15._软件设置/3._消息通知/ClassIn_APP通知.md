@@ -47,7 +47,7 @@ section: "ClassIn"
 开启或关闭 上课通知
 
 
-![](https://cofile.eeo.cn/res-store%2Ff18ee1edf2dd7359e5c500cc364acabf971da1cd8bfc0fd55779c4e9cfb115c4_180009?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=62dd10116eb462d51aa950cb1237c6662a51975f)
+![](https://cofile.eeo.cn/res-store%2Ff18ee1edf2dd7359e5c500cc364acabf971da1cd8bfc0fd55779c4e9cfb115c4_180009?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791734400;1792339200&q-key-time=1791734400;1792339200&q-header-list=host&q-url-param-list=&q-signature=14a9914e6dc9b56dc1152dd621652b31616a1e82)
 
 
 #### 手机
@@ -65,7 +65,7 @@ section: "ClassIn"
 进入 新消息通知
 
 
-![](https://cofile.eeo.cn/res-store%2F8b1f9964fc782b48ffca9374b6fe5f220e93e09db06979e1791421cfcc764373_629906?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=d26401dbb952cef0286a01b83bce90e6e4c4f280)
+![](https://cofile.eeo.cn/res-store%2F8b1f9964fc782b48ffca9374b6fe5f220e93e09db06979e1791421cfcc764373_629906?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791734400;1792339200&q-key-time=1791734400;1792339200&q-header-list=host&q-url-param-list=&q-signature=a20df85580301fc4ed8911391d50303dca3a42ea)
 
 
 #### 平板
@@ -74,7 +74,7 @@ section: "ClassIn"
 点击左下角 头像
 
 
-![](https://cofile.eeo.cn/res-store%2Fb496c1786886fd1695b42d13a9595fc174ffa621bb453b29dccbd8144ddbc35a_1144600?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=f6a2e17c4aa09d3f264c237a6e47f63d90b92b2e)
+![](https://cofile.eeo.cn/res-store%2Fb496c1786886fd1695b42d13a9595fc174ffa621bb453b29dccbd8144ddbc35a_1144600?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791734400;1792339200&q-key-time=1791734400;1792339200&q-header-list=host&q-url-param-list=&q-signature=95b8fe2a2e593a76369f51d17db6646d78cb1175)
 
 
 ## 二、学习活动通知
@@ -92,16 +92,16 @@ section: "ClassIn"
 打开或关闭 学习活动通知
 
 
-![](https://cofile.eeo.cn/res-store%2F91502b719bd0ea0658996d1e128430173fa82c2be9bb7f52ae8f7338f8b1616c_178448?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=5864c1702b76830caaa64047a62a013b71d897dd)
+![](https://cofile.eeo.cn/res-store%2F91502b719bd0ea0658996d1e128430173fa82c2be9bb7f52ae8f7338f8b1616c_178448?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791734400;1792339200&q-key-time=1791734400;1792339200&q-header-list=host&q-url-param-list=&q-signature=bd5df3bd9877bbb983f7bca6de803a80d3eb3001)
 
 
 开启或关闭 学习活动通知
 
 
-![](https://cofile.eeo.cn/res-store%2F22a67eda7319aba8b219b07ed199b731b76f1a3cd9b658ef502454ce81fb61b3_639070?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=2f0e901ee526426e896ffc590ac71a34ffd27a7b)
+![](https://cofile.eeo.cn/res-store%2F22a67eda7319aba8b219b07ed199b731b76f1a3cd9b658ef502454ce81fb61b3_639070?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791734400;1792339200&q-key-time=1791734400;1792339200&q-header-list=host&q-url-param-list=&q-signature=ab0cd4dcbc809eeda430f9e1234b2e5bca677655)
 
 
-![](https://cofile.eeo.cn/res-store%2F4d2e0018683ea73ffe8852cb54bff21d7ac943ddc9b11936ff830ff57c8d687e_1178993?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=b3148fb52452d9ec082f2dd681b92bbc8fe2ad44)
+![](https://cofile.eeo.cn/res-store%2F4d2e0018683ea73ffe8852cb54bff21d7ac943ddc9b11936ff830ff57c8d687e_1178993?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791734400;1792339200&q-key-time=1791734400;1792339200&q-header-list=host&q-url-param-list=&q-signature=c70f7ed1c9a2665d580ca65daeee9ab999ffd7aa)
 
 
 ## 三、新消息通知
@@ -119,10 +119,10 @@ section: "ClassIn"
 开启或关闭 新消息通知
 
 
-![](https://cofile.eeo.cn/res-store%2F8387cd40accb79545d511ce19e4d008df15d897213924c9f86dd91751a043444_628243?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=cc793527f4ae6655aeeb9537ca63c016af1a8224)
+![](https://cofile.eeo.cn/res-store%2F8387cd40accb79545d511ce19e4d008df15d897213924c9f86dd91751a043444_628243?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791734400;1792339200&q-key-time=1791734400;1792339200&q-header-list=host&q-url-param-list=&q-signature=7c49906ac011df8ab08cad16084599fd7b5a6b1e)
 
 
-![](https://cofile.eeo.cn/res-store%2Fa3bfbc7d4b691518f19c8fc43aace6490cd50b7b86297e26b3453fd46ff21138_1146104?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=8bf4817499ce1a4ad8e6a9dd5b29cdab841d5a42)
+![](https://cofile.eeo.cn/res-store%2Fa3bfbc7d4b691518f19c8fc43aace6490cd50b7b86297e26b3453fd46ff21138_1146104?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791734400;1792339200&q-key-time=1791734400;1792339200&q-header-list=host&q-url-param-list=&q-signature=adc1b95040b1a173fcc0315cabd64b5b99ca2dae)
 
 
 ## 四、新消息提示声音
@@ -134,4 +134,4 @@ section: "ClassIn"
 开启或关闭 新消息提示音
 
 
-![](https://cofile.eeo.cn/res-store%2F4d28749395bba84fdf2de725fe6f8f3299defe399279ae33379f89bfd7916876_177687?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791129600;1791734400&q-key-time=1791129600;1791734400&q-header-list=host&q-url-param-list=&q-signature=669277b3301324c5cee249fb2fb8f67a49531045)
+![](https://cofile.eeo.cn/res-store%2F4d28749395bba84fdf2de725fe6f8f3299defe399279ae33379f89bfd7916876_177687?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791734400;1792339200&q-key-time=1791734400;1792339200&q-header-list=host&q-url-param-list=&q-signature=ccbb314d52da76b23e1b2dce0ea86b0671f2f758)
