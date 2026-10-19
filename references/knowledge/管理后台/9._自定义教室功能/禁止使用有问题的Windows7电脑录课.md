@@ -68,4 +68,4 @@ section: "管理后台"
 启用新设置的 自定义教室配置
 
 
-![](https://cofile.eeo.cn/res-store%2F1315acb5a62927eaf5a5502b4c9c46d04c24f55223f3bae5e27ab30e97b495a6_712110?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791734400;1792339200&q-key-time=1791734400;1792339200&q-header-list=host&q-url-param-list=&q-signature=3f64dda9bf20a03048318a216bcad173559bc734)
+![](https://cofile.eeo.cn/res-store%2F1315acb5a62927eaf5a5502b4c9c46d04c24f55223f3bae5e27ab30e97b495a6_712110?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1792339200;1792944000&q-key-time=1792339200;1792944000&q-header-list=host&q-url-param-list=&q-signature=cd356c7f8e57c08852efd5ff1f00c214f394f02b)

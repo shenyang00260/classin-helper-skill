@@ -119,19 +119,19 @@ Windows：8GB RAM
 #### 当前尺寸教室窗口：
 
 
-![](https://cofile.eeo.cn/res-store%2F091cc35f84451bf2b5aba84aaf5f9c0fd3c8f99ceaf901234888a8d397eac073_555589?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791734400;1792339200&q-key-time=1791734400;1792339200&q-header-list=host&q-url-param-list=&q-signature=4f94dd72bfcebe2f2a54eec252010336a568f77e)
+![](https://cofile.eeo.cn/res-store%2F091cc35f84451bf2b5aba84aaf5f9c0fd3c8f99ceaf901234888a8d397eac073_555589?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1792339200;1792944000&q-key-time=1792339200;1792944000&q-header-list=host&q-url-param-list=&q-signature=36113529b9dae9de1adb98b5d6d07f9b3df8365c)
 
 
 #### 整个电脑桌面：
 
 
-![](https://cofile.eeo.cn/res-store%2F165cb77da231268a02dc36225497c75dc4107789e9d3df7d554c84ce9422d67e_555253?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791734400;1792339200&q-key-time=1791734400;1792339200&q-header-list=host&q-url-param-list=&q-signature=1bcc111532b44fb5a0c65b571f789b93dea4a898)
+![](https://cofile.eeo.cn/res-store%2F165cb77da231268a02dc36225497c75dc4107789e9d3df7d554c84ce9422d67e_555253?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1792339200;1792944000&q-key-time=1792339200;1792944000&q-header-list=host&q-url-param-list=&q-signature=796fc0f0f4f0bf8cc86643a08ae81131d33bbdbf)
 
 
 #### Windows7系统设置Aero主题：
 
 
-![](https://cofile.eeo.cn/res-store%2F417d3dd02fafb75efa0feddc10aa1bac556ddc723cdc8ce3926538f24e05f83f_679893?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791734400;1792339200&q-key-time=1791734400;1792339200&q-header-list=host&q-url-param-list=&q-signature=a6f97341b709b89320616ff2a3df9d6a19da4cc8)
+![](https://cofile.eeo.cn/res-store%2F417d3dd02fafb75efa0feddc10aa1bac556ddc723cdc8ce3926538f24e05f83f_679893?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1792339200;1792944000&q-key-time=1792339200;1792944000&q-header-list=host&q-url-param-list=&q-signature=c7cbdad57b740bfdcce43a7619e8f04363ef58db)
 
 
 ## 3、录课画面清晰度设置
@@ -146,7 +146,7 @@ Windows：8GB RAM
 “录制画面范围”选择为最小尺寸教室窗口时，不支持在“录制视频分辨率”中选择全高清的分辨率。
 
 
-![](https://cofile.eeo.cn/res-store%2F3f4807b9eb96befd394ba37c661c4d02bc3c237469cd4ed48220534247559f1a_555964?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791734400;1792339200&q-key-time=1791734400;1792339200&q-header-list=host&q-url-param-list=&q-signature=a5d9ee885fc58873386c34d3062f1adcad1a8daa)
+![](https://cofile.eeo.cn/res-store%2F3f4807b9eb96befd394ba37c661c4d02bc3c237469cd4ed48220534247559f1a_555964?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1792339200;1792944000&q-key-time=1792339200;1792944000&q-header-list=host&q-url-param-list=&q-signature=11c3ffdb5c8effe36ac0421e05066434106b779b)
 
 
 ## 4、录课声音设置
@@ -158,7 +158,7 @@ Windows：8GB RAM
 如果只想录制教室中的声音，那么可以选择软件声音。勾选“软件声音”后录课时只会录制教室中的声音，不会将教室外的声音录进来。
 
 
-![](https://cofile.eeo.cn/res-store%2Fc07d8758cd531ac72250b60c35b5a19a78b5dc8282295f3a6da208bdae53297a_569096?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791734400;1792339200&q-key-time=1791734400;1792339200&q-header-list=host&q-url-param-list=&q-signature=64fc17a5d12eb31dc9642a62ac3001f26f8a2eba)
+![](https://cofile.eeo.cn/res-store%2Fc07d8758cd531ac72250b60c35b5a19a78b5dc8282295f3a6da208bdae53297a_569096?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1792339200;1792944000&q-key-time=1792339200;1792944000&q-header-list=host&q-url-param-list=&q-signature=814b16f1f3a54cb56c20b1f4588762deefe29557)
 
 
 ## 5、录课常见问题
@@ -191,7 +191,7 @@ Windows：8GB RAM
 授课教师录课开始后，使用电脑/大屏时在教室窗口正下方的dock栏中可查看录课状态。录课图标是摄像机+小云朵，当小云朵呈现“绿色”时，表示录制现场正常录课中；当小云朵呈现“红色”时，表示录制现场已中断。
 
 
-![](https://cofile.eeo.cn/res-store%2F191296f7610cbbcef0095cce968324c532fca720d872970e0b95bff8bfa3fb0f_234136?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791734400;1792339200&q-key-time=1791734400;1792339200&q-header-list=host&q-url-param-list=&q-signature=acfb0fb1c31e9164b6829825fc23d31c18c6ee64)
+![](https://cofile.eeo.cn/res-store%2F191296f7610cbbcef0095cce968324c532fca720d872970e0b95bff8bfa3fb0f_234136?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1792339200;1792944000&q-key-time=1792339200;1792944000&q-header-list=host&q-url-param-list=&q-signature=98098b5cdcb595688e6d75fe3ce33c17182c54c5)
 
 
 ### 6.2 授课教师查看录制ClassIn教室的录课状态
@@ -203,7 +203,7 @@ Windows：8GB RAM
 授课教师录课开始后，使用电脑/大屏时在教室窗口正下方的dock栏中可查看录课状态。录课图标是摄像机+小云朵，当小云朵呈现“绿色”时，表示录制教室正常录课中；当小云朵呈现“红色”时，表示录制教室已中断。
 
 
-![](https://cofile.eeo.cn/res-store%2F4ec919150dfa7b4b519a1c546aea8b36c072edcf9f5b33275cffd4d478ee16fa_242755?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791734400;1792339200&q-key-time=1791734400;1792339200&q-header-list=host&q-url-param-list=&q-signature=a140ce7e51df8ff5c8132ff537f6e031e046ca91)
+![](https://cofile.eeo.cn/res-store%2F4ec919150dfa7b4b519a1c546aea8b36c072edcf9f5b33275cffd4d478ee16fa_242755?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1792339200;1792944000&q-key-time=1792339200;1792944000&q-header-list=host&q-url-param-list=&q-signature=2a023436e03c70721c73eeaed6771681a1837dd7)
 
 
 ### 6.3 查看本地录课的录课状态
@@ -215,7 +215,7 @@ Windows：8GB RAM
 本地录课开始后，使用电脑/大屏时在教室窗口正下方的dock栏中可查看录课状态。录课图标是摄像机+小圆圈，当小圆圈呈现“绿色”时，表示本地录课正常录课中；当小圆圈呈现“红色”时，表示本地录课已中断。
 
 
-![](https://cofile.eeo.cn/res-store%2Ffffc84c2be3b0c283f8aab29ab067bab44bbc10aaa27822d69b49acb9a62dfa7_213916?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791734400;1792339200&q-key-time=1791734400;1792339200&q-header-list=host&q-url-param-list=&q-signature=7b079c9ad78383646bb3fca7890631e765000fe5)
+![](https://cofile.eeo.cn/res-store%2Ffffc84c2be3b0c283f8aab29ab067bab44bbc10aaa27822d69b49acb9a62dfa7_213916?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1792339200;1792944000&q-key-time=1792339200;1792944000&q-header-list=host&q-url-param-list=&q-signature=31dc0b9261bd3b01e51794f7325cb1024677e007)
 
 
 ## 7、录课相关参数
@@ -454,31 +454,31 @@ OMO站播：学生仅在教室内观看老师站播画面且不需要录课时�
 查看录课状态
 
 
-![](https://cofile.eeo.cn/res-store%2Fca0c6c3370e2d4d9b9450129ac8156786f78fab4bdfc46b55301797ffa08ec33_606054?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791734400;1792339200&q-key-time=1791734400;1792339200&q-header-list=host&q-url-param-list=&q-signature=213ecf1e334070b7bf073d4d6a2c872e69f5ceb4)
+![](https://cofile.eeo.cn/res-store%2Fca0c6c3370e2d4d9b9450129ac8156786f78fab4bdfc46b55301797ffa08ec33_606054?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1792339200;1792944000&q-key-time=1792339200;1792944000&q-header-list=host&q-url-param-list=&q-signature=a9998a45f434b3d8d870fdfeaa50e7d363dc6fc1)
 
 
 ### 授课教师的录制现场画面展示如下：
 
 
-![](https://cofile.eeo.cn/res-store%2Ff24e26b8043bb1273112dd8c39fc3b3207d7212c1b52c8b407a7ce984100a85d_329030?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791734400;1792339200&q-key-time=1791734400;1792339200&q-header-list=host&q-url-param-list=&q-signature=c71aa8b3ddba57ae37c3ebb8684140480ccd09bb)
+![](https://cofile.eeo.cn/res-store%2Ff24e26b8043bb1273112dd8c39fc3b3207d7212c1b52c8b407a7ce984100a85d_329030?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1792339200;1792944000&q-key-time=1792339200;1792944000&q-header-list=host&q-url-param-list=&q-signature=87413834ae8557c657d2a8410e219a95c4bcd9c6)
 
 
 ### 学生使用电脑在教室中查看录制现场画面：
 
 
-![](https://cofile.eeo.cn/res-store%2F4607138199bcbc5933e77ad9a36bc0a3c58153b5f443a641c67aa0558acd45c5_483595?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791734400;1792339200&q-key-time=1791734400;1792339200&q-header-list=host&q-url-param-list=&q-signature=84b95a0fea980ce340f01135573a404a32000c0a)
+![](https://cofile.eeo.cn/res-store%2F4607138199bcbc5933e77ad9a36bc0a3c58153b5f443a641c67aa0558acd45c5_483595?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1792339200;1792944000&q-key-time=1792339200;1792944000&q-header-list=host&q-url-param-list=&q-signature=f1b3af3c93c66fc09f1038bc6337998cbb3a3a22)
 
 
 ### 学生使用手机或安卓平板在教室中查看录制现场画面：
 
 
-![](https://cofile.eeo.cn/res-store%2Ffc29f31d5534cdd98f3d93897591e743f6fd68c7a03200757200a6f26f614b66_915478?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791734400;1792339200&q-key-time=1791734400;1792339200&q-header-list=host&q-url-param-list=&q-signature=2501532f50dd352fdfd1bed24ecc457c72a2e6dc)
+![](https://cofile.eeo.cn/res-store%2Ffc29f31d5534cdd98f3d93897591e743f6fd68c7a03200757200a6f26f614b66_915478?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1792339200;1792944000&q-key-time=1792339200;1792944000&q-header-list=host&q-url-param-list=&q-signature=ed27bc9ba794adbd96e95e8c594223562dd4faf9)
 
 
 ### 学生使用ipad在教室中查看录制现场画面：
 
 
-![](https://cofile.eeo.cn/res-store%2F9c594dc62d5f3d5e704d0f3e6da592a85c89f2d1644025152a5817c4e5eeec71_914154?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791734400;1792339200&q-key-time=1791734400;1792339200&q-header-list=host&q-url-param-list=&q-signature=1a0df36c171bfd0aa7e746367b381113b812d090)
+![](https://cofile.eeo.cn/res-store%2F9c594dc62d5f3d5e704d0f3e6da592a85c89f2d1644025152a5817c4e5eeec71_914154?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1792339200;1792944000&q-key-time=1792339200;1792944000&q-header-list=host&q-url-param-list=&q-signature=1ad657097d267d87909c51725dca7e95eb80dc4b)
 
 
 # 四、ClassInX录制教室
@@ -514,13 +514,13 @@ OMO站播：学生仅在教室内观看老师站播画面且不需要录课时�
 另外授课教师退出重新进入教室ClassInX会重新尝试云端录制。
 
 
-![](https://cofile.eeo.cn/res-store%2F7e6d4198312c3266f3ebb331022777967499d93bee92a7e9782a509d7f521374_469548?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791734400;1792339200&q-key-time=1791734400;1792339200&q-header-list=host&q-url-param-list=&q-signature=9757fb716d39eed7b6f941620d43550a67655132)
+![](https://cofile.eeo.cn/res-store%2F7e6d4198312c3266f3ebb331022777967499d93bee92a7e9782a509d7f521374_469548?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1792339200;1792944000&q-key-time=1792339200;1792944000&q-header-list=host&q-url-param-list=&q-signature=72b0027c3684c8011b01b897a95614c412359cae)
 
 
 ### 录制教室画面展示如下：
 
 
-![](https://cofile.eeo.cn/res-store%2F3c0d08e1b3b29027c7a4d7c58d90582bd2d9924d0dd2e2a9dcf625bff3b4d165_367699?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791734400;1792339200&q-key-time=1791734400;1792339200&q-header-list=host&q-url-param-list=&q-signature=16c15469879c127e131da16898d71d313743f03a)
+![](https://cofile.eeo.cn/res-store%2F3c0d08e1b3b29027c7a4d7c58d90582bd2d9924d0dd2e2a9dcf625bff3b4d165_367699?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1792339200;1792944000&q-key-time=1792339200;1792944000&q-header-list=host&q-url-param-list=&q-signature=243c32891f6e3bf2c63c40f2e5cd5424a0d6061b)
 
 
 # 五、ClassInX本地录课
@@ -595,13 +595,13 @@ OMO站播：学生仅在教室内观看老师站播画面且不需要录课时�
 查看录课状态。再次点击 录课图标 结束本地录课
 
 
-![](https://cofile.eeo.cn/res-store%2F7fd60071581c1f82eecb477e753e27b28724b84ceb4982b1454d9ca00b4aa412_654717?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791734400;1792339200&q-key-time=1791734400;1792339200&q-header-list=host&q-url-param-list=&q-signature=64c85a53c970f9d713aa513c94201af3d49c527c)
+![](https://cofile.eeo.cn/res-store%2F7fd60071581c1f82eecb477e753e27b28724b84ceb4982b1454d9ca00b4aa412_654717?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1792339200;1792944000&q-key-time=1792339200;1792944000&q-header-list=host&q-url-param-list=&q-signature=dc7574246da1ed812bc8b379e2337be0247dda23)
 
 
 ### 本地录课画面展示如下：
 
 
-![](https://cofile.eeo.cn/res-store%2F9cd850d0839b4f2db6e175830236f99497246e9dc7f878d934a69013026a56bf_317328?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791734400;1792339200&q-key-time=1791734400;1792339200&q-header-list=host&q-url-param-list=&q-signature=9e29380f3736f35ab52c2ffc98c1bea3431ec2c9)
+![](https://cofile.eeo.cn/res-store%2F9cd850d0839b4f2db6e175830236f99497246e9dc7f878d934a69013026a56bf_317328?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1792339200;1792944000&q-key-time=1792339200;1792944000&q-header-list=host&q-url-param-list=&q-signature=0ea37e855df5c02d1bf5d32e9cc9760b1a8faed2)
 
 
 # 六、ClassInX录制教室失败时切换本地录课
@@ -619,10 +619,10 @@ OMO站播：学生仅在教室内观看老师站播画面且不需要录课时�
 课后查看课堂回放时，找到视频提供给教务老师
 
 
-![](https://cofile.eeo.cn/res-store%2Fa2e9c34bd57b026066e0ede9c18e3051e23508bb3521cc257bb291c0385b5e71_222122?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791734400;1792339200&q-key-time=1791734400;1792339200&q-header-list=host&q-url-param-list=&q-signature=84ee802747123bd4791a60531584cd1b49eb6add)
+![](https://cofile.eeo.cn/res-store%2Fa2e9c34bd57b026066e0ede9c18e3051e23508bb3521cc257bb291c0385b5e71_222122?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1792339200;1792944000&q-key-time=1792339200;1792944000&q-header-list=host&q-url-param-list=&q-signature=d573024d38e9aa5b2b4f032f1414f5465ca4a9d9)
 
 
 ### 授课教师录制教室切换到本地录课后查找回放视频：
 
 
-![](https://cofile.eeo.cn/res-store%2F60c4ff0f36ee7de5a122dc3d26246d04508f5979bd0f2168fc89e4b630d04386_302002?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1791734400;1792339200&q-key-time=1791734400;1792339200&q-header-list=host&q-url-param-list=&q-signature=d5db30d247dce0aec531394fb2fb02df2d335aff)
+![](https://cofile.eeo.cn/res-store%2F60c4ff0f36ee7de5a122dc3d26246d04508f5979bd0f2168fc89e4b630d04386_302002?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1792339200;1792944000&q-key-time=1792339200;1792944000&q-header-list=host&q-url-param-list=&q-signature=fd47bae132c1e2b15504a3a4b725575d52c058fb)
