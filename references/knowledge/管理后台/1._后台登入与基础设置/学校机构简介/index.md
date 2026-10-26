@@ -47,4 +47,4 @@ section: "管理后台"
 在 学校简介设置 中，填写/修改 学校简介
 
 
-![](https://cofile.eeo.cn/res-store%2F94a3dfdb2d9a8b706c8b3f929884dedbf271d8eb16595c21d4da8fb76f533e41_554894?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1792339200;1792944000&q-key-time=1792339200;1792944000&q-header-list=host&q-url-param-list=&q-signature=e3151acd167882a8e0d3ac8a88a385dcc21aead5)
+![](https://cofile.eeo.cn/res-store%2F94a3dfdb2d9a8b706c8b3f929884dedbf271d8eb16595c21d4da8fb76f533e41_554894?q-sign-algorithm=sha1&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H&q-sign-time=1792944000;1793548800&q-key-time=1792944000;1793548800&q-header-list=host&q-url-param-list=&q-signature=c04fd3e699ac9ef772edc162e13453d174b81f5e)
